@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av cookies använder Tradera?
+ANSWER: Tradera använder olika typer av cookies, inklusive nödvändiga cookies som behövs för att webbplatsen ska fungera, prestandacookies för att mäta användning av webbplatsen, funktionella cookies för att öka funktionaliteten och användaranpassning på Tradera, samt marknadsföringscookies för att rikta annonser som är relevanta för användare.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Kan nödvändiga cookies stängas av på Tradera-webbplatsen?
+ANSWER: Nej, nödvändiga cookies på Tradera-webbplatsen kan inte stängas av eftersom de är avgörande för att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll och annonser på webbplatsen, för att erbjuda funktioner för sociala medier och för att analysera trafiken på webbplatsen för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka partners delar Tradera information om användning av webbplatsen med?
+ANSWER: Tradera delar information om användning av webbplatsen med samarbetspartners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad är syftet med prestandacookies på Tradera-webbplatsen?
+ANSWER: Prestandacookies på Tradera-webbplatsen används för att mäta användningen av webbplatsen anonymt för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera-webbplatsen?
+ANSWER: Funktionella cookies på Tradera-webbplatsen används för att ge utökad funktionalitet och användaranpassning, såsom att spara vissa inställningar eller att logga in med Facebook.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Varför använder Tradera marknadsföringscookies?
+ANSWER: Tradera använder marknadsföringscookies för att rikta annonser som är relevanta för användarna.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Kan jag ändra inställningarna för användningen av cookies på Tradera-webbplatsen?
+ANSWER: Ja, användare kan ändra inställningarna för användningen av cookies på Tradera-webbplatsen genom att gå till inställningar för cookies.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Använder Tradera cookies för att samla in personuppgifter?
+ANSWER: Ja, Tradera använder cookies för att samla in viss personlig information, såsom surfhistorik, men denna information används inte för att identifiera enskilda användare och skyddas enligt Traderas integritetspolicy.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy beskriver hur personlig information som samlas in av Tradera används, skyddas och delas med tredje part.
+URL: https://info.tradera.com/fraktvillkor/

@@ -1,0 +1,39 @@
+QUESTION: Varför behöver Tradera använda cookies på sin webbplats?
+ANSWER: Tradera behöver använda cookies på sin webbplats för olika ändamål, inklusive för att webbplatsen ska fungera, för att mäta hur Tradera används så att användarupplevelsen kan förbättras, för utökad funktionalitet och för personalisering. Kakan för marknadsföring används av annonseringspartners för att visa annonser som är relevanta för dig.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vad är syftet med att använda funktionella cookies på Traderas webbplats?
+ANSWER: Syftet med att använda funktionella cookies på Traderas webbplats är att utöka funktionaliteten och användaranpassningen på webbplatsen, till exempel genom att spara vissa inställningar eller genom att tillåta inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Kan Tradera fungera utan att använda cookies?
+ANSWER: Nej, Traderas webbplats kan inte fungera utan att använda cookies. Cookies är nödvändiga för att webbplatsen ska fungera på ett korrekt sätt och för att ge användarna en bättre upplevelse genom att skräddarsy innehållet och funktionerna på webbplatsen för sina individuella behov.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vad är prestandacookies på Traderas webbplats och vad används de till?
+ANSWER: Prestandacookies används på Traderas webbplats för anonym mätning av hur webbplatsen används. Dessa cookies tillåter Tradera att samla statistik om webbplatsens trafik och användningen av dess funktioner, vilket hjälper till att förbättra webbplatsens prestanda och användarupplevelse.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vilka skäl finns det för att använda marknadsföringscookies på Traderas webbplats?
+ANSWER: Användningen av marknadsföringscookies på Traderas webbplats gör det möjligt för Tradera och dess annonseringspartners att visa riktade annonser som är relevanta för användaren. Dessa cookies används för att samla in information om användarens intressen och webbplatsanvändning för att visa annonser som är mer sannolikt att intressera användaren.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vad är syftet med att använda cookies för användaranpassning på Traderas webbplats?
+ANSWER: Syftet med att använda cookies för användaranpassning på Traderas webbplats är att ge användarna en mer personlig upplevelse genom att spara inställningar och preferenser på webbplatsen, till exempel att spara inloggningsuppgifter eller att visa en språkpreferens.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vilken typ av information samlas in med användningen av cookies på Traderas webbplats?
+ANSWER: Med användningen av cookies på Traderas webbplats samlas information om användarens webbläsare, dator, IP-adress och webbplatser som hen besöker på. Denna information används för att skapa en mer personlig upplevelse för användarna genom att tillhandahålla anpassat innehåll och annonser.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Kan användare på Traderas webbplats själva välja att inte använda cookies?
+ANSWER: Nej, Traderas webbplats kräver användning av cookies för att fungera korrekt och ge användarna en bättre upplevelse. Användare kan dock hantera sina cookie-inställningar och välja vilka typer av cookies de samtycker till att använda på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Har Tradera tillgång till personlig information med användning av cookies?
+ANSWER: Ja, Tradera har tillgång till viss personlig information med användning av cookies, som användarens webbläsare, IP-adress och besökta webbplatser. Denna information används för att skapa en mer personlig och anpassad upplevelse för användarna på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Kan användare på Traderas webbplats kontrollera vilka cookies som de samtycker till att använda?
+ANSWER: Ja, användare på Traderas webbplats kan själva välja vilka cookies de samtycker till att använda genom att hantera sina cookie-inställningar. Detta ger användarna möjlighet att anpassa sin upplevelse av Traderas webbplats efter sina individuella behov och preferenser.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/

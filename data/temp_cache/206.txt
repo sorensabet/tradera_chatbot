@@ -1,0 +1,39 @@
+QUESTION 1: Hur använder Tradera cookies?
+ANSWER: Tradera använder cookies för anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken. Cookies används också för att ge utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION 2: Vad är Traderas användaravtal?
+ANSWER: Traderas användaravtal är en överenskommelse mellan Tradera och användaren om de villkor som gäller vid användning av Traderas tjänster.
+URL: https://info.tradera.com/kundtjanst/anvandaravtal/
+
+QUESTION 3: Hur kan jag donera med Tradera?
+ANSWER: Genom att använda Tradera kan du som säljare välja att donera en del av försäljningspriset till en valfri organisation genom att välja "Donera med Tradera" när du lägger upp din annons.
+URL: https://info.tradera.com/for-saljare/salu-tillsammans/donera-med-tradera/
+
+QUESTION 4: Vilken information delar Tradera med sina partners?
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION 5: Vad är Traderas regler för användning av deras tjänster?
+ANSWER: Tradera har regler för användning av sina tjänster som beskriver tillåtna och ej tillåtna aktiviteter på plattformen.
+URL: https://info.tradera.com/kundtjanst/regler/
+
+QUESTION 6: Kan jag kontakta Tradera om jag har frågor?
+ANSWER: Ja, du kan kontakta Tradera för hjälp och support genom deras Kontakt & Hjälp-sida.
+URL: https://info.tradera.com/kontakt/
+
+QUESTION 7: Hur använder Tradera mina personuppgifter?
+ANSWER: Tradera hanterar dina personuppgifter i enlighet med sin Integritetspolicy, som beskriver vilka uppgifter de samlar in, varför de samlar in dem och hur de används.
+URL: https://info.tradera.com/sakert-pa-tradera/integritetspolicy/
+
+QUESTION 8: Vilka betalningsmetoder accepterar Tradera?
+ANSWER: Tradera accepterar betalning via Swish, banköverföring och kortbetalning via Stripe.
+URL: https://info.tradera.com/for-kopare/betalning/
+
+QUESTION 9: Vad är Traderas fraktkalkylator?
+ANSWER: Traderas fraktkalkylator är ett verktyg som hjälper säljare att beräkna fraktkostnader för sina produkter baserat på produktens vikt och destinationen den ska skickas till.
+URL: https://info.tradera.com/for-saljare/salu-tillsammans/fraktkalkylator/
+
+QUESTION 10: Hur kan jag använda BankID på Tradera?
+ANSWER: BankID är en e-legitimation som kan användas för att identifiera sig på Tradera och genomföra säkra transaktioner. För att använda BankID på Tradera behöver du ha det aktiverat hos din bank och följa anvisningarna på Traderas sida för BankID.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/

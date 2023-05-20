@@ -1,0 +1,39 @@
+QUESTION: Hvad skal man gøre, hvis man ønsker at finde priser på forsendelse?
+ANSWER: Hvis du ønsker at finde priser på forsendelse, kan du bruge Traderas forsendelsesberegner eller finde priserne på vores side for annonceoprettelse under "Mit Tradera".
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad bør man gøre inden man sender en stor vare?
+ANSWER: Hvis du skal sende en stor vare, bør du kontrollere om der er ekstra gebyrer på store pakker på forsendelsesleverandørens hjemmeside.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man opkræve ekstra omkostninger til pakkematerialer?
+ANSWER: Ja, du må gerne opkræve ekstra omkostninger til pakkematerialer, så længe det er et rimeligt beløb.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan fungerer forsendelsen indenfor EU?
+ANSWER: Brug af en integreret forsendelsesmetode indenfor EU fungerer på samme måde som i Danmark. Du kan booke og betale for forsendelsesprisen ud fra vægt, pakkestørrelse og det land, som pakken skal sendes til. Når du har booket forsendelsen, kan du udskrive en pakkeseddel og indlevere pakken, på samme måde som du normalt ville gøre ved forsendelse indenfor Danmarks grænser.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan fungerer forsendelse til lande udenfor EU?
+ANSWER: Ved forsendelse til et land udenfor EU, skal du gå til forsendelsesleverandørernes respektive sider for at få det præcise beløb og opdatere det manuelt. Bookningen skal gennemføres direkte på forsendelsesleverandørens hjemmeside.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan kan man opnå gratis forsendelse til et andet land?
+ANSWER: Når du tilbyder gratis forsendelse, og modtageren er indenfor EU, betaler du som sælger for forsendelsen selv, og skal dermed ikke opkræve ekstra omkostninger for forsendelsen.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man arrangere forsendelse udenfor Tradera?
+ANSWER: Ja, du kan arrangere forsendelse udenfor Tradera ved at gå direkte til forsendelsesleverandørens hjemmeside. 
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan fungerer booking af forsendelsen?
+ANSWER: For at booke forsendelsen skal du bruge en integreret forsendelsesmetode indenfor EU og gennemføre bookningen direkte på forsendelsesleverandørens hjemmeside. Når du har booket forsendelsen, kan du udskrive en pakkeseddel og indlevere pakken, på samme måde som du normalt ville gøre ved forsendelse indenfor Danmarks grænser.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man få præcise oplysninger om forsendelse til et andet land?
+ANSWER: Ja, du kan gå til forsendelsesleverandørernes respektive sider for at få det præcise beløb og opdatere det manuelt. 
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan justeres forsendelsesprisen?
+ANSWER: Forsendelsesprisen justeres ud fra vægt og pakkestørrelse samt hvilket land, pakken skal sendes til. 
+URL: https://info.tradera.com/da/fraktguiden/

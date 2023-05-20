@@ -1,0 +1,39 @@
+QUESTION: Hvilken funktion skal man undgå at bruge i ”Mit Tradera” hvis man bruger Sello?
+ANSWER: Hvis man bruger Sello, så bør man undgå at lave ændringer i ”Mit Tradera” da det kan medføre risiko for at visse dele ikke bliver synkroniseret.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvor anbefales det at lave ændringer hvis man bruger Sello?
+ANSWER: Hvis man bruger Sello, så anbefales det at lave ændringer direkte i Sello, hvorefter de vil blive synkroniseret i “Mit Tradera”.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Arbejder Sello på visse funktionaliteter til det danske marked?
+ANSWER: Ja, Sello arbejder stadig på visse funktionaliteter til det danske marked.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad skal man manuelt redigere efter køb hos Tradera?
+ANSWER: Man skal manuelt redigere fragtpriser efter køb hos Tradera, eller efter købers anmodning, hvis køberen befinder sig uden for Danmark.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Bliver opslag på dansk automatisk oversat til andre sprog, når de offentliggøres fra Sello til Tradera?
+ANSWER: Nej, opslag på dansk bliver ikke automatisk oversat til andre sprog, når de offentliggøres fra Sello til Tradera.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvem håndterer spørgsmål og problemer relateret til Sello?
+ANSWER: Spørgsmål og problemer relateret til Sello bliver håndteret af Traderas support for virksomheder.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan kan man få hjælp angående Sello?
+ANSWER: Den nemmeste måde, hvorpå man kan få hjælp angående Sello, er via chatten som man finder i nederste højre hjørne, når man er logget på Sello. Man kan også finde supportsiderne.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke betalingsmetoder er inkluderet i Traderas betalingsservice?
+ANSWER: Traderas betalingsservice kombinerer flere populære betalingsmetoder, men det nævnes ikke præcist hvilke betalingsmetoder der er inkluderet.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Vil alle annoncer snart have de samme betalingsmuligheder?
+ANSWER: Ja, alle annoncer vil snart have de samme betalingsmuligheder i Traderas betalingsservice.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Kan sælgere tilbyde flere betalingsmetoder uden at skulle registrere ekstra konti?
+ANSWER: Ja, sælgere kan tilbyde flere betalingsmetoder uden at skulle registrere ekstra konti i Traderas betalingsservice.
+URL: https://info.tradera.com/da/virksomhedskonto/

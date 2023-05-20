@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att använda cookies på Traderas webbplats?
+ANSWER: Syftet med att använda cookies på Traderas webbplats är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på webbplatsen. De används också för att förbättra användarupplevelsen genom anonym mätning av hur Tradera används.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Är det möjligt att stänga av nödvändiga cookies på Traderas webbplats?
+ANSWER: Nej, det är inte möjligt att stänga av nödvändiga cookies på Traderas webbplats eftersom de krävs för att webbplatsen ska fungera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilka cookies används för att förbättra användarupplevelsen på Traderas webbplats?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. Funktionellacookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Varför delar Tradera information om min användning av deras webbplats med deras partners?
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys för att förbättra användarupplevelsen och anpassa innehåll och annonser efter dina behov och intressen.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vad är de nödvändiga cookies som används på Traderas webbplats?
+ANSWER: De nödvändiga cookies som används på Traderas webbplats är de som krävs för att webbplatsen ska fungera på ett tillfredsställande sätt, till exempel cookies som sparar dina inställningar.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Kan jag använda Traderas webbplats utan att godkänna cookies?
+ANSWER: Nej, du kan inte använda Traderas webbplats utan att godkänna cookies eftersom nödvändiga cookies krävs för att webbplatsen ska fungera. Dock kan du godkänna eller neka till andra typer av cookies baserat på dina preferenser.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilka cookies används för annonsering på Traderas webbplats?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilka funktionella cookies används på Traderas webbplats?
+ANSWER: Funktionellacookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Var kan jag hitta information om Traderas säkerhetsregler?
+ANSWER: Du kan hitta information om Traderas säkerhetsregler genom att gå till deras webbsida och klicka på "Security Rules" under Information i menyn längst ner på sidan.
+URL: https://info.tradera.com/en/sakerhet-regler-se/
+
+QUESTION: Kan jag sälja varor som privatperson på Traderas webbplats?
+ANSWER: Ja, du kan sälja varor som privatperson på Traderas webbplats.
+URL: https://www.tradera.com/content/salja-pa-tradera-torget/privat-saljare

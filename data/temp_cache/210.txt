@@ -1,0 +1,39 @@
+QUESTION 1: Varför är det viktigt att ha ett säkert lösenord på Tradera?
+ANSWER: Det är viktigt att ha ett säkert lösenord på Tradera för att skydda dina personliga och finansiella uppgifter från att komprometteras eller stjälas av obehöriga personer.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 2: Vad är ett säkert lösenord enligt Tradera?
+ANSWER: Enligt Tradera bör ett säkert lösenord bestå av minst 8 tecken och innehålla en kombination av bokstäver, siffror och symboler. Det är också viktigt att inte använda samma lösenord på flera olika konton.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 3: Vad ska jag göra om jag tror att mitt lösenord har blivit komprometterat?
+ANSWER: Om du misstänker att ditt lösenord har blivit komprometterat bör du omedelbart byta lösenord för att skydda ditt konto och dina uppgifter. Du kan också kontakta Tradera-supporten för att få hjälp att skydda ditt konto.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 4: Kan jag använda samma lösenord på Tradera som jag använde på andra webbplatser eller konton?
+ANSWER: Det är inte rekommenderat att använda samma lösenord på Tradera som du använder på andra webbplatser eller konton. Detta kan göra det enklare för cyberbrottslingar att få tillgång till dina personliga uppgifter och konton. Det är bäst att använda olika, unika lösenord för varje konto.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 5: Kan jag lita på Traderas lösenordshanteringsverktyg?
+ANSWER: Ja, Traderas lösenordshanteringsverktyg är säkert och skyddat mot obehörig åtkomst och missbruk. Det är dock alltid viktigt att du själv tar ansvar för att skapa och hantera ditt lösenord på ett säkert sätt.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 6: Vilka andra säkerhetsåtgärder tar Tradera för att skydda mina uppgifter?
+ANSWER: Förutom att kräva starka lösenord från användare implementerar Tradera också säkerhetsåtgärder som kryptering av data, multifaktorautentisering och övervakning av kontotransaktioner för att skydda användares personliga och finansiella uppgifter från obehörig åtkomst och missbruk.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 7: Kan jag använda tekniker som autouppfyllning eller spara lösenord på min webbläsare när jag använder Tradera?
+ANSWER: Det är inte rekommenderat att använda tekniker som autouppfyllning eller spara lösenord på din webbläsare när du använder Tradera, eftersom detta ökar risken för att dina uppgifter blir stulna eller komprometterade. Det är bäst att manuellt skriva in ditt lösenord varje gång du loggar in på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 8: Kan jag använda min sociala medias kontouppgifter för att logga in på Tradera?
+ANSWER: Nej, det går inte att använda sociala medias kontouppgifter för att logga in på Tradera. Du måste skapa ett separat konto med en e-postadress och lösenord för att kunna logga in på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 9: Kan andra användare se mitt lösenord på Tradera?
+ANSWER: Nej, andra användare kan inte se ditt lösenord på Tradera eftersom det är krypterat och skyddat från obehörig åtkomst och missbruk.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION 10: Hur ofta borde jag byta mitt lösenord på Tradera?
+ANSWER: Det rekommenderas att du byter ditt lösenord på Tradera regelbundet, helst var tredje månad för att minska risken för att ditt konto eller personliga uppgifter blir komprometterade.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/

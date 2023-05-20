@@ -1,0 +1,39 @@
+QUESTION: Hvordan logger jeg på Tradera?
+ANSWER: Du logger på Tradera ved at klikke på "her" i teksten, indtaste din e-mailadresse og din adgangskode for at logge på. Hvis du klikker på "forbliv logget på", vil du ikke blive logget ud i den følgende uge.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvordan kan jeg få nye legitimationsoplysninger, hvis jeg har glemt mine?
+ANSWER: Hvis du har glemt dine legitimationsoplysninger, kan du få nye ved at klikke på "her" i teksten og angive de nødvendige oplysninger.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg ikke kan huske min e-mailadresse?
+ANSWER: Hvis du ikke kan huske din e-mailadresse, eller ikke længere har adgang til e-mailadressen, skal du kontakte kundeservice for assistance.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvordan kan jeg nulstille min adgangskode, hvis jeg har glemt den?
+ANSWER: Du kan nulstille din adgangskode ved at klikke på "her" i teksten og angive din e-mailadresse eller personnummer for at få flere muligheder for at nulstille din adgangskode.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvor kan jeg kontakte kundeservice, hvis jeg har brug for hjælp?
+ANSWER: Du kan kontakte Traderas kundeservice for yderligere assistance.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvad er "forbliv logget på" funktionen?
+ANSWER: Hvis du klikker på "forbliv logget på", vil du ikke blive logget ud i den følgende uge.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvilke oplysninger skal jeg indtaste for at logge på Tradera?
+ANSWER: Du skal indtaste din e-mailadresse og din adgangskode for at logge på Tradera.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Kan jeg få hjælp, hvis jeg har glemt min adgangskode?
+ANSWER: Ja, du kan nulstille din adgangskode ved at klikke på "her" i teksten og følge de nødvendige trin.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg ikke kan logge på Tradera?
+ANSWER: Hvis du har problemer med at logge på Tradera, kan du kontakte kundeservice for yderligere hjælp.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION: Hvor kan jeg finde information om loginproblemer på Tradera?
+ANSWER: Du kan finde information om loginproblemer på Tradera ved at besøge følgende URL: https://info.tradera.com/da/problem-med-inloggning/
+URL: https://info.tradera.com/da/problem-med-inloggning/

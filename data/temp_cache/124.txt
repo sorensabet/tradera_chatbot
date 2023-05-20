@@ -1,0 +1,39 @@
+QUESTION 1: Vad innebär Traderas användning av funktionella cookies?
+ANSWER: Tradera använder funktionella cookies för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 2: Vilket syfte har prestanda-cookies på Tradera?
+ANSWER: Prestanda-cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 3: Varför använder Tradera marknadsförings-cookies?
+ANSWER: Tradera använder marknadsförings-cookies för att Traderas annonseringspartners ska kunna visa riktade annonser, relevanta för användaren. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 4: Vad innebär det att Tradera ska fungera?
+ANSWER: Att Tradera ska fungera innebär att Tradera inte kan stängas av eftersom det är nödvändigt för att användare ska kunna använda sig av Tradera-plattformen.
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 5: Kan jag stänga av Traderas användning av prestanda-cookies?
+ANSWER: Nej, Traderas användning av prestanda-cookies går inte att stänga av eftersom det är nödvändigt för att mäta och förbättra användarupplevelsen på Tradera. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 6: Vilken typ av information samlar Traderas prestanda-cookies in?
+ANSWER: Prestanda-cookies på Tradera samlar in anonym mätdata av hur Tradera används, såsom hur användare navigerar och interagerar med Tradera-plattformen. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 7: Kan jag stänga av funktionella cookies på Tradera?
+ANSWER: Nej, Traderas användning av funktionella cookies går inte att stänga av eftersom det är nödvändigt för viss funktionalitet och användaranpassning på Tradera, exempelvis sparade inställningar och inloggning med Facebook. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 8: Vad händer om jag inte tillåter marknadsförings-cookies på Tradera?
+ANSWER: Om du inte tillåter marknadsförings-cookies på Tradera kommer du inte att få se relevanta annonser från Traderas annonseringspartners. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 9: Kan jag använda Tradera utan att tillåta cookies?
+ANSWER: Nej, du kan inte använda Tradera utan att tillåta vissa typer av cookies. 
+URL: https://info.tradera.com/en/lamna-omdome/
+
+QUESTION 10: Vad är syftet med att använda cookies på Tradera?
+ANSWER: Syftet med att använda cookies på Tradera är att möjliggöra utökad funktionalitet, användaranpassning, mätning av hur Tradera används och riktad annonsering av Traderas annonseringspartners. 
+URL: https://info.tradera.com/en/lamna-omdome/

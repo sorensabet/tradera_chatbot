@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att fylla i formuläret? 
+ANSWER: Syftet med att fylla i formuläret är att kunna verifiera att du är en privatperson och därmed kunna handla på Tradera.
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vad ska jag kontrollera före jag laddar upp min ID-handling på Tradera? 
+ANSWER: Innan du laddar upp din ID-handling på Tradera behöver du kontrollera att uppgifterna på ID-handlingen stämmer med folkbokföringen på samtliga sidor och att texten på ID-handlingen går att läsa.
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vilken komplettering behövs om jag blivit ombedd att inkomma med en komplettering? 
+ANSWER: Om du blivit ombedd att inkomma med en komplettering behöver du skicka in en kopia på ditt personbevis samt bilde på båda sidor av en giltig ID-handling. Personbeviset ska vara mindre än 6 månader gammalt.
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Kan jag ladda upp mitt personbevis som JPEG? 
+ANSWER: Det rekommenderas att ladda ner personbeviset i pdf-format från skatteverket, men du kan ladda upp det som JPEG så länge det tydligt visar dina personuppgifter och är mindre än 6 månader gammalt.
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vad ska jag göra om jag vill sälja som privatperson på Tradera? 
+ANSWER: Om du vill sälja som privatperson på Tradera behöver du registrera dig som kund och skapa ett konto. Sedan kan du börja ladda upp annonser på Tradera.
+URL: https://info.tradera.com/sa-saljer-du-som-privatperson/
+
+QUESTION: Vilka varumärken kan jag hitta på Tradera? 
+ANSWER: Du hittar ett stort antal populära varumärken på Tradera, och du kan söka efter specifika varumärken i sökfunktionen. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vad är Grön frakt på Tradera? 
+ANSWER: Grön frakt på Tradera innebär att Tradera tar hänsyn till miljön genom att använda en miljövänligare frakt när det är möjligt. Detta ger dig som kund möjlighet att göra ett mer hållbart val vid köp.
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Kan jag donera med Tradera? 
+ANSWER: Ja, du kan donera med Tradera genom att lägga ut en auktion där hela summan går till en specifik organisation eller stiftelse. 
+URL: https://info.tradera.com/kontakt-hjalp/
+
+QUESTION: Vad ska jag göra om jag behöver hjälp eller har frågor som inte besvaras på Traderas hemsida? 
+ANSWER: Om du behöver hjälp eller har frågor som inte besvaras på Traderas hemsida kan du kontakta Traderas kundsupport via formuläret på deras hemsida eller genom att ringa dem. 
+URL: https://info.tradera.com/kontakt-hjalp/
+
+QUESTION: Vad är Integritetspolicy på Tradera? 
+ANSWER: Integritetspolicyn på Tradera beskriver hur Tradera hanterar och skyddar din personliga information, vilka personuppgifter som samlas in, hur de används och med vem de delas.
+URL: https://info.tradera.com/anvandaravtal/

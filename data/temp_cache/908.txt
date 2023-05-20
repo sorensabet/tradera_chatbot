@@ -1,0 +1,39 @@
+QUESTION: What payment methods does Tradera offer to the buyers?
+ANSWER: Tradera offers different payment methods to the buyers, which include Swish, card payment, PayPal, payment by invoice, and credit. Each payment method is provided by third parties with whom Tradera cooperates for this purpose, and they are under the supervision of the Swedish Financial Supervisory Authority, or its foreign counterparts. More parties may be added if Tradera chooses to modify or further develop Tradera's payment solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if a seller violates the terms and conditions of Tradera?
+ANSWER: If a seller violates the terms and conditions of Tradera or acts in violation of Tradera's User Agreement or other Rules for Sellers, Tradera reserves the right to ensure that the payment is not made to the Seller, but instead to refund it to the Buyer. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What are the deductions made from the payment amount paid to a seller?
+ANSWER: Any amount that the seller is obliged to pay to Tradera, like selling expenses, refundable amounts, and fees agreed between the seller and Tradera under separate agreement, will be deducted from the payment amount by Tradera before the payment is made, and the difference will be paid to the seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What does a seller need to contact Tradera for?
+ANSWER: A seller needs to contact Tradera only on various matters which may arise in connection with a Transaction, even though the payment services themselves are not provided by Tradera, and irrespective of the payment method a Buyer chooses. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Is a seller entitled to receive payment for the buyer's option of using Tradera's payment solution?
+ANSWER: No, a seller is not entitled to receive payment for the buyer's option of using Tradera's payment solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Which parties are under the supervision of the Swedish Financial Supervisory Authority when it comes to payment methods?
+ANSWER: The third-party payment service providers with whom Tradera cooperates for providing different payment methods, like Swish, PayPal, and Paynova, are under the supervision of the Swedish Financial Supervisory Authority, or its foreign counterparts. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if a seller has not provided accurate payment information to Tradera?
+ANSWER: If a seller has not provided accurate payment information to Tradera, Tradera will not be able to pay the seller. In such a case, Tradera will contact the seller to request the outstanding information. Once Tradera has received the information required to make the payment, the seller will be paid. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What are the deductions made by Tradera before payment is made to the seller?
+ANSWER: Any amount that the seller is obliged to pay to Tradera, like selling expenses, refundable amounts, and fees agreed between the seller and Tradera under separate agreement, will be deducted by Tradera before payment is made to the seller, and the difference will be paid to the seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can Tradera modify or further develop its payment solution by adding more parties?
+ANSWER: Yes, Tradera can modify or further develop its payment solution by adding more parties if it chooses to do so. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if a buyer chooses to pay using a different method than what is initially offered?
+ANSWER: If the buyer chooses to pay using a different method than what is initially offered, then the payment will be made directly by the buyer to the seller using the agreed-upon payment method. However, the seller needs to contact Tradera only on various matters which may arise in connection with a Transaction, even though the payment services themselves are not provided by Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

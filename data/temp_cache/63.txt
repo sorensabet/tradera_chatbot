@@ -1,0 +1,39 @@
+QUESTION: Vad är BCRs?
+ANSWER: BCRs står för Binding Corporate Rules och är globala rutiner och principer för behandling av personuppgifter som är kopplade till eBay Privacy Center.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka principer gäller för integritetsskydd vid mobil användning?
+ANSWER: Samma principer som gäller för integritetsskydd vid vanlig användning av Traderas webbplatser gäller även för mobil åtkomst och användning av mobilapplikationer och mobilanpassade webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan man använda Traderas webbplatser utan att lämna personuppgifter?
+ANSWER: Ja, det går att använda Traderas webbplatser och därtill anknutna webbplatser utan att lämna några personuppgifter om sig själv.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad händer om man registrerar ett konto på Tradera?
+ANSWER: Om man registrerar ett konto på Tradera lämnar man personuppgifter till företaget och blir då inte anonym för dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Var sparar Tradera användarnas personuppgifter?
+ANSWER: Tradera sparar användarnas personuppgifter både på servrar i Sverige, USA och på annat håll i världen, om användaren har gett sitt samtycke att Tradera får överföra och spara deras personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av personuppgifter samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter för att ge användare möjlighet att använda och få tillgång till deras webbplatser, applikationer och tjänster. Exempel på personuppgifter är namn, adress, e-postadress och telefonnummer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur skyddas användarnas personuppgifter hos Tradera?
+ANSWER: Tradera vidtar olika tekniska, organisatoriska och administrativa skyddsåtgärder för att skydda användarnas personuppgifter från obehörig åtkomst, förstörelse, förlust eller ändring.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka rättigheter har användaren när det gäller sina personuppgifter hos Tradera?
+ANSWER: Användaren har rätt att begära en kopia av sina personuppgifter som Tradera har sparade, rätt att be Tradera rätta eventuella felaktiga personuppgifter samt rätt att begära att Tradera raderar personuppgifterna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur kan användaren kontakta Tradera om det gäller personuppgiftsfrågor?
+ANSWER: Användaren kan kontakta Tradera genom att besöka eBay Privacy Center, som har information om Traderas BCRs och globala rutiner och principer för behandling av personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Gäller integritetspolicyn vid användning av Traderas därtill anknutna webbplatser?
+ANSWER: Ja, Traderas integritetspolicy gäller även vid användning av deras därtill anknutna webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

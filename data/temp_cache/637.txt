@@ -1,0 +1,39 @@
+QUESTION: Vilka är några exempel på otillåtna handlingar på Tradera?
+ANSWER: Några exempel på otillåtna handlingar på Tradera inkluderar att erbjuda köp av ett objekt utanför Tradera, inkludera länkar till marknadsplatser, telefonnummer, e-postadress eller andra kontaktuppgifter i en annons eller i andra beskrivningar, använda kontaktuppgifter som erhållits via Tradera i marknadsföringssyfte, göra ett tillägg i en auktion, ha ett alias som innehåller eller påminner om en URL, sälja e-postlistor eller databaser som innehåller personuppgifter, och uppmuntra köpare att genomföra köp utanför Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Kan man använda Traderas funktioner för att kontakta säljare?
+ANSWER: Ja, det är tillåtet att informera köpare om att de har möjlighet att använda Traderas funktioner för att kontakta säljare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vad är syftet med Tradera?
+ANSWER: Syftet med Tradera är att sälja och köpa varor, inte att uppmana till försäljning på andra marknadsplatser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vad är ett tillåtet tillägg i en auktion?
+ANSWER: Det är tillåtet att göra ett tillägg i en auktion där man informerar om eventuella frågor eller förtydliganden.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Kan man sälja e-postlistor på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja e-postlistor eller databaser som innehåller personuppgifter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Får man ha sin logotyp som en banner på Tradera om man är en företagssäljare?
+ANSWER: Ja, för företagssäljare vars logotyp är utformad som ett domännamn är det tillåtet att ha logotypen som en banner i deras objektsbeskrivning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Kan man uppmana köpare att genomföra köp utanför Traderas plattform?
+ANSWER: Nej, det är inte tillåtet att i kommunikation med köpare uppmuntra till att genomföra köp utanför Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Är det tillåtet att ange organisationsnummer och företagets kontaktuppgifter i sin Traderabutik?
+ANSWER: Ja, för företag är det tillåtet att ange organisationsnummer och företagets kontaktuppgifter i sin Traderabutik under sidan ”Kontakt”.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Kan man ha ett alias som påminner om en URL på Tradera?
+ANSWER: Nej, det är inte tillåtet att ha ett alias som innehåller eller påminner om en URL på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Får man inkludera kontaktuppgifter i en annons på Tradera?
+ANSWER: Nej, det är inte tillåtet att inkludera länkar till marknadsplatser, telefonnummer, e-postadress eller andra kontaktuppgifter i en annons eller i andra beskrivningar på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/

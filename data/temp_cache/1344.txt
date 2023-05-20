@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's policy on accuracy of user-provided information?
+ANSWER: Tradera uses technical solutions to verify the accuracy of the information provided by its users, however, it cannot guarantee the accuracy of the information. To comply with the laws and regulations, it is the responsibility of the user to ensure accuracy of provided information. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is Tradera's liability to its users or third parties?
+ANSWER: If liable, Tradera's liability to you or any third party is limited to the greater of the price of the sold item (including original shipping costs), the amount of fees paid to Tradera in the 12 months prior to the action resulting in the liability, or SEK 1,000. However, this limitation does not apply to willful default or gross negligence or Tradera's statutory liability. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can users be penalized for breaching the User Agreement?
+ANSWER: Yes, users who breach the User Agreement may face penalties. Tradera may hold users liable for all losses and costs, including reasonable legal fees, incurred due to or arising out of the user's breach of the User Agreement or improper use of the site, services, applications, and tools. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is "Butik" and who can use it?
+ANSWER: "Butik" is an add-on service for business users offered by Tradera. It is designed to help maintain a high standard of product descriptions, delivery terms, and imaging for a seller's products. It is not clear from the context who can use it.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does "Butik" have specific requirements for its use?
+ANSWER: Yes, in addition to the rules for sellers, Tradera may impose additional requirements pertaining to delivery times, types of products offered for sale, quality of images, and product description. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is Tradera's responsibility in ensuring compliance with laws and regulations?
+ANSWER: It is the responsibility of the user to ensure that their actions comply with laws and regulations. Tradera cannot guarantee compliance, however, it advises users to comply with the laws and regulations that apply to them. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Is Tradera responsible for verifying user identities?
+ANSWER: Tradera is not responsible for ensuring the identity that users have stated or the information users provide on the site is accurate. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is Tradera's responsibility if found liable?
+ANSWER: If found liable, Tradera's liability to users or third parties is limited to the greater of (a) the price of the item sold on Tradera (including the original shipping costs), (b) the amount of fees paid to Tradera in the 12 months prior to the action resulting in the liability, or (c) SEK 1,000. Exceptions to this limitation apply for willful default or gross negligence or Tradera's statutory liability. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the purpose of the User Agreement?
+ANSWER: The User Agreement outlines the terms and conditions that apply to the use of Tradera's site, services, applications, and tools. Users must agree to the terms and conditions before using the site. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is an indemnity clause in the User Agreement?
+ANSWER: The indemnity clause requires users to indemnify and hold Tradera (and its parent, subsidiaries, affiliates, agents, and employees) harmless from all losses and costs incurred due to the user's breach of the User Agreement, improper use of the site, services, applications, and tools, or infringement of any rights of a third party. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/

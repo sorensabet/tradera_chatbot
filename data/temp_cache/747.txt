@@ -1,0 +1,39 @@
+QUESTION: Vad är mellanskillnadsavgift och när betalar man den?
+ANSWER: Mellanskillnadsavgift är den avgift som tas ut om en försändelse väger mer än vad som angetts i ursprungsbokningen. Avgiften debiteras i efterhand och information om kostnaden skickas till användaren via mejl. Användaren kan alltid se kommande avgifter under Mitt Tradera. Den här informationen finns tillgänglig på DB Schenkers informationssida på Tradera.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag lämna in mitt paket hos ett annat ombud än det jag har bokat?
+\ANSWER: Ja, du kan lämna in paketet hos ett annat ombud än det du har bokat utan problem.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Får jag kvitto på mitt inlämnade paket hos ombudet?
+\ANSWER: Ja, du kommer att få kvitto via e-post när ditt paket har skannats in hos ombudet. DB Schenker använder inte längre fysiska kvitton.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag ändra mottagarens uppgifter efter att jag har bokat en försändelse?
+\ANSWER: Om du inte har lämnat in försändelsen än, kontakta Traders kundtjänst för att få hjälp med att ändra mottagarens uppgifter. Om du redan har lämnat in paketet är det för sent att ändra mottagarens uppgifter.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag använda min boxadress som avsändare? 
+\ANSWER: Nej, du behöver använda en fysisk adress som avsändare eftersom paketet måste kunna levereras om mottagaren inte hämtar ut det och för returer som endast kan levereras till en vanlig adress.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur vet jag när jag kan hämta ut mitt paket hos ombudet?
+\ANSWER: Du kommer att få en avisering via SMS till ditt registrerade mobilnummer på Tradera så snart ditt paket finns hos ditt ombud. Du kan också se ditt pakets löpnummer på samma plats.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur betalar jag mellanskillnadsavgiften?
+\ANSWER: Mellanskillnadsavgiften betalas på nästkommande faktura och information om avgiften och dess kostnad kommer att skickas till dig via mejl. Du kan också se kommande avgifter under Mitt Traderas faktura- & avgifts-sektion.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Varför debiteras mellanskillnadsavgiften i efterhand?
+\ANSWER: Mellanskillnadsavgiften debiteras i efterhand eftersom det kan vara svårt att exakt avgöra vad en försändelse väger vid tidpunkten för bokningen. Denna avgift är således baserad på faktisk vikt vid tiden för sändning.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag spåra mitt paket efter att jag har lämnat in det hos ombudet?
+\ANSWER: Ja, du kan spåra ditt paket med hjälp av löpnumret som du har fått tilldelat dig när du lämnade in försändelsen. Du kan spåra ditt paket från DB Schenkers webbsida.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag ha flera paket på samma bokning?
+\ANSWER: Ja, du kan boka flera paket på samma bokning.
+URL: https://info.tradera.com/dbschenker/

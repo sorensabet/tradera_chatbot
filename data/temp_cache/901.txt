@@ -1,0 +1,39 @@
+QUESTION: Vad innebär force majeure i Traderas Villkor för betalning?
+ANSWER: En force majeure-händelse i Traderas villkor för betalning innebär en händelse utom Parts (säljare eller köpare) rimliga kontroll som påverkar en parts prestation såsom blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, eller nedgång av Internet eller telekommunikation. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om force majeure-händelsen pågår i mer än 60 dagar i Villkoren för Traderas betallösning?
+ANSWER: Om force majeure-händelsen pågår i mer än 60 dagar, har både säljaren och köparen rätt att säga upp Villkoren för betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka är de rimliga åtgärder som ska vidtas vid force majeure-händelser inom Traderas Villkor för betalning?
+ANSWER: Parterna i Traderas Villkor för betalning är skyldiga att vidta rimliga åtgärder för att begränsa skadorna av händelsen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka händelser anses vara force majeure enligt Traderas Villkor för betalning?
+ANSWER: Enligt Traderas Villkor för betalning anses force majeure-händelser vara händelser som är utom Parts rimliga kontroll och som påverkar prestationen såsom blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om Traderas betalningsvillkor ändras enligt Användaravtalet?
+ANSWER: Traderas rätt att ändra Villkoren framgår av Traderas Användaravtal. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad reglerar Villkoren enligt Traderas Villkor för betalning?
+ANSWER: Traderas Villkor för betalning reglerar fullständigt Parternas överenskommelse såvitt avser Traderas betallösning och ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Parterna gällande betallösningar på Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken typ av tvist med anknytning till Villkoren ska avgöras av svensk allmän domstol enligt Traderas Villkor för betalning?
+ANSWER: Parterna är överens om att tvist med anknytning till Villkoren för betalning ska avgöras av svensk allmän domstol, där Stockholms tingsrätt ska vara första instans. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer när en Säljare godkänner Villkoren för Traderas betallösning?
+ANSWER: När en säljare godkänner Villkoren för Traderas betallösning godkänner hen även användning av Traderas betallösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka parter ingår i Traderas Villkor för betalning?
+ANSWER: Parterna i Traderas Villkor för betalning är köparen och säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken lag gäller Traderas Villkor för betalning och vem avgör tvister?
+ANSWER: Traderas Villkor för betalning lyder under och ska tolkas i enlighet med svensk rätt. Tvister med anknytning till Villkoren avgörs av svensk allmän domstol, där Stockholms tingsrätt är första instans.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

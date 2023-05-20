@@ -1,0 +1,39 @@
+QUESTION: Hvorfor er det forbudt at afslutte en handel udenfor Tradera?
+ANSWER: Det er forbudt at afslutte en handel udenfor Tradera, fordi Tradera ønsker at kunne hjælpe begge parter, sælgeren og køberen, i tilfælde af en tvist. Ved at afslutte handlen gennem Tradera, kan begge parter føle sig mere sikre, da Tradera tilbyder en integreret betalingsservice, og de fleste annoncer på Tradera tillader betaling gennem denne service, hvilket giver ekstra sikkerhed for kunden. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Hvad er eksempler på, hvad der er forbudt ifølge Traderas regler?
+ANSWER: Ifølge Traderas regler er det forbudt at have en annonce, der tilbyder salg udenfor Tradera, have links til andre markedspladser, telefonnummer, e-mailadresse eller andre kontaktoplysninger i annoncen, bruge kontaktoplysninger, som man har fået via Tradera, til markedsføring, skrive i en annonce, at varen allerede er solgt, bruge en URL-adresse som dit brugernavn, sælge kataloger eller lister med e-mails eller database-oplysninger, der indeholder brugerdata og at opfordre til at lave handlen udenfor Tradera, mens selve kommunikationen er på Tradera. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Hvad er eksempler på, hvad der er tilladt ifølge Traderas regler?
+ANSWER: Ifølge Traderas regler er det tilladt at informere potentielle kunder om muligheden for at have kontakt via Traderas beskedfunktion. Som virksomhed er det også tilladt at tilføje din virksomheds organisationsnummer og din virksomheds kontaktpersoner på kontaktsiden. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Hvorfor giver Tradera ekstra sikkerhed for kunderne?
+ANSWER: Tradera giver ekstra sikkerhed for kunderne ved at tilbyde en integreret betalingsservice, som de fleste annoncer på Tradera tillader betaling gennem. Dette betyder, at kunderne ikke behøver at bekymre sig om at sende penge direkte til en sælger, da pengene først frigives til sælgeren, når kunden har modtaget varen og godkendt den. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Kan man bruge kontaktoplysninger fra Tradera til at markedsføre andre produkter?
+ANSWER: Nej, det er forbudt at bruge kontaktoplysninger, som man har fået via Tradera, til markedsføring af andre produkter. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Kan man opfordre til at lave handlen udenfor Tradera efter kommunikationen er startet på Tradera?
+ANSWER: Nej, det er forbudt at opfordre til at lave handlen udenfor Tradera, mens selve kommunikationen er på Tradera. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Kan man sælge lister med e-mails eller database-oplysninger på Tradera?
+ANSWER: Nej, det er forbudt at sælge lister med e-mails eller database-oplysninger, der indeholder brugerdata på Tradera. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Kan man sælge kataloger på Tradera?
+ANSWER: Nej, det er forbudt at sælge kataloger på Tradera. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Hvorfor er det tilladt at have et link på Tradera?
+ANSWER: Det er tilladt at have et link på Tradera, fordi det kan hjælpe køberen med at finde mere information om det produkt, som de overvejer at købe. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Kan man sælge produkter udenfor Tradera, hvis de ikke er indgået i en annonce på Tradera?
+ANSWER: Ja, man kan godt sælge produkter udenfor Tradera, hvis de ikke er indgået i en annonce på Tradera. 
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/

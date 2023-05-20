@@ -1,0 +1,39 @@
+QUESTION: Vilka åtgärder får man inte använda för att skada Tradera?
+ANSWER: Man får inte publicera skräppost, oönskade meddelanden, massmeddelanden, kedjebrev eller pyramidspel, distribuera eller publicera virus eller annan teknik som kan skada Tradera, eller Traderas användares intressen eller tillgångar, använda automatiserade metoder såsom skrapning, robotar eller spindlar för att få tillgång till våra Tjänster för något ändamål. Man ska heller inte kringgå Traderas skydd mot automatiserade metoder, hindra eller störa hur Traderas tjänster fungerar eller lägga en orimligt stor last på Traderas infrastruktur.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken typ av verktyg på Traderas webbplats får man exportera eller återexportera?
+ANSWER: Man får bara exportera eller återexportera Traderas applikationer och verktyg i enlighet med de exportkontrollregler som gäller för berörd jurisdiktion och i enlighet med de regler och begränsningar som framgår på webbplatsen.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad får man inte kopiera eller tillgängliggöra från Tradera?
+ANSWER: Man får inte kopiera, ändra eller tillgängliggöra (a) rättigheter eller innehåll hänförligt till Traderas Tjänster eller (b) Traderas verk, fotografier, bilder, varumärken, texter eller annat innehåll från Tradera. Man får heller inte kopiera, reproducera, ändra, bearbeta, översätta, överföra, allmänt tillgängliggöra eller framföra något innehåll (med undantag för ens eget innehåll) från Tradera, Traderas Tjänster eller tredje man, utan att i förväg inhämta uttryckligt skriftligt samtycke från Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får man använda automatiserade metoder såsom robotar eller spindlar för att få tillgång till Traderas Tjänster för något ändamål?
+ANSWER: Nej, man får inte använda automatiserade metoder såsom skrapning, robotar eller spindlar för att få tillgång till Traderas Tjänster för något ändamål.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får man publicera virus eller annan teknik som kan skada Tradera eller Traderas användares intressen eller tillgångar?
+ANSWER: Nej, man får inte publicera virus eller annan teknik som kan skada Tradera, eller Traderas användares intressen eller tillgångar.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får man hindra eller störa hur Traderas Tjänster fungerar?
+ANSWER: Nej, man får inte hindra eller störa hur Traderas Tjänster fungerar eller lägga en orimligt stor last på Traderas infrastruktur.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka verktyg får man exportera eller återexportera från Tradera?
+ANSWER: Man får bara exportera eller återexportera Traderas applikationer och verktyg i enlighet med de exportkontrollregler som gäller för berörd jurisdiktion och i enlighet med de regler och begränsningar som framgår på webbplatsen.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan man kopiera eller tillgängliggöra Traderas verk och innehåll utan att inhämta Traderas uttryckliga skriftliga samtycke?
+ANSWER: Nej, man får inte kopiera, ändra eller tillgängliggöra Traderas verk, fotografier, bilder, varumärken, texter eller annat innehåll från Tradera utan att i förväg inhämta Traderas uttryckligt skriftliga samtycke.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får man använda automatiserade metoder för att få tillgång till Traderas Tjänster?
+ANSWER: Man får inte använda automatiserade metoder såsom skrapning, robotar eller spindlar för att få tillgång till Traderas Tjänster, om det inte är för att använda Tjänsterna på det sätt som är avsett av Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får man distribuera virus på Traderas webbplats?
+ANSWER: Nej, man får inte distribuera eller publicera virus eller annan teknik som kan skada Tradera, eller Traderas användares intressen eller tillgångar.
+URL: https://info.tradera.com/anvandaravtal/

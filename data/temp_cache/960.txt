@@ -1,0 +1,38 @@
+QUESTION: Vilka betalsätt kan jag använda på Tradera?
+ANSWER: Alla säljare på Tradera erbjuder samma betalningsalternativ via deras tjänst Traderabetalning. Detta innefattar flera populära betalmetoder som kortbetalning, PayPal, Paynova, Swish m.m.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Hur kan jag få mer information om säljaren när jag köper en klocka på Tradera?
+ANSWER: Du kan se profilen för den som säljer klockan inne i annonsen. Genom att klicka på säljarens alias kan du se mer information, såsom omdömen och kommentarer. Om säljaren delat sin goodguy-tråd (hos Klocksnack) i beskrivningen kan du även läsa mer om denne där. Du kan även få säljarens namn, adress och kontaktuppgifter efter att du har vunnit budgivningen eller köpt annonsen.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Kan jag ställa frågor till säljaren när jag är intresserad av en klocka som säljs på Tradera?
+ANSWER: Ja, du kan ställa frågor till säljaren genom meddelandefunktionen som finns tillgänglig under "om säljaren" i annonsen.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Hur kan jag anmäla en annons på Tradera som jag tror är en kopia?
+ANSWER: Du kan anmäla en annons genom att trycka på "anmäl till granskning" längst ner i annonsen och ange så utförlig information som möjligt.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Går det att betala med Swish direkt till säljaren på Tradera?
+ANSWER: Nej, det går inte att betala med Swish direkt till säljaren på Tradera. Det finns däremot andra betalsätt tillgängliga för alla säljare på sajten.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Kan jag använda Traderabetalning för att betala för min klocka på Tradera?
+ANSWER: Ja, alla säljare på Tradera erbjuder Traderabetalning som ett betalningsalternativ. Du kan betala med flera populära betalmetoder genom denna tjänst.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Kommer jag att utlösas extra transaktionsavgifter om jag betalar med Traderabetalning på Tradera?
+ANSWER: Nej, du kommer inte att utlösas extra transaktionsavgifter om du betalar med Traderabetalning på Tradera.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Finns det en länk till mer information om Traderabetalning på Tradera?
+ANSWER: Ja, du kan hitta mer information om Traderabetalning på Tradera genom att använda länken som finns tillgänglig på sidan.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Vad är goodguy-tråd?
+ANSWER: Goodguy-tråd är en tråd på Klocksnack där säljare får samla sina positiva omdömen och kommentarer från köpare.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Var kan jag hitta goodguy-tråden för en säljare på Tradera?
+ANSWER: Om säljaren har delat sin goodguy-tråd i annonsen kan du hitta denna där och läsa mer om säljaren.

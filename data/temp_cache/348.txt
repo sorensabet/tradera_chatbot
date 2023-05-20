@@ -1,0 +1,39 @@
+QUESTION: Vilka samarbeten har Tradera? 
+ANSWER: Tradera samarbetar med Polisen och andra partners för att göra din upplevelse på Tradera så säker som möjligt.
+URL: https://info.tradera.com/sakerhetscenter/vara-samarbeten/
+
+QUESTION: Vad ska man göra om man råkar ut för ett bedrägeri eller brott på Tradera?
+ANSWER: Om man råkar ut för ett bedrägeri eller annat brott ska man kontakta Tradera samt göra en polisanmälan på Polisens hemsida.
+URL: https://info.tradera.com/sakerhetscenter/vara-samarbeten/
+
+QUESTION: Hur kan Tradera hjälpa om man råkar ut för bedrägeri eller brott på plattformen?
+ANSWER: Tradera kan bistå vid bedrägeri eller annat brott och samarbetar nära med polisen.
+URL: https://info.tradera.com/sakerhetscenter/vara-samarbeten/
+
+QUESTION: Vilka rättighetsinnehavare samarbetar med Tradera?
+ANSWER: Det framgår inte specifikt från informationen vilka rättighetsinnehavare som samarbetar med Tradera.
+URL: https://info.tradera.com/sakerhetscenter/vara-samarbeten/
+
+QUESTION: Finns det några regler som gäller på Tradera?
+ANSWER: Ja, det finns regler på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är avtal och villkor på Tradera?
+ANSWER: Avtal och villkor på Tradera täcker användningen av plattformen.
+URL: https://info.tradera.com/sakerhetscenter/avtal-och-villkor/
+
+QUESTION: Vad är betalningsvillkor på Tradera?
+ANSWER: Information om betalningsvillkor finns på Traderas sida om avtal och villkor.
+URL: https://info.tradera.com/sakerhetscenter/avtal-och-villkor/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy handlar om hur de hanterar personuppgifter och information på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken information erbjuder Tradera på sin sida om säkra lösenord?
+ANSWER: Tradera ger information om hur man skapar ett starkt lösenord och hur man håller lösenordet säkert.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Hur skyddar Tradera mot falska e-postmeddelanden?
+ANSWER: Information om hur Tradera skyddar mot falska e-postmeddelanden finns inte i texten.
+URL: https://info.tradera.com/sakerhetscenter/falska-epostmeddelanden/

@@ -1,0 +1,39 @@
+QUESTION: Hur kan man hantera sina inköpsförfrågningar på Tradera-appen?
+ANSWER: According to the given text, the Tradera app is the quickest and easiest way to manage purchase requests. Once a user receives a new request, the app notifies them instantly.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Varför bör man använda Traderas app?
+ANSWER: In accordance with the given text, using Tradera's app is recommended because it notifies the users of new requests instantly and provides the quickest and easiest way to manage purchase requests.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Vad säljer Tradera?
+ANSWER: The given text does not provide any specific answer for this question, but it suggests that Tradera offers products under various categories and popular brands. Further information regarding the products can be found on the Tradera website.
+URL: https://www.tradera.com/
+
+QUESTION: Kan man sälja som privatperson på Tradera?
+ANSWER: Yes, according to the information given under the "Sell" option in the context, one can sell as a private seller on Tradera. 
+URL: https://www.tradera.com/
+
+QUESTION: Kan man sälja som företag på Tradera?
+ANSWER: Yes, the given text suggests that one can sell as a business on Tradera. 
+URL: https://www.tradera.com/
+
+QUESTION: Vilken typ av funktioner finns tillgängliga på Tradera-appen?
+ANSWER: The text mentions that Tradera's app is the quickest and easiest way to manage purchase requests. It also suggests that additional features, such as social media support and extended functionality, are available on the app. 
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Hur kan man kontakta Tradera vid problem?
+ANSWER: According to the given text, a contact and help option is available under the "Sell" option on Tradera's website. The page provides solutions for common problems and the option to contact customer support directly.  
+URL: https://www.tradera.com/
+
+QUESTION: Hur kan man donera till välgörenhetskampanjer genom Tradera?
+ANSWER: The given text does not provide a specific answer, but it mentions that "Charity causes" is listed under the "Sell" option on the Tradera website. Further information on how to donate and support different causes can be found on that page. 
+URL: https://www.tradera.com/
+
+QUESTION: Var hittar man reglerna på Tradera?
+ANSWER: The given text suggests that the required rules for trading and selling on Tradera can be accessed under the "Rules" option on the website. 
+URL: https://www.tradera.com/
+
+QUESTION: Kan man använda Facebook till att logga in på Tradera?
+ANSWER: Yes, as mentioned under the "Functional" option in the context, users have the ability to log in using Facebook for enhanced functionality and user customization. 
+URL: https://www.tradera.com/

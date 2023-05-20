@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att genomföra verifikation på Tradera?
+ANSWER: Syftet med att genomföra verifikation på Tradera är att följa EU:s direktiv om utbetalningar så att Tradera kan fortsätta att göra utbetalningar till säljare. 
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Vilken partner hanterar all information som samlas in under verifikationen?
+ANSWER: All information som samlas in under verifikationen hanteras av Hyperwallet, Traderas samarbetspartner, i enlighet med GDPR.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Hur går verifikationen till på Tradera?
+ANSWER: Om du behöver genomföra verifikationen så kommer du att få ett meddelande i Mitt Tradera och om du klickar på meddelandet kommer du direkt till formuläret. Det går inte att skicka in uppgifterna på annat sätt än via formuläret.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Hur lång tid tar det att genomföra verifikationen på Tradera?
+ANSWER: Verifikationen tar vanligtvis 1-2 bankdagar från det att eventuella kompletteringar har skickats in. Efter att du har genomfört verifikationen fortsätter dina utbetalningar som vanligt.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är en tjänst som Tradera erbjuder för att minska klimatpåverkan genom att samla flera leveranser till samma område i en och samma bil.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Vilka populära varumärken finns på Tradera?
+ANSWER: Tradera har ett stort utbud av populära varumärken som exempelvis Acne, Filippa K, GANT, Odd Molly, Marimekko och många fler.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Hur kan man donera med Tradera?
+ANSWER: Genom att sälja en vara på Tradera kan man donera en del eller hela försäljningsbeloppet till en valfri organisation utan kostnad.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Hur kan man komma i kontakt med Traderas kundtjänst?
+ANSWER: Du kan komma i kontakt med Traderas kundtjänst genom att gå till sidan "Kontakta oss" på Traderas hemsida och fylla i kontaktformuläret eller skicka ett mejl till kundtjanst@tradera.com.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Finns det regler på Tradera som säljare och köpare måste följa?
+ANSWER: Ja, det finns regler på Tradera som både säljare och köpare måste följa för att skapa en trygg och säker handel. Dessa regler inkluderar exempelvis förbud mot försäljning av falska varor, krav på att säljare ska redovisa eventuella skador på varan i beskrivningen samt krav på att betalningar ska göras med Traderas betallösning.
+URL: https://info.tradera.com/kann-din-kund/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy är en policy som beskriver hur Tradera samlar in, använder och skyddar personlig information som samlas in från besökare och användare på Traderas hemsida.
+URL: https://info.tradera.com/kann-din-kund/

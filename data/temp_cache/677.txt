@@ -1,0 +1,39 @@
+QUESTION: Vilka legitimationer behöver man ha med sig för att hämta ut ett paket från ombudet?
+ANSWER: För att hämta ut ett paket från ombudet behöver man ha med sig legitimation och paketets löpnummer. De legitimationer som är giltiga inkluderar SIS-märkt ID-kort, ID-kort utfärdat av Skatteverket, nationellt ID-kort utfärdat av svensk polis, svenskt körkort, svenskt EU-pass, utländskt nationellt ID-kort utfärdat i länder inom Schengenområdet, utländskt pass och nordiskt körkort.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur länge ligger ett paket kvar hos ombudet innan det skickas tillbaka?
+ANSWER: Ett paket ligger kvar hos ombudet i 14 dagar innan det returneras till avsändaren.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan paketet ligga kvar längre hos ombudet om jag är bortrest?
+ANSWER: Paket skickade med PostNord ligger kvar hos ombudet i 14 dagar. Kommer du vara bortrest behöver du komma överens med säljaren så att paketet skickas iväg senare.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad är PostNord för något?
+ANSWER: PostNord är ett logistikföretag som Tradera använder för att skicka och leverera paket.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur kan jag ändra mottagaradress för en vara jag har köpt?
+ANSWER: Du kan ändra mottagaradressen i samband med att du betalar för varan.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilket meddelande behöver jag få för att få paketets löpnummer?
+ANSWER: Paketets löpnummer får du när paketet aviserats via SMS eller mail.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad är SIS-märkt ID-kort?
+ANSWER: SIS står för Swedish Standards Institute och ett SIS-märkt ID-kort är ett identitetskort som uppfyller vissa standarder som fastställts av SIS.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad behöver jag göra om jag inte hittar svaret på min fråga?
+ANSWER: Om du inte hittar svaret på din fråga kan du kontakta PostNord.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag hämta ut paketet med någon annans legitimation om jag själv inte kan?
+ANSWER: Om paketet hämtas av en annan person än mottagaren, behöver båda personerna uppvisa sin legitimation.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag få mitt paket levererat till en annan adress än min hemadress?
+ANSWER: Ja, du kan ändra mottagaradressen i samband med att du betalar för varan.
+URL: https://info.tradera.com/postnord/

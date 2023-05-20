@@ -1,0 +1,39 @@
+QUESTION: Vad är en säljare på Tradera?
+ANSWER: En säljare på Tradera är en fysisk eller juridisk person som säljer varor eller tjänster på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är en nordisk e-handelsplattform som tillhandahåller webbplatser, tjänster och applikationer för köp och försäljning av varor och tjänster till allmänheten.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Traderas betallösning?
+ANSWER: Traderas betallösning är en betallösning för Tradera, som tillåter köparen att erbjudas betalningsmetoder såsom kortbetalning och PayPal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är en transaktion på Tradera?
+ANSWER: En transaktion på Tradera är en betalning för varor eller tjänster på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är återföringsskyldigt belopp på Tradera?
+ANSWER: Återföringsskyldigt belopp på Tradera är det belopp som säljaren ska återbetala till Tradera i samband med en återföring. Beloppet är antingen en del av eller hela transaktionen, plus eventuella avgifter som ålagts Tradera i samband med transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad innebär att använda Traderas betallösning?
+ANSWER: Att använda Traderas betallösning innebär att säljaren får tillgång till Traderas betallösning för att köparen ska kunna betala med exempelvis kort eller PayPal och säljaren får utbetalningar från Tradera enligt vad som specificeras i villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är en transaktion som ska återbetalas på Tradera?
+ANSWER: En transaktion som ska återbetalas på Tradera är en transaktion där köparen har beviljats returrätt av säljaren eller där en återföring har utförts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad får säljaren utbetalt från Tradera enligt villkoren?
+ANSWER: Säljaren får utbetalningar från Tradera enligt vad som specificeras i villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är en köpare på Tradera?
+ANSWER: En köpare på Tradera är en person som köper varor eller tjänster på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka betalningsmetoder kan köparen använda på Tradera?
+ANSWER: Köparen kan använda betalningsmetoder såsom kortbetalning och PayPal på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

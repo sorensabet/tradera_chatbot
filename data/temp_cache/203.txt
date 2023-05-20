@@ -1,0 +1,39 @@
+QUESTION: Vad är Theft tip och vad kan jag göra med det?
+ANSWER: Theft tip är en tip-funktion där du kan enkelt lämna tips om stöldgods eller om du misstänker bedrägeri. Du kan också söka bland varor för att kontrollera om varan du planerar att köpa andra hand är efterlyst eller inte.
+URL: https://info.tradera.com/en/our-collaborations/
+
+QUESTION: Vilken information om konsumenträttigheter finns på Tradera?
+ANSWER: På Traderas sajt finns information om konsumenträttigheter inklusive köp- och konsumentlagen. Vilken lag som gäller beror på om man handlar som privatperson eller företag.
+URL: https://info.tradera.com/en/our-collaborations/
+
+QUESTION: Vad behöver jag veta för att sälja mina varor på Tradera?
+ANSWER: För att sälja på Tradera behöver man registrera sig som säljare. Sedan kan man lägga upp och sälja sina varor som privatperson eller som företag. 
+URL: https://info.tradera.com/en/become-a-seller/
+
+QUESTION: Var kan jag hitta information om hur jag kan kontakta Traderas kundsupport?
+ANSWER: På Traderas hemsida finns en "Contact & Help"-flik där man kan hitta information om hur man kan kontakta kundtjänsten. 
+URL: https://www.tradera.com/help/
+
+QUESTION: Vad är en shipping calculator?
+ANSWER: En shipping calculator är en funktion på Traderas hemsida där säljaren kan räkna ut fraktkostnaden för att skicka varan till köparen. 
+URL: https://www.tradera.com/sell/shipping
+
+QUESTION: Kan jag sälja varor på Tradera som företag?
+ANSWER: Ja, man kan sälja på Tradera både som privatperson och som företag.  
+URL: https://info.tradera.com/en/become-a-seller/
+
+QUESTION: Var kan jag läsa mer om vilka varumärken som är populära på Tradera?
+ANSWER: På Traderas hemsida finns en "Categories" flik där man kan söka efter olika kategorier som kläder, elektronik eller möbler, för att ta några exempel. 
+URL: https://www.tradera.com/categories
+
+QUESTION: Vilka funktioner finns det på Tradera för att göra en affär smidigare?
+ANSWER: På Tradera finns funktioner som en shipping calculator, "buy now" och "make offer" som kan göra det enklare att genomföra en affär. 
+URL: https://www.tradera.com/
+
+QUESTION: Vilka regler gäller för köp och försäljning på Tradera?
+ANSWER: På Tradera gäller lagar om köp- och konsumenträttigheter. Reglerna skiljer sig beroende på om man handlar som privatperson eller företag. 
+URL: https://info.tradera.com/en/our-collaborations/
+
+QUESTION: Hur kan jag vara säker på att mina personuppgifter är säkra när jag handlar på Tradera?
+ANSWER: Tradera har en integritetspolicy som anger hur de hanterar personuppgifter. Dina uppgifter hanteras enligt dessa riktlinjer. 
+URL: https://info.tradera.com/en/privacy/\

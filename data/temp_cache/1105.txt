@@ -1,0 +1,39 @@
+QUESTION: Vad innebär köparskydd hos Tradera?
+ANSWER: Hos Tradera innebär köparskyddet att som köpare kan man få tillbaka pengarna om säljaren inte fullföljer affären efter att man har betalt eller om varan inte stämmer överens med beskrivningen.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vilka betalsätt omfattas av Traderas köparskydd?
+ANSWER: Köparskyddet omfattar betalningar med Klarna, Paynova eller PayPal. För övriga betalsätt är köparskyddet valfritt.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vilken avgift tar Tradera för att använda köparskyddet?
+ANSWER: För att använda köparskyddet på Tradera kostar det 5% av totalbeloppet, minst 5kr och max 750kr.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Kan man välja bort köparskyddet hos Tradera?
+ANSWER: Som köpare kan man inte välja bort köparskyddet om man betalar med Klarna, Paynova eller PayPal, men för övriga betalsätt är köparskyddet valfritt.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Gäller köparskyddet hos Tradera om jag betalar med Swish till säljaren?
+ANSWER: Köparskyddet hos Tradera gäller inte om man betalar med Swish direkt till säljaren. 
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Kan man använda köparskyddet hos Tradera om man betalar med faktura eller delbetalning?
+ANSWER: Ja, köparskyddet hos Tradera gäller oavsett om man betalar med faktura eller delbetalning.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vad är förutsättningarna för att kunna använda köparskyddet hos Tradera?
+ANSWER: För att kunna använda köparskyddet hos Tradera måste man betala med Kortbetalning, Google Pay, Apple Pay eller Swish där Tradera står som mottagare.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vad gör jag om jag behöver använda köparskyddet hos Tradera?
+ANSWER: Om man behöver använda köparskyddet hos Tradera på grund av att säljaren inte har fullgjort affären eller om varan inte stämmer överens med beskrivningen, behöver man skapa en tvist på annonsen.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Hur startar jag en tvist om jag behöver använda köparskyddet hos Tradera?
+ANSWER: Om man har betalat med Klarna eller PayPal så behöver man starta tvisten från sitt Klarna eller PayPal konto.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Kan jag få tillbaka mina pengar om säljaren inte fullföljer affären eller om varan inte stämmer överens med beskrivningen på Tradera utan att använda köparskyddet?
+ANSWER: Om man inte använder köparskyddet på Tradera så finns det ingen garanti att man får tillbaka pengarna om säljaren inte fullföljer affären eller om varan inte stämmer överens med beskrivningen. 
+URL: https://info.tradera.com/traderabetalning/kopskydd/

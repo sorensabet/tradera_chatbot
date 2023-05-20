@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information samlar Tradera in från användarna?
+ANSWER: Tradera samlar in information från användarna direkt när de lämnar den på deras hemsidor eller när de registrerar ett konto. Det inkluderar personlig information som e-postadress, kontaktinformation, mobiltelefonnummer, personnummer och födelseort samt ytterligare information som lämnats genom sociala medier. De samlar också ekonomisk information om användare som säljer varor eller tjänster genom Traderas webbplats, inklusive bankkontonummer, skatteregistreringsnummer och momsregistreringsnummer, transaktionsinformation och leveransinformation.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 2: Hur samlar Tradera in information från användare som säljer varor och tjänster via webbplatsen?
+ANSWER: När användare säljer varor eller tjänster via Traderas webbplats, samlar de in ekonomisk information som bankkontonummer, skatteregistreringsnummer och registreringsnummer för moms. Om användare saknar skatteregistreringsnummer samlas information om deras födelseort också in. Transaktionsrelaterad information som rör användarnas aktivitet på webbplatsen samlas också in, såsom budgivning, köp, försäljning, annonsinformation och innehåll som kan hänföras till användarnas konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 3: Vilken typ av information sparar Tradera om leveranstjänster?
+ANSWER: Tradera sparar leveransinformation, faktureringsinformation, betalningsinformation och annan information som användaren lämnar omköp eller leverans av en produkt. Om leveranstjänster tillhandahålls genom ett av Traderas integrerade system, sparar den integrerade leveranspartnern också relevant leveransinformation (leveransstatus).
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 4: Vilken typ av information samlar Tradera in genom sociala medier?
+ANSWER: Tradera samlar in ytterligare information som användarna lämnar genom sociala medier. Detta kan inkludera kontoinformation, vänner, intressen och aktiviteter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 5: Vilken information samlar Tradera in relaterat till transaktioner?
+ANSWER: Tradera samlar också in transaktionsrelaterade uppgifter som baseras på användarnas aktiviteter på webbplatserna, såsom budgivning, köp, försäljning, annonsinformation och innehåll som skapats eller kan hänföras till deras konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 6: Vad är syftet med att samla in information från användare på Tradera?
+ANSWER: Syftet med att samla in information från användare på Tradera är för att hantera och underhålla användarkonton, göra det möjligt att köpa och sälja på webbplatsen, lösa tvister, säkerställa korrekt fakturering och betalning samt för att ge bättre kundservice.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 7: Vilken typ av information samlar Tradera inte in från användare?
+ANSWER: Tradera samlar inte in information från användare om deras hudfärg, sexuella läggning eller religiösa tro.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 8: Vilken information sparar Tradera om användare som lämnar information i forum och chattar på webbplatsen?
+ANSWER: Tradera sparar all information som lämnas av användarna i forum och chattar på webbplatsen, inklusive diskussioner, tvistlösning och korrespondens.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 9: Vilken information sparar den valda leveranspartnern om leveranstjänsterna som Tradera tillhandahåller?
+ANSWER: Om leveranstjänster tillhandahålls genom ett av Traderas integrerade system, sparar den integrerade leveranspartnern också relevant leveransinformation (leveransstatus).
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 10: Vad gör Tradera med personlig information som de samlar in från användare?
+ANSWER: Tradera använder personlig information som de samlar in från användare för att hantera och underhålla användarkonton, ge kundservice, göra det möjligt att köpa och sälja på webbplatsen samt lösa tvister. De kan också använda informationen för att förbättra sina produkter och tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

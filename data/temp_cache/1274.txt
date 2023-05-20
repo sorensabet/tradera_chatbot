@@ -1,0 +1,39 @@
+QUESTION: Hur inleder man ett tvistlösningsförfarande på Tradera?
+ANSWER: För att inleda ett tvistlösningsförfarande på Tradera måste du använda Traderas tvistlösningssystem i "Mitt Tradera" inom 30 dagar från att köpet genomfördes. All kommunikation om tvisten måste ske genom Traderas tvistlösningssystem på Traderas plattform.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad händer om Köpare och Säljare inte kommer fram till en lösning inom tio dagar från att tvistlösningsförfarandet inleddes?
+ANSWER: Om Köpare och Säljare inte kommer fram till en lösning inom tio (10) dagar från att tvistlösningsförfarandet inleddes, kan Köparen eskalera tvisten till Tradera. Om Köparen inte eskalerar tvisten till Tradera inom tio (10) dagar från att tvistlösningsförfarandet inleddes så kommer tvistlösningsförfarandet automatiskt avslutas till Säljarens fördel.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Hur lång tid har Köparen på sig att eskalera en tvist till Tradera efter att tvistlösningsförfarandet inleddes?
+ANSWER: Om Köparen vill eskalera tvisten till Tradera, måste detta göras inom tio (10) dagar från att tvistlösningsförfarandet inleddes. Annars kommer tvistlösningsförfarandet automatiskt att avslutas till Säljarens fördel.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad innebär det att en tvist eskaleras till Tradera?
+ANSWER: När en tvist eskaleras till Tradera så kommer Tradera kontakta både Köpare och Säljare för att skaffa sig en uppfattning om vad som har inträffat. Tradera kan sedan komma be bägge parter om underlag, så som ytterligare dokumentation kring varan eller Transaktionen.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad är ett tvistlösningsförfarande på Tradera?
+ANSWER: Ett tvistlösningsförfarande på Tradera är ett förfarande som tillhandahålls på "Mitt Tradera" för att hjälpa köpare och säljare att lösa tvister. Kommunikationen om tvisten ska ske genom Traderas tvistlösningssystem på plattformen. Efter att ett tvistlösningsförfarande inlett ska Köpare och Säljare först kommunicera med varandra genom Traderas tvistlösningssystem för att försöka hitta en lösning på problemet.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vem är ansvarig för att påvisa fel i en vara som Säljaren har sålt på Tradera?
+ANSWER: Köparen är ansvarig för att påvisa att det föreligger fel i den tjänst Säljaren utfört eller den vara som Säljaren har sålt, t.ex. med underlag bevisa. 
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Hur länge har man på sig att inleda ett tvistlösningsförfarande för köp från Tradera?
+ANSWER: Man måste inleda ett tvistlösningsförfarande för köp från Tradera inom 30 dagar från det att köpet genomfördes.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad är Traderas tvistlösningssystem?
+ANSWER: Traderas tvistlösningssystem är ett system som tillhandahålls på "Mitt Tradera" för att hjälpa köpare och säljare att lösa tvister. All kommunikation om tvisten måste ske genom Traderas tvistlösningssystem på Traderas plattform.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan Köparen eskalera tvisten direkt till Tradera utan att kommunicera med Säljaren först?
+ANSWER: Nej, innan Köparen kan eskalera tvisten till Tradera måste Köpare och Säljare kommunicera med varandra genom Traderas tvistlösningssystem för att försöka lösa problemet. Om Köpare och Säljare inte kommer fram till en lösning inom tio dagar från att tvistlösningsförfarandet inleddes, kan Köparen eskalera tvisten till Tradera.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad händer om Köparen inte inleder tvistlösningsförfarandet inom 30 dagar från det att köpet genomfördes från Tradera?
+ANSWER: Om Köparen inte inleder tvistlösningsförfarandet inom 30 dagar från det att köpet genomfördes från Tradera, kommer detta inte längre att vara möjligt och du kan inte längre använda dig av tvistlösningssystemet på Tradera plattform för detta köp.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/

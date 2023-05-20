@@ -1,0 +1,39 @@
+QUESTION: Vad är grön frakt på Tradera?
+ANSWER: Grön frakt är Traderas miljövänliga fraktalternativ som erbjuds för vissa produkter. Det innebär att paketet skickas med klimatkompenserat fraktbolag.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vilka kategorier finns det på Tradera?
+ANSWER: På Tradera finns det ett stort utbud av kategorier som exempelvis Kläder, Skor & Accessoarer, Hemelektronik, Hem & Trädgård, Böcker, Film & Musik, Sport & Fritid, Samlarobjekt och mycket mer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan man sälja som företag på Tradera?
+ANSWER: Ja, det är möjligt att sälja som företag på Tradera. Det finns dock vissa regler som måste följas för försäljning som företag.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salj-som-foretag/
+
+QUESTION: Vad är Fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg som gör det möjligt för säljaren att enkelt beräkna hur mycket frakten kommer att kosta för en viss produkt, baserat på vikt och destination.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad är Användaravtal på Tradera?
+ANSWER: Användaravtalet är en överenskommelse mellan Tradera och användaren om hur tjänsterna på plattformen får användas.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/anvandaravtal/
+
+QUESTION: Vilka inspirationskällor finns på Tradera?
+ANSWER: På Tradera finns det en sida med inspiration som visar olika kategorier för shopping på Tradera som exempelvis Trending just nu, Hem & inredning, Vintage, Designobjekt och mycket mer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad är cookies på Tradera?
+ANSWER: Cookies är små textfiler som lagras på din dator och används för att förbättra användarupplevelsen på Tradera genom att anpassa innehållet och för att analysera trafiken. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Hur donerar man med Tradera?
+ANSWER: Man kan donera med Tradera genom att lägga upp en auktion på Tradera där hela eller delar av intäkterna skänks till en valfri organisation eller ideell förening. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salj-som-privatperson/
+
+QUESTION: Vad är integritetspolicy på Tradera?
+ANSWER: Integritetspolicyn beskriver hur Tradera hanterar personlig information som du lämnar på plattformen, inklusive uppgifter som insamlas genom cookies.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/integritetspolicy/
+
+QUESTION: Vad är vanliga frågor och svar på Tradera?
+ANSWER: Vanliga frågor och svar är en sida på Tradera där användare kan hitta svar på vanliga frågor om Tradera, exempelvis hur man säljer en produkt, vad fraktkostnaden är och hur man betalar för produkter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vanliga-fragor-och-svar/

@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med betalningsvillkoren på Traderas plattform? 
+ANSWER: Syftet med betalningsvillkoren på Traderas plattform är att reglera hur betalningar mellan köpare och säljare hanteras och att undvika tvister.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken domstol ska en tvist med anknytning till betalningsvillkoren avgöras av?
+ANSWER: En tvist med anknytning till Traderas betalningsvillkor ska avgöras av svensk allmän domstol där Stockholms tingsrätt är första instans.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken betallösning godkänner säljaren när denne använder Traderas betallösning? 
+ANSWER: När säljaren använder Traderas betallösning, godkänner denne även villkoren för Traderas samarbetspartner PayPals Hyperwallet-lösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Var kan man hitta PayPals användaravtal när man använder Traderas betallösning?
+ANSWER: När man använder Traderas betallösning och godkänner villkoren för Traderas samarbetspartner PayPals Hyperwallet-lösning, kan man hitta användaravtalet på en särskild URL: https://www.hyperwallet.com/agreements-terms/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Var kan man hitta PayPals integritetspolicy när man använder Traderas betallösning? 
+ANSWER: När man använder Traderas betallösning och godkänner villkoren för Traderas samarbetspartner PayPals Hyperwallet-lösning, kan man hitta integritetspolicyn på en särskild URL: https://www.hyperwallet.com/privacy-policy/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur hanterar Tradera klagomål avseende betaltjänsten? 
+ANSWER: Tradera följer Finansinspektionens allmänna råd om klagomålshantering avseende finansiella tjänster till konsumenter samt föreskrifter förande klagomålshantering för betaltjänstleverantörer. Man kan använda chattfunktionen som finns tillgänglig på Traderas hemsida eller kontakta Tradera via telefon på 0771-392 000 om man vill framföra ett formellt klagomål avseende Traderas betaltjänst. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan man vända sig till Allmänna Reklamationsnämnden vid tvist med Tradera? 
+ANSWER: Ja, om man har en tvist med Tradera och man är en kund som är konsument kan man vända sig till Allmänna Reklamationsnämnden på Box 174, 101 23 Stockholm.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är kundens och Traderas överenskommelse om tvist vid anknytning till betalningsvillkoren? 
+ANSWER: Vid tvist med anknytning till betalningsvillkoren på Traderas plattform är kunden och Tradera överens om att tvisten ska avgöras av svensk allmän domstol där Stockholms tingsrätt är första instans. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka tidigare avtal gällande betallösningar är inkluderade i betalningsvillkoren på Traderas plattform? 
+ANSWER: Alla tidigare avtal mellan köpare, säljare eller Tradera gällande betallösningar på Traderas plattform är inkluderade i betalningsvillkoren på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken lagstiftning ska betalningsvillkoren på Traderas plattform tolkas i enligt? 
+ANSWER: Betalningsvillkoren på Traderas plattform ska tolkas i enlighet med svensk rätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

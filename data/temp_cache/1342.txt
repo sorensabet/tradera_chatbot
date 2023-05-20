@@ -1,0 +1,39 @@
+QUESTION 1: What are the terms and conditions that apply for payment methods when buying an item?
+ANSWER: To access payment services, you must accept the terms and conditions that apply for the payment method you use when purchasing an item. These terms and conditions can be found in either the "Terms and Conditions - Payments (Customers residing in Sweden)" or "Terms and Conditions - Payments (Companies and customers residing abroad)" based on the payment terms that apply.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 2: What is necessary to use the service for international buying and selling?
+ANSWER: To use the international buying and selling service, it is necessary to comply with all laws and regulations for the sale, purchase, and shipment of products sold internationally. Tradera allows users to translate their listings into other languages using automatic tools or services provided by third parties, but the accuracy and availability of such translations are not guaranteed. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 3: What kind of content does the term 'content' refer to in the User Agreement?
+ANSWER: According to the User Agreement, the term 'content' refers to all types of information including but not limited to photographs, images, texts, words, videos, data, concepts, ideas, technology, databases, and trademarks.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 4: Can Tradera use all content provided to them by the user for commercial purposes?
+ANSWER: Yes, according to the User Agreement, Tradera has the right to use all content provided to them by the user for commercial purposes including when listing or offering, buying and/or selling items or services.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 5: What rights does the user grant Tradera for the content they provide?
+ANSWER: According to the User Agreement, the user grants Tradera an unlimited, non-exclusive, irrevocable, worldwide, perpetual, royalty-free, fully transferable and fully sublicensable right to use, copy, reproduce, alter, process, translate, transfer, make available and/or communicate such content for the purposes and in any media, channel, technology, or region decided by Tradera from time to time.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 6: Is it mandatory for users to accept terms and conditions for the shipping method when buying an item?
+ANSWER: Yes, acceptance of terms and conditions for the shipping method chosen by the user when buying an item is necessary.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 7: Can users translate their Tradera listings into other languages?
+ANSWER: Yes, users can translate their listings into other languages using the automatic tools or services provided by third parties on Tradera, but Tradera cannot guarantee the accuracy or availability of such translations.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 8: What is the definition of the content in the User Agreement?
+ANSWER: The content, as defined in the User Agreement, refers to any form of information including but not limited to photographs, images, texts, words, videos, data, concepts, ideas, technology, databases, and trademarks.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 9: What are the responsibilities of sellers and buyers during international transactions?
+ANSWER: Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, purchase, and shipment of items.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 10: Does tradera guarantee the accuracy of translations provided by automatic tools or services?
+ANSWER: No, Tradera does not guarantee the availability or accuracy of translations provided by automatic tools or services offered by third parties on Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

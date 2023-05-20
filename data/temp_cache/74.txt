@@ -1,0 +1,39 @@
+QUESTION: Vad gör Tradera för att skydda min personliga information?
+ANSWER: Tradera försöker att skydda din personliga information genom att endast ge begränsad tillgång till andra användares kontakt-, leverans- och ekonomiska uppgifter. De uppmanar också användarna att beskriva sina rutiner för behandling av personuppgifter och att utvärdera sin motparts integritetspolicy innan de delar sina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka personuppgifter kan andra se om jag besöker Traderas webbplats från en publik eller delad dator?
+ANSWER: Om du besöker Traderas webbplatser från en publik eller delad dator, kan vissa personuppgifter som ditt användarnamn eller påminnelser från Tradera vara synliga för andra som använder datorn efter dig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Varför är det viktigt att beskriva mina rutiner för behandling av personuppgifter?
+ANSWER: Det är viktigt att beskriva dina rutiner för behandling av personuppgifter för att respektera andra användares personliga integritet och för att Tradera inte kan garantera skydd av dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan finnas i meddelanden som skickas till andra medlemmar om misstänkta aktiviteter och överträdelser av policys på Traderas webbplatser?
+ANSWER: Meddelanden som skickas till andra medlemmar om misstänkta aktiviteter och överträdelser av policys på Traderas webbplatser anger användarnamn och specifika produkter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan andra användare se min profil och informationssida på Tradera?
+ANSWER: Andra användare kan se informationen du väljer att visa i din profil och på din informationssida på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad innebär det att lämna ut personliga och ekonomiska uppgifter på Tradera?
+ANSWER: Att lämna ut personliga och ekonomiska uppgifter på Tradera innebär att användare kan slutföra en transaktion och erhålla betalning från köpare. Tradera rekommenderar att användarna utvärderar sin motparts integritetspolicy innan de delar sina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera garantera skyddet av min personliga integritet och mina personuppgifter?
+ANSWER: Nej, Tradera kan inte garantera skyddet av din personliga integritet eller skydd av dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Varför är det viktigt att utvärdera sin motparts integritetspolicy innan man delar sina personuppgifter på Tradera?
+ANSWER: Det är viktigt att utvärdera sin motparts integritetspolicy innan man delar sina personuppgifter på Tradera för att säkerställa att ens personliga integritet och personuppgifter inte riskeras.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Varför kan personuppgifter som jag lämnar ut på Tradera ses av andra användare?
+ANSWER: Personuppgifter som användare lämnar ut på Tradera kan ses av andra användare eftersom detta är nödvändigt för att slutföra en transaktion och erhålla betalning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad rekommenderar Tradera att användarna gör för att skydda sin integritet?
+ANSWER: Tradera rekommenderar att användare beskriver sina rutiner för behandling av personuppgifter och utvärderar sin motparts integritetspolicy innan de delar sina personuppgifter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

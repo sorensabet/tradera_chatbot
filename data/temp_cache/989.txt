@@ -1,0 +1,39 @@
+QUESTION: Varför kan Tradera be dig att skicka in ytterligare dokument för att verifiera din identitet eller adress?
+ANSWER: Tradera kan be dig skicka in ytterligare dokument för att verifiera din identitet eller adress om de vill säkerställa att du inte bryter mot deras regler eller för att skydda din och andra användares säkerhet. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka slags tredje parter samlar Tradera in information om dig från?
+ANSWER: Tradera samlar in kompletterande information om dig från tredje parter såsom myndigheter, offentliga aktörer och tredjepartsleverantörer som Creditsafe och Trapets. De kan även få information från säljföretag, databyråer och dataleverantörer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka är några av de tredjepartsleverantörer som Tradera använder för att komplettera din information?
+ANSWER: Creditsafe och Trapets är några av de tredjepartsleverantörer som Tradera använder för att komplettera information om dig. Dessa företag tillhandahåller information om företags verkliga huvudman och så kallade PEP-listor (avseende Politiskt Exponerade Personer) och sanktionslistor.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan du använda tredje mans loginuppgifter för att logga in på Traderas webbplatser?
+ANSWER: Ja, Tradera kan erbjuda inloggningstjänster där du kan använda tredje mans loginuppgifter för att logga in på deras webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför samlar Tradera in information om dig från tredje parter?
+ANSWER: Tradera samlar in information om dig från tredje parter för att komplettera den information som du själv har lämnat in. Denna kompletterande information kan hjälpa till att säkerställa att all information om dig är korrekt och uppdaterad.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken typ av information kan Tradera få från kreditupplysningsföretag?
+ANSWER: Tradera kan få kreditupplysningsinformation från kreditupplysningsföretag. Denna information kan inkludera demografisk information, navigationsinformation och annan information i enlighet med vad som är tillåtet enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför är det viktigt för Tradera att samla in information om dig?
+ANSWER: Det är viktigt för Tradera att samla in information om dig för att kunna tillhandahålla sina tjänster, till exempel att behandla dina betalningar och genomföra transaktioner. Dessutom finns det vissa lagkrav som kräver att Tradera samlar in viss information om dig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka typer av identitetsbevis kan Tradera be dig om att skicka in?
+ANSWER: Tradera kan be dig om att skicka in olika typer av identitetsbevis eller andra handlingar för att bekräfta din identitet eller adress, exempelvis körkort, pass eller elräkning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är PEP-listor (Politiskt Exponerade Personer) och sanktionslistor?
+ANSWER: PEP-listor (Politiskt Exponerade Personer) och sanktionslistor är listor som innehåller namn på personer eller organisationer som är föremål för sanktioner eller som är politiskt exponerade. Tradera använder information från PEP-listor och sanktionslistor för att hjälpa till att säkerställa att deras tjänster inte utnyttjas för olagliga ändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Var kan du hitta mer information om Traderas integritetspolicy?
+ANSWER: Du kan hitta mer information om Traderas integritetspolicy på deras webbplats under Säkerhetscenter och Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

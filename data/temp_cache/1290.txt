@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas Användaravtal?
+ANSWER: Traderas Användaravtal är ett avtal som användare av Tradera måste acceptera för att kunna använda plattformen. Användaravtalet beskriver vilka regler som gäller för användare av Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka andra policys finns tillgängliga på Tradera?
+ANSWER: Förutom Användaravtalet, så finns det andra policys tillgängliga på Tradera. Det inkluderar Traderas Integritetspolicy.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Var kan man hitta den engelska versionen av Användaravtalet på Tradera?
+ANSWER: Den engelska versionen av Användaravtalet på Tradera kan hittas genom att följa länken under rubriken "For the english version of this user agreement, follow this link".
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka regler beskrivs i Traderas Användaravtal?
+ANSWER: Traderas Användaravtal beskriver vilka regler som gäller för användare av plattformen, såsom regler för registrering, budgivning, betalning och köp.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka andra språk är Traderas Användaravtal tillgängligt på?
+ANSWER: Det framgår inte i texten om Traderas Användaravtal finns tillgängligt på andra språk än svenska och engelska.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Var kan man hitta Traderas Integritetspolicy?
+ANSWER: Traderas Integritetspolicy kan hittas bland de andra tillgängliga policysen på Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Måste man acceptera Användaravtalet för att kunna använda Tradera?
+ANSWER: Ja, man måste acceptera Användaravtalet för att kunna använda Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Beskriver Traderas Användaravtal regler för försäljning?
+ANSWER: Ja, Traderas Användaravtal beskriver även regler för försäljning på plattformen.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka typer av produkter kan man sälja på Tradera enligt Användaravtalet?
+ANSWER: Enligt Traderas Användaravtal kan man sälja olika typer av produkter på plattformen, så länge de inte bryter mot lagen eller policys.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Finns det några åldersgränser för att använda Tradera enligt Användaravtalet?
+ANSWER: Ja, enligt Traderas Användaravtal måste man vara minst 18 år gammal för att använda Tradera, eller ha tillstånd från en förälder eller vårdnadshavare för att använda plattformen.
+URL: https://info.tradera.com/anvandaravtal/

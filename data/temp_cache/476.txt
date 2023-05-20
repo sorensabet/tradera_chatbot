@@ -1,0 +1,39 @@
+QUESTION: What is the total payout that the seller receives? 
+ANSWER: The seller receives a payout of 432 SEK.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Is it possible to postpone the invoicing and let the negative balance transfer to the next month? 
+ANSWER: It's not possible to postpone the invoicing. An invoice is always created by the end of the month if the account balance is negative.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: How can a seller get a credit if the buyer did not pay for the listing? 
+ANSWER: The seller can report the listing as unpaid in the My Sold Items page, which will report the buyer and credit the fee. Alternatively, the seller can contact customer service if the deal was canceled by both parties' consent. Once the fee is removed, the amount will be added to the seller's balance and they will receive it on their next payout.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What happens if the majority of a seller's customers use Swish for payment? 
+ANSWER: Tradera will charge as many fees as possible towards the seller’s positive balance from other payment methods. If there is a negative balance by the end of the month, an invoice will be created and sent to the seller.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Can a positive balance be used to pay an invoice? 
+ANSWER: No, it's currently not possible to use a positive balance to pay an invoice.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What happens if the account balance is negative by the end of the month? 
+ANSWER: If the total balance is negative on the last day of the month, an invoice will be created and sent to the seller.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Will the changes affect business accounts? 
+ANSWER: The changes will not affect business accounts until later this spring. More information will be provided before this happens.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: How much does a buyer pay for a listing on Tradera? 
+ANSWER: A buyer pays 480 SEK for a listing on Tradera. 
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What is the total balance after the seller's payout? 
+ANSWER: After the payout of 432 SEK, the total balance is 0 SEK.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: How can I contact customer service if I need to report an issue with payment or fees? 
+ANSWER: You can contact the customer service on Tradera's website for any issues related to payment or fees.
+URL: https://info.tradera.com/en/nettoutbetalning/

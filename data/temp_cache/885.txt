@@ -1,0 +1,39 @@
+QUESTION: Vilka är definitionerna av olika termer som används i betalningsvillkoren för Tradera?
+ANSWER: Enligt betalningsvillkoren för Tradera är "Klarna" Klarna Bank AB, "Köparen" en person som köper något från en säljare på Tradera, och "Mitt Tradera" den inloggade miljön som Tradera erbjuder. Dessutom hänvisar "Regler för Säljare" till de regler som en säljare alltid måste följa på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad innebär det att säljaren behöver acceptera att köparen betalar med hjälp av Traderas betallösning?
+ANSWER: Enligt betalningsvillkoren för Tradera måste säljaren acceptera att köparen betalar med hjälp av Traderas betallösning. Detta innebär att när säljaren säljer något på Traderas plattform, så måste han eller hon ta betalt genom Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är syftet med Villkoren som gäller för Traderas betallösning?
+ANSWER: Syftet med Villkoren som gäller för Traderas betallösning är att sätta standarder och regler för transaktioner mellan köpare och säljare på plattformen. Genom att använda Traderas betallösning, garanteras en säker och effektiv avveckling av transaktionerna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Säljarens åtaganden när det gäller Traderas betallösning?
+ANSWER: Enligt betalningsvillkoren för Tradera är Säljarens åtaganden att acceptera att köparen betalar med hjälp av Traderas betallösning och ta betalt genom denna lösning när säljaren säljer något på plattformen. Säljaren är också ansvarig för att överföra de nödvändiga uppgifterna till Tradera för att göra transaktionen möjlig.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: På vilken plattform måste en säljare acceptera att en köpare betalar med hjälp av Traderas betallösning?
+ANSWER: Enligt betalningsvillkoren för Tradera måste en säljare acceptera att en köpare betalar med hjälp av Traderas betallösning när säljaren säljer något på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Klarna Bank AB i Traderas betalningsvillkor?
+ANSWER: Klarna Bank AB är enligt betalningsvillkoren för Tradera det företag som Tradera samarbetar med för att erbjuda sin betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Mitt Tradera enligt betalningsvillkoren för Tradera?
+ANSWER: Enligt betalningsvillkoren för Tradera är "Mitt Tradera" den inloggade miljö som Tradera erbjuder, där säljare kan hantera sina ordrar och köpare kan kontrollera sina köp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad hänvisar "Regler för Säljare" till i betalningsvillkoren för Tradera?
+ANSWER: "Regler för Säljare" är enligt betalningsvillkoren för Tradera de regler som en säljare alltid måste följa på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka är kraven för att använda Traderas betallösning enligt betalningsvillkoren?
+ANSWER: Enligt betalningsvillkoren för Tradera måste säljaren ha över 18 års ålder, inneha ett svenskt bankkonto, och uppfylla vissa säkerhetskrav för att använda Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka standarder och regulatoriska krav följer Tradera med sin betallösning?
+ANSWER: Enligt betalningsvillkoren för Tradera följer plattformen med standarder och regulatoriska krav för att garantera säker avveckling av transaktioner på plattformen. Detta innefattar bland annat krav från Finansinspektionen och Penningtvättslagen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

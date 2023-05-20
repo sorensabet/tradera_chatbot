@@ -1,0 +1,39 @@
+QUESTION: Vad är webb-beacons och hur används de på Tradera?
+ANSWER: Webb-beacons är små grafiska bilder som kan finnas på Traderas webbplatser och tjänster, använda tillsammans med cookies för att identifiera användare och deras beteenden.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Använder Tradera flash-cookies?
+ANSWER: Ja, Tradera har tidigare använt tekniken för webbapplikationer och liknande teknik för att lagra information i användares webbläsare eller enheter. 
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Använder Tradera cookies för att rikta reklam till användare?
+ANSWER: Tradera använder inte liknande teknik för att lagra information eller för att rikta reklam till användare på eller utanför deras webbsidor.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan liknande teknik lagring användas för att identifiera användare på Traderas webbplatser och tjänster?
+ANSWER: Ja, liknande teknik kan användas på Traderas webbplatser och tjänster för att lagra information i användares webbläsare eller enheter, samt för att identifiera användare på det sätt som beskrivs i texten ovan.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka webbläsare fungerar med liknande teknik som används av Tradera?
+ANSWER: Liknande teknik som används på Tradera fungerar i alla webbläsare, men kan ibland behöva hanteras direkt i applikationerna eller enheterna.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken typ av information samlas in av liknande teknik på Tradera?
+ANSWER: Liknande teknik på Tradera kan användas för att lagra information i användares webbläsare eller enheter och för att samla in information om användare och användares beteende.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är lokal lagring och hur används det på Tradera?
+ANSWER: Lokal lagring är en form av liknande teknik som lagrar information i din webbläsare eller enhet, t.ex. flash-cookies eller HTML 5-cookies. Det används på Tradera för att lagra information och identifiera användare på samma sätt som cookies och liknande teknik.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan användare på Tradera välja att inte använda cookies och liknande teknik?
+ANSWER: Ja, användare på Tradera kan själva välja att inte acceptera cookies och liknande teknik genom att ändra inställningarna i sina webbläsare. 
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: På vilket sätt kan cookies och liknande teknik på Tradera påverka användares integritet?
+ANSWER: Cookies och liknande teknik på Tradera kan användas för att samla in information om användare och deras beteenden, vilket kan påverka användares integritet och dataskydd.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Använder Tradera cookies för att erbjuda specifika funktioner, tjänster, applikationer och verktyg?
+ANSWER: Ja, vissa av Traderas funktioner, tjänster, applikationer och verktyg är bara tillgängliga med hjälp av cookies och liknande teknik.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

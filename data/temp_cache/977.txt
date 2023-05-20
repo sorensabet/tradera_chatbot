@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter delar Tradera med skatteverket?
+\ANSWER: Tradera delar personuppgifter som är relevanta för skatteverkets beslut, såsom fullständigt namn, primär adress, personnummer, skattemyndighetens taxeringsnummer och VAT-registreringsnummer. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilka företag kan Tradera lämna ut information till avseende försäljning?
+\ANSWER: Tradera kan lämna ut information till credit bureaus eller andra företag som är involverade i verifikation av personuppgifter, utövning av rättigheter eller förföljning av skulder. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Hur kan Tradera dela med sig av personuppgifter inom organisationen vid en företagsövergång?
+\ANSWER: I händelse av att Tradera blir föremål för en sammanslagning eller förvärv av ett annat företag, kan personuppgifter delas om det nya företaget åläggs att följa Traderas sekretesspolicy. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilka företag kan Tradera lämna ut information till angående intellektuella egendomar?
+\ANSWER: Tradera kan lämna ut information om användare till rättighetsinnehavare som är delaktiga i VeRO-programmet, i händelse av undersökning av bedrägeri, intrång i immateriella rättigheter, piratkopiering eller annan olaglig verksamhet. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilken typ av information kan Tradera lämna ut till företag som är involverade i verifiering av fördelaktigt ägande eller politiskt utsatta personer (PEP)?
+\ANSWER: Tradera kan lämna ut information som rör användarnas personuppgifter till företag som är involverade i verifikation av fördelaktigt ägande eller politiskt utsatta personer (PEP). 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Kan Tradera lämna ut information om företag till skattemyndigheten? 
+\ANSWER: Ja, Tradera kan lämna ut information som rör företag som är registrerade i kundregistret till skattemyndigheten, för att ge korrekt information om relevanta skatteskyldigheter. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vad händer om Tradera planerar att använda eller lämna ut personuppgifter för andra ändamål än det som anges i integritetspolicyn?
+\ANSWER: Användare som har registrerat personuppgifter på Tradera kommer att meddelas om Tradera planerar att använda eller lämna ut personuppgifter för ändamål som inte anges i integritetspolicyn. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilka personuppgifter kan Tradera lämna ut till kreditbyråer?
+\ANSWER: Tradera kan lämna ut information om användarkonton, inklusive information om sena betalningar eller andra överträdelser som kan visas i en kreditrapport. Allt detta görs enligt tillämpliga lagar.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilken typ av personuppgifter kan lämnas ut till andra företag vid en företagsövergång?
+\ANSWER: Vid en företagsövergång kan personuppgifter lämnas ut till det förvärvande företaget, inklusive användarnamn och kontaktinformation. Det nya företaget kommer enligt det gällande avtalet och lagarna att följa Traderas sekretesspolicy. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Vilken typ av personuppgifter kan Tradera behöva lämna ut för att verifiera faktiskt ägarskap?
+\ANSWER: Tradera kan behöva lämna ut information baserat på fullständigt namn, personnummer, adress, telefonnummer och e-postadress till företag som är involverade i verifiering av faktiskt ägarskap, såsom Trapets.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

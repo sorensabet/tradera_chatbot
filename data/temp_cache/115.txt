@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Traderas partners för sociala medier, annonsering och analys?
+\ANSWER: Syftet med Traderas partners för sociala medier, annonsering och analys är att samarbeta med olika företag för att förbättra Traderas användarupplevelse, genom att till exempel göra annonser mer relevanta för användarna. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Kan man stänga av cookies på Tradera?
+\ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de är nödvändiga för att Tradera ska fungera. Men prestanda-, funktionella och marknadsföringscookies kan stängas av om man inte vill att de ska användas. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vad händer om man stänger av prestanda-, funktionella och marknadsföringscookies på Tradera?
+\ANSWER: Om man stänger av prestanda-, funktionella och marknadsföringscookies på Tradera kan viss funktionalitet och användaranpassning på Tradera inte längre fungera. Dessutom blir annonserna man ser mindre relevanta. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vilket syfte har prestandacookies på Tradera?
+\ANSWER: Prestandacookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Varför ska man godkänna cookies på Tradera?
+\ANSWER: Man ska godkänna cookies på Tradera eftersom nödvändiga cookies behövs för att Tradera ska fungera. Dessutom hjälper prestanda-, funktionella och marknadsföringscookies till att Traderas användarupplevelse kan förbättras. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Är det möjligt att logga in på Tradera med Facebook?
+\ANSWER: Ja, det är möjligt att logga in på Tradera med Facebook genom att använda de funktionella cookies som Tradera erbjuder. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+\ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, till exempel för att spara vissa inställningar eller för att logga in med Facebook. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Kan Traderas annonseringpartners använda mina personuppgifter för marknadsföring?
+\ANSWER: Ja, Traderas annonseringpartners kan använda personuppgifter för att göra annonser mer relevanta för dig. Men personuppgifterna delas inte med tredje part utan används endast av annonseringspartners för att offerera relevanta annonser. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vilka cookies är nödvändiga för att Tradera ska fungera?
+\ANSWER: Det finns nödvändiga cookies för att Tradera ska fungera. Dessa kan inte stängas av och behövs för att grundläggande funktioner på sidan ska fungera. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/
+
+QUESTION: Vad kan jag förvänta mig av marknadsföringscookies på Tradera?
+\ANSWER: Marknadsföringscookies på Tradera används av Traderas annonseringspartners för att göra annonser mer relevanta för dig som användare. 
+URL: https://info.tradera.com/kann-din-kund-privatperson/

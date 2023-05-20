@@ -1,0 +1,39 @@
+QUESTION: Vad ska jag göra om köparen inte betalar?
+ANSWER: Om köparen inte betalar rekommenderas det att första steg är att kontakta köparen och försöka lösa situationen. Om det inte fungerar så kan man anmäla utebliven betalning och sedan lägga tillbaka varan eller varorna i sitt lager igen.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Vilken information kommer jag att få som säljare när en vara är såld?
+ANSWER: Du kommer att få ett mail när köparen har köpt varan och en annan när betalningen är genomförd. Detta hjälper dig att veta vilket steg i affären ni befinner er och om varan har blivit betald eller inte.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Betyder det att en vara är betald bara för att den är såld?
+ANSWER: Nej, en vara är inte betald bara för att den är såld. Det är möjligt att varan fortfarande inte har betalats trots att den är såld.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Kommer nya checkouten att påverka köpupplevelsen för butiksannonser?
+ANSWER: Ja, den nya checkouten kommer att påverka köpupplevelsen för butiksannonser genom att påminna mer om auktioner än tidigare.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Hur hittar jag information om hur den nya checkouten ser ut för köparen?
+ANSWER: För att hitta information om hur den nya checkouten ser ut för köparen kan man klicka på länken som tillhandahålls.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Kan jag ändra fraktkostnaden?
+ANSWER: Ja, fraktkostnaden kan ändras per ordernummer. Om alla köp ligger i samma order så kan man enkelt ändra fraktkostnaden för hela ordern genom att klicka på "Ändra fraktpris för order".
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Kommer jag att få mail när en vara är köpt?
+ANSWER: Ja, du kommer att få mail när en vara är köpt.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Kommer jag att få mail när betalningen har genomförts för en vara?
+ANSWER: Ja, du kommer att få mail när betalningen har genomförts för en vara.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Vad gör jag om säljaren erbjuder samfrakt?
+ANSWER: Om säljaren erbjuder samfrakt så kan man avvakta med betalningen tills man har shoppat klart och ni har kommit överens om ett fraktpris.
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Kan jag lägga tillbaka varor i mitt lager om köparen inte betalar?
+ANSWER: Ja, om köparen inte betalar så kan man lägga tillbaka varan eller varorna i sitt lager igen.
+URL: https://info.tradera.com/ny-checkout/

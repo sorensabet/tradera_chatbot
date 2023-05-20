@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information kan Tradera komma att lämna ut om en annons som kränker någon annans rättigheter?
+ANSWER: Tradera kan komma att lämna ut information om en annons eller annat innehåll endast för att skydda tredje mans rättigheter, tillgångar eller säkerhet och enbart i enlighet med tillämpliga lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka är de underleverantörer som Tradera kan dela personuppgifter med?
+ANSWER: Tradera kan dela med sig av personuppgifter till underleverantörer som hjälper dem att bedriva sin verksamhet, såsom kundservice, bedrägeriutredningar, fakturaindrivning, lojalitetsprogram och drift av webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan andra Tradera-användare få tillgång till mina personuppgifter?
+ANSWER: Andra Tradera-användare kan få tillgång till dina personuppgifter om du är involverad i en transaktion med dem. I detta fall kan den andra användaren se din e-postadress och begära ut dina kontaktuppgifter och postadress för att slutföra affären.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag begära att Tradera ska skicka mina personuppgifter till en annan tredje part?
+ANSWER: Ja, du kan begära att Tradera skickar dina personuppgifter till en annan tredje part som du själv uttryckligen begär, eller till sådan annan tredje man som du informeras om och samtycker till vid användningen av en särskild tjänst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför kan Tradera lämna ut personuppgifter till tillsynsmyndigheter eller annan behörig tredje man?
+ANSWER: Tradera kan lämna ut personuppgifter till tillsynsmyndighet, polismyndighet eller annan behörig tredje man, för att besvara frågor i samband med en brottsutredning eller påstådd olaglig aktivitet till exempel penningtvätt eller annan aktivitet som kan medföra ansvar för Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag själv styra vilka personuppgifter som andra Tradera-användare får tillgång till?
+ANSWER: Ja, du kan själv styra vilka personuppgifter som andra Tradera-användare får tillgång till genom att ange dina önskemål i dina kontoinställningar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Sparar Tradera mina personuppgifter om jag registrerar mig på deras webbplats?
+ANSWER: Ja, Tradera sparar de personuppgifter som du lämnar när du registrerar dig på deras webbplats. Detta sker för att Tradera ska kunna erbjuda en säker och funktionell webbplats samt fullgöra sina åtaganden gentemot användarna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad gör Tradera för att skydda mina personuppgifter?
+ANSWER: Tradera vidtar lämpliga tekniska och organisatoriska åtgärder för att skydda dina personuppgifter mot obehörig åtkomst och användning, såsom kryptering av känslig information och begränsad åtkomst till personuppgifterna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag begära att Tradera raderar mina personuppgifter?
+ANSWER: Ja, du har rätt att begära att Tradera raderar dina personuppgifter om de inte längre behöver dem för att uppfylla sina åtaganden gentemot dig eller om du har återkallat ditt samtycke till att behandla dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera ändra sin integritetspolicy?
+ANSWER: Ja, Tradera förbehåller sig rätten att ändra sin integritetspolicy när som helst. Eventuella ändringar kommer att publiceras på deras webbplats och träder i kraft när de publiceras.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

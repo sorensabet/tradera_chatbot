@@ -1,0 +1,39 @@
+QUESTION 1: What happens if you access Tradera from a public or shared computer?
+ANSWER: If you access Tradera from a public or shared computer, certain information about you may be visible to other individuals who use the computer after you.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 2: What personal and financial information can you share on Tradera?
+ANSWER: You can share personal and financial information on Tradera to complete transactions and collect payments.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 3: Can Tradera guarantee the privacy or security of information that users choose to share with others?
+ANSWER: No, Tradera cannot guarantee the privacy or security of information that users choose to share with other users and partners.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 4: How does Tradera protect users' privacy when they share personal information?
+ANSWER: Tradera provides limited access to users' contact, shipping, and financial information to facilitate transactions and collect payments. Users are also given the chance to remove themselves from other users' databases and review collected information about them.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 5: What are the purposes for which a user can use another user's personal data on Tradera?
+ANSWER: A user can use another user's personal data on Tradera only for transaction-related purposes that are not unsolicited commercial messages, using services offered through Tradera, or specific purposes to which the user has expressly chosen or consented to.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 6: What are cookies, web beacons, local storage and similar technologies used for on Tradera?
+ANSWER: Cookies, web beacons, local storage and similar technologies are used on Tradera to store information that can help provide users with a better, faster and safer experience, and used for advertising purposes.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 7: Does Tradera tolerate spam, spyware or spoofing?
+ANSWER: No, Tradera and its users do not tolerate spam, spyware or spoofing.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 8: How can you report Tradera-related spam or spoof emails?
+ANSWER: You can report Tradera-related spam or spoof emails by forwarding the email to abuse@tradera.com.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 9: Does Tradera scan messages for malicious or illegal activity?
+ANSWER: Yes, Tradera may automatically scan and manually filter messages to check for spam, viruses, phishing attacks, and other malicious activity or illegal or prohibited content.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 10: Does Tradera encourage users to disclose their privacy practices and respect the privacy of other users?
+ANSWER: Yes, Tradera encourages users to disclose their privacy practices and respect the privacy of other users.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

@@ -1,0 +1,39 @@
+QUESTION: Vilka åtaganden måste säljaren uppfylla när det gäller Traderas köparskydd?
+ANSWER: Säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som Köparen har valt att betala genom. Säljaren måste också besvara köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om säljaren inte delger Tradera de svar och underlag som efterfrågas?
+ANSWER: Om Säljaren inte utan dröjsmål delger Tradera de svar och underlag som Tradera efterfrågar kan Tradera komma fram till att Köparen ska ha rätt till återbetalning för en vara utan att Säljaren har yttrat sig. Om Säljaren redan har fått betalt kan Tradera sedan komma att skicka faktura till Säljaren på Återbetalningsskyldigt belopp, och Säljaren är då skyldig att betala detta belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är undantaget till Traderas köparskydd?
+ANSWER: Vissa typer av köp omfattas aldrig av Traderas köparskydd. Dessa är följande: Köp av fastigheter (inklusive, utan begränsning, bostadsfastigheter); Köp av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul; Köp av anpassade objekt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken typ av fordon omfattas inte av Traderas köparskydd?
+ANSWER: Köp av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul är undantagna från Traderas köparskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Var kan köpare och säljare få hjälp med tvistlösning?
+ANSWER: Köpare och säljare kan få hjälp med tvistlösning genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Mitt Tradera?
+ANSWER: Mitt Tradera är en plattform som erbjuds av Tradera för köpare och säljare att kommunicera och lösa eventuella tvister som kan uppstå under en försäljningstransaktion.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan en köpare begära återbetalning utan att säljaren har yttrat sig?
+ANSWER: Om säljaren inte delger Tradera de svar och underlag som efterfrågas kan Tradera komma fram till att köparen har rätt till återbetalning för en vara utan att säljaren har yttrat sig. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur fungerar Traderas köparskydd?
+ANSWER: Traderas köparskydd innebär att köpare har rätt till återbetalning om säljaren inte uppfyller sina åtaganden. För att få tillgång till köparskyddet måste transaktionen ske genom Traderas betaltjänst, säljaren måste lämna rätt information om produkten och köparen måste skicka in en ansökan till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Måste transaktionen ske genom Traderas betaltjänst för att köpare ska ha tillgång till köparskyddet?
+ANSWER: Ja, transaktionen måste ske genom Traderas betaltjänst för att köpare ska ha tillgång till köparskyddet. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är en anpassad produkt?
+ANSWER: En anpassad produkt är en produkt som har modifierats eller gjorts efter kundens specifika önskemål eller krav. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

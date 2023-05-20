@@ -1,0 +1,39 @@
+QUESTION: What is Tradera?
+ANSWER: Tradera is an e-commerce company that serves as a marketplace for users to offer, sell and buy items in various pricing formats and locations. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera own any of the items listed on the platform or is a party to transactions between buyers and sellers?
+ANSWER: No, Tradera does not own any of the items listed on the platform or is a party to transactions between buyers and sellers. The actual contract for sale is directly between the buyer and the seller.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the effective date of the User Agreement?
+ANSWER: The effective date of the User Agreement is November 16, 2022, for existing users and upon acceptance for new users.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera review users' listings or content?
+ANSWER: No, Tradera does not review users' listings or content.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera guarantee the existence, quality, safety or legality of items advertised on its platform?
+ANSWER: No, Tradera does not guarantee the existence, quality, safety or legality of items advertised on its platform.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the entity that users are contracting with when accessing or using Tradera's Services?
+ANSWER: The entity that users are contracting with when accessing or using Tradera's Services is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera provide guidance regarding prices, pricing, listing and other such questions as part of its Services?
+ANSWER: Yes, Tradera can provide guidance regarding prices, pricing, listing and other such questions as part of its Services. However, such guidance is provided solely for informational purposes and the user may decide not to follow it.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can Tradera help facilitate the resolution of disputes between users?
+ANSWER: Yes, Tradera may help facilitate the resolution of disputes between users.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What does the User Agreement set out for users accessing or using Tradera's Services?
+ANSWER: The User Agreement sets out the terms on which Tradera offers access to and use of its Services, and users agree to comply with all terms of the User Agreement when accessing or using Tradera's Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the previous effective date of the User Agreement?
+ANSWER: The previous effective date of the User Agreement was July 18, 2020, for all users.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

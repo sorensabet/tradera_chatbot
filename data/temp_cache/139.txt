@@ -1,0 +1,39 @@
+QUESTION 1: What is the requirement to create a Tradera account?
+ANSWER: To create a Tradera account, the email address used must be the same as the one used for your PayPal account, and the name and address must match as well.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 2: How can I verify my PayPal account to create a Tradera account?
+ANSWER: To verify your PayPal account, you have to pay around $1.50 for the verification process, and a PayPal code will be generated and processed to your bank account. Once you get the code, you can enter it on the PayPal website, and your account will be verified, and you will get your $1.50 back. 
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 3: Can Tradera create a PayPal account for me?
+ANSWER: No, Tradera cannot create a PayPal account for you.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 4: How can I proceed if I already have a verified PayPal account?
+ANSWER: If you already have a verified PayPal account, you can contact Tradera's customer service by chat and they will help you get started.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 5: What happens after I get a PayPal code for verification?
+ANSWER: After you get a PayPal code for verification, you need to enter it on the PayPal website to verify your account. Once your account is verified, you will get your $1.50 back. 
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 6: How much does it cost to verify a PayPal account?
+ANSWER: It costs around $1.50 to verify a PayPal account.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 7: Will I still be able to create a Tradera account if my PayPal account is not verified?
+ANSWER: No, you need to have a verified PayPal account to create a Tradera account.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 8: Can I use a different email address for my Tradera account?
+ANSWER: No, the email address used for your Tradera account must be the same as the email address used for your PayPal account.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 9: What should I do if my name and address don't match on my PayPal and Tradera accounts?
+ANSWER: Your name and address must match on your PayPal and Tradera accounts. If they don't, you won't be able to create a Tradera account and will need to update your PayPal account information.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION 10: Can I create a Tradera account if I don't have a PayPal account?
+ANSWER: No, you must have a PayPal account to create a Tradera account, as the email addresses, names, and addresses must match.
+URL: https://info.tradera.com/en/register-as-a-foreigner/

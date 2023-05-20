@@ -1,0 +1,39 @@
+QUESTION: Vilken information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Hur används cookies på Tradera?
+ANSWER: Cookies på Tradera används för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken. 
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Kan jag ändra inställningar för cookies på Tradera?
+ANSWER: Ja, du kan ändra inställningar för cookies på Tradera.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Vilken typ av cookies kan inte stängas av på Tradera?
+ANSWER: Nödvändiga cookies kan inte stängas av på Tradera.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Vad används Prestanda cookies till på Tradera?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Kan jag använda sparade inställningar på Tradera?
+ANSWER: Ja, vissa sparade inställningar kan användas på Tradera.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Kan jag logga in på Tradera med Facebook?
+ANSWER: Ja, du kan logga in på Tradera med Facebook.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Vilken typ av annonser visas på Tradera?
+ANSWER: Annonser på Tradera är riktade och relevanta för användarna.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Kan jag välja att inte godkänna cookies på Tradera?
+ANSWER: Ja, du kan välja att inte godkänna cookies på Tradera, dock kan vissa funktioner begränsas.
+URL: https://info.tradera.com/en/dhl/

@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas betalningslösning?
+ANSWER: Traderas betalningslösning är en tjänst som tillhandahålls på deras plattform och som gör det möjligt för köpare att betala för varor direkt på Tradera med hjälp av olika betalningssätt som Mastercard, VISA och PayPal. Förutsatt att säljaren följer betalningsvillkoren, kommer transaktionskostnaden för köpare med Traderas betalningslösning att vara noll (0) kronor och ingen annan avgift behöver betalas till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Kan Tradera debitera avgifter för köp?
+ANSWER: Ja, i några fall kan Tradera ådra sig kostnader, såsom Chargebacks eller kostnader för utskickande av påminnelser i samband med att säljaren inte följer betalningsvillkoren. Dessa kostnader kommer att krävas som en avgift från säljaren och benämns "Avgifter". 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka betalningssätt kan jag använda med Traderas betalningslösning?
+ANSWER: Du kan använda olika betalningssätt som Mastercard, VISA och PayPal med Traderas betalningslösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är PCI DSS?
+ANSWER: PCI DSS står för Payment Card Industry Data Security Standards och är ett internationellt säkerhetsstandard för att skydda konsumenternas kreditkortsinformation. För säljare som själva hanterar kortdata för transaktioner med Traderas betalningslösning är det obligatoriskt att följa dessa säkerhetsstandarder.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om säljaren inte följer Traderas betalningsvillkor?
+ANSWER: Om säljaren inte följer betalningsvillkoren kan Tradera ådra sig kostnader som chargebacks eller kostnader för utskickande av påminnelser. Säljaren kan då bli krävd att betala en avgift för dessa kostnader.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Kan jag betala med ett kreditkort hos Tradera?
+ANSWER: Ja, du kan betala på Tradera med olika betalningssätt som inkluderar kreditkort såsom Mastercard och VISA.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Kan jag använda PayPal som betalningsmetod på Tradera?
+ANSWER: Ja, Traderas betalningslösning accepterar PayPal som en möjlig betalningsmetod.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Hur fungerar Traderas betalningslösning?
+ANSWER: Traderas betalningslösning gör det möjligt för köpare att betala på Tradera med olika betalningssätt som bland annat inkluderar kredit- och bankkort samt PayPal. Förutsatt att säljaren följer betalningsvillkoren, kommer transaktionskostnaden för köpare med Traderas betalningslösning att vara noll (0) kronor och ingen annan avgift behöver betalas till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är chargebacks och varför kan de orsaka avgifter?
+ANSWER: Chargebacks uppstår när en köpare gör en reservation av pengar för en transaktion som sedan spärras pga. en reklamation eller annan form av missnöje. Om en säljare har accepterat en sådan betalning och köparen gör en reklamation, ådrar sig Tradera kostnader och kan kräva en avgift från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Hur kan jag undvika återköp hos Tradera?
+ANSWER: För att undvika återköp hos Tradera är det viktigt att följa betalningsvillkoren, tillhandahålla korrekt information om varan, och skicka varan i rätt tid och i enlighet med produktbeskrivningen. Om dessa åtgärder implemteras korrekt, minskar risken för en återköp och eventuella avgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

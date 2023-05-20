@@ -1,0 +1,39 @@
+QUESTION: What is the new feature being rolled out on Tradera for store listings from March 1st?
+ANSWER: The new feature being rolled out on Tradera for store listings is the new checkout which will be launched from March 1st. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: When will the new checkout feature be enabled for all users?
+ANSWER: The new checkout feature will be enabled for all users on March 3rd. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Who will be affected by the new checkout feature on Tradera?
+ANSWER: The new checkout feature on Tradera will only affect those with store listings and Tradera Pay. Those without Tradera Pay will have the same checkout process as before. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: What is the purpose of the new checkout feature on Tradera for store listings?
+ANSWER: The purpose of the new checkout feature on Tradera for store listings is to enable easier combined shipping for sellers since buyers no longer have to pay directly when buying an item, allowing the shipping cost to be changed in case of combined shipping before they pay. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Does the new checkout feature mean that Tradera is done with their combined shipping solution?
+ANSWER: No, the new checkout feature is just the first step towards their integrated combined shipping feature, and more features will be added later. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: How should a seller handle a situation when a buyer doesn't pay for their purchase?
+ANSWER: If a buyer doesn't pay, the seller should try to contact them first. If that doesn't work, the item should be reported as unpaid, and then the listing can be reposted or added back to inventory. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: What should a seller do if they want to get started with Tradera Pay?
+ANSWER: If a seller wants to get started with Tradera Pay, they can click on the link provided in the text to learn how to get started. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Will the checkout process for regular listings be affected by the new checkout feature on Tradera for store listings?
+ANSWER: No, the checkout process for regular listings will remain the same. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: When will the new checkout feature for store listings be enabled for more users?
+ANSWER: The new checkout feature for store listings will be enabled for more users in the days following March 1st. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Does the new checkout feature on Tradera for store listings affect the payment process for buyers?
+ANSWER: Yes, with the new checkout feature, buyers no longer have to pay directly when buying an item, allowing the shipping cost to be changed in case of combined shipping before they pay. 
+URL: https://info.tradera.com/en/ny-checkout/

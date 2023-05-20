@@ -1,0 +1,39 @@
+QUESTION: Vad händer om mitt paket är stulet eller har försvunnit i leveransen när jag använde PostNord?
+ANSWER: Om ditt paket är stulet eller försvunnet i leveransen när du använder PostNord, kan du kontakta PostNord kundtjänst och göra en reklamation. Du behöver ha ditt kollinummer och kvitto tillgängliga när du kontaktar dem. PostNord kommer att undersöka saken och försöka hitta paketet. Om paketet inte hittas kan du få ersättning för dina förluster. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag ändra leveransadressen när paketet redan har skickats med PostNord?
+ANSWER: Nej, du kan inte ändra leveransadressen när paketet redan har skickats med PostNord. Men om paketet inte har levererats ännu så kan du kontakta PostNord och begära att de ändrar adressen för dig. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur kan jag spåra mitt paket som jag har skickat med PostNord?
+ANSWER: Du kan spåra ditt paket som du har skickat med PostNord genom att ange ditt kollinummer på PostNords hemsida eller i deras app. Där kan du följa paketets leveransstatus och uppdateringar om paketet. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag hämta mitt paket på ett annat PostNord-ombud än det som står på aviseringen?
+ANSWER: Ja, du kan hämta ditt paket på ett annat PostNord-ombud än det som står på aviseringen genom att kontakta PostNord och be dem om att ändra hämtningsplatsen för dig. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur många dagar har jag på mig att hämta ut mitt paket hos PostNord-ombudet?
+ANSWER: Du har vanligtvis 14 dagar på dig att hämta ut ditt paket hos PostNord-ombudet. Om du inte hämtar ut paketet inom denna tidsperiod kan det skickas tillbaka till avsändaren. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka typer av paket kan jag skicka med PostNord genom Tradera?
+ANSWER: Du kan skicka både brev och paket med PostNord genom Tradera. Du kan välja mellan olika tjänster som Passa på-brev, Varubrev, och palltjänster beroende på vad du ska skicka. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag skicka paket internationellt med PostNord?
+ANSWER: Ja, du kan skicka paket internationellt med PostNord genom Tradera. PostNord har olika internationella fraktalternativ, beroende på vilket land du ska skicka till och vilken typ av paket du ska skicka. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur mycket kostar det att skicka ett paket med PostNord genom Tradera?
+ANSWER: Kostnaden för att skicka ett paket med PostNord genom Tradera beror på vilken tjänst du väljer och vilken storlek på paketet du ska skicka. Du kan se priser och alternativ genom att gå till Traderas sida för frakt på hemsidan. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag skicka produkter som innehåller farliga ämnen med posten?
+ANSWER: Nej, det är inte tillåtet att skicka produkter som innehåller farliga ämnen med posten. Det kan inkludera produkter som är brandfarliga, giftiga, explosiva, eller på annat sätt farliga. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag skicka en brevvåg med PostNord genom Tradera?
+ANSWER: Ja, du kan skicka en brevvåg med PostNord genom Tradera, eftersom det faller under kategorin Passa på-brev. Brevvågar får dock inte väga mer än 2 kg för denna tjänst. 
+URL: https://info.tradera.com/postnord/

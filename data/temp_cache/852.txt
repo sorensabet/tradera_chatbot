@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika typerna av cookies som används på Tradera?
+ANSWER: De olika typerna av cookies som används på Tradera är Nödvändiga, Prestanda, Funktionella, och Marknadsföring cookies. Nödvändiga cookies kan inte stängas av och är nödvändiga för att Tradera ska fungera. Prestanda cookies använder anonym mätning av hur Tradera används för att förbättra användarupplevelsen. Funktionella cookies ger utökad funktionalitet på Tradera som sparade inställningar eller inloggning med Facebook. Marknadsföring cookies används av Traderas samarbetspartners för riktade annonser som är relevanta för användarna.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Varför kan inte Nödvändiga cookies stängas av?
+ANSWER: Nödvändiga cookies är avgörande för att Tradera ska fungera och därför kan de inte stängas av.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vad används Prestanda cookies för?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vilken funktion tillhandahåller Funktionella cookies på Tradera?
+ANSWER: Funktionella cookies tillhandahåller utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vad används Marknadsföring cookies för?
+ANSWER: Marknadsföring cookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Varför delar Tradera information om min användning av deras webbplats?
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys för att förbättra användarupplevelsen och skapa relevanta annonser för användarna.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Kan jag ändra inställningarna för cookies på Traderas webbplats?
+ANSWER: Ja, användare har möjlighet att ändra sina inställningar för cookies på Traderas webbplats.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vad händer om jag inte godkänner Traderas cookies?
+ANSWER: Om du inte godkänner Traderas cookies kan vissa funktioner på webbplatsen vara begränsade eller inte fungera korrekt.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vilka typer av användaranpassning kan jag göra på Tradera med hjälp av Funktionella cookies?
+ANSWER: Du kan göra vissa sparade inställningar eller inloggning med Facebook på Tradera med hjälp av Funktionella cookies.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Varför använder Tradera Marknadsföring cookies?
+ANSWER: Tradera använder Marknadsföring cookies för att skapa riktade annonser relevanta för användaren med hjälp av deras annonseringspartners.
+URL: https://info.tradera.com/underlag/

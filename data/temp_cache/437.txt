@@ -1,0 +1,39 @@
+QUESTION: Hvordan aktiverer jeg Tradera Pay?
+ANSWER: For at aktivere Tradera Pay skal du angive dine betalingsoplysninger, enten i form af en bank- eller PayPal-konto. Klik på “Betalinger” under “Mit Tradera” og vælg land/område og valuta, og tilføj derefter dit BIC-/Swift-nummer.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hvilke betalingsoplysninger kræver Tradera for at kunne modtage mine betalinger?
+ANSWER: Tradera kræver, at du angiver dine betalingsoplysninger, enten i form af en bank- eller PayPal-konto, for at kunne modtage dine betalinger.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hvordan tilføjer jeg mine bankoplysninger til Tradera Pay?
+ANSWER: For at tilføje dine bankoplysninger til Tradera Pay, skal du klikke på “Betalinger” under “Mit Tradera” og angive dit BIC-/Swift-nummer.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hvilke lande/områder kan jeg vælge imellem, når jeg aktiverer Tradera Pay?
+ANSWER: Når du aktiverer Tradera Pay, skal du vælge det land/område, som din kontotype er tilknyttet. Hvis du har en IBAN-konto, skal du vælge det land, som kontoen er tilknyttet. Hvis du har PayPal, skal du vælge det land, som det er registreret i.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jeg modtage betalinger i andre valutaer end EUR, GBP, SEK og USD, når jeg bruger Tradera Pay?
+ANSWER: Nej, Tradera understøtter kun EUR, GBP, SEK og USD for PayPal-konti. Hvis du vælger en anden valuta, vil du ikke kunne tilføje en PayPal-konto for at modtage dine betalinger.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hvilke betalingstyper accepteres af Tradera?
+ANSWER: Tradera accepterer betalinger via bank- eller PayPal-konto.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jeg bruge min IBAN-konto til at modtage betalinger via Tradera Pay?
+ANSWER: Ja, du kan bruge din IBAN-konto til at modtage betalinger via Tradera Pay. Vælg det land, som kontoen er tilknyttet, når du aktiverer Tradera Pay.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hvor kan jeg tilføje min bankkonto eller PayPal-konto til Tradera Pay?
+ANSWER: Du kan tilføje din bankkonto eller PayPal-konto til Tradera Pay ved at klikke på “Betalinger” under “Mit Tradera” og angive dine betalingsoplysninger.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jeg vælge hvilken valuta, jeg vil modtage mine betalinger i?
+ANSWER: Ja, når du aktiverer Tradera Pay, kan du vælge hvilken valuta, du vil modtage dine betalinger i. Tradera understøtter kun EUR, GBP, SEK og USD for PayPal-konti.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Skal jeg angive både bank- og PayPal-kontooplysninger for at modtage betalinger via Tradera Pay?
+ANSWER: Nej, du skal kun angive én af følgende betalingsoplysninger for at modtage dine betalinger via Tradera Pay: bank- eller PayPal-konto.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/

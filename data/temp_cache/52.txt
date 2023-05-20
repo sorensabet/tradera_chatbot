@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med Nödvändiga cookies på Tradera?
+ANSWER: Syftet med Nödvändiga-cookies på Tradera är att göra det möjligt för Tradera att fungera på ett optimalt sätt. Dessa cookies kan inte stängas av eftersom de är avgörande för att Tradera ska kunna fungera som det är tänkt.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 2: Vad är syftet med Prestanda cookies på Tradera?
+ANSWER: Syftet med Prestanda-cookies på Tradera är att anonymt mäta hur Tradera används för att förbättra användarupplevelsen. Dessa cookies hjälper företaget att identifiera problem och förbättra sin tjänst.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 3: Vill Tradera att användarna stänger av Nödvändiga cookies?
+ANSWER: Nej, Tradera vill inte att användaren stänger av Nödvändiga cookies eftersom det kan leda till att Tradera inte fungerar som det är tänkt. Dessa cookies är nödvändiga för att webbplatsen ska kunna fungera optimalt.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 4: Vilket syfte har Funktionella cookies på Tradera?
+ANSWER: Syftet med Funktionella cookies på Tradera är att tillhandahålla användaranpassning och utökad funktionalitet på Tradera, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 5: Vad är syftet med Marknadsföring cookies på Tradera?
+ANSWER: Syftet med Marknadsföring cookies på Tradera är att användas av Traderas annonseringspartners för att visa annonser som är riktade till användarna och relevanta för dem.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 6: Kan jag stänga av Prestanda cookies på Tradera?
+ANSWER: Ja, användaren kan stänga av Prestanda cookies på Tradera om så önskas, men Tradera rekommenderar att man inte gör det eftersom det kan leda till en sämre användarupplevelse.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 7: Varför kräver Tradera cookies för att fungera?
+ANSWER: Tradera kräver cookies för att fungera eftersom cookies är en viktig teknologi för att kunna identifiera användare och presentera innehåll som är skräddarsydd för dem. Cookies används också för att förbättra prestanda och användarupplevelse på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 8: Vad hände om en användare stänger av alla cookies på Tradera?
+ANSWER: Om en användare stänger av alla cookies på Tradera kan Traderas funktionalitet minska eller vara helt inaktiverad.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 9: Hur länge sparas cookies på Tradera?
+ANSWER: Den tid som cookies sparas på Tradera varierar beroende på vilken typ av cookie det är. Vissa cookies sparas endast under användares session, medan andra kan sparas längre, såsom ett år eller längre.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION 10: Använder Tradera cookies för att samla in personlig information från användare?
+ANSWER: Ja, Tradera kan samla in personliga uppgifter från cookies, såsom användarnamn och lösenord, men sådan information samlas endast in för att förbättra användarupplevelsen eller då användaren själv har lämnat ut informationen till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/

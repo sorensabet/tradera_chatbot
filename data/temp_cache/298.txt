@@ -1,0 +1,39 @@
+QUESTION: Vad är skillnaden mellan att sälja som företag och som privatperson på Tradera? 
+ANSWER: På Tradera kan både privatpersoner och företag sälja. Att sälja som företag innebär vissa extra krav på bland annat momsregistrering och konsumenträttigheter. 
+URL: https://info.tradera.com/salj/salj-som-foretag/
+
+QUESTION: Vad är Grön frakt på Tradera? 
+ANSWER: Grön frakt är Traderas miljövänliga fraktalternativ där paket transporteras helt klimatkompenserade. 
+URL: https://www.tradera.com/topic/greenlogistics
+
+QUESTION: Vilka objekt är inte tillåtna att sälja på Tradera? 
+ANSWER: Det finns flera objekt som inte är tillåtna att sälja på Tradera, inklusive droger, explosiva objekt, pornografiskt material och falska sedlar. En fullständig lista finns på Traderas sida för Säljregler. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är dropshipping på Tradera?
+ANSWER: Dropshipping på Tradera innebär att säljaren inte har varan i lager utan beställer den direkt från en leverantör när den har sålts. Kunderna får då varan direkt från leverantören. 
+URL: https://www.tradera.com/page/dropshippingfaq
+
+QUESTION: Vad är omdömesreglerna på Tradera? 
+ANSWER: Tradera använder omdömen för att ge säljare och köpare en möjlighet att betygsätta varandra efter avslutade köp. Både positiva och negativa omdömen är tillåtna. 
+URL: https://www.tradera.com/topic/omdome
+
+QUESTION: Kan man sälja livsmedel på Tradera? 
+ANSWER: Nej, livsmedel är inte tillåtna att sälja på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är ångerrätten på Tradera? 
+ANSWER: Ångerrätten på Tradera innebär att köparen har rätt att ångra sitt köp inom 14 dagar efter att varan mottagits. 
+URL: https://info.tradera.com/sakerhetscenter/vanliga-fragor-och-svar/#hur-lange-galler-angerratten
+
+QUESTION: Vad innebär frakt- och avgiftsbegränsningar på Tradera?
+ANSWER: Frakt- och avgiftsbegränsningar innebär att säljaren inte får ta ut för höga fraktkostnader i förhållande till varans värde. Det finns även en maxgräns på 7,5 % av varans pris för Traderas avgifter. 
+URL: https://info.tradera.com/salj/frakt-och-betalning/
+
+QUESTION: Kan man sälja vapenrelaterade objekt på Tradera?
+ANSWER: Vapenrelaterade objekt omfattas av strikta säkerhetsregler och är inte tillåtna att sälja på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är en begränsning av identiska objekt på Tradera?
+ANSWER: En begränsning av identiska objekt innebär att säljare endast får lägga upp ett visst antal identiska objekt till försäljning inom en given tidsperiod för att undvika att marknaden översvämmas av samma varor. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/

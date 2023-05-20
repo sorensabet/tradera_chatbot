@@ -1,0 +1,39 @@
+QUESTION: What is a buyer dispute on Tradera?
+ANSWER: A buyer dispute on Tradera is a mediation process initiated by a buyer when a purchase has not gone as planned and the issue cannot be resolved with the seller. It involves submitting a short description of what went wrong and communicating with the seller before escalating the dispute to Tradera.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Who can initiate a dispute on Tradera?
+ANSWER: Only buyers with buyer protection can initiate a dispute on Tradera.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What is Tradera's buyer protection?
+ANSWER: Tradera's buyer protection is a feature that protects buyers from fraud and ensures that buyers receive the item they have purchased as described.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What is the first step a buyer should take when dealing with a purchase issue?
+ANSWER: The first step a buyer should take when dealing with a purchase issue is to contact the seller and communicate to find a solution together before escalating the problem to Tradera. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: How can a buyer escalate a dispute to Tradera?
+ANSWER: A buyer can escalate a dispute to Tradera if they cannot find a common solution with the seller. They can do this by finding the listing on the "Your purchases" page, clicking on more, and choosing "Report missing item."
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What tips can help a buyer resolve a purchase issue quickly with a seller?
+ANSWER: To resolve a purchase issue quickly with a seller, a buyer should remain calm and constructive in their communication, describe the issue, attach a picture of the issue (when possible), and suggest a solution.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Will Tradera contact both parties involved in a dispute before reaching a decision?
+ANSWER: Yes, Tradera will contact both the buyer and the seller involved in a dispute before reaching a decision.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Does Klarna offer buyer protection on Tradera?
+ANSWER: Yes, items paid for with Klarna on Tradera will have Klarna's buyer protection.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What will Tradera do once they have all the required information for a dispute?
+ANSWER: Once Tradera has all the required information for a dispute, they will reach a decision.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What information is needed for a buyer to start a dispute on Tradera?
+ANSWER: To start a dispute on Tradera, a buyer needs to submit a short description of what went wrong and communicate with the seller to find a solution before escalating the problem to Tradera.
+URL: https://info.tradera.com/en/tvist-kopare/

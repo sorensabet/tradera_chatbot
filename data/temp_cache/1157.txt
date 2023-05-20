@@ -1,0 +1,39 @@
+QUESTION: Vilket företag hanterar användarnas personuppgifter i samband med Villkoren?
+ANSWER: Personuppgifter hanteras av både Tradera och PayPal inom ramen för tjänsten Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är en säljare ansvarig för när det gäller sin unika inloggning till Tradera?
+ANSWER: En säljare ansvarar för alla åtgärder som vidtas genom användning av sin unika inloggning till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: När upphör Villkoren att gälla?
+ANSWER: Villkoren upphör att gälla om Tradera säger upp Användaravtalet eller förvägrar säljaren att sälja ytterligare varor på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer när Villkoren upphör att gälla?
+ANSWER: Tradera har rätt att innehålla all utbetalning till säljaren tills dess att Tradera har verifierat antalet utestående transaktioner och att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: För hur länge gäller force majeure-händelsen?
+ANSWER: Framgår att det gäller så länge som sådan force majeure-händelse pågår.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken typ av händelse kan innefattas av force majeure för att ingen part ska hållas ansvarig?
+ANSWER: Ingen part ska hållas ansvarig för utebliven eller försenad prestation om orsaken är blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation, eller någon annan händelse utom Parts rimliga kontroll.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka åtgärder måste en part som åberopar force majeure vidta?
+ANSWER: En part som åberopar force majeure är skyldig att vidta rimliga åtgärder för att minska skadan.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Har en säljare rätt att ta emot betalning direkt från en köpare på Tradera-plattformen?
+ANSWER: Ja, säljaren har rätt att ta emot betalning direkt från köparen på Tradera-plattformen i de fall där köparen väljer att betala direkt till säljaren via någon av de betallösningar som stöds av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är en Transaktion enligt Villkoren för Tradera?
+ANSWER: En Transaktion är en försäljningstransaktion som genomförs på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Finns det ångerfrist för en Transaktion enligt Villkoren för Tradera?
+ANSWER: Ja, det finns ångerfrist för en Transaktion enligt Villkoren för Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

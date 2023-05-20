@@ -1,0 +1,39 @@
+QUESTION: Vad händer med mina kontaktuppgifter i handelstransaktioner på Tradera?
+ANSWER: Ditt namn, din adress och kontaktuppgifter delas med din motpart för att ni ska kunna slutföra affären.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vilka uppgifter kan vara dolda i en handelstransaktion på Tradera?
+ANSWER: vissa uppgifter är dolda tills att en vara har betalts, t.ex. namnet och adressen till säljaren.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Kan jag skapa ett nytt konto direkt efter att jag har avslutat mitt tidigare Tradera-konto? 
+ANSWER: Vissa uppgifter raderas inte omedelbart efter att ett konto avslutas. Du kan därför inte skapa ett nytt konto direkt efter att ha avslutat ett tidigare konto.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Är det möjligt att återaktivera ett stängt Tradera-konto?
+ANSWER: Det kan vara möjligt att återaktivera ett stängt konto. Om du behöver hjälp med att återöppna ditt konto eller rätta uppgifter på kontot rekommenderar vi att du kontaktar vår kundservice.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur kan jag få reda på vilken information Tradera behandlar om mig?
+ANSWER: Du har rätt att veta vilken information vi behandlar om dig. Du får lättast reda på det genom att läsa den här sidan eller vår integritetspolicy.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vilka rättigheter har jag enligt Traderas dataskyddspolicy?
+ANSWER: Du har rätt till information om vilken information som Tradera behandlar om dig, och du har rätt att invända mot behandlingen av dina personuppgifter. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Kan jag invända mot hur mina personuppgifter behandlas för ändamål som rör direktmarknadsföring på Tradera?
+ANSWER: Ja, du kan invända och motsätta dig att dina personuppgifter behandlas för ändamål som rör direktmarknadsföring eller behandling som vi utför med stöd av vårt berättigade intresse. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur kan jag invända mot hur Tradera behandlar mina personuppgifter?
+ANSWER: Du kan kontakta Traderas kundtjänst på privacy@tradera.com för att invända mot behandlingen av dina personuppgifter. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vilken kontaktinformation behöver jag för att få hjälp med att återöppna mitt stängda Tradera-konto?
+ANSWER: Om du behöver hjälp med att återöppna ditt konto eller rätta uppgifter på kontot rekommenderar vi att du kontaktar vår kundservice, du hittar våra kontaktuppgifter här.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Kan mina personuppgifter användas av Tradera för andra än handelsrelaterade ändamål?
+ANSWER: Enligt dataskyddspolicyn kan Tradera behandla dina personuppgifter för direktmarknadsföringsändamål eller andra ändamål som Tradera anser vara berättigade intressen, dock kan du invända och motsätta dig sådan behandling. 
+URL: https://info.tradera.com/dataskydd/

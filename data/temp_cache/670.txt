@@ -1,0 +1,39 @@
+QUESTION 1: Vilka cookies används på Tradera?
+\ANSWER: När du besöker en webbplats som Tradera, placerar webbplatsen små textfiler på din dator, dessa kallas för cookies. Cookies kan användas för olika ändamål, som prestanda, funktionella och marknadsföring. På dessa sidor kan du lära dig mer om vilka cookies Tradera använder och till vilket syfte.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 2: Varför behöver Tradera använda cookies?
+\ANSWER: Tradera använder cookies för att förbättra din användarupplevelse på webbplatsen, som kan vara för att mäta hur Tradera används, eller för att erbjuda utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 3: Kan man stänga av cookies på Tradera?
+\ANSWER: Nej, nödvändiga cookies för att Tradera ska fungera kan inte stängas av. Men om du inte vill att Tradera ska använda vissa cookies kan du ändra dina inställningar och bara tillåta cookies du godkänner.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 4: Vad innebär funktionella cookies på Tradera?
+\ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook. Till exempel kan funktionella cookies användas så att Tradera minns en annons du har tittat på tidigare för att göra det enklare för dig att hitta den igen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 5: Vilket syfte används marknadsföringscookies för på Tradera?
+\ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för dig. Marknadsföringscookies kan samla information om dina webbplatsbesök och användning av Tradera för att kunna visa reklam som är anpassad efter dina intressen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 6: Kan Tradera samla in personlig information genom cookies?
+\ANSWER: Ja, cookies kan användas för att samla in personlig information om dig. Men Tradera följer alltid den gällande dataskyddslagstiftningen och behandlar all personlig information med stor respekt och i enlighet med myndigheternas rekommendationer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 7: Vad är syftet med prestandacookies på Tradera?
+\ANSWER: Prestandacookies används för anonym mätning av hur Tradera används. Informationen som samlas in av dessa cookies används sedan för att förbättra Traderas webbplats och din användarupplevelse.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 8: Vad är syftet med nödvändiga cookies på Tradera?
+\ANSWER: Nödvändiga cookies är cookies som Tradera använder för att Traderas webbplats ska fungera och de kan inte stängas av. Till exempel kan nödvändiga cookies användas för att lagra information när du loggar in på Tradera eller för att lagra information när du lägger en artikel i din varukorg.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 9: Kan Tradera använda cookies från tredje part?
+\ANSWER: Ja, Tradera kan använda cookies från tredje part för att leverera annonsering eller för att tillhandahålla funktionalitet som till exempel inloggning med Facebook. Alla sådana cookies som används av Tradera omfattas dock av Traderas sekretesspolicy. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 10: Gäller det specifika regler för cookies på Tradera?
+\ANSWER: Ja, Tradera följer den gällande dataskyddslagstiftningen och tillämpliga riktlinjer för att skydda din personliga information som Tradera har fått genom användningen av cookies. Du kan läsa mer om Traderas cookiepolicy och dataskyddspolicy genom att besöka Traderas webbplats. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/

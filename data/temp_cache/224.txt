@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med guiden om hur man skapar en annons på Tradera?
+ANSWER: Syftet med guiden är att ge tips och råd för att hjälpa användare som skapar en annons för första gången genom att gå igenom vilka saker man ska tänka på i olika steg.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är en kampanjkod på Tradera och vad kan användaren göra med den?
+ANSWER: Kampanjkoderna används vid Traderas aktiva kampanjer och ger användarna erbjudanden eller möjligheter att bidra till välgörenhetskampanjer. Användarna kan skriva in kampanjkoden vid skapandet av annonsen för att dra nytta av erbjudandet.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Hur kan man spara en annons som en mall på Tradera?
+ANSWER: Under skapandet av annonsen på Tradera.se kan man välja att spara annonsen som en mall genom att kryssa i det alternativet utöver att publicera annonsen.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Varför är det en bra idé att spara en annons som en mall på Tradera?
+ANSWER: Spara annonsen som en mall underlättar skapandet av framtida annonser för liknande varor, eftersom du redan har grunden för annonsen och behöver endast redigera de nödvändiga uppgifterna.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är rekommendationerna för bilder för en annons på Tradera?
+ANSWER: Det rekommenderas att ha flera bilder från olika vinklar och fokusera på eventuella detaljer som användaren vill betona. En bild på kvitto kan också användas för dyrare varor.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Varför rekommenderas det att ha många bilder i en annons på Tradera?
+ANSWER: Att inkludera flera bilder i en annons på Tradera hjälper kunderna att få en bättre uppfattning om varan och kan öka chanserna för ett högre pris vid försäljning.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vilken information bör ingå i rubriken för en annons på Tradera?
+ANSWER: Rubriken för annonsen på Tradera.se bör ge en kort introduktion till varan och inkludera de viktigaste sökorden så att potentiella köpare enkelt kan hitta varan i sökresultaten.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vilken information bör ingå i beskrivningen för en annons på Tradera?
+ANSWER: Beskrivningen på Tradera.se bör utförligt beskriva varan med dess detaljer och skick. Denna information ger potentiella köpare en bättre uppfattning om varan och kan påverka deras beslut att köpa eller inte.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Finns det några specifika riktlinjer att följa när man skapar en annons på Tradera?
+ANSWER: Ja, det finns specifika riktlinjer som bör följas när man skapar en annons på Tradera. Dessa inkluderar att inte inkludera information som kan betraktas som vilseledande eller falsk marknadsföring, till exempel att överdriva varans skick eller inkludera bilder som inte är av den faktiska varan.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Kan man redigera en annons på Tradera efter att den har publicerats?
+ANSWER: Ja, användare kan redigera sin annons på Tradera efter att den har publicerats. Ändringarna kan göras genom att välja "Redigera annons" på Tradera.se och välja vilka ändringar som ska göras.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/

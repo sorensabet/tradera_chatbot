@@ -1,0 +1,39 @@
+QUESTION: Hvor mange procent anbefaler Tradera, at man tilbyder for at have større chance for at få varen?
+ANSWER: Tradera anbefaler at man tilbyder mellem 5-20% for at have større chance for at få varen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvor kan jeg finde købstilbud sendt til mig?
+ANSWER: Du finder købstilbud i den besked, som du modtager på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man afvise købstilbud?
+ANSWER: Ja, man kan afvise købstilbud. Hvis man ikke besvarer købstilbuddet, afvises det automatisk efter 24 timer.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Er det muligt at acceptere et købstilbud efter at det er blevet afvist?
+ANSWER: Nej, når et tilbud er blevet afvist af sælgeren eller tiden er løbet ud, er det ikke længere muligt at acceptere tilbuddet.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Er det muligt at slå købstilbud fra på fastprislister?
+ANSWER: Nej, det er i øjeblikket ikke muligt at slå købstilbud fra på fastprislister.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man sende købstilbud på opslag, der er offentliggjort fra Sello eller Prolister?
+ANSWER: Nej, det er kun muligt at sende købstilbud på opslag, der ikke er offentliggjort fra Sello eller Prolister.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvorfor kan jeg ikke se købstilbud på mine fortegnelser?
+ANSWER: Købstilbud er kun tilgængelige på fastprislister, hvor sælgeren ikke har offentliggjort dem fra Sello eller Prolister.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg ikke har til hensigt at acceptere et købstilbud?
+ANSWER: Du behøver ikke at handle på et købstilbud, hvis du ikke har til hensigt at acceptere det.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvordan aktiverer jeg købstilbud på mine fortegnelser?
+ANSWER: Hvis du har en virksomhedskonto, skal du aktivere beskeder på Tradera for at kunne modtage købsanmodninger.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvor længe har man til at besvare et købstilbud?
+ANSWER: Man har 24 timer til at besvare et købstilbud.
+URL: https://info.tradera.com/da/koebstilbud/

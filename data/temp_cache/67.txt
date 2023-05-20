@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av tjänster erbjuder Tradera när det gäller inloggning och delning av information i sociala medier?
+ANSWER: Tradera erbjuder inloggningstjänster med tredje mans loginuppgifter som ger åtkomst till Traderas webbplatser och därtill anknutna webbplatser. De erbjuder också tjänster som gör det möjligt att dela information i sociala medier som Facebook, Google Plus och Twitter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka personuppgifter kan Tradera få åtkomst till från webbplatser som drivs av tredje part och hur avgörs detta?
+ANSWER: Personuppgifterna som Tradera kan få åtkomst till varierar beroende på webbplats och styrs av användarens inställningar på den webbplatsen och dennes samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad är syftet med att Tradera samlar in personuppgifter från användare?
+ANSWER: Syftet med insamling av personuppgifter från användare är att ge dem åtkomst till Traderas webbplatser och tjänster, ge kundservice och relevant information om deras konto och tjänster, samt ge dem en säker, problemfri, effektiv och anpassad upplevelse.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad innebär det att koppla ett konto som administreras av tredje man med ens Tradera-konto?
+ANSWER: Att koppla ett konto som administreras av tredje man med ens Tradera-konto innebär att man tillåter Tradera att få åtkomst till information som lagras på den tredje man webbplatsen, och därmed samtycker till att Tradera samlar in, använder och sparar denna information i enlighet med deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad måste användare göra för att Tradera ska få åtkomst till deras personuppgifter från tredje man webbplatser?
+ANSWER: Användare måste koppla sitt konto som administreras av tredje man med deras Tradera-konto och tillåta att Tradera får åtkomst till informationen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Innebär samtycke att användare ger företaget rätt att använda all information som de har tillgång till?
+ANSWER: Ja, genom att acceptera integritetspolicyn samtycker användare till att Tradera får använda deras personuppgifter för att ge dem åtkomst till webbplatser och tjänster, ge kundservice och relevant information, samt ge en säker, problemfri, effektiv och anpassad upplevelse.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka åtgärder vidtar Tradera för att säkerställa användares integritet?
+ANSWER: Tradera vidtar åtgärder som att använda säkra servrar för att skydda lagrade uppgifter, använda krypteringsteknik för att skydda uppgifter som överförs via internet, och följa dataskyddsförordningen (GDPR) för att skydda användares personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka rättigheter har användare när det gäller deras personuppgifter enligt Traderas integritetspolicy?
+ANSWER: Användare har rätt att få tillgång till, rätta och radera sina personuppgifter, samt att begränsa eller motsätta sig användningen av dessa uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad händer om användare inte samtycker till att Tradera använder deras personuppgifter?
+ANSWER: Om användare inte samtycker till att Tradera använder deras personuppgifter kan de inte få full åtkomst till webbplatser och tjänster, kundservice och relevant information, eller en säker, problemfri, effektiv och anpassad upplevelse.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilket syfte har Tradera med att använda personuppgifter från användare?
+ANSWER: Syftet med Traderas användning av personuppgifter är att ge användare en säker och effektiv användarupplevelse som är anpassad till deras behov, samt för att ge dem åtkomst till webbplatser och tjänster, kundservice och relevant information.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

@@ -1,0 +1,39 @@
+QUESTION: Kan informationen på Traderas webbplats användas för att identifiera en specifik person? 
+ANSWER: Ja, enligt texten kan informationen på Traderas webbplats användas för att identifiera en specifik person.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera uppdatera sin integritetspolicy? 
+ANSWER: Ja, Tradera kan från tid till annan uppdatera sin integritetspolicy. Den senaste versionen finns alltid tillgänglig via deras webbplats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kommer Tradera att informera användare om stora förändringar i integritetspolicyn? 
+ANSWER: Ja, om det finns stora förändringar i integritetspolicyn, påkallade av till exempel ny lagstiftning, så kan Tradera komma att informera användare via e-post.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken information om webbplatser från tredje part presenteras på Traderas webbplats? 
+ANSWER: Vissa sidor på Traderas webbplats innehåller länkar till webbplatser från tredje part. Dessa webbplatser har egna integritetspolicyer och Tradera är inte ansvarig för deras verksamhet, inklusive men inte begränsat till deras informationsrutiner. Användare som skickar information till eller genom dessa tredjepartswebbplatser bör granska integritetspolicyerna för webbplatserna innan några personuppgifter skickas till dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka personuppgifter är Tradera ansvarig för? 
+ANSWER: Tradera Marketplace AB är personuppgiftsansvarig. Denna Integritetspolicy beskriver behandlingen av personuppgifter och Tradera ansvarar för behandlingen av dina personuppgifter och för att tillhandahålla de tjänster som ska tillhandahållas enligt användaravtalet samt inom ramen för och i enlighet med de principer som framgår av denna Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vem kan se mina personuppgifter på Tradera? 
+ANSWER: Enligt texten är det endast personer som är involverade i tillhandahållandet av Traderas tjänster som kan se dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Var är Tradera beläget? 
+ANSWER: Traderas huvudkontor ligger på Sankt Eriksgatan 117 i Stockholm, Sverige.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer om jag lämnar personuppgifter till en tredjepartswebbplats som Tradera länkar till? 
+ANSWER: Enligt texten är Tradera inte ansvarig för deras verksamhet, inklusive men inte begränsat till deras informationsrutiner. Användare som skickar information till eller genom dessa tredjepartswebbplatser bör granska integritetspolicyerna för webbplatserna innan några personuppgifter skickas till dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera ansvara för behandlingen av personuppgifter enligt Användaravtalet? 
+ANSWER: Ja, Tradera Marketplace AB är ansvarig för behandlingen av dina personuppgifter och för att tillhandahålla de tjänster som ska tillhandahållas enligt Användaravtalet samt inom ramen för och i enlighet med de principer som framgår av deras Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Måste jag lämna personuppgifter för att använda Tradera? 
+ANSWER: Ja, eftersom personuppgifter krävs vid registrering av ett konto på Tradera, så måste användare lämna personuppgifter för att använda Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

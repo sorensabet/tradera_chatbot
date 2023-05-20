@@ -1,0 +1,39 @@
+QUESTION: Vilka tekniker kan användas för att förbättra användarens upplevelse på Tradera?
+ANSWER: Tradera och dess tjänsteleverantörer kan använda cookies, webb-beacons och liknande teknik för att lagra information i syfte att ge användarna en bättre, snabbare och säkrare upplevelse och för annonseringsändamål. Mer information om dessa tekniker finns tillgänglig i deras Cookie-policy på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är förbjudet att göra på Tradera med avseende på skräppost, spionprogram och identitetsstöld?
+ANSWER: Skräppost, spionprogram och identitetsstöld är helt förbjudet på Tradera. Om någon skulle märka av något relaterad till detta på plattformen, så kan de vidarebefordra e-postmeddelandet till Traderas abuseadress, som kommer att automatiskt scanna och filtrera meddelanden för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera komma att lagra information permanent när de söker igenom meddelanden efter spam och olagligt innehåll?
+ANSWER: Nej, Tradera sparar inte permanent några meddelanden som skickas genom deras verktyg som används för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är en nyckelkomponent i att säkra Tradera-kontot?
+ANSWER: Ditt lösenord är en nyckelkomponent i att säkra ditt Tradera-konto. Användare uppmanas att använda unika, svårgissade lösenord för sitt Tradera-konto för att förhindra obehörig åtkomst till kontot.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka specifika tjänster erbjuds av Tradera utöver betalning?
+ANSWER: Tradera erbjuder även tjänster som frakt, leverans och hantering av klagomål av bedrägerier på deras plattform. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur kan jag få tillgång till Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy är tillgänglig på deras webbplats för användare att läsa. För att få tillgång till deras integritetspolicy kan du besöka: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är syftet med att lagra information på Tradera?
+ANSWER: Syftet med att lagra information på Tradera är att ge användarna en bättre, snabbare och säkrare upplevelse samt för annonseringsändamål. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera eller dess tjänsteleverantörer automatiskt lagra information när jag besöker deras webbplats?
+ANSWER: Ja, Tradera och dess tjänsteleverantörer kan använda cookies, webb-beacons och liknande teknik för att automatiskt lagra information när du besöker eller använder deras webbplatser, tjänster, applikationer, kommunikationskanaler (såsom e-post) och verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad gör Tradera för att filtera bort skadligt innehåll från meddelanden som skickas via deras verktyg?
+ANSWER: Tradera kan komma att automatiskt scanna och manuellt filtrera meddelanden för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur kan jag rapportera Tradera-relaterat spam eller e-post med förfalskad avsändaradress eller avsändaridentitet?
+ANSWER: För att rapportera Tradera-relaterat spam eller e-post med förfalskad avsändaradress eller avsändaridentitet, kan användare vidarebefordra e-postmeddelandet till abuse@tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

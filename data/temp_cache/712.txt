@@ -1,0 +1,39 @@
+QUESTION: What are the payment methods available on Tradera?
+ANSWER: The available payment methods on Tradera are Swish, Credit/Debit Card, Google Pay, Apple Pay, Paynova or PayPal. Paynova and PayPal always come with buyer protection that costs 5% of the total amount, minimum 5 SEK and max 750 SEK. For the other payment methods the buyer protection is optional except for Swish directly to the seller.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: How can I pay for a listing on Tradera?
+ANSWER: You can pay for a listing on Tradera from My Tradera - My purchases. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Is the buyer protection optional for all payment methods on Tradera?
+ANSWER: Buyer protection is optional for all payment methods except for Paynova and PayPal which always come with buyer protection that costs 5% of the total amount, minimum 5 SEK and max 750 SEK. Swish directly to the seller also has mandatory buyer protection. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Can I change my shipping details after paying for an item on Tradera?
+ANSWER: Yes, you can change your shipping details when paying for an item on Tradera.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Is there a way to save money and be environmentally friendly while buying multiple items from the same seller on Tradera?
+ANSWER: Yes, you can contact the seller to check if they could ship the items together to save money and support the environment.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Do I have a right of withdrawal for my purchases on Tradera?
+ANSWER: If the seller is a business, the regular right of withdrawal applies. However, if the seller is a private individual, there is no right of withdrawal, but it is recommended to check with the seller. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Can I pay for my purchase on Tradera at a later time?
+ANSWER: Yes, there are payment options like invoice or installment payments with Paynova that allow you to pay at a later time, and they always come with buyer's protection. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: What should I do if I have questions about how to shop or sell on Tradera?
+ANSWER: You can go to the "Contact & help" section on Tradera to get help regarding shopping or selling on Tradera.
+URL: https://info.tradera.com/en/kontakt/
+
+QUESTION: What are the popular brands available on Tradera?
+ANSWER: The popular brands available on Tradera are not listed in the given context. However, users can go to the "Categories" section on Tradera to browse products from different categories and brands.
+URL: https://www.tradera.com/
+
+QUESTION: What is Tradera's policy on privacy?
+ANSWER: Tradera has a privacy statement that explains how they collect and use users' data on their website. Users can find more information about Tradera's privacy policy on the "Privacy Statement" page on their website.
+URL: https://info.tradera.com/en/integritetspolicy/

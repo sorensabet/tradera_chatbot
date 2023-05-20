@@ -1,0 +1,39 @@
+QUESTION: Vad är provisionen för butiksannonser på Tradera?
+ANSWER: Provisionen för butiksannonser på Tradera beror på priset på den produkt som säljs. För varor som säljs för 30 kr eller under gäller ingen minimiprovision. Men för varor som säljs för 31 kr eller över i Miniprisbutiken är provisionen 15%. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är månadsuppsägningstiden för butiker på Tradera?
+ANSWER: Månadsuppsägningstiden för butiker på Tradera är en månad. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vilken typ av produkter behöver annonseras som begagnade på Tradera?
+ANSWER: Produkter med samlarkaraktär som inte längre kan köpas nya behöver annonseras som begagnade på Tradera. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Finns det en fraktkalkylator på Tradera?
+ANSWER: Ja, det finns en fraktkalkylator på Tradera som kan användas för att beräkna fraktkostnaderna för en viss produkt.  
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är Traderas samarbete med PostNord för klimatkompenserade transporter. Varje gång en säljare skickar en produkt med Grön frakt på Tradera, klimatkompenserar PostNord för de utsläpp som frakten orsakar. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vilka populära varumärken finns på Tradera?
+ANSWER: Det finns många populära varumärken på Tradera, inklusive Adidas, Filippa K, Peak Performance, Odd Molly och många fler. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är reglerna på Tradera?
+ANSWER: Reglerna på Tradera inkluderar villkoren och kraven för att sälja på plattformen, såsom betalningsvillkor, ansvar för produkter och användning av marknadsföringsmaterial. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Hur kan jag donera med Tradera?
+ANSWER: Du kan donera med Tradera genom att använda plattformens funktion för att donera en del av försäljningspriset på din produkt till en välgörenhetsorganisation som du väljer. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är användaravtalet på Tradera?
+ANSWER: Användaravtalet på Tradera reglerar relationen mellan plattformen och dess användare, inklusive köpare och säljare. Det fastställer bland annat villkoren för användning av tjänsten, ansvar för genererat innehåll och begränsningar för användandet av sidan. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vilka sociala medier kan jag hitta Tradera på?
+ANSWER: Du kan hitta Tradera på flera sociala medieplattformar, inklusive Facebook, Twitter, Pinterest, Instagram och LinkedIn. 
+URL: https://info.tradera.com/butik-privat/

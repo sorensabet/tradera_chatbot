@@ -1,0 +1,39 @@
+QUESTION: Hvad er en købsanmodning?
+ANSWER: En købsanmodning betyder, at en køber har udtrykt interesse i at købe en vare til den pris, de har foreslået til sælgeren. Hvis sælgeren accepterer købsanmodningen, er køberen forpligtet til at købe varen til denne pris. Hvis sælgeren ikke accepterer købsanmodningen inden for 24 timer, betragtes anmodningen som afvist, og køberen er ikke længere forpligtet til at købe varen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Er købsanmodningen bindende?
+ANSWER: Ja, ligesom ved tilbud på Tradera, er din købsanmodning bindende, når sælger vælger at acceptere.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvor længe er en købsanmodning aktiv?
+ANSWER: En købsanmodning er aktiv i 24 timer, hvis du ikke har modtaget et svar inden for det tidsrum, betragtes anmodningen som afvist, og du er ikke længere forpligtet til at gennemføre transaktionen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Kan jeg sende en købsanmodning på en butiksannonce?
+ANSWER: Det er ikke muligt at sende en købsanmodning på en butiksannonce, da disse kun opsiges, hvis sælger løber tør for lager eller af anden årsag fjerner varen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvordan øger jeg min chance for at blive enige om en pris?
+ANSWER: Du kan sende op til 3 købsanmodninger pr. annonce. Det øger chancen for, at I bliver enige om en endelig pris.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Er sælgeren forpligtet til at acceptere min købsanmodning?
+ANSWER: Nej, sælgeren er ikke forpligtet til at acceptere din købsanmodning. Det er op til sælgeren at afgøre, om de ønsker at acceptere købsanmodningen eller ej.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Kan jeg sende en købsanmodning på en afsluttet annonce?
+ANSWER: Ja, du kan sende en købsanmoding på afsluttede annoncer, der ikke er solgt, både auktioner og fastprisannoncer.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvor mange købsanmodninger kan jeg sende pr. annonce?
+ANSWER: Du kan sende op til 3 købsanmodninger pr. annonce.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvad sker der, hvis sælgeren ikke reagerer på min købsanmodning?
+ANSWER: Anmodningen, som du ikke svarer på, udløber efter 24 timer, så du behøver ikke aktivt at afslå. Det vigtigste er at besvare anmodninger, du har tænkt dig at acceptere. Hvis du har modtaget flere anmodninger og accepterer en af ​​dem, vil resten blive afvist.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Kan jeg sende flere købsanmodninger på samme annonce?
+ANSWER: Ja, du kan sende op til 3 købsanmodninger pr. annonce.
+URL: https://info.tradera.com/da/koebsanmodning/

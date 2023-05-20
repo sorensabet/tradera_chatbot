@@ -1,0 +1,39 @@
+QUESTION: Hvorfor er det ikke tilladt at sælge alkohol på Tradera?
+ANSWER: Det er ikke tilladt at sælge alkohol på Tradera, da det kræver særlige tilladelser at sælge alkohol i Sverige.
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvad kan man gøre, hvis man ønsker at sælge en flaske alkohol som en samlervare på Tradera?
+ANSWER: Hvis du vil sælge en flaske alkohol som en samlervare på Tradera, skal du sørge for at tydeliggøre i annoncen, at flasken er tom.
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: Du kan handle på Tradera ved at søge efter produkter, byde på dem, og betale for dem via platformen.
+URL: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+
+QUESTION: Hvad er de populære varemærker på Tradera?
+ANSWER: Du kan finde en liste over de populære varemærker på Tradera på Traders hjemmeside under "Populære varemærker".
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvordan kan man sælge som privatperson på Tradera?
+ANSWER: Du kan sælge som privatperson på Tradera ved at oprette en konto, oprette en annonce for det produkt du ønsker at sælge, og vælge de ønskede betalings- og leveringsmetoder.
+URL: https://info.tradera.com/da/sadan-saelger-du-som-privatperson/
+
+QUESTION: Kan virksomheder også sælge på Tradera?
+ANSWER: Ja, virksomheder kan også sælge på Tradera og kan oprette en konto som en erhvervssælger.
+URL: https://info.tradera.com/da/sadan-saelger-du-som-privatperson/
+
+QUESTION: Hvordan virker Traderas fragtberegner?
+ANSWER: Traderas fragtberegner virker ved at beregne den forventede fragtomkostning baseret på den angivne vægt og destination.
+URL: https://info.tradera.com/da/fragtberegner/
+
+QUESTION: Hvordan opretter man en butik på Tradera?
+ANSWER: Du kan oprette en butik på Tradera ved at oprette en konto som en erhvervssælger, og derefter navigere til sektionen "Butik" og følge instruktionerne til at oprette din butik.
+URL: https://info.tradera.com/da/butik/
+
+QUESTION: Kan man støtte velgørende organisationer på Tradera?
+ANSWER: Ja, Tradera tillader brugere at støtte velgørende organisationer gennem donering af en del af salgsprisen.
+URL: https://info.tradera.com/da/velgoerende-formaal/
+
+QUESTION: Hvordan kan man få hjælp, hvis man har spørgsmål om sikkerhed, handelsbetingelser eller andre emner?
+ANSWER: Du kan kontakte Traderas kundeservice for hjælp med spørgsmål om sikkerhed, handelsbetingelser eller andre emner ved at navigere til sektionen "Kontakt & Hjælp" og vælge den relevante kategori.
+URL: https://info.tradera.com/da/kontakt-os/

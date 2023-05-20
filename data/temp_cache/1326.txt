@@ -1,0 +1,39 @@
+QUESTION: What kind of content does the user provide?
+ANSWER: According to the text, the user provides photographs, images, texts, words, videos, data, concepts, ideas, technology, databases, and trademarks. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What kind of rights does the user grant to Tradera regarding their content?
+ANSWER: The user grants Tradera an unlimited, non-exclusive, irrevocable, worldwide, perpetual, royalty-free, fully transferable and fully sublicensable right to use, copy, reproduce, alter, process, translate, transfer, make available and/or communicate the user's content as decided by Tradera. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Are there any restrictions to the content provided by the user?
+ANSWER: The user warrants that the content provided is accurate and non-confidential and is not infringing any intellectual property right of third-party. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can shoppers rate products listed by business users on Tradera?
+ANSWER: Yes, shoppers can rate products listed by business users on Tradera, and these ratings may be made publicly available. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Who provides payment methods on Tradera?
+ANSWER: Payment methods on Tradera are provided by payment solution providers with which Tradera cooperates. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can payment methods on Tradera change over time?
+ANSWER: Yes, payment methods on Tradera may change from time to time as decided by the payment solution providers. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Is the user required to enter into a separate agreement with payment solution providers when using a payment method?
+ANSWER: Depending on the payment method the user chooses, they may have to enter into a separate agreement with the relevant payment solution provider and accept the terms applicable to the payment method. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Who is responsible for any payment issues that may arise when buying or selling items on Tradera?
+ANSWER: Unless otherwise set out in this User Agreement, any payment issues that arise must be dealt with by the user and the payment solution provider in accordance with the relevant terms, and Tradera is not responsible for any delays, defects, losses, or other issues relating to payment or non-payment of items bought or sold on Tradera. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera take any responsibility for payment issues that may arise when buying or selling items on their platform?
+ANSWER: No, unless otherwise set out in this User Agreement, Tradera is not responsible or liable for any delays, defects, losses, or anything else relating to the payment or non-payment of items bought or sold on Tradera. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What does a seller have to agree to regarding payment solutions when selling an item on Tradera?
+ANSWER: When a seller sells an item on Tradera, they must agree to the Payment Solution as stated in the text. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

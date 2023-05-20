@@ -1,0 +1,39 @@
+QUESTION: What is the purpose of collecting Personal Data according to the Privacy Statement?
+ANSWER: The purpose of collecting Personal Data is to provide access to Tradera sites and/or use of their services, provide requested customer service, provide relevant information about the account and their services, provide a safe, smooth, efficient, and customized experience, and market to users by delivering marketing materials about Tradera products and online services and the products and services of unaffiliated businesses.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can Tradera use Personal Data to prevent fraud and illegal activities?
+ANSWER: Yes, Tradera can use Personal Data to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, and enforce their User Agreement.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What types of information can be collected by Tradera through other websites?
+ANSWER: Tradera may collect, use, and store information from other websites that users accessed using a Tradera account and authorized Tradera to have access to this information.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can Tradera use Personal Data to contact users for resolving disputes or troubleshoot problems related to their account?
+ANSWER: Yes, Tradera may contact users, either via email or telephone, to resolve disputes, collect fees, and troubleshoot problems with their account, Tradera's sites, services, applications, or tools, or for other purposes authorized by law.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is the benefit of giving consent to Tradera for marketing to users?
+ANSWER: Giving consent to Tradera for marketing will allow users to receive marketing materials about Tradera products and online services, as well as products and services of unaffiliated businesses.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can users stop receiving marketing materials from Tradera?
+ANSWER: Yes, users can stop receiving marketing materials from Tradera by managing their notification preferences or by clicking on the unsubscribe link in the email sent by Tradera.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Will Tradera compare user information with third parties for verification purposes?
+ANSWER: Yes, Tradera may compare information for accuracy, and verify it with third parties.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: How might Tradera use Personal Data to tailor certain Services or Site experiences for users?
+ANSWER: Tradera may use Personal Data to tailor certain Services or Site experiences to better match their understanding of users' interests.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can Tradera use users' geolocation information to provide them with location-specific options, functionality, or offers?
+ANSWER: Yes, Tradera may use users' geolocation information to provide them with location-specific options, functionality, or offers if users elect to share their Geolocation Information through the Services.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What are the types of online services provided by Tradera through cookies and other tracking technologies?
+ANSWER: Tradera may provide targeted displays, features, or offers to users on third-party websites using cookies and other tracking technologies.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

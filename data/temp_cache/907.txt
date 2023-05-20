@@ -1,0 +1,39 @@
+QUESTION: What is a refundable amount on Tradera's Platform?
+ANSWER: "Refundable amount" is the amount that the Seller will refund to Tradera in connection with a refund of an amount already paid to the Seller as a result of a purchase being canceled. The amount is part or all of the Transaction, plus any fees charged to Tradera in connection with the Transaction, including shipping charges for the return of a product, and charges imposed on Tradera for a transaction in relation to its partners such as PayPal, Paynova, VISA, or MasterCard.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How does Tradera's payment solutions work?
+ANSWER: Tradera's payment solution means that the Buyer may use different means of payment for the goods. However, the method of payment chosen by the Buyer will not have any impact on when the Seller is paid, except for Swish, as the Seller is paid directly. Except in the case of payments made by Swish, as a general rule, the Seller shall be paid within one (1) to two (2) business days following the completion of a Transaction, provided that the Seller has provided accurate payment details to Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is Tradera's transaction?
+ANSWER: "Transaction" is a payment for goods or services on Tradera's Platform. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens when an irregularity is detected by Tradera in a transaction?
+ANSWER: Tradera checks the Transactions to detect irregularities. If, with respect to a particular Transaction, Tradera suspects that there are irregularities, the transaction may be delayed or blocked. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the timeframe for the Seller to receive payment from a Transaction on Tradera's platform?
+ANSWER: Except in the case of payments made by Swish, as a general rule, the Seller shall be paid within one (1) to two (2) business days following the completion of a Transaction, provided that the Seller has provided accurate payment details to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the Seller's obligation when using Tradera's payment solution?
+ANSWER: The Seller undertakes to comply with these Terms and Conditions and to use Tradera's payment solution when selling on Tradera's Platform. The Seller shall not claim payment in any way other than through the options available through Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does the Seller have the option to choose the payment method when using Tradera's payment solution?
+ANSWER: The payment solution means that the Buyer may use different means of payment for the goods. However, the method of payment chosen by the Buyer will not have any impact on when the Seller is paid, except for Swish, as the Seller is paid directly.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Are there any fees charged to Tradera related to a Transaction using Tradera's payment solution?
+ANSWER: Yes, "Refundable amount" is the amount that the Seller will refund to Tradera in connection with a refund of an amount already paid to the Seller as a result of a purchase being canceled. The amount is part or all of the Transaction, plus any fees charged to Tradera in connection with the Transaction, including shipping charges for the return of a product, and charges imposed on Tradera for a transaction in relation to its partners such as PayPal, Paynova, VISA, or MasterCard.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can the Seller claim payment in any other way than through the available options in Tradera's payment solution?
+ANSWER: No, the Seller shall not claim payment in any way other than through the options available through Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can the payment rate for a Seller be changed by Tradera?
+ANSWER: Yes, the payment rate may be changed by Tradera, and it is up to the Seller to keep up to date with information coming from Tradera in this respect.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg vide, om jeg har modtaget en købsanmodning på min udfyldte annonce?
+ANSWER: Alt relateret til købsanmodninger, inklusiv besked om købsanmodning, vil blive samlet i beskedfunktionen, og du vil modtage en e-mail eller besked om, at du har modtaget en købsanmodning.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvordan fungerer det, hvis jeg som erhvervssælger har slået beskeder fra?
+ANSWER: Du skal have meddelelsesfunktionen slået til for at modtage købsanmodninger, hvis du som erhvervssælger har slået beskeder fra.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvordan kan jeg købe på Tradera?
+ANSWER: Du kan købe på Tradera ved at finde det ønskede produkt på websiden og derefter sende en købsanmodning til sælgeren.
+URL: https://info.tradera.com/da/saadan-handler-du-paa-tradera/
+
+QUESTION: Kan jeg finde forskellige kategorier på Tradera?
+ANSWER: Ja, du kan finde forskellige kategorier på Tradera, og det inkluderer Kategorier og Populære Varemærker.
+URL: https://info.tradera.com/da/saadan-handler-du-paa-tradera/
+
+QUESTION: Hvordan kan jeg sælge som en privatperson på Tradera?
+ANSWER: Du kan sælge som en privatperson på Tradera ved at oprette en konto, oprette en annonce, og derefter vente på at modtage en købsanmodning fra en potentiel køber.
+URL: https://info.tradera.com/da/saadan-saelger-du-som-privatperson/
+
+QUESTION: Hvordan kan jeg sælge som en erhvervssælger på Tradera?
+ANSWER: Du kan sælge som en erhvervssælger på Tradera ved at oprette en konto, kontakte Traderas kundeservice for at forbinde din webshop med Tradera og derefter oprette dine annoncer.
+URL: https://info.tradera.com/da/saadan-saelger-du-som-erhvervssaelger/
+
+QUESTION: Kan jeg bruge en fragtberegner på Tradera?
+ANSWER: Ja, du kan bruge Traderas Fragtberegner til at beregne fragtomkostninger på dine produkter.
+URL: https://info.tradera.com/da/fragt-beregner/
+
+QUESTION: Hvilke varemærker er populære på Tradera?
+ANSWER: Du kan finde en liste over Populære Varemærker på Tradera.
+URL: https://info.tradera.com/da/saadan-handler-du-paa-tradera/
+
+QUESTION: Hvordan fungerer Traderas Velgørenhed?
+ANSWER: Traderas Velgørenhed giver sælgere mulighed for at støtte forskellige velgørende organisationer ved at donere en del af deres salg til disse organisationer.
+URL: https://info.tradera.com/da/velgoerende-formaal/
+
+QUESTION: Hvordan kan jeg kontakte Tradera?
+ANSWER: Du kan kontakte Tradera via Kontakt & Hjælp eller Ofte stillede spørgsmål sektionen på Tradera hjemmesiden.
+URL: https://info.tradera.com/da/kontakt-os/

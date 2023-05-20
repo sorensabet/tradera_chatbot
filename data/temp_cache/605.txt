@@ -1,0 +1,39 @@
+QUESTION: Vad är en cookie?
+\ANSWER: En cookie är en liten textfil som lagras på din dator när du besöker en webbsida. Cookies används för att lagra information om dina preferenser eller aktiviteter på webbplatsen så att den kan anpassas till din användning.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Varför använder Tradera cookies?
+\ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera sin trafik. De delar också information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Vilka inställningar kan jag göra för cookies på Tradera?
+\ANSWER: På Tradera kan du välja att acceptera cookies eller inte. Om du väljer att inte acceptera cookies kan du inte använda vissa funktioner på webbplatsen. Du kan också anpassa inställningarna för cookies genom att gå till dina webbläsarinställningar.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Vilka cookies är nödvändiga för att Tradera ska fungera?
+\ANSWER: Nödvändiga cookies är cookies som krävs för att webbplatsen ska fungera korrekt och kan inte stängas av. De hjälper till att lagra information om din session, dina preferenser och din användning av webbplatsen.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Vad är prestandacookies?
+\ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. De hjälper till att samla in information om hur användare interagerar med webbplatsen och vilka sidor som besöks oftast, vilket hjälper webbplatsen att förbättra sin funktionalitet och användarupplevelse.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Vad är funktionella cookies?
+\ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook. Dessa cookies bidrar till en bättre användarupplevelse på webbplatsen.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Vilken typ av cookies använder Traderas annonsörer?
+\ANSWER: Traderas annonseringspartners använder marknadsföringscookies för att visa riktade annonser som är relevanta för dig. Dessa cookies kan samla in information om din surfhistorik och dina intressen för att anpassa annonserna till dig.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Var kan jag hitta information om Traderas säkerhetsregler?
+\ANSWER: Du kan hitta information om Traderas säkerhetsregler på Traderas webbplats under rubriken "Security" eller "Säkerhet".
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Var kan jag hitta kontaktinformation för Traderas kundtjänst?
+\ANSWER: Du kan hitta kontaktinformation för Traderas kundtjänst på Traderas webbplats under rubriken "Contact & help" eller "Kontakt och hjälp".
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION: Vilka välgörenhetsändamål stödjer Tradera?
+\ANSWER: Tradera samarbetar med flera olika välgörenhetsorganisationer och stödjer bland annat Cancerfonden, Röda Korset och WWF genom auktioner där intäkterna går till välgörenhet.
+URL: https://info.tradera.com/en/limit-for-identical-items/

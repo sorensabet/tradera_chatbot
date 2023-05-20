@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information delar Tradera med sina partners för annonsering och analys?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 2: Vad ingår i de nödvändiga cookies som Tradera använder?
+ANSWER: De nödvändiga cookies som Tradera använder är de cookies som är nödvändiga för att Tradera ska fungera och de kan inte stängas av.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 3: Varför använder Tradera cookies för prestandamätning?
+ANSWER: Tradera använder cookies för prestandamätning för att anonymt mäta hur deras webbplats används, vilket hjälper till att förbättra användarupplevelsen.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 4: Vilka sparade inställningar kan användare ha på Tradera?
+ANSWER: Användare kan ha vissa sparade inställningar eller ha inloggning med Facebook för utökad funktionalitet och användaranpassning på Tradera. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 5: Hur påverkar inställningar för cookies användningen av Traderas webbplats?
+ANSWER: Genom att godkänna eller ändra inställningar för cookies kan användare påverka funktionaliteten och användningen av Traderas webbplats. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 6: Vilken typ av cookies använder Traderas annonseringspartners för riktade annonsering?
+ANSWER: Traderas annonseringspartners använder cookies för marknadsföring när de vill visa relevanta annonser för användare.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 7: Vad är syftet med Traderas användning av cookies för sociala medier?
+ANSWER: Syftet med Traderas användning av cookies för sociala medier är att tillhandahålla funktioner för sociala medier och för att ge användare möjlighet att interagera med Traderas webbplats via sociala plattformar.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 8: Kan användare stänga av alla typer av cookies på Tradera?
+ANSWER: Nej, de nödvändiga cookies som Tradera använder för att webbplatsen ska fungera kan inte stängas av, men användare kan ändra inställningarna för andra typer av cookies.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 9: Hur använder Tradera information om användarnas webbplatsanvändning?
+ANSWER: Tradera använder information om användarnas webbplatsanvändning för att förbättra användarupplevelsen på deras webbplats.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 10: Var kan jag läsa mer om Traderas cookie-policy?
+ANSWER: För att läsa mer om Traderas cookie-policy kan du besöka deras dataskyddssida.
+URL: https://info.tradera.com/dataskydd/

@@ -1,0 +1,39 @@
+QUESTION: Vilken information ska finnas med i bilderna på elektronikprodukter?
+ANSWER: När det gäller elektronik och mobiltelefoner bör man antingen inkludera måtten på varan eller ta med något i bilden som kan förmedla skalan.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: När man annonserar en elektronikprodukt på Tradera, vad bör man inkludera om tillbehör?
+ANSWER: Man bör inkludera om tillbehör ingår, exempelvis laddare, fjärrkontroll eller annat.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: Vad framgår väl på en annons om elektronikprodukter om det finns repor eller sprickor?
+ANSWER: Om det finns repor eller sprickor som kan vara svårt att se på bilderna bör det nämnas tydligt på annonsen.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: Vad bör man tänka på när det gäller skicket av en sport- eller fritidsprodukt när man annonserar på Tradera?
+ANSWER: Man bör beskriva skicket på varan och om det finns några defekter på den, samt framgå om det saknas delar på produkten.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: Vad bör man tänka på när man annonserar en smycke- eller accessoarprodukt på Tradera?
+ANSWER: Man bör uppge storlek och mått på produkten samt framgå om det finns repor eller defekter.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: Vad bör man tänka på när man annonserar en film- eller musikprodukt på Tradera?
+ANSWER: Man bör framgå om det finns repor i skivan och om det är rätt skiva/film i fodralet, samt testa så att produkten fungerar innan man säljer den. 
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: Vad uppmanas man att göra när man säljer en produkt på Tradera?
+ANSWER: Man uppmanas att emballera varan väl för att undvika skador i frakten.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION: Vad finns det för kategorier på Tradera?
+ANSWER: Det finns många olika kategorier av produkter på Tradera, såsom kläder och accessoarer, elektronik, hem och trädgård, sport och fritid, och många fler.
+URL: https://info.tradera.com/kategorier/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Det finns många populära varumärken som säljs på Tradera, såsom Adidas, Nike, Marimekko, och många fler.
+URL: https://info.tradera.com/populaera-varumaerken/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt innebär att Tradera och Schenker donerar pengar till olika projekt som arbetar med att minska påverkan på klimatet. När man väljer Grön frakt när man säljer en produkt på Tradera, går en del av intäkterna till dessa projekt.
+URL: https://info.tradera.com/gron-frakt/

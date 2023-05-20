@@ -1,0 +1,39 @@
+QUESTION: Vilka fraktmetoder erbjuder DB Schenker Tradera-kunder?
+ANSWER: DB Schenker erbjuder flera fraktmetoder till Tradera-kunder. De vanligaste fraktmetoderna är Schenker Privpak, Schenker Ombud och Schenker Hemleverans.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilket är den vanligaste fraktmetoden för DB Schenker Tradera-kunder?
+ANSWER: Schenker Privpak är den vanligaste fraktmetoden för DB Schenker Tradera-kunder.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag spåra min leverans när jag använder DB Schenker som fraktleverantör?
+ANSWER: Ja, du kan spåra din leverans med DB Schenker som fraktleverantör. Genom att ange ditt försändelse-ID på deras webbplats eller mobila app kan du följa din leverans i realtid.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag använda DB Schenker som fraktleverantör om jag säljer produkter på Tradera?
+ANSWER: Ja, du kan använda DB Schenker som fraktleverantör om du säljer produkter på Tradera. Genom att välja fraktalternativet Schenker Privpak kan du använda DB Schenker som din fraktleverantör.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Finns det några speciella krav på storleken och vikten på min försändelse om jag använder DB Schenker som fraktleverantör?
+ANSWER: Ja, det finns speciella krav på storleken och vikten på din försändelse om du använder DB Schenker som fraktleverantör. Detta beror på vilken fraktmetod du väljer. För Schenker Privpak ska din försändelse inte väga mer än 20 kg och den längsta sidan ska inte vara längre än 120 cm.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag ändra leveransadressen efter att min försändelse har skickats med DB Schenker?
+ANSWER: Ja, du kan ändra leveransadressen efter att leveransen har skickats med DB Schenker. Men det kan finnas begränsningar beroende på vilken fraktmetod du har valt. Du kan begära en adressändring genom att kontakta DB Schenkers kundsupport.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka är fördelarna med att använda Schenker Hemleverans som fraktalternativ?
+ANSWER: Fördelarna med att använda Schenker Hemleverans inkluderar att leveransen kommer direkt till din dörr, att du kan spåra din leverans i realtid och att du kan välja leveranstid som passar dig.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag avbeställa min leverans om jag använder DB Schenker som fraktleverantör?
+ANSWER: Ja, du kan avbeställa din leverans om du använder DB Schenker som fraktleverantör. Kontakta DB Schenkers kundsupport så hjälper de dig.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag använda DB Schenker som fraktleverantör om jag säljer internationellt på Tradera?
+ANSWER: Nej, DB Schenker erbjuder endast frakt inom Sverige. Om du säljer internationellt på Tradera behöver du välja en annan fraktleverantör.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilken är den senaste tidpunkten då jag kan lämna in min försändelse för att den ska skickas samma dag med DB Schenker?
+ANSWER: Tidpunkten för att lämna in din försändelse varierar beroende på vilken fraktmetod du väljer och var du har din närmaste Schenker-ombud. Den senaste tidpunkten för att lämna in din försändelse för samma dags leverans kan du ta reda på genom att kontakta DB Schenker kundsupport eller genom att använda deras online-verktyg för att hitta ditt närmaste Schenker-ombud.
+URL: https://info.tradera.com/dbschenker/

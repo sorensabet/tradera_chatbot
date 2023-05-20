@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad är syftet med att använda cookies på Traderas webbplats?
+ANSWER: Syftet med att använda cookies på Traderas webbplats är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och att analysera trafiken.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilka är de nödvändiga inställningarna för att Tradera ska fungera?
+ANSWER: De nödvändiga inställningarna för att Tradera ska fungera är cookies som inte kan stängas av.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilket syfte fyller Traderas cookies inom prestanda-kategorin?
+ANSWER: Traderas cookies inom prestanda-kategorin används för att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilket syfte fyller Traderas cookies inom marknadsförings-kategorin?
+ANSWER: Traderas cookies inom marknadsförings-kategorin används av Traderas annonseringspartners för att rikta annonser som är relevanta för användaren.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilka funktioner på Tradera kräver funktionella cookies?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilken typ av personuppgifter samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress och telefonnummer i samband med att användaren skapar ett konto på deras webbplats.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hur använder Tradera personuppgifter som samlas in från användarna?
+ANSWER: Personuppgifter som samlas in från användarna används för att möjliggöra transaktioner på Tradera och för att förbättra och anpassa användarupplevelsen på deras webbplats.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan användare stänga av nödvändiga cookies?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de behövs för att Tradera ska fungera.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad händer om jag inte godkänner cookies på Tradera?
+ANSWER: Om du inte godkänner cookies på Tradera kan vissa funktioner på deras webbplats sluta att fungera eller inte vara tillgängliga.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/

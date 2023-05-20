@@ -1,0 +1,39 @@
+QUESTION: How does Tradera send messages to its users?
+ANSWER: Tradera can send messages to its users via email or registered post. Emails are considered received 24 hours after they were sent, unless the sender receives a message stating that the email address is not valid. Messages sent by registered post are considered received three days after they were sent.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the contact information for Tradera?
+ANSWER: The contact information for Tradera can be found on their website under the "Contact & help" section. Users can reach out to Tradera through email, phone, or regular mail.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What are the different categories available for users to shop on Tradera?
+ANSWER: Users can shop for items in a variety of categories on Tradera, including electronics, fashion, home and garden, sports and leisure, and many more.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can users buy items from popular brands on Tradera?
+ANSWER: Yes, users can buy items from popular brands on Tradera. The website features a wide variety of brands across multiple categories.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: How can users sell items on Tradera as a private seller?
+ANSWER: Users can sell items on Tradera as a private seller by creating a seller account on the website and then listing their items for sale. Private sellers can list up to 300 items per month with a maximum selling price of 10,000 SEK per item.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Are there any restrictions on what can be sold on Tradera?
+ANSWER: Yes, there are restrictions on what can be sold on Tradera. Items that are illegal or violate their terms of service, such as counterfeit goods or items that promote hate speech, are not allowed to be listed for sale.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: How can businesses sell items on Tradera?
+ANSWER: Businesses can sell items on Tradera by creating a seller account and registering as a business seller. Business sellers have access to additional selling tools and can list more items per month. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera provide a shipping calculator?
+ANSWER: Yes, Tradera provides a shipping calculator to help users estimate the cost of shipping their items. The calculator takes into account the weight and dimensions of the package as well as the destination country.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera have a store feature?
+ANSWER: Yes, Tradera offers a store feature for business sellers. The store allows sellers to create a branded storefront and showcase their products to potential buyers.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera have a privacy statement?
+ANSWER: Yes, Tradera has a privacy statement that outlines how they collect, use, and protect their users' personal information. The statement can be found on their website.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

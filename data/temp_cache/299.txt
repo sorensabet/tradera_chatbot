@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftet med användning av cookies på Tradera?
+ANSWER: Syftet med användning av cookies på Tradera är att anpassa innehåll, tillhandahålla funktioner för sociala medier, analysera trafik och tillhandahålla riktade annonser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Kan cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera eftersom de krävs för att webbplatsen ska fungera, medan andra cookies kan stängas av i inställningarna för cookies.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Vad är syftet med nödvändiga cookies på Tradera?
+ANSWER: Syftet med nödvändiga cookies på Tradera är att göra webbplatsen funktionell och användarvänlig samt för att säkerställa webbplatsens säkerhet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Vad är syftet med prestandacookies på Tradera?
+ANSWER: Syftet med prestandacookies på Tradera är att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att tillhandahålla utökad funktionalitet och användaranpassning, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Är det möjligt att logga in med Facebook på Tradera?
+ANSWER: Ja, det är möjligt att logga in med Facebook på Tradera genom att använda funktionella cookies som tillhandahåller denna funktion.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Syftet med marknadsföringscookies på Tradera är att användas av Traderas annonseringspartners för att visa riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Vilka partners använder Tradera för sociala medier och annonsering?
+ANSWER: Tradera delar information om användares användning av webbplatsen med sina partners för sociala medier, annonsering och analys, men det anges inte specifikt vilka partners som används.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Vilken information delar Tradera med sina annonseringspartners?
+ANSWER: Tradera delar information om användares användning av webbplatsen med sina annonseringspartners för att tillhandahålla riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/
+
+QUESTION: Kan jag läsa mer om cookies på Tradera?
+ANSWER: Ja, det är möjligt att läsa mer om cookies på Tradera genom att klicka på länken "Läs mer" på inställningssidan för cookies.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/

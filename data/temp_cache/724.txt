@@ -1,0 +1,39 @@
+QUESTION: What do you need to register a company on Tradera?
+ANSWER: To register a company on Tradera, you need to provide additional information such as a registration certificate from Bolagsverket, which shows that the company is registered with Bolagsverket.
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: What is a registration certificate?
+ANSWER: A registration certificate is a document that shows that a company is registered with Bolagsverket. The certificate contains information such as the company's name, address, activities, signatory, and board of directors.
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: Where can you find the information necessary for registering a company on Tradera?
+ANSWER: The information necessary for registering a company on Tradera can be found on Bolagsverket's website.
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: What do you need to do to complete your registration on Tradera?
+ANSWER: To complete your registration on Tradera, you need to provide additional information such as a registration certificate from Bolagsverket. 
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: How does Tradera verify a company's information?
+ANSWER: Tradera verifies a company's information by checking the registration certificate from Bolagsverket to ensure that the company is registered with them.
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: Can you register a company on Tradera without a registration certificate?
+ANSWER: No, you cannot register a company on Tradera without a registration certificate from Bolagsverket. 
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: What information does a registration certificate contain?
+ANSWER: A registration certificate contains information such as the company's name, address, activities, signatory, and board of directors.
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: How long does it take to activate a company account on Tradera after sending in the required information?
+ANSWER: The activation of a company account on Tradera typically takes place after Tradera receives and verifies the required information from the company.
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: Why is it necessary to verify a company's information before activating a company account on Tradera?
+ANSWER: It is necessary to verify a company's information before activating a company account on Tradera to promote safety and security in online transactions and prevent fraudulent activities. 
+URL: https://info.tradera.com/foretagskonto-pa-tradera/
+
+QUESTION: What is the purpose of a company account on Tradera?
+ANSWER: The purpose of a company account on Tradera is to allow registered companies to buy and sell products on the platform, thus facilitating e-commerce activities. 
+URL: https://info.tradera.com/foretagskonto-pa-tradera/

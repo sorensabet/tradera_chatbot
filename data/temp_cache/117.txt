@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika användningsområdena för cookies på Tradera?
+ANSWER: På Tradera används cookies för nödvändiga ändamål såsom att webbplatsen ska fungera ordentligt, för prestandaanalys, för funktionella syften som att lagra användarpreferenser och för marknadsföringsändamål som riktad annonsering. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Kan jag stänga av alla cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de gör det möjligt för webbplatsen att fungera på ett adekvat sätt. Dock är det möjligt att justera dina inställningar för prestandaanalys, funktionella syften och marknadsföringsändamål. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Hur används cookies av Traderas annonseringspartners?
+ANSWER: Traderas annonseringspartners använder cookies för att visa riktade annonser för dig baserat på dina tidigare sökningar eller webbplatsbesök. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Kan jag spara mina inställningar på Tradera?
+ANSWER: Ja, genom att tillåta funktionella cookies kan en del inställningar på Tradera sparas för att underlätta användarupplevelsen vid framtida besök. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Varför behöver Tradera använda cookies?
+ANSWER: Tradera använder cookies för att webbplatsen ska fungera på ett adekvat sätt, för att genomföra prestandaanalyser, för funktionella syften som att lagra användarpreferenser och för marknadsföringsändamål som riktad annonsering. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Finns det cookies som Tradera använder som inte kan stängas av?
+ANSWER: Ja, nödvändiga cookies som gör det möjligt för Tradera att fungera kan inte stängas av. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Vilka är de olika typerna av cookies som Tradera använder?
+ANSWER: Tradera använder nödvändiga, prestanda-, funktionella och marknadsföringscookies. De används för att göra webbplatsen användarvänlig och för att tillhandahålla riktad annonsering. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Vad kan jag göra om jag vill begränsa Traderas användning av cookies?
+ANSWER: Du kan justera dina inställningar på Traderas webbplats för att begränsa användningen av cookies för prestandaanalys, funktionella syften och marknadsföringsändamål. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Vilka cookies på Tradera används för att mäta prestanda?
+ANSWER: Tradera använder cookies för att anonymt mäta hur webbplatsen används och för att kunna förbättra användarupplevelsen genom att göra webbplatsen snabbare och mer responsiv. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/
+
+QUESTION: Använder Tradera cookies för att lagra min inloggningsinformation på Facebook?
+ANSWER: Ja, genom att tillåta funktionella cookies kan du logga in på Tradera med ditt Facebook-konto och spara inloggningsuppgifter för enklare användning vid framtida besök. 
+URL: https://info.tradera.com/en/kann-din-kund-foretag/

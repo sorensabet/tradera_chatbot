@@ -1,0 +1,39 @@
+QUESTION: What is the minimum monthly subscription fee for a special store with a 12-month contract term?
+ANSWER: The minimum monthly subscription fee for a special store with a 12-month contract term is 235 SEK.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: How many store ads can be posted for a collector's store?
+ANSWER: A collector's store can post up to 10,000 store ads.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the minimum commission for all types of stores?
+ANSWER: The minimum commission for all types of stores is 2.40 SEK.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is a "Sello"?
+ANSWER: "Sello" is a sales tool that provides easy publishing and order management for your ads as well as sales documents. It is available for free to all members of Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What type of items can be sold in stores with no minimum commission for items that sell for less than 30 SEK?
+ANSWER: Items that have been used or are collector's items that can no longer be bought new can be sold in stores with no minimum commission for items that sell for less than 30 SEK.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the monthly subscription fee for a special store without a contract term?
+ANSWER: The monthly subscription fee for a special store without a contract term is 275 SEK.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the minimum monthly subscription fee for a collector's store without a contract term?
+ANSWER: The minimum monthly subscription fee for a collector's store without a contract term is 495 SEK.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the minimum commission for items sold in a collector's store that are priced at 31 SEK or above?
+ANSWER: The minimum commission for items sold in a collector's store that are priced at 31 SEK or above is 12% in the Miniprisbutiken store.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: How long is the notice period for all types of stores?
+ANSWER: The notice period for all types of stores is one month.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What type of stores are eligible for a zero commission fee on items sold for less than 30 SEK?
+ANSWER: Miniprisbutiken stores are eligible for a zero commission fee on items sold for less than 30 SEK.
+URL: https://info.tradera.com/foretag/

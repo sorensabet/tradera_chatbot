@@ -1,0 +1,39 @@
+QUESTION: What is included in Tradera's buyer protection?
+ANSWER: Tradera's buyer protection covers all purchases made on their platform regardless of the payment method chosen by the buyer, except for purchases of real estate, vehicles, custom-made items, items equivalent to cash, tickets for events, and goods or services prohibited by Tradera's Rules for Sellers. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Are purchases of real estate and vehicles covered under Tradera's buyer protection?
+ANSWER: No, purchases of real estate (including, without limitation, residential property) and vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircrafts, and boats) are not covered under Tradera's buyer protection, except for personally portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What happens if a buyer and seller disagree about a transaction?
+ANSWER: If a buyer and seller have a disagreement, they can resolve it through Tradera's dispute resolution system on "My Tradera". The process must be opened in My Tradera within 30 days of the payment date, and all communications relating to the dispute must take place via Tradera's dispute resolution system on Tradera's platform. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: When should a dispute resolution process be opened?
+ANSWER: A dispute resolution process should be opened in My Tradera within 30 days of the payment date. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What happens if the buyer and seller cannot reach a solution to their dispute?
+ANSWER: If the buyer and seller are unable to reach a solution within ten (10) days of the date on which the dispute resolution process was opened, the buyer can escalate the dispute to Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Can communications related to a dispute take place outside of Tradera's dispute resolution system?
+ANSWER: No, all communications relating to a dispute must take place via Tradera's dispute resolution system on Tradera's platform. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Can purchases of custom-made items be covered under Tradera's buyer protection?
+ANSWER: Purchases of custom-made items are generally not covered under Tradera's buyer protection unless they are claimed to have not been received. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Are purchases of goods or services prohibited by Tradera's Rules for Sellers covered under buyer protection?
+ANSWER: No, purchases of goods or services that are prohibited under Tradera's Rules for Sellers are not covered under Tradera's buyer protection.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Can disputes be resolved without using Tradera's dispute resolution system?
+ANSWER: No, disputes between buyers and sellers must be resolved using Tradera's dispute resolution system. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: How long do the buyer and seller have to try to find a solution to their dispute before it can be escalated to Tradera?
+ANSWER: The buyer and seller have ten (10) days from the date on which the dispute resolution process was opened to try to find a solution to their dispute before the buyer can escalate it to Tradera. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/

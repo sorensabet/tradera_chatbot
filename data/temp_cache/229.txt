@@ -1,0 +1,39 @@
+QUESTION: Hur fungerar köp på faktura på Tradera?
+ANSWER: På Tradera kan du handla på faktura eller delbetalning via Paynova. Paynova säkerställer att dina köp är trygga och enkla samt att du har kontroll över betalningen. När du köper på faktura får säljaren en notis om betalningen, men du får betala först efter 14 dagar.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är minimibeloppet för delbetalning på Tradera?
+ANSWER: För delbetalningsalternativet på Tradera måste minimibeloppet vara minst 450 kr.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är maximibeloppet för fakturabelopp på Tradera?
+ANSWER: Det maximala fakturabeloppet på Tradera är 30 000 kr.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vilka krav måste man uppfylla för att kunna betala med faktura på Tradera?
+ANSWER: För att kunna betala med faktura (PayLater) på Tradera måste man ha fyllt 18 år, ha tillgång till mobilt BankID, ha godkänd kreditkontroll, och vara folkbokförd i Sverige.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Hur kan jag hitta min faktura om jag har köpt en vara på faktura eller delbetalning på Tradera?
+ANSWER: Om du har köpt en vara på faktura eller delbetalning på Tradera och vill hitta din faktura, kan du gå till följande länk: tradera.paynova.se
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Tradera?
+ANSWER: På Tradera kan man bland annat betala med faktura eller delbetalning via Paynova, samt med kort eller PayPal.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Hur säkerställer Paynova att betalningen är trygg och enkel när jag handlar på faktura på Tradera?
+ANSWER: Paynova säkerställer att betalningen är trygg och enkel när man handlar på faktura på Tradera genom att göra en kreditkontroll och låta köparen ha kontroll över betalningen.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Kan jag handla på delbetalning på Tradera?
+ANSWER: Ja, på Tradera kan man handla på delbetalning via Paynova. Minimibeloppet för delbetalning måste dock vara minst 450 kr.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Hur lång tid har jag på mig att betala min faktura när jag har handlat på faktura på Tradera?
+ANSWER: När man handlar på faktura på Tradera får man 14 dagar på sig att betala fakturan.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Kan jag använda mitt BankID när jag betalar via Paynova på Tradera?
+ANSWER: Ja, man behöver ha tillgång till mobilt BankID för att kunna betala via Paynova på Tradera.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/

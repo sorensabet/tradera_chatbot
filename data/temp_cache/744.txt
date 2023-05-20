@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av avtal ingår man när man lägger upp ett föremål på Tradera-webbplatsen?
+ANSWER: När du lägger upp ett föremål till försäljning på Tradera-webbplatsen ingår du ett avtal med Tradera gällande deras administration av din beställning samt information om frakten till de köpare som köper ditt föremål på deras webbplats.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka regler gäller för Traderas administration av frakten?
+ANSWER: För Traderas administration av frakten gäller villkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka regler gäller för frakttjänsterna till Tradera?
+ANSWER: Nordiskt Speditörförbunds Allmänna Bestämmelser och DB Schenkers vid var tid gällande Transportvillkor tillämpas för frakttjänsterna till Tradera.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka villkor gäller för DB SCHENKERparcel och DB SCHENKERprivpak?
+ANSWER: För DB Schenkers produkter DB SCHENKERparcel och DB SCHENKERprivpak tillämpas därutöver DB Schenkers vid varje tidpunkt gällande produktspecifika villkor.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vad händer om jag fyller i felaktig information om mitt föremål på Tradera-webbplatsen?
+ANSWER: Om du fyller i felaktig information om ditt föremål, exempelvis felaktiga mått eller vikt, kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vem ansvarar för mellanskillnaden om den verkliga fraktavgiften överstiger den beräknade fraktavgiften?
+ANSWER: Om den verkliga fraktavgiften överstiger den beräknade fraktavgiften, kommer mellanskillnaden att faktureras dig i efterhand, exempelvis genom att adderas till din nästkommande faktura från Tradera.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur betalar jag för beställd frakt?
+ANSWER: Du betalar för beställd frakt direkt till Tradera i enlighet med betalningsvillkoren i deras Användaravtal.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilken information på Tradera-webbplatsen används för att beräkna fraktavgiften?
+ANSWER: Den information du fyller i om ditt föremål på Tradera-webbplatsen utgör underlag för beräkning av fraktavgiften.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Var kan jag hitta information om DB Schenkers transportvillkor?
+ANSWER: Du kan hitta information om DB Schenkers transportvillkor på deras webbplats eller på Traderas informationssida för frakt.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Var kan jag hitta information om Traderas använderavtal?
+ANSWER: Du kan hitta information om Traderas använderavtal på deras webbplats eller på deras informationssida för användarvillkor.
+URL: https://info.tradera.com/dbschenker/

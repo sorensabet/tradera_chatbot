@@ -1,0 +1,39 @@
+QUESTION: Vad är force majeure?
+ANSWER: Force majeure är en händelse som är utanför parternas kontroll, såsom naturkatastrofer eller andra oförutsedda händelser som kan påverka avtalets genomförande. Det kan innebära att avtalet kan pausas eller avslutas i förtid.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: När har vardera part rätt att säga upp villkoren?
+ANSWER: Vardera Part har rätt att säga upp villkoren om force majeure-händelsen pågår i mer än sextio (60) dagar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken rätt har Tradera att ändra Villkoren?
+ANSWER: Tradera har rätt att ändra Villkoren enligt Traderas Användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad innebär Villkoren?
+ANSWER: Villkoren reglerar fullständigt överenskommelsen mellan Parterna och avser Traderas betallösning. Villkoren ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Parterna gällande betallösningar på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken rätt lyder Villkoren under?
+ANSWER: Villkoren lyder under och ska tolkas i enlighet med svensk rätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken instans ska vara första instans om det finns en tvist med anknytning till Villkoren?
+ANSWER: Stockholms tingsrätt ska vara första instans om det finns en tvist med anknytning till Villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Hyperwallet-lösning?
+ANSWER: Hyperwallet-lösning är en samarbetspartner till Traderas betallösning som Säljaren också måste godkänna vid användning av Traderas betallösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka är villkoren för PayPals Hyperwallet-lösning?
+ANSWER: Villkoren för PayPals Hyperwallet-lösning kan hittas på deras hemsida: https://www.hyperwallet.com/agreements-terms/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är integritetspolicyn för Hyperwallet-lösning?
+ANSWER: Integritetspolicyn för Hyperwallet-lösning kan hittas på deras hemsida: https://www.hyperwallet.com/privacy-policy/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken version av Villkoren gäller?
+ANSWER: Denna version av Villkoren gäller från och med oktober 2022.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

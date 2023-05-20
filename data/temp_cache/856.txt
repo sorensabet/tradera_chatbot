@@ -1,0 +1,39 @@
+QUESTION: Vad behövs för att skaffa ett företagskonto hos Tradera?
+ANSWER: För att skaffa ett företagskonto hos Tradera behöver man verifiera att företaget är aktivt och att det är rätt person som registrerar kontot. Dessutom behöver man skicka in relevanta dokument, såsom ett registreringsbevis eller registerutdrag från lämplig myndighet och en giltig ID-handling för företagets firmatecknare.
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Hur lång är hanteringstiden för att verifiera företagskonton?
+ANSWER: Hanteringstiden för att verifiera företagskonton kan variera mellan 1-3 arbetsdagar, eftersom all verifiering av företagskonton sker manuellt. Vanligtvis svarar Tradera inom 24 timmar om kontot blir godkänt eller om kompletterande uppgifter behövs.
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Vilket dokument kan ni använda som identifikationshandling för att registrera ett företagskonto på Tradera?
+ANSWER: För att registrera ett företagskonto på Tradera behöver man bifoga en bild på en giltig ID-handling för företagets firmatecknare, exempelvis framsidan på körkort eller nationellt ID-kort. Även bild på uppslaget med personuppgifter i pass godkänns. 
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Vilka typer av bolagsformer kräver ett registreringsbevis eller registerutdrag för att skaffa ett företagskonto på Tradera?
+ANSWER: Aktiebolag, enskild firma eller andra bolagsformer måste ha ett registreringsbevis eller registerutdrag från lämplig myndighet för att skaffa ett företagskonto på Tradera. Om man väljer att skaffa ett nytt registreringsbevis via Bolagsverket, ska dokumentet ha utfärdats för max 12 månader sedan. 
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Hur kan man ladda ner ett registerutdrag från Skatteverket om man inte har ett registreringsbevis för sin ideella förening?
+ANSWER: Om man inte har ett registreringsbevis för sin ideella förening kan man ladda ner ett registerutdrag från Skatteverket för att skaffa ett företagskonto på Tradera.
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Vad innebär det att Tradera verifierar företagskonton manuellt?
+ANSWER: Det innebär att Traderas personal granskar och godkänner företagskonton efter att man har skickat in alla relevanta dokument. Hanteringstiden för verifiering kan därför variera mellan 1-3 arbetsdagar. Vanligtvis svarar Tradera inom 24 timmar om kontot blir godkänt eller om kompletterande uppgifter behövs.
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Var kan man skaffa ett nytt registreringsbevis om man inte har ett för sitt företag?
+ANSWER: Man kan kontakta Bolagsverket för att skaffa ett nytt registreringsbevis om man inte har ett för sitt företag. 
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Vad är den maxtid som ett registreringsbevis kan vara utfärdat för att det ska accepteras för att skaffa ett företagskonto på Tradera?
+ANSWER: Om man väljer att skaffa ett nytt registreringsbevis från Bolagsverket för att skaffa ett företagskonto på Tradera, ska det vara utfärdat för max 12 månader sedan. 
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Går det att skaffa ett företagskonto på Tradera utan giltig ID-handling?
+ANSWER: Nej, det är obligatoriskt att bifoga en bild på giltig ID-handling för företagets firmatecknare för att skaffa ett företagskonto på Tradera. 
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Vilka typer av dokument kan man skicka in vid registreringen av ett företagskonto på Tradera för att påskynda processen?
+ANSWER: För att påskynda processen för verifiering av företagskonton på Tradera rekommenderas det att man skickar med relevanta dokument vid registreringen, såsom ett registreringsbevis eller registerutdrag från lämplig myndighet och en giltig ID-handling för företagets firmatecknare. 
+URL: https://info.tradera.com/underlag-foretagskonto/

@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av programvara får man sälja på Tradera? 
+ANSWER: Du får sälja olika typer av programvara på Tradera, inklusive akademisk programvara, OEM programvara, programvara med tillstånd från rättighetsinnehavare, programvara från en auktoriserad återförsäljare med rättigheter till onlinedistribution och NFT-konst (godkänt i förväg av Tradera).
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 2: Vad är exempel på restriktioner för att sälja akademisk programvara på Tradera?
+ANSWER: Exempel på restriktioner för att sälja akademisk programvara på Tradera inkluderar att det endast får säljas av auktoriserade återförsäljare av utbildningsmaterial, en utbildningsinstitution eller en medlem av en fakultet.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 3: Vad är OEM-programvara?
+ANSWER: OEM-programvara är mjukvara som erhålls som en del av köpet av en ny dator och får säljas på Tradera tillsammans med komplett och fungerande hårdvara. 
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 4: Kan man sälja programvara med bara produktnycklar på Tradera?
+ANSWER: Man kan sälja programvara med bara produktnycklar på Tradera så länge du har tillstånd av rättighetsinnehavaren att sälja produkten digitalt.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 5: Vilken typ av konst får man sälja på Tradera?
+ANSWER: Du får sälja NFT-konst på Tradera, men det måste godkännas på förhand av Tradera. I regel behöver både ett fysiskt och digitalt verk ingå i annonsen för att godkännas.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/nft-konst/
+
+QUESTION 6: Vad är exempel på tillåten försäljning av programvara på Tradera?
+ANSWER: Exempel på tillåten försäljning av programvara på Tradera inkluderar 3 månaders Xbox Live, 12 månaders presentkort till Netflix, och en faktisk CD-skiva med originalutgåva av programvara som Photoshop.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 7: Får man sälja inspelningsbar media på Tradera?
+ANSWER: Du får sälja inspelningsbar media som att gratisprogram och spridprogram på inspelningsbar media, till exempel CD-R-skivor på Tradera. 
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 8: Vilka saker relaterade till spel får man sälja på Tradera?
+ANSWER: Du får sälja spelkonton, spelkaraktärer, spelvaluta, virtuella objekt, och inbjudningar till spel och andra onlinetjänster på Tradera, men det finns restriktioner.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/spelkonton-objekt-och-services/
+
+QUESTION 9: Kan man sälja akademisk programvara på Tradera utan att vara auktoriserad återförsäljare?
+ANSWER: Nej, för att få sälja akademisk programvara på Tradera måste man vara auktoriserad återförsäljare av utbildningsmaterial, en utbildningsinstitution eller en medlem av en fakultet.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 10: Vad är NFT-konst och måste det vara både digitalt och fysiskt för att kunna säljas på Tradera?
+ANSWER: NFT-konst är konst som säljs som en "icke-fungibel token" på en blockchain. För att säljas på Tradera måste det godkännas på förhand och i regel behöver både ett fysiskt och digitalt verk ingå i annonsen för att godkännas.
+URL :  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/nft-konst/

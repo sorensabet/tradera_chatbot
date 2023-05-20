@@ -1,0 +1,39 @@
+QUESTION: Vad händer med min e-postadress om jag är en användare på Tradera och jag köper en produkt från en annan användare?
+ANSWER: Om du är en användare på Tradera och du köper en produkt från en annan användare, kan den andra användaren se din e-postadress och begära ut dina kontaktuppgifter och postadress för att slutföra affären.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken typ av information kan Tradera lämna ut om en användare till tillsynsmyndighet, polismyndighet eller annan behörig tredje man?
+ANSWER: Om Tradera kontaktas av en tillsynsmyndighet, polismyndighet eller annan behörig tredje part i samband med en brottsutredning eller påstådd olaglig aktivitet, kan Tradera lämna ut information om användaren. Denna information kan inkludera namn, personnummer, stad, stat eller provins, postadress, telefonnummer, e-postadress, historik för användarnamn, IP-adress, klagomål om bedrägeri samt bud- och säljhistorik.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag begära att Tradera ska lämna ut mina personuppgifter till en annan tredje man som jag uttryckligen vill ska få informationen?
+ANSWER: Ja, du kan begära att Tradera ska lämna ut dina personuppgifter till en annan tredje man som du uttryckligen vill ska få informationen. Detta kan ske om du samtycker till att informationen lämnas ut vid användningen av en särskild tjänst.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vem kan Tradera lämna ut information om mig till i Traderas VeRO Program?
+ANSWER: Deltagande rättighetsinnehavare i Traderas VeRO Program kan få tillgång till information om dig. Dessa innehavare är dock bundna av sekretessavtal.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera lämna ut mina personuppgifter till kreditupplysningsföretag?
+ANSWER: Ja, Tradera kan rapportera information om ditt konto, uteblivna betalningar eller andra överträdelser av ditt konto till kreditupplysningsföretag i den utsträckning detta tillåts enligt lag.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka personuppgifter kan samlas in om mig när jag använder Tradera?
+ANSWER: När du använder Tradera kan följande personuppgifter samlas in om dig: namn, personnummer, adress, telefonnummer, e-postadress och information om sökhistorik och köp- och säljaktiviteter på Tradera.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera använda mina personuppgifter för marknadsföring?
+ANSWER: Ja, Tradera kan använda dina personuppgifter för marknadsföringsändamål, om du har samtyckt till detta. Du kan när som helst återkalla ditt samtycke.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag radera mina personuppgifter som Tradera har samlat in om mig?
+ANSWER: Ja, du har rätt att begära att Tradera raderar dina personuppgifter. Tradera kan dock inte radera personuppgifter som är nödvändiga för att uppfylla lagstadgade skyldigheter eller fullgöra avtal med dig.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera lämna ut mina personuppgifter till andra länder?
+ANSWER: Ja, Tradera kan lämna ut dina personuppgifter till andra länder som inte har samma dataskyddsnivå som i EU/EES. Tradera vidtar dock lämpliga skyddsåtgärder för att säkerställa att dina personuppgifter behandlas säkert och i enlighet med gällande dataskyddsföreskrifter.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Hur kan jag komma i kontakt med Tradera för att ställa frågor om mina personuppgifter?
+ANSWER: Om du har frågor om hur dina personuppgifter behandlas av Tradera kan du kontakta Traderas kundtjänst via e-post eller telefon. Kontaktuppgifter finns på Traderas webbplats.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

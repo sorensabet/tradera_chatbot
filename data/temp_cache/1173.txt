@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas köparskydd?
+ANSWER: Traderas köparskydd ger köpare möjlighet att få pengarna tillbaka om en säljare inte uppfyller sina åtaganden vid försäljning. Köpare kan välja köparskydd mot en avgift vid betalning med kort, Google Pay, Apple Pay eller Swish. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Paynova, PayPal och Klarna?
+ANSWER: Paynova, PayPal och Klarna är olika företag som köpare kan använda för att betala för köp på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken typ av köp omfattar inte Traderas köparskydd?
+ANSWER: Köp av fastigheter, fordon (förutom vissa privata fordon), anpassade objekt, objekt som motsvarar kontanter, biljetter till evenemang och varor/tjänster som är förbjudna enligt Traderas Regler för Säljare omfattas inte av Traderas köparskydd. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Om jag betalar med ett betalsätt som inte omfattas av köparskyddet, gäller köparskyddet ändå?
+ANSWER: Ja, säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som köparen har valt att betala genom. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Måste säljaren uppfylla sina åtaganden i förhållande till köparskyddet?
+ANSWER: Ja, säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som köparen har valt att betala genom. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan köpare välja köparskydd för alla typer av betalning?
+ANSWER: Nej, köpare kan välja köparskydd mot en avgift vid betalning med kort, Google Pay, Apple Pay eller Swish. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om en säljare inte uppfyller sina åtaganden vid försäljning?
+ANSWER: Köpare kan få pengarna tillbaka genom Traderas köparskydd om en säljare inte uppfyller sina åtaganden vid försäljning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag köpa en fastighet på Tradera?
+ANSWER: Nej, köp av fastigheter omfattas inte av Traderas köparskydd och är förbjudet enligt Traderas regler för säljare. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka typer av fordon omfattas inte av köparskyddet?
+ANSWER: Alla typer av fordonsköp omfattas inte av köparskyddet förutom vissa privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Traderas tvistlösningsförfarande?
+ANSWER: Traderas tvistlösningsförfarande är ett sätt för säljare och köpare att lösa problem och oenigheter mellan dem. Det går till så att båda parterna skickar in sina synpunkter och Tradera beslutar sedan om hur tvisten ska lösas. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

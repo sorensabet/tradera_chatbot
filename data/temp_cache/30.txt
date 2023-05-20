@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter kan Tradera dela med andra bolag eller användare?
+ANSWER: Tradera kan dela med sig av personuppgifter till koncernbolag inom PayPal, underleverantörer som hjälper dem att bedriva verksamheten, och andra Tradera-användare, under förutsättning att användaren har tillåtit det eller genom användningen av deras webbplatser, tjänster, applikationer eller verktyg.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Får koncernbolag använda personuppgifter för marknadsföringsändamål utan samtycke?
+ANSWER: Koncernbolag inom PayPal kan använda personuppgifter för marknadsföringsändamål endast om användaren har samtyckt till detta och gett samtycke på ett sätt som uppfyller tillämpliga regler.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera dela personuppgifter med tredje man för marknadsföringsändamål utan uttryckligt samtycke?
+ANSWER: Nej, Tradera delar inte personuppgifter med tredje man för marknadsföringsändamål utan uttryckligt samtycke från användaren.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad är syftet med att Tradera delar personuppgifter med koncernbolag inom PayPal?
+ANSWER: Syftet med att Tradera delar personuppgifter med koncernbolag inom PayPal är att tillhandahålla gemensamt innehåll och gemensamma tjänster, detektera och förebygga potentiellt olagliga handlingar och överträdelser av deras policys, samt för att ge vägledning om deras produkter, webbplatser, applikationer, verktyg, tjänster och kommunikation i enlighet med tillämplig lag.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka är några exempel på underleverantörer som hjälper Tradera att bedriva verksamheten?
+ANSWER: Några exempel på underleverantörer som hjälper Tradera att bedriva verksamheten inkluderar kundservice, bedrägeriutredningar, fakturaindrivning, lojalitetsprogram och drift av webbplatser.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan andra Tradera-användare använda mina personuppgifter utan mitt godkännande?
+ANSWER: Andra Tradera-användare kan använda dina personuppgifter endast i enlighet med vad som tillåts av dig eller genom din användning av deras webbplatser, tjänster, applikationer eller verktyg.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Gäller integritetspolicyn även för koncernbolag inom PayPal?
+ANSWER: Ja, Traderas integritetspolicy gäller även för koncernbolag inom PayPal, och de kommer att använda dina personuppgifter i enlighet med deras respektive integritetspolicys och tillämplig lag.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera dela personuppgifter utanför EU/EES-området?
+ANSWER: Ja, Tradera kan enligt deras integritetspolicy överföra personuppgifter till länder utanför EU/EES-området, men endast om detta är tillåtet enligt tillämplig lag och de vidtar lämpliga åtgärder för att skydda personuppgifterna.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Hur kan jag ändra eller ta bort mina personuppgifter på Tradera?
+ANSWER: Du kan ändra eller ta bort dina personuppgifter på Tradera genom att logga in på ditt konto och navigera till inställningar för personuppgifter.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka åtgärder vidtar Tradera för att skydda mina personuppgifter?
+ANSWER: Tradera vidtar lämpliga tekniska och organisatoriska åtgärder för att skydda personuppgifterna mot obehörig tillgång, förändring, radering eller offentliggörande. De använder också kryptering vid överföring av personuppgifter mellan dig och Tradera och mellan Tradera och deras partners.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av funktionalitet kan jag få genom att använda Tradera?
+ANSWER: Genom att använda Tradera kan du få utökad funktionalitet och användaranpassning, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/om-tradera/
+
+QUESTION 2: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge dig utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/om-cookies/
+
+QUESTION 3: Varför använder Tradera marknadsföringscookies?
+ANSWER: Tradera använder marknadsföringscookies för att tillhandahålla riktade annonser relevanta för dig genom deras annonseringspartners.
+URL: https://info.tradera.com/da/om-cookies/
+
+QUESTION 4: Kommer jag att få relevanta annonser om jag tillåter Tradera att använda marknadsföringscookies?
+ANSWER: Ja, om du tillåter Tradera att använda marknadsföringscookies kommer du att få riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/da/om-cookies/
+
+QUESTION 5: Vad är annonseringspartners på Tradera?
+ANSWER: Annonspartners på Tradera är företag som hjälper till att visa annonser riktade till en viss användargrupp baserat på information som samlats in genom cookies.
+URL: https://info.tradera.com/da/om-cookies/
+
+QUESTION 6: Varför behöver Tradera mina sparade inställningar?
+ANSWER: Tradera kan använda dina sparade inställningar för att anpassa din användarupplevelse på deras plattform.
+URL: https://info.tradera.com/da/om-tradera/
+
+QUESTION 7: Vad händer om jag inte tillåter cookies på Tradera?
+ANSWER: Om du inte tillåter cookies på Tradera kan vissa funktioner på plattformen inte fungera fullständigt, och du kan uppleva problem med användningen av tjänsterna.
+URL: https://info.tradera.com/da/om-cookies/
+
+QUESTION 8: Kan jag logga in på Tradera med Facebook?
+ANSWER: Ja, du kan logga in på Tradera med ditt Facebook-konto för att få utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION 9: Behöver jag tillåta cookies för att logga in på Tradera med Facebook?
+ANSWER: Ja, för att logga in på Tradera med ditt Facebook-konto måste du tillåta cookies på deras plattform.
+URL: https://info.tradera.com/da/problem-med-inloggning/
+
+QUESTION 10: Kan jag använda Tradera utan att tillåta cookies?
+ANSWER: Ja, du kan använda Tradera utan att tillåta cookies, men du kommer inte att ha tillgång till vissa funktioner på plattformen.
+URL: https://info.tradera.com/da/om-cookies/

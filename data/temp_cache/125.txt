@@ -1,0 +1,39 @@
+QUESTION: What is Bank ID?
+\ANSWER: Bank ID is an electronic identification service used to verify the identity of a user on the internet. This service is used by banks, Försäkringskassan, Tradera and several other websites in Sweden. It is the biggest identification service in Sweden and is used to verify a user's identity before they can access certain services. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: How do I get Bank ID?
+\ANSWER: You can get Bank ID from your internet bank. Different banks have different processes for getting Bank ID. You should check with your own bank for instructions on how to register for Bank ID. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: Why do I need to verify with Bank ID at Tradera?
+\ANSWER: Tradera uses Bank ID to verify the identity of their users to ensure a safe and secure marketplace for both sellers and buyers. The verification process with Bank ID is quick and easy. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: Is Bank ID used only by banks and Försäkringskassan in Sweden?
+\ANSWER: No, several other websites in Sweden also use Bank ID for verification purposes, such as Tradera. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: Can I use Bank ID on my phone?
+\ANSWER: Yes, you can use Bank ID on your phone, computer, or tablet to verify your identity on the internet. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: Do different banks have different processes for registering for Bank ID?
+\ANSWER: Yes, different banks have different processes for registering for Bank ID. You should check with your own bank for instructions on how to register for Bank ID. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: Is Bank ID a safe and secure way to verify my identity?
+\ANSWER: Yes, Bank ID is a safe and secure way to verify your identity. It is used by several websites in Sweden, including Tradera, and is one of the biggest identification services in the country. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: What do I need to verify myself with Bank ID?
+\ANSWER: To verify yourself with Bank ID, you need to open the application on your phone, computer, or tablet, and enter your 6 digit security code. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: Can I use Bank ID for any other purpose besides verification on Tradera?
+\ANSWER: Yes, you can use Bank ID for several different purposes besides verification on Tradera. It is used by banks and Försäkringskassan for different services and can be used to log in to other websites that use Bank ID. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: What is the purpose of using Bank ID?
+\ANSWER: Bank ID is used to verify the identity of users on the internet. It is used by several websites in Sweden, including Tradera, to ensure a safe and secure marketplace for both sellers and buyers. 
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/

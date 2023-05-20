@@ -1,0 +1,39 @@
+QUESTION: Vad händer om en bestämmelse i Användaravtalet anses ogiltig?
+ANSWER: Om någon bestämmelse i Användaravtalet (eller delar av det) anses ogiltig, kommer bestämmelsen anses struken och resterande bestämmelser i Användaravtalet fortsätter att gälla.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Har Tradera rätt att överlåta sina rättigheter och skyldigheter enligt Användaravtalet utan samtycke från användaren?
+ANSWER: Ja, Tradera har rätt att överlåta sina rättigheter och skyldigheter enligt Användaravtalet utan att i förväg inhämta användarens uttryckliga samtycke, förutsatt att det överlåtna Användaravtalet är på samma villkor eller villkor som inte är mindre förmånliga för användaren.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är syftet med rubrikerna i Användaravtalet?
+ANSWER: Rubrikerna i Användaravtalet är införda enbart i redaktionellt syfte och ska inte påverka eller begränsa innehållet i respektive bestämmelse.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om Tradera avstår från att vidta åtgärder vid ett avtalsbrott?
+ANSWER: Om Tradera avstår från att vidta åtgärder vid ett avtalsbrott innebär det inte att de avstår från sina rättigheter att vidta åtgärder vid andra eller liknande avtalsbrott. De åtar sig dock inte att vidta åtgärder vid alla brott mot Användaravtalet.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken instans har första hand om tvister med kunder som inte är konsumenter?
+ANSWER: Om en tvist skulle uppstå med kunder som inte är konsumenter är Stockholms tingsrätt första instans.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Ska rubrikerna i Användaravtalet påverka eller begränsa innehållet i respektive bestämmelse?
+ANSWER: Nej, rubrikerna i Användaravtalet är införda enbart i redaktionellt syfte och ska inte påverka eller begränsa innehållet i respektive bestämmelse.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilket åtagande har Tradera när det gäller skadestånd i tvister om tjänster som tillhandahålls av tredje part via deras webbplatser eller med en eller flera användare av Tjänsterna?
+ANSWER: Tradera har inget åtagande när det gäller skadestånd i tvister om tjänster som tillhandahålls av tredje part via deras webbplatser eller med en eller flera användare av Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera överlåta Användaravtalet med andra villkor än vad som avtalats med användaren?
+ANSWER: Nej, Tradera kan bara överlåta Användaravtalet på samma villkor eller villkor som inte är mindre förmånliga för användaren.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Finns det några undantag när Tradera avstår från att vidta åtgärder vid avtalsbrott?
+ANSWER: Nej, det finns inga undantag när Tradera avstår från att vidta åtgärder vid avtalsbrott. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Gäller Användaravtalet bara för Traderas webbplats?
+ANSWER: Ja, Användaravtalet gäller endast för Traderas webbplats och tillhörande tjänster.
+URL: https://info.tradera.com/anvandaravtal/

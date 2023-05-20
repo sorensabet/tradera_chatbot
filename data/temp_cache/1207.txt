@@ -1,0 +1,39 @@
+QUESTION: What happens if a buyer initiates a dispute settlement procedure for a product not covered by Tradera's buyer protection?
+ANSWER: If a buyer initiates a dispute settlement procedure for a product not covered by Tradera's buyer protection, Tradera will terminate the dispute without further investigation and the buyer will not be entitled to a refund.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the Buyer?
+ANSWER: If a dispute settlement procedure is terminated in favor of the buyer, the buyer shall be entitled to a refund, in part or in whole, of the amount paid by the buyer for an item.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the Seller?
+ANSWER: If a dispute settlement procedure is terminated in favor of the seller, the buyer shall not be entitled to a refund within the framework of Tradera's dispute settlement procedure.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Tradera's decision in a case be appealed to Tradera?
+ANSWER: Tradera's decision in a case cannot be appealed to Tradera, but the seller and buyer are free to find another solution to a dispute in another forum.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What are the seller's obligations in relation to Tradera's buyer protection?
+ANSWER: By accepting Tradera's terms and conditions, the seller agrees to the terms and conditions of Tradera's buyer protection and dispute settlement procedures. The seller must also promptly respond to the buyer's complaint through the dispute settlement procedure provided by Tradera on My Tradera. If the Seller does not promptly notify Tradera of the responses and supporting documents requested by Tradera, Tradera may find that the Buyer shall be entitled to a refund for a product without the Seller having given his/her opinion.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can a seller be invoiced on the refundable amount by Tradera?
+ANSWER: If the seller does not promptly notify Tradera of the responses and supporting documents requested by Tradera, Tradera may find that the buyer shall be entitled to a refund for a product without the seller having given his/her opinion. If the seller has already been paid, Tradera may then send an invoice to the seller on the refundable amount, and the seller shall then be obliged to pay this amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is the seller required to fulfill their obligations in relation to Tradera's buyer's protection?
+ANSWER: Yes, the seller must fulfill his/her obligations in relation to Tradera's buyer's protection, regardless of the payment method by which the buyer has chosen to pay.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What types of purchases are never covered by Tradera's buyer protection?
+ANSWER: Certain types of purchases are never covered by Tradera's buyer protection, as described in Section [8 c) above.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is Seller Protection?
+ANSWER: A seller is entitled under certain conditions to Tradera's Seller Protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Are there any conditions for a seller to be entitled to Tradera's Seller Protection?
+ANSWER: Yes, a seller is entitled under certain conditions to Tradera's Seller Protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

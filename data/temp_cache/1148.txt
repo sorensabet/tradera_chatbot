@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningssätt kan användas på Tradera?
+ANSWER: Det anges inte direkt i texten vilka betalningssätt som kan användas på Tradera, men det nämns att betalning kan göras med kort eller PayPal och att betalning mot faktura eller avbetalning kan också väljas via Paynova eller Klarna. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur betalas Säljaren efter betalning mot faktura eller avbetalning via Paynova eller Klarna?
+ANSWER: Pengar betalas ut till PayPal (Hyperwallet), och efter att Tradera har granskat transaktionen och godkänt den, betalas pengar ut till Säljarens konto. Säljaren meddelas också via email och i Mitt Tradera om att betalning för köpet har genomförts och ska därefter skicka varan till Köparen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Tradera inneha eller kräva betalning från Säljaren?
+ANSWER: Ja, Tradera har rätt att inneha eller kräva betalning från Säljaren om en tvist uppstår där Tradera anser att Köparen har rätt eller om det uppstår en fordran mot Säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Paynova och Klarna för betalningstjänster?
+ANSWER: Texten nämner att Paynova och Klarna är betalningstjänster som Möjligheten att betala mot faktura eller avbetalning erbjuds genom dessa tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur lång tid tar det normalt för Säljaren att få betalt efter att transaktionen har godkänts?
+ANSWER: Normalt sett tar det mellan 1-2 bankdagar för Säljaren att få betalt efter att transaktionen har godkänts, förutsatt att Tradera har korrekta uppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Blir Säljaren medveten om betalning för köpet om betalning mot faktura eller avbetalning sker genom Paynova eller Klarna?
+ANSWER: Ja, även vid betalning mot faktura eller avbetalning meddelar Tradera Säljaren via email och i Mitt Tradera att betalning för köpet har genomförts. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken typ av kreditkontroll utförs av Paynova eller Klarna på Köparen?
+ANSWER: Texten nämner en "sedvanlig kreditkontroll" som genomförs av Paynova eller Klarna på Köparen. Det anges dock inte mer specifikt vilken typ av kreditkontroll som det handlar om. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur betalas Köparen efter en transaktion på Tradera?
+ANSWER: Det anges inte direkt i texten hur Köparen betalas efter en transaktion på Tradera, men det står att betalning kan göras med kort eller PayPal och att betalning mot faktura eller avbetalning kan också väljas via Paynova eller Klarna. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om en tvist uppstår på Tradera?
+ANSWER: Texten nämner att om en tvist uppstår på Tradera där Tradera anser att Köparen har rätt, har Tradera rätt att inneha betalning till Säljaren eller, om Säljaren redan har fått betalt, kräva att Säljaren betalar Återbetalningsskyldigt belopp till Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur sker utbetalning till Säljarens bankkonto efter en transaktion på Tradera?
+ANSWER: Texten säger att efter att Tradera har granskat transaktionen och godkänt den, betalas pengar ut till Säljarens bankkonto inom normalt sett 1-2 bankdagar, förutsatt att Tradera har erhållit korrekta uppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

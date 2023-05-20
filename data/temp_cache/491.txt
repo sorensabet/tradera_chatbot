@@ -1,0 +1,39 @@
+QUESTION 1: Vad innebär samfrakt på Tradera?
+ANSWER: Samfrakt på Tradera ger köpare möjlighet att köpa flera objekt från samma säljare och betala ett enda fraktpris för alla objekten.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 2: Vad visas för köparen när säljaren använder samfrakt?
+ANSWER: När en säljare använder samfrakt på Tradera visas rekommendationer om andra annonser som säljaren har till försäljning till köparen på annonssidan, i mejl och i checkouten.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 3: Vilket visningsläge är standard på såldalistan i Mitt Tradera?
+ANSWER: Visningsläget som är standard på såldalistan i Mitt Tradera är visningsläget "Visning".
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 4: Vad gör säljaren om köparen begär samfrakt efter att ha handlat färdigt eller om tiden för samfrakt löper ut?
+ANSWER: Om köparen begär samfrakt efter att ha handlat färdigt eller om tiden för samfrakt löper ut kommer säljaren automatiskt att få en notifiering om att ange ett gemensamt fraktpris för hela ordern.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 5: Kan säljaren markera en order som betald innan samfraktpris har lagts till på ordern?
+ANSWER: Nej, säljaren kan inte markera en order som betald innan samfraktpris har lagts till på ordern.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 6: Är det endast säljaren som kan ange ett gemensamt fraktpris för hela ordern när samfrakt används på Tradera?
+ANSWER: Ja, det är endast säljaren som kan ange ett gemensamt fraktpris för hela ordern när samfrakt används på Tradera.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 7: Hur kan säljaren ange 0:- i fraktpris om köparen kommer att hämta objekten?
+ANSWER: Om köparen och säljaren kommer överens om avhämtning kan säljaren ange 0:- i fraktpris så att de kan markera ordern som betald.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 8: Vad händer om säljaren inte har samfrakt på någon av sina annonser?
+ANSWER: Om säljaren inte har samfrakt på någon av sina annonser kommer inte köparen att ha möjlighet att begära samfrakt.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 9: Kan säljaren se vem som begär samfrakt på deras beställningar?
+ANSWER: Ja, säljaren kan se vem som begär samfrakt på deras beställningar eftersom de automatiskt får en notifiering.
+URL: https://info.tradera.com/samfrakt-saljare/
+
+QUESTION 10: Vad ska en köpare göra om de inte ser annonserna grupperade i såldalistan på Tradera?
+ANSWER: Om köparen inte ser annonserna grupperade i såldalistan på Tradera kan de ändra visningsläget i såldalistan i Mitt Tradera till Normalt manuellt för att få annonserna grupperade.
+URL: https://info.tradera.com/samfrakt-saljare/

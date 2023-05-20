@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med användningen av cookies av Tradera?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera webbplatstrafik. Dessutom delar de information om din användning av webbplatsen med sina samarbetspartners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Kan Traderas användare anpassa sina inställningar för cookies?
+ANSWER: Ja, Traderas användare kan anpassa sina inställningar för cookies. Tradera ger användarna möjlighet att göra det, i syfte att öka användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Vilken typ av information delar Tradera med sina samarbetspartners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina samarbetspartners för sociala medier, annonsering och analys. Detta inkluderar information om användning av webbplatsens innehåll, annonsering, funktioner för sociala medier och trafikanalys.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Varför är nödvändiga cookies för Tradera alltid aktiverade?
+ANSWER: Nödvändiga cookies är alltid aktiverade på Traderas webbplats eftersom de är avgörande för att webbplatsen ska fungera korrekt. Utan nödvändiga cookies skulle webbplatsen inte kunna fungera.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Vilket syfte har marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att rikta annonser som är relevanta för sina användare. Syftet med dessa cookies är att förbättra marknadsföringen och skapa mer effektiva annonser.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Vilken typ av cookies används för att mäta Traderas prestanda?
+ANSWER: För att mäta Traderas prestanda används anonyma prestandacookies. Syftet med dessa cookies är att mäta hur webbplatsen används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Kan Traderas användare logga in med Facebook?
+ANSWER: Ja, Traderas användare kan logga in med Facebook genom funktionella cookies.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge Traderas användare utökad funktionalitet och användaranpassning på webbplatsen. Exempel på funktioner inkluderar vissa sparade inställningar och inloggning med Facebook.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Varför behöver Tradera använda cookies för sociala medier?
+ANSWER: Tradera behöver använda cookies för sociala medier eftersom dessa cookies gör att användare kan interagera med Traderas innehåll och funktioner på sociala medieplattformar som Facebook och Twitter.
+URL: https://info.tradera.com/da/food/
+
+QUESTION: Vilka är Traderas partners för annonsering och analys?
+ANSWER: Traderas partners för annonsering och analys är företag som Tradera samarbetar med för att förbättra sina marknadsföringsinsatser. Dessa partners använder information om användning av Traderas webbplats för att rikta annonser och analysera trafiken.
+URL: https://info.tradera.com/da/food/

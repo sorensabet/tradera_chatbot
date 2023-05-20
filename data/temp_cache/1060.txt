@@ -1,0 +1,39 @@
+QUESTION: Hvad er reglerne for køretøjer og dele af køretøjer på Tradera?
+ANSWER: Tradera har regler og begrænsninger for salg af køretøjer og dele til køretøjer. De tillader for eksempel ikke salg af nummerplader eller plader, der ligner nummerplader, og varer, der er beregnet til at ændre id-bevis, tilladelser eller nummerplader. Der er også specifikke regler for ændringer af køretøjer og nummerplader. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke typer parfume og kosmetik er forbudt at sælge på Tradera?
+ANSWER: Tradera tillader ikke salg af prøveflasker, parfume, der er blevet hældt på en anden flaske, eller kopier af parfume og kosmetik. De har også specifikke krav til beskrivelser af duftene. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er nogle eksempler på objekter af national eller kulturel oprindelse, som ikke kan sælges på Tradera?
+ANSWER: Tradera har regler, der forbyder salg af antikke mønter, våben, begravelsesobjekter, keramik, smykker og værktøjer, religiøse ikoner og fossiler og mineraler af national eller kulturel oprindelse. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke former for sexlegetøj er tilladt at sælge på Tradera?
+ANSWER: Tradera tillader salg af sexlegetøj, kondomer og BDSM- /bondagetøj eller tilbehør. Forbudte varer inkluderer mennesker eller dele af menneskekroppen, organer, knogler, blod, ekskrementer, sæd og æg. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilken type dokumenter er forbudt at sælge på Tradera?
+ANSWER: Tradera har regler, der forbyder salg af falske ID'er og dokumenter, der kan bruges til at påstå en anden titel (såsom akademiske og officielle titler), inklusive arbejdstitler (såsom administrativ direktør eller advokat). 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er Traderas regler for salg af genstande af national eller kulturel oprindelse?
+ANSWER: Traderas regler omfatter genstande af national eller kulturel oprindelse. De forbyder salg af antikke mønter, våben, begravelsesobjekter, keramik, smykker og værktøjer, religiøse ikoner og fossiler og mineraler af national eller kulturel oprindelse. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Er det tilladt at sælge kopier af parfume og kosmetik på Tradera?
+ANSWER: Nej, det er ikke tilladt at sælge kopier af parfume og kosmetik på Tradera. De har også specifikke krav til beskrivelser af duftene. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke regler har Tradera for salg af køretøjer og nummerplader?
+ANSWER: Tradera har regler og begrænsninger for salg af køretøjer og dele til køretøjer. De tillader for eksempel ikke salg af nummerplader eller plader, der ligner nummerplader, og varer, der er beregnet til at ændre id-bevis, tilladelser eller nummerplader. Der er også specifikke regler for ændringer af køretøjer og nummerplader. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Er det tilladt at sælge organer på Tradera?
+ANSWER: Nej, det er ikke tilladt at sælge mennesker eller dele af menneskekroppen, organer, knogler, blod, ekskrementer, sæd og æg på Tradera. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Kan man sælge falske ID-papirer på Tradera?
+ANSWER: Nej, det er ikke tilladt at sælge falske ID'er eller dokumenter, der kan bruges til at påstå en anden titel (såsom akademiske og officielle titler), inklusive arbejdstitler (såsom administrativ direktør eller advokat) på Tradera. 
+URL: https://info.tradera.com/da/other-rules/

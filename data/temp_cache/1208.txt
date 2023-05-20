@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's seller protection?
+ANSWER: Tradera's seller protection is a system designed to protect sellers from fraudulent claims made by buyers. By complying with the terms and conditions of Tradera's seller protection, the Seller may retain the payment received even if the Buyer claims that the Buyer has never received an item, or that the item is not in accordance with the Seller's description.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What are the products not covered by Tradera's seller protection? 
+ANSWER: The products not covered by Tradera's seller protection are the sale of properties including residential properties, sale of vehicles including motor vehicles, motorcycles, caravans, aircraft, and boats except for private portable light vehicles used for recreational purposes such as bicycles and wheeled hoverboards, sale of customized objects unless the recipient claims that the objects have not arrived, sale of items equivalent to cash such as gift cards, sale of tickets for events such as sports or concert tickets, and sale of goods and services prohibited by Tradera's rules for sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What conditions must a Seller meet in order to use Tradera's seller protection? 
+ANSWER: In order for a Seller to be able to use Tradera's seller protection, the Seller shall send the goods to the delivery address approved by Tradera at the time of payment. Goods whose price exceeds 200 SEK must have been handed over to the Buyer by the Seller or by a carrier in order for the Seller to be covered by the seller protection. If the Buyer claims not to have received the delivery, Tradera will ask the Seller for evidence that the Seller, or the contracted carrier, has delivered the item or items to the Buyer. Tradera therefore recommends the Seller to send the goods with traceability, e.g., a tracking number from the carrier. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How does Tradera ensure that Sellers are covered by the seller protection? 
+ANSWER: Tradera ensures that Sellers are covered by the seller protection by verifying that the Seller has sent the goods to the delivery address approved by Tradera at the time of payment. Goods whose price exceeds 200 SEK must have been handed over to the Buyer by the Seller or by a carrier in order for the Seller to be covered by the seller protection. If the Buyer claims not to have received the delivery, Tradera will ask the Seller for evidence that the Seller, or the contracted carrier, has delivered the item or items to the Buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How much does a Seller need to sell an item for their seller protection to apply? 
+ANSWER: Goods whose price exceeds 200 SEK must have been handed over to the Buyer by the Seller or by a carrier in order for the Seller to be covered by the seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What should a Seller do if the Buyer claims not to have received the delivery? 
+ANSWER: If the Buyer claims not to have received the delivery, Tradera will ask the Seller for evidence that the Seller, or the contracted carrier, has delivered the item or items to the Buyer. Tradera therefore recommends the Seller to send the goods with traceability, e.g., a tracking number from the carrier. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Does the Seller need to provide evidence if the Buyer claims that the item is not in accordance with the Seller's description? 
+ANSWER: No, the Seller does not need to provide evidence if the Buyer claims that the item is not in accordance with the Seller's description. Tradera's seller protection will still apply to the Seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Are customized objects covered by Tradera's seller protection? 
+ANSWER: Sale of customized objects is not covered by Tradera's seller protection unless the recipient claims that the objects have not arrived. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Are tickets for sports or concert events covered by Tradera's seller protection? 
+ANSWER: Sale of tickets for events such as sports or concert tickets is not covered by Tradera's seller protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Are salesman allowed to sell goods that are prohibited by Tradera's rules for sellers? 
+ANSWER: No, salesman are not allowed to sell goods and services that are prohibited by Tradera's rules for sellers. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

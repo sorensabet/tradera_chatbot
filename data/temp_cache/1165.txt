@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsmetoder erbjuds på Tradera?
+ANSWER: Swish, Klarna, PayPal med dess tjänst Hyperwallet och Paynova erbjuder betalningssätt på Tradera. De avgör vilka betalningssätt de vill erbjuda Köpare, och Köpare kan behöva ingå ett separat avtal med den aktuella leverantören av betallösningen beroende på vilket betalningssätt de väljer att använda.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka villkor gäller för betalningssätt som Köpare väljer att använda?
+ANSWER: Köpare måste godkänna de villkor som gäller för det betalningssätt de väljer att använda. Det kan också hända att Köpare behöver ingå ett separat avtal med den aktuella leverantören av betallösningen beroende på vilket betalningssätt de väljer att använda.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka parter kan tillkomma om Tradera väljer att vidareutveckla sin kassalösning?
+ANSWER: Fler parter kan tillkomma om Tradera väljer att vidareutveckla sin kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem ansvarar för inbetalningar från Köpare på Tradera?
+ANSWER: Köpare är ansvariga för inbetalningar på Tradera, och det är mellan Köpare och betallösningsleverantören som eventuella frågor eller problem gällande inbetalning ska hanteras.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka omständigheter är Tradera inte ansvariga för gällande betalningar av föremål som Köpare köper på Tradera?
+ANSWER: Tradera är inte ansvariga för förseningar, fel, skador eller annat som omfattar betalning av föremål som Köpare köper via Traderas kassalösning. Detta beror på att inbetalningen från Köpare inte omfattas av Traderas betaltjänst.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka parter är ansvariga för hantering av frågor om inbetalning på Tradera?
+ANSWER: Eventuella frågor eller problem gällande inbetalning ska hanteras mellan Köpare och betallösningsleverantören enligt de villkor eller avtal som har ingåtts mellan Köpare och betallösningsleverantören.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Köpare väljer att betala via Klarna på Tradera?
+ANSWER: Om Köpare väljer att betala via Klarna på Tradera, överlåter Säljaren rätten att få betalt av Köparen till Tradera, som i sin tur överlåter sådan fordran till Klarna. Köparen accepterar att, vid köp via Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Köpare välja att betala via PayPal på Tradera?
+ANSWER: Ja, Köpare kan välja att betala via PayPal med dess tjänst Hyperwallet på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Måste Köpare godkänna villkoren för betalningssätt på Tradera?
+ANSWER: Ja, Köpare måste godkänna de villkor som gäller för det betalningssätt de väljer att använda på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan fler betallösningsleverantörer tillkomma på Tradera?
+ANSWER: Ja, Tradera kan välja att ändra eller vidareutveckla sina kassalösningar och fler betallösningsleverantörer kan då tillkomma.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

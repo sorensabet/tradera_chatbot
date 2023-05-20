@@ -1,0 +1,39 @@
+QUESTION 1: What is Klarna, and how does it work on Tradera?
+ANSWER: Klarna is a payment method that buyers can use to pay for their purchases on Tradera. When a buyer selects Klarna as their payment method, the seller transfers the right to receive payment from the buyer to Tradera, and Tradera then transfers that claim to Klarna. Buyers are obligated to make payment to Klarna, and not to the seller or Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 2: Can Tradera guarantee the continuous operation of its services?
+ANSWER: No, while Tradera tries to keep access to its platform and services safe, secure and functioning properly, they cannot guarantee that their services will be continuously accessible or operational. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 3: What limitations of liability do Tradera's users have?
+ANSWER: Tradera's users are not covered for indirect losses such as loss of data, loss of profits, loss of reputation or other similar losses that we could not reasonably foresee. These losses can result directly or indirectly from the use of the platform, the content posted on it, or actions/inactions of third parties. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 4: What is the Bid Updates functionality on Tradera's services?
+ANSWER: Bid updates notify users in real time about changes in auction bids and other notifications. However, this functionality is sometimes subject to delays beyond Tradera's control.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 5: Is Tradera liable for any disruptions that may happen to the business or any other loss suffered by users?
+ANSWER: Tradera, their parent company, subsidiaries, affiliates, representatives, officers, agents and employees are not liable for indirectly consequential losses incurred as a result of use of the platform, including losses that we could not reasonably foresee. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 6: Can any losses incurred by using Tradera's services be foreseen?
+ANSWER: Some losses incurred by using Tradera's services can be foreseen, but other indirect losses (such as loss of data, loss of profits, or loss of reputation) are harder to predict. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 7: What actions can Tradera take with respect to user accounts?
+ANSWER: If users breach the "Abusing Tradera" terms or if there are any other problems, Tradera can take actions such as suspending or limiting users' accounts. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 8: What happens if someone lists an item that allegedly infringes third-party intellectual property rights?
+ANSWER: In such cases, the item will be removed from Tradera's platform. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 9: What are the Listing Conditions on Tradera?
+ANSWER: Listing Conditions on Tradera concern how long and in what position listed items appear in search results. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 10: Is there any guidance provided by Tradera for pricing and shipping?
+ANSWER: Yes, Tradera provides guidance for pricing and shipping on their platform. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

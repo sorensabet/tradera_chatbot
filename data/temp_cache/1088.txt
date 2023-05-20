@@ -1,0 +1,39 @@
+QUESTION: Vilken information visas i min publika profil på Tradera?
+ANSWER: I din publika profil visas ditt alias, ditt land och din postort. För att skydda din personliga information bör du undvika att använda ett alias som kan kopplas ihop med en verklig person. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur kan jag anpassa min e-postpreferens på Tradera?
+ANSWER: Du kan anpassa din e-postpreferens på Tradera genom inställningar i Mitt Tradera. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Kan jag återta mitt samtycke för hantering av mina personuppgifter på Tradera?
+ANSWER: Ja, du kan återta ditt samtycke för hantering av dina personuppgifter på Tradera genom att avsluta ditt konto via Mitt Tradera eller genom att kontakta kundservice. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur länge behåller Tradera mina personuppgifter efter att jag avslutat mitt konto?
+ANSWER: Tradera behåller uppgifterna så länge det är nödvändigt för ändamålet med behandlingen. Om det inte längre är nödvändigt att behandla de aktuella uppgifterna tas de automatiskt bort. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Har Tradera några skyldigheter att behålla vissa av mina personuppgifter?
+ANSWER: Ja, Tradera har en lagstadgad skyldighet att bevara vissa uppgifter för att följa Bokföringslagen och Penningtvättslagen. Dessutom har de ett berättigat intresse av att bevara uppgifter under en tid för att genomdriva villkoren i deras användaravtal. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Kan andra användare se mina personuppgifter på Tradera?
+ANSWER: Andra användare kan se ditt alias, ditt land och din postort i din publika profil på Tradera. Men för att skydda din personliga integritet, rekommenderar Tradera att du undviker att använda ett alias som kan kopplas samman med en verklig person. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur kan jag avsluta mitt konto på Tradera?
+ANSWER: Du kan avsluta ditt konto på Tradera genom att logga in på Mitt Tradera och välja "Avsluta konto" under inställningar eller genom att kontakta kundservice. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vad kan jag göra om jag vill att Tradera slutar behandla mina personuppgifter helt och hållet?
+ANSWER: Om du vill att Tradera ska sluta behandla dina personuppgifter helt och hållet kan du avsluta ditt konto via Mitt Tradera eller genom att kontakta kundservice. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vilka är de olika grunderna till varför Tradera behåller vissa personuppgifter efter att mitt konto har avslutats?
+ANSWER: De olika grunderna till varför Tradera behåller vissa personuppgifter efter att ditt konto har avslutats varierar beroende på ändamålet med behandlingen. De kan exempelvis ha en lagstadgad skyldighet att bevara vissa uppgifter för att följa Bokföringslagen och Penningtvättslagen. Dessutom har de ett de ett berättigat intresse av att bevara uppgifter under en tid för att genomdriva villkoren i deras användaravtal. 
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vilka personuppgifter behöver Tradera för att kunna erbjuda sin tjänst?
+ANSWER: Vissa personuppgifter är nödvändiga för att Tradera ska kunna erbjuda sin tjänst. 
+URL: https://info.tradera.com/dataskydd/

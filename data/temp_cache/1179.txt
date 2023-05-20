@@ -1,0 +1,38 @@
+Question: Vad är kravet för att behöva betala någon avgift till Tradera för betallösningen?
+Answer: Ingen start-, månads- eller årsavgift behöver betalas till Tradera för användandet av betallösningen. Kravet för att inte behöva betala någon avgift till Tradera för betallösningen är att beloppet är noll (0) kronor. This is clearly stated in the CONTEXT provided under the section "Betalningsvillkor" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Vad händer om säljaren agerar på ett sätt att Tradera kan återbetala transaktioner till köparen?
+Answer: Om säljaren agerar på ett sätt som medför att Tradera kan återbetala transaktioner till köparen i enlighet med villkoren, kan Tradera fakturera säljaren för återbetalningsskyldigt belopp. Details of this can be found under the section "Betalningsvillkor" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Vem har äganderätten till de immateriella rättigheterna?
+Answer: Tradera förbehåller sig äganderätten till alla immateriella rättigheter till allt som utvecklats av Tradera och som säljaren har åtkomst till enligt villkoren och på Traderas plattform. This information can be found under section 12 "Immaterialiella rättigheter" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Får säljaren använda Traderas varumärken?
+Answer: Nej, säljaren får aldrig använda tecken, logotyper, symboler eller annat som skulle kunna förväxlas med Traderas varumärken. This information can be found under section 12 "Immaterialiella rättigheter" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Vilken integritetspolicy gäller Tradera vid hantering av personuppgifter?
+Answer: Traderas ordinarie integritetspolicy tillämpas även för personuppgifter som Tradera hanterar i samband med dessa villkor. This information can be found under section 13 "Personuppgifter" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Vilken annan enhet hanterar personuppgifter inom ramen för tjänsten Hyperwallet?
+Answer: Personuppgifter kommer också hanteras självständigt av PayPal inom ramen för tjänsten Hyperwallet. This information can be found under section 13 "Personuppgifter" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Vad ansvarar säljaren för i samband med användning av sin unika inloggning till Tradera?
+Answer: Säljaren ansvarar för alla åtgärder som vidtas genom användning av säljarens unika inloggning till Tradera, enligt punkt a under "Övrigt". This information can be found under section 14 "Övrigt" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: När upphör dessa villkor att gälla för säljaren?
+Answer: Dessa villkor upphör att gälla, utan skyldighet för Tradera till återbetalning, för det fall Tradera säger upp Traderas användaravtal eller förvägrar säljaren att använda Traderas tjänster, enligt punkt b under "Övrigt". This information can be found under section 14 "Övrigt" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+Question: Vad är villkoren för användande av betaltjänsten Swish?
+Answer: The information provided in the CONTEXT does not specify any terms and conditions for using Swish. 
+
+Question: Kan säljaren bli betalningsskyldig till Tradera?
+Answer: Ja, säljaren kan bli betalningsskyldig till Tradera om de agerar på ett sätt som medför att Tradera kan återbetala transaktioner till köparen i enlighet med dessa villkor. This information can be found under the section "Betalningsvillkor" at the URL provided.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

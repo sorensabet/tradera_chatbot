@@ -1,0 +1,43 @@
+QUESTION: Vilka åtgärder ska man undvika för att få tillgång till Traderas tjänster?
+ANSWER: Man bör undvika metoder såsom skrapning, robotar eller spindlar för att få tillgång till Traderas Tjänster. Man bör inte heller kringgå skydd mot automatiserade metoder, hindra eller störa hur Tjänsterna fungerar eller lägga en orimligt stor last på infrastrukturen.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Får man exportera Traderas applikationer eller verktyg?
+ANSWER: Ja, man får exportera eller återexportera någon av Traderas applikationer eller verktyg förutom i enlighet med de exportkontrollregler som gäller för berörd jurisdiktion och i enlighet med de regler och begränsningar som framgår på webbplatsen.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Får man kopiera eller ändra Traderas fotografier, bilder och varumärken?
+ANSWER: Nej, man får inte kopiera, ändra eller tillgängliggöra Traderas verk, fotografier, bilder, varumärken, texter eller annat innehåll från Tradera utan uttryckligt skriftligt samtycke från Tradera eller, i tillämpliga fall, berörd tredje man. 
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Får man kopiera eller reproduera innehåll från Tradera?
+ANSWER: Nej, man får inte kopiera, reproducera, ändra, bearbeta, översätta, överföra, allmänt tillgängliggöra eller framföra något innehåll (med undantag för ditt eget innehåll) från Tradera, Traderas Tjänster eller tredje man, utan att i förväg inhämta uttryckligt skriftligt samtycke från Tradera eller, i tillämpliga fall, berörd tredje man.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Får man återförsälja eller vidarelicensiera någon av Traderas applikationer?
+ANSWER: Nej, man får inte återförsälja eller vidarelicensiera någon av Traderas applikationer eller någon information eller mjukvara som hör till sådana applikationer utan Traderas samtycke.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad händer om man samlar in information om användare utan samtycke från Tradera?
+ANSWER: Man får inte samla in information om användare utan samtycke från Tradera. Om man gör det kan man möta juridiska konsekvenser.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad är skrapning?
+ANSWER: Skrapning är en metod att automatiskt hämta och extrahera data från en webbplats. Detta är en metod som Tradera förbjuder i sitt användaravtal.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan man ändra innehållet på Traderas webbplats?
+ANSWER: Nej, man får inte ändra innehållet på Traderas webbplats eller översätta det till andra språk utan uttryckligt skriftligt samtycke från Tradera eller eventuellt tredje man.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Får man använda robotar för att få tillgång till Traderas tjänster?
+ANSWER: Nej, man ska inte använda metoder såsom skrapning, robotar eller spindlar för att få tillgång till Traderas Tjänster. 
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Får man hindra eller störa hur Traderas tjänster fungerar?
+ANSWER: Nej, man ska inte hindra eller störa hur Traderas tjänster fungerar eller lägga en orimligt stor last på infrastrukturen.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad händer om man kringgår Traderas skydd mot automatiserade metoder?
+ANSWER: Man ska inte kringgå Traderas skydd mot automatiserade metoder. Om man gör det kan man möta juridiska konsekvenser.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/

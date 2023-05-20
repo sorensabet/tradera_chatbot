@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika betalsätten som erbjuds på Traderas plattform?
+ANSWER: På Traderas plattform kan man välja att betala med faktura, avbetalning genom Paynovas försorg, PayPal, kort eller Swish. Vilka betalsätt som ger tillgång till Traderas köparskydd framgår också innan Köparen väljer betalsätt på plattformen.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Om man betalar med PayPal eller Swish, ingår då Traderas köparskydd?
+ANSWER: Nej, om man betalar med PayPal, kort eller Swish ingår inte Traderas köparskydd, men Tradera kan vid ett senare tillfälle komma att erbjuda köparskydd även vid betalning med kort eller Swish mot en avgift.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka köp omfattas aldrig av Traderas köparskydd?
+ANSWER: Följande köp omfattas aldrig av Traderas köparskydd: Köp av fastigheter (inklusive, utan begränsning, bostadsfastigheter); Köp av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul; Köp av anpassade objekt (såvida det inte finns en tydlig produktbeskrivning och felaktigt objekt har levererats).
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om säljaren inte uppfyller sina åtaganden i förhållande till Traderas köparskydd?
+ANSWER: Om en säljare inte uppfyller sina åtaganden i förhållande till Traderas köparskydd, kan en Köpare få tvister hanterade och få återbetalat det belopp som de har betalat vid en transaktion.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan man köpa fastigheter eller fordon på Traderas plattform?
+ANSWER: Nej, man kan inte köpa fastigheter eller fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar) på Traderas plattform. Undantaget är privata bärbara lätta fordon som används i rekreationssyfte, till exempel cyklar eller hoverboard med hjul.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Ingår Traderas köparskydd om man betalar med Paynova?
+ANSWER: Ja, Traderas köparskydd ingår om man väljer att betala mot faktura eller avbetalning genom Paynovas försorg.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Inom vilka ramar kan en Köpare få tvister hanterade vid en transaktion på Tradera?
+ANSWER: En Köpare kan få tvister hanterade och få återbetalat det belopp som de har betalat vid en transaktion under vissa förutsättningar och beroende på om Traderas köparskydd ingår eller inte. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Om säljaren inte uppfyller sina åtaganden vilka möjligheter har då Köparen att få tillbaka det betalda beloppet?
+ANSWER: Om en säljare inte uppfyller sina åtaganden i förhållande till Traderas köparskydd kan en Köpare få tvister hanterade och få återbetalat det belopp som de har betalat vid en transaktion.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera komma att erbjuda köparskydd vid betalning med kort eller Swish i framtiden?
+ANSWER: Ja, Tradera kan vid ett senare tillfälle komma att erbjuda köparskydd även vid betalning med kort eller Swish mot en avgift.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Om man köper anpassade objekt, ingår då Traderas köparskydd?
+ANSWER: Traderas köparskydd omfattar inte köp av anpassade objekt, såvida det inte finns en tydlig produktbeskrivning och felaktigt objekt har levererats.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

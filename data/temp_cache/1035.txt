@@ -1,0 +1,39 @@
+QUESTION: What can users do if their Personal Data changes or is inaccurate?
+ANSWER: Users can edit their Personal Data in their account profile settings and must promptly update it if it changes or is inaccurate.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Is it possible to remove public postings from the site?
+ANSWER: In some cases, after making a public posting on the site, it may not be possible to change or remove it. However, any statutory right that users may have to erase or modify their Personal Data will be honored.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Where are users' Personal Data stored and processed?
+ANSWER: Users' Personal Data is stored and processed on the company's servers, which are located in Sweden and other parts of the world. The company is committed to providing appropriate protection for users' Personal Data, regardless of where it is transferred outside the EEA.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What security controls does the company use to protect users' Personal Data?
+ANSWER: The company uses physical, technical, and organizational security controls commensurate with the amount and sensitivity of the Personal Data to prevent unauthorized processing. Examples of such safeguards include firewalls, data encryption, physical access controls to data centers, and information access authorization controls.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can users request to have their account closed?
+ANSWER: Yes, users can request to have their account closed, and the company will remove their Personal Data so that it cannot be viewed by other users. The removal will be based on the account status and in accordance with applicable laws.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What happens to Personal Data from closed or inactive accounts?
+ANSWER: Personal Data from closed or inactive accounts will be deleted or anonymized as soon as possible after the account is closed or deactivated. However, the company may retain Personal Data from these accounts for legitimate business interests or legal obligations, such as the collection of fees owed or compliance with member state legislation.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What are some examples of legitimate business interests for retaining Personal Data?
+ANSWER: Examples of legitimate business interests may include the collection of fees owed, resolution of disputes, or enforcing the User Agreement.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What provisions are there for retaining Personal Data in case of fraud or money laundering prevention?
+ANSWER: The company may retain Personal Data from closed or inactive accounts for fraud and money laundering prevention, or to otherwise take actions permitted by law. Under such circumstances, Personal Data will be kept securely.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What are some of the physical security controls used by the company to protect users' Personal Data?
+ANSWER: Physical security controls used by the company include access controls to data centers, such as biometric scanning and smart cards, as well as security cameras and alarm systems.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is the company's commitment regarding protecting users' Personal Data when it is transferred outside the EEA?
+ANSWER: The company is committed to providing appropriate protection for users' Personal Data where it is transferred outside the EEA by using physical, technical, and organizational security controls, regardless of the location of the data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

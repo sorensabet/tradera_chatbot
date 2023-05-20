@@ -1,0 +1,39 @@
+QUESTION: Får man sälja livsmedel på Tradera?
+ANSWER: Det är inte tillåtet att sälja livsmedel på Tradera enligt sidan för oönskade objekt och regler. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/oonskade-objekt/
+
+QUESTION: Vad är budtrissning?
+ANSWER: Budtrissning är en process där köpare lägger bud på en produkt utan att se varandra bud och därefter ökar budet successivt tills slutpriset fastställs. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Får man sälja elektroniska produkter på Tradera?
+ANSWER: Ja, programvaror och elektronisk media är tillåtna att sälja på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Finns det några restriktioner för att sälja uniformer på Tradera?
+ANSWER: Uniformer och säkerhetsrelaterade objekt kan säljas på Tradera, men endast om de inte är skyddade av några upphovsrättsregler. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Vad är dropshipping?
+ANSWER: Dropshipping innebär att man säljer en produkt utan att ha den i lager, och istället låter en tredje part leverera produkten direkt till kunden. Detta är tillåtet på Tradera, men det är viktigt att man tydligt informerar om att produkten levereras av en annan part. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad finns det för regler kring reklamation på Tradera?
+ANSWER: Köpare har rätt att reklamera en produkt om den är felaktig eller skadad. Säljaren måste då antingen erbjuda reparation eller om möjligt ersätta köparen med en ny produkt. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/reklamation/
+
+QUESTION: Får man sälja sedlar och mynt på Tradera?
+ANSWER: Ja, det är tillåtet att sälja sedlar, mynt och frimärken på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Får man sälja vapenrelaterade objekt på Tradera?
+ANSWER: Ja, det är tillåtet att sälja vapenrelaterade objekt på Tradera, men endast om det följer strikta regler gällande licenskrav och legalitet. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Kan man sälja pornografiskt material på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja pornografiskt material på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Kan man sälja presentkort och tjänster på Tradera?
+ANSWER: Ja, det är tillåtet att sälja presentkort och tjänster på Tradera, förutsatt att de inte strider mot några av sidans regler. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/

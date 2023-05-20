@@ -1,0 +1,39 @@
+QUESTION 1: Vilka är anledningarna till att ett Tradera-konto kan bli avaktiverat?
+ANSWER: Ett Tradera-konto kan bli avaktiverat om man inte följer plattformens användarvillkor eller om man utsätter andra användare för negativa upplevelser.
+URL: https://info.tradera.com/sv/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION 2: Hur kan jag kontakta Tradera om mitt konto har blivit avaktiverat?
+ANSWER: Du kan kontakta Tradera genom att klicka på "Kontakt oss" på Traderas webbplats.
+URL: https://info.tradera.com/sv/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION 3: Kan ett avaktiverat konto återaktiveras?
+ANSWER: Ja, ett avaktiverat konto kan återaktiveras om användaren meddelar Tradera att de har åtgärdat problemet som ledde till avaktiveringen och att de kommer att följa användarvillkoren i framtiden.
+URL: https://info.tradera.com/sv/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION 4: Kan jag skapa en ny annons om mitt konto har avaktiverats?
+ANSWER: Nej, om ditt konto har avaktiverats kan du inte skapa nya annonser på Tradera.
+URL: https://info.tradera.com/sv/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION 5: Vad innebär huskelistan på Tradera?
+ANSWER: Huskelistan är en funktion på Tradera som gör det möjligt för användare att spara annonser som de är intresserade av och enkelt hitta dem igen senare.
+URL: https://www.tradera.com/help/huskelista
+
+QUESTION 6: Hur kan jag lägga till en annons på min huskelista?
+ANSWER: För att lägga till en annons på din huskelista, klicka på "Spara" på annonsen när du tittar på den.
+URL: https://www.tradera.com/help/huskelista
+
+QUESTION 7: Vad är förklaringsgraden för annonsens kategorier på Tradera?
+ANSWER: Förklaringsgraden för annonsens kategorier visar hur tydligt en annonskategori beskriver den produkt som annonseras.
+URL: https://www.tradera.com/help/forvaringsgrad
+
+QUESTION 8: Vad är "Opret ny annonce" på Tradera?
+ANSWER: "Opret ny annonce" är en funktion på Tradera som användare kan använda för att skapa nya annonser för att sälja produkter.
+URL: https://info.tradera.com/da/opret-ny-annonce/
+
+QUESTION 9: Måste jag betala en avgift för att skapa en ny annons på Tradera?
+ANSWER: Ja, det finns en avgift för att skapa nya annonser på Tradera, men avgiften varierar beroende på vad som annonseras.
+URL: https://info.tradera.com/sv/sa-fungerar-tradera-avgifter-paket-och-betalning/
+
+QUESTION 10: Vad är kontaktsälj på Tradera?
+ANSWER: Kontaktsälj är en funktion på Tradera som gör det möjligt för säljare och köpare att kommunicera direkt med varandra utan att använda Traderas meddelandefunktion.
+URL: https://www.tradera.com/help/kontakt-salj

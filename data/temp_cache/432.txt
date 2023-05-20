@@ -1,0 +1,39 @@
+QUESTION: Vad är cookies och varför används de på Tradera?
+ANSWER: På sidan ges information om att Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på sidan. Cookies är små datafiler som lagras på användarens enhet när de besöker en websida och används för att samla in information om besökarens beteende och preferenser, så att sidan kan anpassa sitt innehåll och funktioner efter användaren. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Kan man sälja som privatperson på Tradera?
+ANSWER: Ja, på Tradera kan både privatpersoner och företag sälja varor. Sidan ger även information om hur man kan sälja som privatperson på Tradera. 
+URL: https://info.tradera.com/da/saelj-som-privatperson/
+
+QUESTION: Vad behöver jag som privatperson göra för att kunna sälja på Tradera?
+ANSWER: För att sälja som privatperson på Tradera behöver man först registrera sig som användare på sidan och sedan ange sina kontaktuppgifter och personuppgifter. Därefter kan man skapa en auktion eller direktförsäljning på Tradera. 
+URL: https://info.tradera.com/da/saelj-som-privatperson/
+
+QUESTION: Kan företag sälja på Tradera?
+ANSWER: Ja, Tradera tillåter både privatpersoner och företag att sälja varor på sidan. 
+URL: https://info.tradera.com/da/saelj-som-privatperson/
+
+QUESTION: Vilka länder kan man använda Tradera i?
+ANSWER: Tradera är en nordisk e-handelsplattform, så den kan användas i de nordiska länderna Danmark, Sverige, Norge och Finland. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hur kan jag betala för varor jag köpt på Tradera?
+ANSWER: På Tradera kan man betala med flera olika betalningsmetoder, såsom kortbetalning, Swish, PayPal, banköverföring och Tradera Pay. Vilka betalningsmetoder som erbjuds beror på säljarens val. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hur fungerar Tradera Pay?
+ANSWER: Tradera Pay är en betalningstjänst som tillhandahålls av Tradera. Genom att använda Tradera Pay kan man betala för köp på Tradera via banköverföring eller Swish. Betalningen sker direkt till säljarens bankkonto eller Swishkonto, vilket gör betalningen säker för både köpare och säljare. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Kan jag få hjälp om jag har frågor eller problem med Tradera?
+ANSWER: Ja, på Traderas hemsida finns en kontakt- och hjälpsida där man kan hitta information och svar på vanliga frågor. Man kan också kontakta Traderas kundtjänst om man har ytterligare frågor eller problem. 
+URL: https://info.tradera.com/da/kontakt-hjaelp/
+
+QUESTION: Kan jag avbryta en auktion jag skapat på Tradera?
+ANSWER: Ja, man kan avbryta en auktion man har skapat på Tradera innan den har avslutats, men det finns vissa regler som måste följas. Om det finns budgivare på auktionen måste man även ha deras godkännande för att kunna avbryta auktionen. 
+URL: https://info.tradera.com/da/saelj-som-privatperson/
+
+QUESTION: Kan jag lägga till en beskrivning och bilder till min auktion på Tradera?
+ANSWER: Ja, när man skapar en auktion på Tradera kan man lägga till en beskrivning av varan man säljer och ladda upp bilder som visar varans skick och utseende. Det är viktigt att beskrivningen är tydlig och korrekt för att undvika missförstånd eller tvister. 
+URL: https://info.tradera.com/da/saelj-som-privatperson/

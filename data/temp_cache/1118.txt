@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg modtage beskeder om nye købsanmodninger?
+ANSWER: Den bedste måde at modtage beskeder om nye købsanmodninger er ved at downloade Traderas app. Appen giver dig besked hver gang, der kommer en ny anmodning, og den er den hurtigste og nemmeste måde at administrere dine købsanmodninger på.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvorfor bør jeg downloade Traderas app?
+ANSWER: Det anbefales at downloade Traderas app, da det er den hurtigste og nemmeste måde at administrere sine købsanmodninger på og få besked om nye anmodninger.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvor kan jeg downloade Traderas app?
+ANSWER: Du kan downloade Traderas app fra App Store til Apple-brugere og Google Play til Android-brugere.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvordan kan jeg sælge som privatperson på Tradera?
+ANSWER: På Tradera kan du som privatperson oprette en konto og begynde at sælge ting, du ikke længere har brug for. Du kan uploade billeder og beskrivelser af dine varer og sætte en pris på dem. Når en køber afgiver en ordre, kan du sende varen til dem og modtage betaling.
+URL: https://info.tradera.com/da/saadan-saelger-du-som-privatperson/
+
+QUESTION: Kan erhvervssælgere bruge Tradera til at sælge varer?
+ANSWER: Ja, erhvervssælgere kan også bruge Tradera til at sælge deres varer. De skal dog oprette en anden type konto og betale en anden form for gebyrer.
+URL: https://info.tradera.com/da/saadan-saelger-du-som-erhvervssaelger/
+
+QUESTION: Er fragt inkluderet i prisen, når jeg køber noget på Tradera?
+ANSWER: Nej, fragt er normalt ikke inkluderet i prisen, når du køber noget på Tradera. Det anbefales at kontakte sælgeren og aftale en pris for fragten, før du køber varen.
+URL: https://info.tradera.com/da/fragt-beregner/
+
+QUESTION: Kan jeg donere penge til velgørenhed gennem Tradera?
+ANSWER: Ja, du kan donere penge til velgørenhed gennem Traderas app. Du kan vælge mellem et udvalg af velgørenhedsorganisationer og støtte deres arbejde med en donation.
+URL: https://info.tradera.com/da/velgoerenhed/
+
+QUESTION: Hvordan kan jeg kontakte Tradera, hvis jeg har spørgsmål eller problemer?
+ANSWER: Du kan kontakte Tradera ved at besøge deres hjemmeside og gå til "Kontakt & Hjælp" på siden nederst. Her finder du en række måder at kontakte kundeservice på, inklusive Live Chat, e-mail og telefonisk support.
+URL: https://info.tradera.com/da/kontakt-og-hjælp/
+
+QUESTION: Er min personlige information sikker på Tradera?
+ANSWER: Ja, Tradera tager sikkerheden af dine personlige oplysninger alvorligt og har beskyttelsesforanstaltninger på plads for at beskytte dine data.
+URL: https://info.tradera.com/da/sikkerhed/
+
+QUESTION: Kan jeg læse Traderas handelsbetingelser før jeg bruger tjenesten?
+ANSWER: Ja, du kan læse Traderas handelsbetingelser på deres hjemmeside. Du kan finde linket på siden nederst under "Information".
+URL: https://info.tradera.com/da/handelsbetingelser/

@@ -1,0 +1,35 @@
+QUESTION: Vilka policys gör upp hela användaravtalet mellan dig och Tradera?
+ANSWER: "Egritetspolicy och alla policys som finns tillgängliga på vår webbplats utgör hela avtalet mellan dig och Tradera och ersätter alla tidigare överenskommelser och avtal mellan parterna."
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka bestämmelser gäller efter uppsägning av Användaravtalet med Tradera?
+ANSWER: "Avgifter (avseende avgifter som du är skyldig oss), Innehåll, Ansvar, Ersättning, Tvister och skadeslöshetsförbindelsen i denna punkt Övrigt."
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Var kan jag skicka meddelanden enligt Användaravtalet till Tradera?
+ANSWER: "Meddelanden enligt detta Användaravtal ska skickas med rekommenderat brev till Tradera Marketplace AB, Box 45026, 104 30 Stockholm."
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Hur skickar Tradera meddelanden till mig?
+ANSWER: "Vi ska skicka meddelanden till dig via e-post till den e-postadress som du har registrerat hos Tradera. Du ska anses ha tagit emot meddelandet 24 timmar efter att e-postmeddelandet skickades, om inte den som skickade e-postmeddelandet får ett meddelande om att e-postadressen inte är giltig. Vi kan även skicka meddelanden till dig med rekommenderat brev till den adress som du har registrerat hos oss. Meddelandens om skickats med rekommenderat brev ska anses ha tagits emot av mottagande part tre dagar efter att meddelandet skickades."
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Hur kan jag handla på Tradera?
+ANSWER: För att handla på Tradera behöver du först registrera dig och skapa ett konto. Sedan kan du söka efter produkter och placera bud på de auktioner som pågår eller köpa produkter direkt till fast pris.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vad är grön frakt hos Tradera?
+ANSWER: "Grön frakt är en miljövänlig leveransmetod som Tradera erbjuder. Denna leveransmetod innebär att säljare använder återanvändningsemballerade paket istället för nya emballage och miljövänligare fraktalternativ."
+URL: https://info.tradera.com/kop/
+
+QUESTION: Hur säljer jag på Tradera som privatperson?
+ANSWER: "För att sälja på Tradera som privatperson behöver du också registrera dig och skapa ett konto. Sedan kan du lägga upp produkter på sajten och sätta ut dem på auktion eller till fast pris."
+URL: https://info.tradera.com/salj/salja-pa-tradera-som-privatperson/
+
+QUESTION: Kan jag sälja på Tradera som företag?
+ANSWER: "Ja, det går att sälja på Tradera som företag. Däremot gäller andra regler för företagssäljare jämfört med privatpersoner."
+URL: https://info.tradera.com/salj/salja-pa-tradera-som-foretag/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: "Fraktkalkylatorn på Tradera hjälper dig att beräkna hur mycket frakten för en produkt kommer att kosta. Genom att ange produktens storlek, vikt och destination kan du få en uppskattning av fraktkostnaderna."
+URL: https://info.tradera.com/salj/salja-pa-tradera-som-privatperson/

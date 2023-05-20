@@ -1,0 +1,51 @@
+to be aware of the different payment options available on Tradera's platform, as well as the payment process and timeline. Here are 10 questions that users could ask based on the text provided:
+
+QUESTION 1: What is Tradera's payment solution?
+ANSWER: Tradera's payment solution is the option for buyers to pay using different payment methods, which are provided by third-party providers under the supervision of financial regulatory authorities.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 2: Can sellers claim payment through any other means besides Tradera's payment solution?
+ANSWER: No, sellers are not allowed to claim payment through any other means besides the options available through Tradera's payment solution.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 3: Will the payment method chosen by the buyer affect when the seller is paid?
+ANSWER: No, except for Swish, the payment method chosen by the buyer will not have any impact on when the seller is paid. 
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 4: When will sellers be paid after a transaction is complete?
+ANSWER: As a general rule, the seller will be paid within 1-2 business days following the completion of a transaction, provided that accurate payment details have been provided to Tradera.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 5: Can Tradera change the payment rate for sellers?
+ANSWER: Yes, Tradera can change the payment rate, and it is up to the seller to keep up to date with any changes made by the company.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 6: Will Tradera refund payment to the buyer if there are irregularities detected in a transaction?
+ANSWER: Yes, if irregularities such as fraud or violation of terms and conditions are detected, Tradera reserves the right to ensure that payment is not made to the seller and instead refund to the buyer.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 7: Are sellers entitled to receive payment for the buyer's option of using Tradera's payment solution?
+ANSWER: No, sellers are not entitled to receive payment for the buyer's option of using Tradera's payment solution.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 8: What payment methods are available for buyers on Tradera's platform?
+ANSWER: Buyers can choose between Swish, card payment, PayPal, payment by invoice, and credit, all provided by third-party providers under the supervision of financial regulatory authorities.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 9: Who are the third-party providers that offer payment methods on Tradera's platform?
+ANSWER: The third-party providers that offer payment methods on Tradera's platform are Swish, Klarna, PayPal, with its services Hyperwallet and Paynova. 
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION 10: Can there be more payment providers added to Tradera's payment solutions in the future?
+ANSWER: Yes, the text states that more parties may be added if Tradera chooses to modify or further develop its payment solution.
+
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

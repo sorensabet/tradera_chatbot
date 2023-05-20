@@ -1,0 +1,39 @@
+QUESTION: Vilken information kan vi samla in från dig genom användning av mobilapplikationer eller mobil enhet för att få åtkomst till webbplatserna?
+\ANSWER: Vi kan samla in personuppgifter från dig genom användning av mobilapplikationer eller mobil enhet för att få åtkomst till våra webbplatser. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information kan vi samla in från andra källor om användarens kontoinformation?
+\ANSWER: Vi kan komma att erhålla eller samla in kompletterande information om dig från andra källor som tillägg till din kontoinformation. Detta kan omfatta demografisk information och navigationsinformation, kreditupplysningsinformation och annan information från kreditupplysningsföretag i den utsträckning det är tillåtet enligt lag. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka typer av tjänster kan vi erbjuda som gör det möjligt att dela information i sociala medier?
+\ANSWER: Vi kan erbjuda tjänster som gör det möjligt att dela information i sociala medier såsom Facebook, Google Plus och Twitter. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad är syftet med de inloggningstjänster som vi erbjuder?
+\ANSWER: Syftet med inloggningstjänsterna som vi erbjuder är att du kan använda tredje mans loginuppgifter för att få åtkomst till www.tradera.com och därtill anknutna webbplatser. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information kan bli tillgänglig för Tradera genom att koppla ett konto som administreras av tredje man med ditt Tradera-konto?
+\ANSWER: Genom att koppla ett konto som administreras av tredje man med ditt Tradera-konto och tillåta att Tradera får åtkomst till denna information, så samtycker du till att Tradera får samla in, använda och spara information från dessa webbplatser. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information som vi samlar in från kreditupplysningsföretag kan vi dela med tredje part?
+\ANSWER: Informationen som vi samlar in från kreditupplysningsföretag kan vi dela med tredje part. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Hur reglerar vi vad som kan delas med oss från tredje män?
+\ANSWER: Personuppgifterna som vi kan få åtkomst till varierar beroende på webbplats och styrs av dina inställningar på den webbplatsen och ditt samtycke. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka tjänster är tillgängliga för användare som har kopplat sitt Tradera-konto med ett konto som administreras av tredje part?
+\ANSWER: Tjänster som är tillgängliga för användare som har kopplat sitt Tradera-konto med ett konto som administreras av tredje part är att Tradera kan samla in, använda och spara information från de webbplatserna. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad kan vi samla in från dig om du använder vår logintjänst för att logga in på våra webbplatser?
+\ANSWER: Vi kan samla in personuppgifter från dig om du använder vår logintjänst för att logga in på våra webbplatser. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken typ av personuppgifter kan vi samla in från dig genom logintjänster som erbjuds av tredje part?
+\ANSWER: Personuppgifterna som vi kan få åtkomst till varierar beroende på webbplats och styrs av dina inställningar på den webbplatsen och ditt samtycke. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

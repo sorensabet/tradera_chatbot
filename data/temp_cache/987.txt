@@ -1,0 +1,39 @@
+QUESTION: Varför behöver Tradera behandla personuppgifter om mig?
+ANSWER: Tradera behöver behandla personuppgifter om dig för att verifiera och identifiera dig som användare, uppfylla Användaravtalet eller lagkrav, erbjuda anpassade upplevelser och för att förbättra tjänsterna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka personuppgifter samlar Tradera in automatiskt?
+ANSWER: När du besöker deras webbplatser eller använder deras applikationer, tjänster och verktyg samlar Tradera automatiskt in information som exempelvis enhetens ID eller unika identifierare, geografisk plats, vilken sorts enhet som används, data och anslutningsinformation, statistik om sidvisningar och trafik till och från webbplatserna, hänvisande URL, annonsdata, IP-adress och standardmässig information från webbloggar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera skicka marknadsföring till mig?
+ANSWER: Ja, Tradera kan skicka marknadsföring till dig om det är relevant och intressant för dig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera knyta den automatiskt insamlade informationen till mig personligen?
+ANSWER: Informationen som samlas automatiskt kan endast knytas till dig personligen om du loggar in som en registrerad användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför samlar Tradera in geografisk platsinformation?
+ANSWER: Tradera samlar in geografisk platsinformation för att reglera transaktioner och säkerställa att användaren har tillgång till det korrekta språket och valutan för deras region.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kommer Tradera sälja mina personuppgifter?
+ANSWER: Nej, Tradera säljer inte dina personuppgifter till tredje part.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag neka Tradera att behandla mina personuppgifter?
+ANSWER: Nej, du kan inte neka Tradera att behandla personuppgifter om du vill använda deras webbplatser, applikationer, tjänster och verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur använder Tradera den automatiskt insamlade informationen för att skapa en anpassad upplevelse för mig?
+ANSWER: Tradera använder den automatiskt insamlade informationen för att kunna erbjuda en anpassad upplevelse genom att tillhandahålla relevant information och marknadsföring för dig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken typ av information samlar Tradera in från annonser?
+ANSWER: Tradera samlar in annonsdata, såsom klick och visningar, från annonser på deras webbplats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför samlar Tradera in cookies?
+ANSWER: Tradera samlar in cookies för att förbättra användarens upplevelse på deras webbplats genom att exempelvis visa relevant information och marknadsföring.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

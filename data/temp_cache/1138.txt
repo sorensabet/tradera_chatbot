@@ -1,0 +1,39 @@
+QUESTION 1: Hur skaffar jag ett konto på Tradera?
+ANSWER: För att skapa ett konto på Tradera, går du till hemsidan och klickar på "Bli medlem" längst upp till höger. Sedan fyller du i din information och verifierar din e-postadress.
+URL: https://info.tradera.com/kom-igang/
+
+QUESTION 2: Hur lägger jag upp en auktion på Tradera?
+ANSWER: För att lägga upp en auktion på Tradera, loggar du in på ditt konto och klickar på "Sälj" längst upp på sidan. Därefter väljer du "Skapa auktion" och fyller i nödvändig information om objektet du vill sälja.
+URL: https://info.tradera.com/kom-igang/
+
+QUESTION 3: Hur fungerar betalning på Tradera?
+ANSWER: När du köper något på Tradera kan du betala med kort, faktura, direktbetalning eller Tradera Pay. Betalningsmetoden beror på vad säljaren har valt att erbjuda.
+URL: https://info.tradera.com/betalning/
+
+QUESTION 4: Hur avslutar jag en auktion på Tradera?
+ANSWER: När auktionen har nått sitt slut, får säljaren besked om det högsta budet. Sedan kan säljaren välja att avsluta auktionen och begära betalning från köparen.
+URL: https://info.tradera.com/budgivning/
+
+QUESTION 5: Hur vet jag om en säljare på Tradera är pålitlig?
+ANSWER: Du kan se säljarens betyg och omdömen från tidigare köpare på Tradera. Ju högre betyg och fler positiva omdömen, desto mer pålitlig är säljaren.
+URL: https://info.tradera.com/salj/
+
+QUESTION 6: Kan jag sälja allt på Tradera?
+ANSWER: Nej, det finns vissa objekt som inte får säljas på Tradera. Till exempel är det förbjudet att sälja vapen, droger eller förfalskade varor.
+URL: https://info.tradera.com/vad-far-man-inte-salja/
+
+QUESTION 7: Hur fungerar provisionen på Tradera?
+ANSWER: När du säljer något på Tradera tar företaget ut en provision på 5,85% av försäljningspriset. Om du väljer att använda Tradera Pay som betalningsmetod tar företaget istället ut en lägre provision på 2,85% plus en fast avgift.
+URL: https://info.tradera.com/kostnader/
+
+QUESTION 8: Kan jag ändra mitt bud på en auktion på Tradera?
+ANSWER: Ja, så länge auktionen inte har nått sitt slut kan du gå in och ändra ditt bud på Tradera.
+URL: https://info.tradera.com/budgivning/
+
+QUESTION 9: Hur kontaktar jag Traderas kundtjänst?
+ANSWER: Du kan kontakta Traderas kundtjänst via e-post eller telefon. Kontaktuppgifter hittar du på hemsidan under "Kontakt".
+URL: https://info.tradera.com/kontakt/
+
+QUESTION 10: Är det säkert att köpa på Tradera?
+ANSWER: Ja, Tradera har flera säkerhetsåtgärder som minskar risken för bedrägerier. Du kan bland annat betala via Tradera Pay och se säljarens betyg och omdömen innan du köper något.
+URL: https://info.tradera.com/sakerhet/

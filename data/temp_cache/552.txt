@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftena med att använda cookies på Tradera?
+ANSWER: Syftena med att använda cookies på Tradera är för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafik. Dessutom delar Tradera också information om användningen av webbplatsen med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Vad är anledningen till att vissa cookies på Tradera inte kan stängas av?
+ANSWER: Vissa cookies på Tradera, närmare bestämt de som räknas som nödvändiga, kan inte stängas av eftersom de är viktiga för att Tradera ska fungera som den ska.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Vad är skillnaden mellan prestandacookies och funktionella cookies som används på Tradera?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras, medan funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Vilka är de olika användningsområdena för cookies på Tradera?
+ANSWER: De olika användningsområdena för cookies på Tradera inkluderar: nödvändiga cookies för att Tradera ska fungera, prestandacookies för att mäta hur Tradera används, funktionella cookies för utökad funktionalitet och användaranpassning och marknadsföringscookies som används av Traderas annonseringspartners för riktade annonser.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Kan jag anpassa min cookie-inställning på Tradera?
+ANSWER: Ja, det går att anpassa cookie-inställningarna på Tradera. Detta gör man genom att klicka på "Ändra inställningar" och välja de inställningar man önskar under kategorierna "Prestanda", "Funktionella" och "Marknadsföring".
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Varför är det viktigt att använda cookies på e-handelswebbplatser som Tradera?
+ANSWER: Det är viktigt att använda cookies på e-handelswebbplatser som Tradera eftersom de hjälper till att anpassa innehåll, annonsering och funktionalitet för att ge användaren en bättre upplevelse. Dessutom hjälper cookies till att analysera hur webbplatsen används för att förbättra upplevelsen ytterligare.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Vad är marknadsföringscookies och vad används de till på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa riktade annonser som är relevanta för användaren. Dessa cookies hjälper till att skapa en mer personlig upplevelse på Tradera för användarna, genom att de får se annonsinnehåll som är relevant för deras intressen och beteenden.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Kan jag blockera cookies helt på Tradera?
+ANSWER: Ja, det är möjligt att blockera cookies helt på Tradera, men då kan det hända att vissa funktioner på webbplatsen inte fungerar som de ska.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Hur kan jag ändra mina cookie-inställningar på Tradera?
+ANSWER: Du kan ändra dina cookie-inställningar på Tradera genom att klicka på "Ändra inställningar" och välja de inställningar du önskar under kategorierna "Prestanda", "Funktionella" och "Marknadsföring".
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Vad händer om jag inte godkänner cookies på Tradera?
+ANSWER: Om du inte godkänner cookies på Tradera kan vissa delar av webbplatsen inte fungera som de ska, och du kan missa viss funktionalitet och personligt anpassade annonser.
+URL: https://info.tradera.com/da/offensive-items/

@@ -1,0 +1,39 @@
+QUESTION: What items are not allowed to be sold on Tradera?
+ANSWER: According to the context, the items that are not allowed to be sold on Tradera are the ones that are either prohibited by law or subject to strict restrictions. This includes items like shares, stocks or bonds including businesses or holding companies, multi-level marketing schemes, pyramid schemes, cryptocurrency, cigarettes, snus, e-cigarettes and accessories, nicotine gum and patches, alcohol, and tobacco with flavorings.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Why does Tradera have rules against selling prohibited items on their site?
+ANSWER: The context explains that Tradera has rules against selling prohibited items to help users avoid breaking Swedish law. It is also essential to ensure that all the transactions take place legally, promoting ethical and safe business practices.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: What are some examples of prohibited business activities on Tradera?
+ANSWER: As the context notes, prohibited business activities on Tradera include multi-level marketing schemes, pyramid schemes, matrix organizations, or similar selling methods. Additionally, selling company shares, debt, or bond loans is also not allowed on the site.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Can users sell alcohol and tobacco on Tradera?
+ANSWER: No, according to the context, users cannot sell either alcohol and tobacco products or items with flavorings, cigarettes, snus, e-cigarettes and accessories, and nicotine gum and patches on Tradera.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: What is Tradera's policy on selling cryptocurrency?
+ANSWER: As per the context, the sale of cryptocurrency such as bitcoin, litecoin, or dogecoin is prohibited on Tradera.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Does Tradera allow the sale of cigarettes and snus?
+ANSWER: No, as per the context, the sale of cigarettes and snus is strictly forbidden on Tradera.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Are e-cigarettes and accessories permitted to be sold on Tradera?
+ANSWER: No, the context states that e-cigarettes and accessories, along with other nicotine gum and patches, are prohibited items that cannot be sold on Tradera.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Where can I find more information about Swedish laws and regulations on alcohol and tobacco?
+ANSWER: The context provides a link to Sveriges lov om alkohol and Sveriges lov om tobak, where users can get more information about Swedish laws and regulations on alcohol and tobacco.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Is it allowed to sell stocks and bonds on Tradera?
+ANSWER: No, the context specifies that selling shares, stocks or bonds, including businesses or holding companies, is forbidden on Tradera.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Can users sell items containing alcohol on Tradera?
+ANSWER: No, according to the context, items that contain alcohol are not allowed to be sold on Tradera.
+URL: https://info.tradera.com/da/other-rules/

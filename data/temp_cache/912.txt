@@ -1,0 +1,39 @@
+QUESTION: What types of purchases are prohibited by Tradera's Rules for Sellers?
+ANSWER: Tradera prohibits the purchase of properties (including residential properties), customized objects (unless the recipient claims that the objects have not arrived), items equivalent to cash (including gift cards), tickets for events such as sports or concerts, and goods and services that are against the platform's rules for sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How does Tradera's dispute settlement procedure work?
+ANSWER: If there is any difference of opinion between a seller and a buyer, they can use Tradera's dispute settlement system offered on "My Tradera". The dispute settlement procedure must be initiated within thirty (30) days from the date of the purchase, and all communication about the issue must be made via Tradera's dispute settlement system. If the parties fail to resolve the issue within ten (10) days, the buyer has an option to escalate the issue to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if the buyer does not escalate the dispute to Tradera within ten days of the initiation of the dispute settlement procedure?
+ANSWER: If the buyer does not escalate the dispute to Tradera within ten (10) days of initiating the dispute settlement procedure, the settlement will automatically be terminated in the Seller's favor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can buyers and sellers communicate directly with each other during the dispute settlement procedure?
+ANSWER: During the dispute settlement procedure initiated by Tradera, buyers and sellers must communicate with each other through Tradera's dispute settlement system to find a solution to the problem.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How long do buyers and sellers have to communicate with each other through Tradera's dispute settlement system?
+ANSWER: Buyers and sellers have ten (10) days to communicate with each other through Tradera's dispute settlement system to try to find a solution to the problem during the dispute settlement procedure initiated by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How long do buyers have to initiate the dispute settlement procedure after the purchase?
+ANSWER: Buyers must initiate the dispute settlement procedure within thirty (30) days from the purchase date.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens when a dispute is escalated to Tradera?
+ANSWER: When a dispute is escalated to Tradera, the platform will contact both the buyer and seller to obtain an understanding of what happened before making a decision.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can buyers purchase tickets for events such as sports or concerts on Tradera?
+ANSWER: No, buyers cannot purchase tickets for events such as sports or concerts on Tradera as it is prohibited by the platform's rules for sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Who can use Tradera's dispute settlement system offered on "My Tradera"?
+ANSWER: Both buyers and sellers can use Tradera's dispute settlement system offered on "My Tradera".
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can buyers and sellers communicate through other channels during the dispute settlement procedure?
+ANSWER: No, buyers and sellers must communicate with each other through Tradera's dispute settlement system during the dispute settlement procedure initiated by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

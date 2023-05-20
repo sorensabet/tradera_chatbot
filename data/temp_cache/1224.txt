@@ -1,0 +1,39 @@
+QUESTION: Vilka köp omfattas av Traderas tvistlösningsförfarande?
+ANSWER: Köp av varor och tjänster där säljaren och köparen har en meningsskiljaktighet kan lösas genom Traderas tvistlösningsförfarande. Det inkluderar köp av passade objekt, köp av objekt som motsvarar kontanter, köp av biljetter till evenemang och köp av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur lång tid har man på sig att inleda ett tvistlösningsförfarande på Tradera?
+ANSWER: Ett tvistlösningsförfarande måste inledas i Mitt Tradera inom 30 dagar från det att köpet genomfördes.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan parterna i en köptransaktion på Tradera kommunicera direkt med varandra vid en tvist?
+ANSWER: Nej, all kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad ska man göra efter att ett tvistlösningsförfarande har inletts på Tradera?
+ANSWER: Efter att ett tvistlösningsförfarande har inletts på Tradera ska köpare och säljare först kommunicera med varandra genom Traderas tvistlösningssystem för att försöka hitta en lösning på problemet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur lång tid har köpare och säljare på sig att lösa en tvist på Tradera?
+ANSWER: Köpare och säljare har tio (10) dagar på sig att försöka lösa en tvist via Traderas tvistlösningssystem. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är fördelarna med att använda Traderas tvistlösningsförfarande?
+ANSWER: Traderas tvistlösningsförfarande möjliggör att säljare och köpare kan lösa meningsskiljaktigheter direkt på Traderas plattform, och undvika att dra in andra parter som advokater eller domstolar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Är Traderas tvistlösningsförfarande endast tillgängligt för svenska köpare och säljare?
+ANSWER: Nej, Traderas tvistlösningsförfarande är tillgängligt för köpare och säljare i hela världen som köper och säljer varor och tjänster via Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken kommunikationsplattform ska man använda för att hantera eventuella tvister på Tradera?
+ANSWER: All kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om köparen inte får leverans av en vara efter att ha betalat för den på Tradera?
+ANSWER: Om köparen inte får leverans av en vara efter att ha betalat för den på Tradera kan man inleda ett tvistlösningsförfarande på Traderas plattform för att lösa eventuella meningsskiljaktigheter med säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan Tradera hjälpa till att lösa en tvist om en vara köpts utanför Traderas plattform?
+ANSWER: Nej, Traderas tvistlösningssystem gäller endast för köp och försäljningar som sker via Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

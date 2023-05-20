@@ -1,0 +1,39 @@
+QUESTION: Vilka är några exempel på otillåtna fraktalternativ som inte tillåts på Tradera?
+ANSWER: Exempel på otillåtna fraktalternativ som inte tillåts på Tradera inkluderar att erbjuda andra betalningsalternativ som inte ingår i Traderas betalningssystem, använda fraktavgift eller andra metoder för att undvika eller kringgå Traderas avgifter och att ange en annan fraktavgift än den som anges i annonsens fraktkostnadsruta. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan en privatsäljare ta ut en påminnelseavgift för obetalda objekt på Tradera?
+ANSWER: Nej, det är inte tillåtet för en privatsäljare att ta ut en påminnelseavgift för obetalda objekt på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vilka är några tillåtna fraktalternativ som säljare kan använda på Tradera?
+ANSWER: Några tillåtna fraktalternativ som säljare kan använda på Tradera inkluderar att ange den totala och slutgiltiga fraktkostnaden i fraktkostnadsrutan, att specificera att fraktkostnaden inkluderar eventuell emballage- och hanteringsavgift i beskrivningen och att använda sig av säkra betalningsalternativ som ingår i Traderas betalningssystem. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Är det tillåtet för en företagssäljare på Tradera att friskriva sig från konsumentköplagen?
+ANSWER: Nej, en företagssäljare på Tradera kan inte friskriva sig från konsumentköplagen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Är det tillåtet för en säljare på Tradera att debitera köparen extra avgifter vid betalning med PayPal?
+ANSWER: Nej, det är inte tillåtet för en säljare på Tradera att debitera köparen extra avgifter vid betalning med PayPal eller andra betalningssätt som ingår i Traderas betalningssystem. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad är ett reservationspris på Tradera?
+ANSWER: Ett reservationspris på Tradera är ett tillval som säljare kan använda som sitt lägsta försäljningspris på en vara. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Är det tillåtet för en säljare på Tradera att ange ett lägsta försäljningspris i objektsbeskrivningen utan att välja tillvalet reservationspris?
+ANSWER: Nej, det är inte tillåtet för en säljare på Tradera att ange ett lägsta försäljningspris i objektsbeskrivningen utan att välja tillvalet reservationspris.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Erbjuder Tradera säkra betalningsalternativ för köpare och säljare?
+ANSWER: Ja, Tradera erbjuder säkra betalningsalternativ för både köpare och säljare som ingår i Traderas betalningssystem. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan en säljare på Tradera specificera extra kostnader för emballage i objektsbeskrivningen?
+ANSWER: Ja, en säljare på Tradera kan specificera extra kostnader för emballage i objektsbeskrivningen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vilka större otillåtna handlingar kan leda till att en användare stängs av från Tradera?
+ANSWER: Att erbjuda falska eller bedrägliga produkter, sälja varor som är stulna eller kopierade och stänga en transaktion utan att fullfölja den är några exempel på större otillåtna handlingar som kan leda till att en användare stängs av från Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/otillaten-verksamhet-pa-tradera/

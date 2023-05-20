@@ -1,0 +1,39 @@
+QUESTION: Varför krävs det cookies för att Tradera ska fungera?
+ANSWER: Cookies är nödvändiga för att Tradera ska fungera eftersom de används för att lagra information om dina inställningar och för att ge dig en smidigare upplevelse på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Vad är syftet med prestandacookies på Tradera?
+ANSWER: Syftet med prestandacookies på Tradera är att de används för anonym mätning av hur webbplatsen används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Kan jag stänga av de nödvändiga cookies på Tradera?
+ANSWER: Nej, de nödvändiga cookies på Tradera kan inte stängas av eftersom de är avgörande för att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att de ger utökad funktionalitet och användaranpassning på webbplatsen, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Syftet med marknadsföringscookies på Tradera är att de används av annonseringspartners för riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Varför behöver Tradera samarbeta med partners för sociala medier, annonsering och analys?
+ANSWER: Tradera samarbetar med partners för sociala medier, annonsering och analys för att kunna förbättra sin webbplats och kunna erbjuda relevant information och annonser till besökare.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Kan jag använda Tradera utan att ge tillåtelse till cookies?
+ANSWER: Nej, tillåtelse till cookies krävs för att kunna använda Tradera eftersom cookies är nödvändiga för webbplatsens funktion.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Hur kan jag ändra mina cookie-inställningar på Tradera?
+ANSWER: Du kan ändra dina cookie-inställningar på Tradera genom att klicka på "Ändra inställningar" på webbplatsen och välja dina preferenser.
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Vilken typ av information sparas i Traderas cookies?
+ANSWER: De cookies som används på Tradera sparar information om dina inställningar och preferenser på webbplatsen för att ge en smidigare användarupplevelse. 
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/
+
+QUESTION: Hur kan jag läsa mer om cookies och deras användning på Tradera?
+ANSWER: Du kan läsa mer om cookies och deras användning på Tradera genom att klicka på "Läs mer" på webbplatsen under "Inställningar för cookies".
+URL: https://info.tradera.com/sakerhetscenter/kopa-sakert/utvardera-objektet/

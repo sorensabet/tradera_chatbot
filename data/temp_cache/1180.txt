@@ -1,0 +1,39 @@
+QUESTION: Vad händer om Villkoren upphör? 
+ANSWER: Om Villkoren upphör så har Tradera rätt att hålla all utbetalning till säljaren till dess att Tradera har verifierat antalet utestående transaktioner och alla ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: När ska rimliga åtgärder vidtas under force majeure-händelsen?
+ANSWER: Den part som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem ansvarar för utebliven eller försenad prestation om en force majeure-händelse inträffar?  
+ANSWER: Varken köpare, säljare eller Tradera ska hållas ansvarig och vad som framgår ovan gäller så länge sådan force majeure-händelse pågår. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är en force majeure-händelse?
+ANSWER: En force majeure-händelse kan vara t.ex ett blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation eller någon annan händelse utom partens rimliga kontroll.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Villkoren sägas upp om en force majeure-händelse pågår i mer än sextio dagar?
+ANSWER: Ja, om force majeure-händelsen pågår i mer än sextio (60) dagar har vardera part rätt att säga upp Villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad reglerar Villkoren?
+ANSWER: Villkoren reglerar fullständigt köpare, säljare eller Traderas överenskommelse såvitt avser Traderas betallösning och ersätter alla tidigare gjorda överenskommelser.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad har Tradera rätt att göra enligt Villkoren? 
+ANSWER: Tradera har rätt att ändra Villkoren enligt Traderas Användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad har Tradera rätt att göra vid misstänkt missbruk av betallösningen? 
+ANSWER: Tradera har rätt att hålla inne all utbetalning till säljaren tills att eventuellt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem är skyldig att vidta rimliga åtgärder vid en force majeure-händelse?
+ANSWER: Den part som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem ansvarar för missbruk av Traderas betallösning? 
+ANSWER: Om ett misstänkt missbruk av Traderas betallösning uppstår, ska Tradera utreda det.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

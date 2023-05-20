@@ -1,0 +1,39 @@
+QUESTION: Gäller ångerrätten om jag handlar från ett företag på Tradera?
+ANSWER: Nej, ångerrätten gäller endast om köpet är från ett företag. De flesta affärer på Tradera är mellan privatpersoner och då gäller inte ångerrätten. Om du köpt varan från ett företag så gäller ångerrätten precis som vanligt.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad ska jag göra om jag har problem med min vara?
+ANSWER: Om du har problem med din vara rekommenderas det i första hand att kontakta säljaren. Eftersom de flesta affärer på Tradera är mellan privatpersoner gäller inte ångerrätten, men om problemet uppstår på grund av fel information från säljaren kan du ta kontakt med kundtjänst. 
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan jag betala via faktura på Tradera?
+ANSWER: Ja, du har möjligheten att betala på faktura eller delbetalning med Paynova. Dessa betalsätt har alltid köparskydd. Om du inte vill betala via faktura är det bäst att prata med säljaren om du av någon anledning inte kan betala direkt. 
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad innebär "Grön frakt" på Tradera?
+ANSWER: "Grön frakt" betyder att Tradera tillsammans med DHL har tagit fram en logistiktjänst som har mindre miljöpåverkan än traditionella logistiklösningar. Det innebär en mer hållbar frakt av varan som köpare och säljare på Tradera kan välja att använda. 
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Hur säljer jag som privatperson på Tradera?
+ANSWER: På Tradera kan du som privatperson klicka på "Sälj" och sedan följa instruktionerna. Där skapar du en auktion och väljer kategori, lägger upp beskrivning och bild på varan. Du kan även välja att sätta ett lägsta pris och ange hur länge auktionen ska pågå. 
+URL: https://info.tradera.com/salj/
+
+QUESTION: Kan jag sälja som företag på Tradera?
+ANSWER: Ja, du kan sälja som företag på Tradera. Det som skiljer sig från försäljning som privatperson är att du måste registrera ditt företag och skicka in dina uppgifter till Tradera. Det finns även olika abonnemang du kan välja mellan för försäljning som företag. 
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Vilka kategorier av varor kan jag hitta på Tradera?
+ANSWER: Du kan hitta många olika kategorier av varor på Tradera, bland annat kläder och accessoarer, heminredning, sport och fritid, elektronik, bilar och båtar, verktyg, böcker och konst. 
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg som hjälper dig att beräkna fraktkostnaden för varan du köper eller säljer. Kalkylatorn tar hänsyn till vikt, storlek och destination för att ge en uppskattning av fraktkostnaden. 
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Hur donerar jag med Tradera?
+ANSWER: Om du vill donera en del av din försäljning på Tradera till en välgörenhetsorganisation kan du välja att skänka en del av vinsten vid försäljning. Du väljer vilken organisation du vill stödja och hur stor del av vinsten du vill donera. 
+URL: https://www.tradera.com/donera
+
+QUESTION: Vad är användaravtalet på Tradera?
+ANSWER: Användaravtalet på Tradera är de regler och villkor som gäller för användning av Traderas plattform. Det beskriver bland annat hur du får använda plattformen, vilka regler som gäller vid försäljning och hur eventuella tvister ska lösas. 
+URL: https://info.tradera.com/anvandaravtal/

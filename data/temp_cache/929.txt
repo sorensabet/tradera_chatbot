@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att Tradera har rätt att återföra utestående transaktioner till säljaren?
+ANSWER: Syftet med Traderas rätt att återföra utestående transaktioner till säljaren är att straffa säljaren om denne bryter mot villkoren, och för att betala för eventuella avgifter till Tradera som säljaren måste täcka.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är en force majeure-händelse?
+ANSWER: En force majeure-händelse är en händelse som inträffar utanför båda parters rimliga kontroll, till exempel blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation, eller andra liknande händelser.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka justeringar har Tradera rätt att göra av villkoren?
+ANSWER: Tradera har rätt att göra mindre justeringar av Villkoren och andra justeringar så länge de är skäliga.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om force majeure-händelsen pågår i över 60 dagar?
+ANSWER: Om force majeure-händelsen pågår i över 60 dagar har vardera part rätt att säga upp villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilket ansvar har varje part om det finns en force majeure-händelse?
+ANSWER: Om det finns en force majeure-händelse och en part drabbas, är ingen part ansvarig för utebliven eller försenad prestation så länge händelsen pågår och den drabbade parten är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är syftet med att Tradera har tillgång till information från säljaren?
+ANSWER: Syftet med att Tradera har tillgång till information från säljaren är för att kunna avgöra om säljaren bryter mot villkoren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilken rätt har varje part om det finns en force majeure-händelse?
+ANSWER: Om det finns en force majeure-händelse och denna fortsätter i över 60 dagar har varje part rätt att säga upp villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilken rätt har Tradera att justera Villkoren?
+ANSWER: Tradera har rätt att göra mindre justeringar av Villkoren och andra justeringar så länge de är skäliga.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka åtgärder är den part som åberopar force majeure skyldig att vidta?
+ANSWER: Den part som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om force majeure-händelsen pågår i over 60 dagar?
+ANSWER: Om force majeure-händelsen pågår i mer än sextio (60) dagar har vardera Part rätt att säga upp Villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

@@ -1,0 +1,39 @@
+QUESTION: Kan säljarens utbetalningstakt ändras av Tradera och i så fall, vad är säljarens ansvar i att hålla sig uppdaterad på information från Tradera? 
+ANSWER: Ja, Tradera kan ändra utbetalningstakten för säljarens betalning. Säljaren är ansvarig för att hålla sig uppdaterad på information från Tradera om eventuella ändringar i utbetalningstakten.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad gör Tradera om det förekommer bedrägeri eller om säljaren agerat i strid mot villkoren och reglerna? 
+ANSWER: Om Tradera upptäcker förekomst av bedrägeri eller att säljaren agerat i strid mot villkoren och reglerna, så återbetalas betalningen till köparen istället för att komma säljaren tillhanda.  
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Har säljare rätt att ta betalt för köparens möjlighet att använda Traderas betallösning? 
+ANSWER: Nej, säljare har inte rätt att ta betalt för köparens möjlighet att använda Traderas betallösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka betalsätt kan köparen välja mellan när de använder Traderas betallösning? 
+ANSWER: Vid användning av Traderas betallösning kan köparen välja mellan Swish, kortbetalning, PayPal, betalning mot faktura och kredit.  
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Tillhandahålls varje separat betalsätt som en del av Traderas betallösning av tredjeparter? 
+ANSWER: Ja, varje separat betalsätt som ingår i Traderas betallösning tillhandahålls av tredjeparter som samarbetar med Tradera. Dessa tredjeparter står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan utbetalningstiden för en transaktion som säljaren genomfört påverkas? 
+ANSWER: Ja, utbetalningstiden för en transaktion som säljaren genomfört kan påverkas. Detta beror på om säljaren har uppgett korrekta inbetalningsuppgifter till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: När kan det förekomma att Tradera ändrar utbetalningstakten? 
+ANSWER: Tradera kan ändra utbetalningstakten vid behov och säljarna är skyldiga att hålla sig uppdaterade på all information som Tradera delar med dem i detta avseende.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan Tradera komma att återbetala köparens betalning i vissa situationer? 
+ANSWER: Ja, om det förekommer bedrägeri eller om säljaren agerat i strid mot villkoren och reglerna så kommer Tradera att återbetala köparens betalning istället för att betala ut den till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka uppgifter är det säljaren behöver uppge korrekt för att betalningen ska genomföras? 
+ANSWER: Säljaren behöver uppge korrekta inbetalningsuppgifter till Tradera för att betalningen ska genomföras utan problem. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka är de olika betallösningarna som Tradera erbjuder? 
+ANSWER: Tradera erbjuder flera olika betalningsalternativ till köpare bland annat Swish, kortbetalning, PayPal, betalning mot faktura och kredit.  
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

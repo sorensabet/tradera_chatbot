@@ -1,0 +1,39 @@
+QUESTION: Vad är manipulering av försäljningspriset och varför är det olagligt på Tradera?
+\ANSWER: Manipulering av försäljningspriset innebär att en person ökar priset på en auktion genom att lägga otillåtna bud för att få en högre vinst eller skada konkurrenter. Det är olagligt på Tradera och kan leda till att användarkontot stängs av eller att personen polisanmäls.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad är otillåten budtrissning på Tradera?
+\ANSWER: Otillåten budtrissning innebär att man lägger otillåtna bud på en auktion på Tradera, med syftet att öka försäljningspriset av objektet eller skada konkurrenterna. Detta är olagligt enligt Traderas regler och kan leda till att användarkontot stängs av eller att personen polisanmäls.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan man lägga flera bud på samma objekt på Tradera?
+\ANSWER: Ja, man kan lägga flera bud på samma objekt på Tradera, men det är viktigt att man inte lägger otillåtna bud för att öka försäljningspriset eller skada konkurrenterna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad är tillåtet tillvägagångssätt att lägga bud på Tradera?
+\ANSWER: Tillåtet tillvägagångssätt att lägga bud på Tradera är att man lägger seriösa bud på objekt som man faktiskt vill köpa. Det är viktigt att man inte lägger otillåtna bud för att öka försäljningspriset eller skada konkurrenterna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vilka är exemplen på olaglig budtrissning på Tradera?
+\ANSWER: Exemplen på olaglig budtrissning på Tradera inkluderar att en person lägger otillåtna bud på en auktion för att öka försäljningspriset av objektet eller skada konkurrenterna. Detta kan innebära att en köpare får betala mer för ett objekt än vad hen skulle ha gjort om priset inte hade trissats upp.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Hur kan man undvika otillåten budtrissning på Tradera?
+\ANSWER: För att undvika otillåten budtrissning på Tradera bör man endast lägga seriösa bud på objekt som man faktiskt vill köpa. Det är viktigt att man inte lägger otillåtna bud för att öka försäljningspriset eller skada konkurrenterna. Man bör även läsa igenom Traderas regler och följa dem.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad händer om man bryter mot Traderas regler kring otillåten budtrissning?
+\ANSWER: Om man bryter mot Traderas regler kring otillåten budtrissning kan det leda till att användarkontot stängs av eller att personen polisanmäls.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad kan man göra om man misstänker att någon manipulerar försäljningspriset på Tradera?
+\ANSWER: Om man misstänker att någon manipulerar försäljningspriset på Tradera kan man rapportera detta till Traderas kundtjänst och lämna information om auktionen och användarkontot så att det kan undersökas.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan man sälja objekt på Tradera som företag?
+\ANSWER: Ja, det går att sälja objekt på Tradera som företag. Tradera har en särskild tjänst för företagssäljare, där man kan importera produkter och hantera försäljning på ett smidigt sätt.
+URL: https://info.tradera.com/salj/salj-som-foretag/
+
+QUESTION: Vad är Grön frakt på Tradera?
+\ANSWER: Grön frakt på Tradera är en självklarhet och innebär att man skickar varorna på ett miljövänligt sätt, för att minska miljöpåverkan. Det kan innebära att man använder återanvändningsbart emballage eller väljer en miljövänligare fraktmetod.
+URL: https://info.tradera.com/gron-frakt/

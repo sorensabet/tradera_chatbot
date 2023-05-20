@@ -1,0 +1,39 @@
+QUESTION: Hvad sker der, hvis man ikke betaler for en auktion, som man har vundet?
+ANSWER: Hvis man ikke betaler for en auktion, som man har vundet, kan det medføre en anmeldelse. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad sker der, hvis man får flere anmeldelser?
+ANSWER: Hvis man får flere anmeldelser, kan ens konto blive suspenderet. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvordan afgøres budstigen på Tradera?
+ANSWER: Budstigen på Tradera afgøres af det aktuelle prisinterval, hvor det næste bud stiger med følgende beløb: 1-19 SEK - 1 SEK, 20-99 SEK - 5 SEK, 100-199 SEK - 10 SEK, 200-399 SEK - 15 SEK, 400-999 SEK - 20 SEK, 1000-2499 SEK - 30 SEK, 2500-3999 SEK - 50 SEK, 4000-5999 SEK - 100 SEK, 6000-9999 SEK - 200 SEK, 10000+ - 500 SEK. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad er reservationsprisen på Tradera?
+ANSWER: Reservationsprisen på Tradera er det laveste beløb, som sælgeren vil sælge den annoncerede vare for. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Kan sælgeren tilføje en skjult reservationspris på Tradera?
+ANSWER: Ja, sælgeren kan tilføje en skjult reservationspris på Tradera, hvilket betyder, at de ikke vil sælge den annoncerede vare for mindre end reservationsprisen og man vil få besked, hvis ens bud er lavere end reservationsprisen. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad er automatisk bud på Tradera?
+ANSWER: Automatisk bud på Tradera betyder, at ens bud automatisk øges, når nogen byder over ens nuværende bud, baseret på budstigen. Det automatiske bud vil aldrig være højere end den grænse, som man har angivet. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Kan andre se ens automatiske bud på Tradera?
+ANSWER: Nej, ingen andre kan se ens automatiske bud på Tradera. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad sker der, hvis man vinder en auktion på Tradera, men varen kun er tilgængelig for afhentning?
+ANSWER: Hvis man vinder en auktion på Tradera, men varen kun er tilgængelig for afhentning, skal man selv sørge for at afhente den og kan ikke få den leveret. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Er bud bindende på Tradera?
+ANSWER: Ja, bud er altid bindende på Tradera. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad kan man gøre, hvis man har angivet en forkert adresse på Tradera?
+ANSWER: Hvis man har angivet en forkert adresse på Tradera, kan man kontakte sælgeren og bede om at få ændret adressen, hvis man endnu ikke har modtaget varen. Hvis man allerede har modtaget varen, kan man kontakte sælgeren og aftale en retur. 
+URL: https://info.tradera.com/da/shoppa-2/

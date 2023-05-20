@@ -1,0 +1,39 @@
+QUESTION: Vilka knivar är inte tillåtna att sälja på Tradera?
+ANSWER: Knivar som är kamouflerade för att se ut som ofarliga föremål, t. ex. knivar som ser ut som kreditkort, bältesspännen, läppstiftsfodral, pennor eller liknande är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Får man sälja högkapacitetsmagasin på Tradera?
+ANSWER: Nej, högkapacitetsmagasin (magasin som innehåller fler än 10 skott) är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Får man sälja granater på Tradera?
+ANSWER: Nej, granater, inklusive militära övningsgranater, gevärsgranater, handgranater, granatattrapper, tillbehör till granatkastare, minor samt replikor av dessa är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Vilken typ av ammunition är inte tillåten att sälja på Tradera?
+ANSWER: Ammunition och eldvapen som är till för att varna eller signalera (t ex startpistoler och s.k. ollonpistoler), samt lös ammunition är inte tillåten att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Vad räknas som otillåtna militära vapen på Tradera?
+ANSWER: Utrustning som använts inom armén, och som de inte har lämnat ifrån sig enligt gällande regler för demilitarisering och krigsmateriel (militära vapen, ammunition och tillhörande delar), även om användaren uppger att objektet är oanvändbart eller har demilitariserats räknas som otillåtna militära vapen på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Får man sälja licensfria luftvapen på Tradera?
+ANSWER: Ja, licensfria luftvapen är tillåtna att sälja på Tradera så länge anslagsenergin inte överstiger 10 Joule.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Vad är exempel på tillåtna föremål att sälja på Tradera?
+ANSWER: Exempel på tillåtna föremål att sälja på Tradera är föremål som inte anses som farliga eller militärrelaterade, och som inte står i strid med svenska lagar och förordningar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Får man sälja kanoner på Tradera?
+ANSWER: Nej, kanoner utan fänghål är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Vilka exempel finns det på otillåten ammunition?
+ANSWER: Exempel på otillåten ammunition är ammunition och eldvapen som är till för att varna eller signalera (t ex startpistoler och s.k. ollonpistoler) samt lös ammunition.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Får man sälja utrustning för att handladda eller tillverka ammunition på Tradera?
+ANSWER: Nej, utrustning för att handladda eller tillverka ammunition är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/

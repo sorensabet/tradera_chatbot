@@ -1,0 +1,39 @@
+QUESTION 1: Vad är "sparade inställningar" på Tradera?
+ANSWER: "Sparade inställningar" på Tradera är en funktion som låter användare spara preferenser som exempelvis sökinställningar, språkinställningar och andra personliga inställningar för att underlätta användarupplevelsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 2: Vad är syftet med att Traderas annonseringspartners använder användarinformation för riktade annonser?
+ANSWER: Syftet med att Traderas annonseringspartners använder användarinformation för riktade annonser är att kunna visa användare annonser som är relevanta för deras intressen, vilket ökar chansen att användarna klickar på annonserna och leder till en mer givande reklamupplevelse.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 3: Hur använder Tradera informationen som samlas in för marknadsföring?
+ANSWER: Tradera använder informationen som samlas in för marknadsföring för att erbjuda sina användare en mer personlig och relevant shoppingupplevelse, och för att bjuda in di att upptäcka andra produkter och erbjudanden som de kan ha nytta av.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 4: Vad är syftet med att använda Facebook för inloggning till Tradera?
+ANSWER: Syftet med att använda Facebook för inloggning till Tradera är att underlätta användarupplevelsen för användare genom att göra inloggning snabbare och smidigare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 5: Använder Tradera all information som sparas av användarna?
+ANSWER: Nej, Tradera använder endast informationen som sparas av användarna för att ge dem en bättre shoppingupplevelse och för att följa gällande lagar och bestämmelser för personuppgiftsskydd.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 6: Kan användare välja vilken information som Traderas annonseringspartners får tillgång till?
+ANSWER: Ja, användare kan välja att begränsa eller blockera vissa typer av information som Traderas annonseringspartners får tillgång till genom att ändra sina inställningar på sin Tradera-profil.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 7: Vilka typer av personuppgifter samlar Tradera in från sina användare?
+ANSWER: Tradera samlar in personuppgifter som användarens namn, e-postadress, bostads- och leveransadresser, betalningsinformation och köphistorik när de använder Tradera-plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 8: Vilken typ av information kan Traderas annonseringspartners ha tillgång till?
+ANSWER: Traderas annonseringspartners kan ha tillgång till information som användarens sökbeteenden på Tradera plattform, klick på annonser, köphistorik och andra uppgifter som användaren tillåter Traderas annonseringspartners att få tillgång till.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 9: Kan användare välja att inte få riktade annonser på Tradera?
+ANSWER: Ja, användare kan välja att inte få riktade annonser på Tradera genom att ändra sina inställningar på sin Tradera-profil, men detta kan leda till att de får se annonser som inte är relevanta för deras intressen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION 10: Varför är det viktigt för Tradera att följa bestämmelser för personuppgiftsskydd?
+ANSWER: Det är viktigt för Tradera att följa bestämmelser för personuppgiftsskydd för att skydda användarnas personliga information och integritet, och för att bygga förtroende och säkerhet på Tradera-plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/

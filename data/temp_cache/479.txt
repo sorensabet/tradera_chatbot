@@ -1,0 +1,39 @@
+QUESTION: Hvordan opkræves kommissionsgebyrer på Tradera?
+ANSWER: Kommissionsgebyrer på Tradera opkræves, når varen er solgt, og det trækkes automatisk fra saldoen på ens konto.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvad er Highlight på Tradera, og hvordan påvirker det saldoen på ens konto?
+ANSWER: Highlight på Tradera er en funktion, som gør, at ens annonce bliver placeret øverst i søgeresultaterne. Når man tilføjer denne funktion, trækkes gebyret fra saldoen på ens konto.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvordan kan jeg se min saldo på Tradera?
+ANSWER: Man kan se sin saldo på Tradera ved at logge ind på ens konto og gå til saldooversigten, hvor man kan se alle aktiviteter på ens konto, herunder opkrævede gebyrer og salg.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvornår bliver der opkrævet gebyrer på Tradera?
+ANSWER: På Tradera opkræves gebyrer, når man sælger en vare, og når man tilføjer ekstra funktioner til sin annonce, som for eksempel Highlight. Gebyrerne trækkes automatisk fra ens saldo på ens konto.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvad sker der, hvis jeg har en negativ saldo på Tradera?
+ANSWER: Hvis man har en negativ saldo på Tradera, vil der blive oprettet en faktura for det resterende beløb, som skal betales inden for en given frist.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvilke betalingsmåder accepteres på Tradera?
+ANSWER: På Tradera kan man betale med kreditkort, Paypal eller bankoverførsel.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvordan modtager jeg betaling for mine solgte varer på Tradera?
+ANSWER: Betalingen for solgte varer på Tradera bliver overført til ens konto, når køberen har godkendt, at varen er modtaget og i den beskrevne stand.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Kan jeg annullere en solgt vare på Tradera?
+ANSWER: Hvis man er nødt til at annullere en solgt vare på Tradera, skal man straks kontakte køberen og Tradera-kundeservice for at finde en løsning.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvordan fungerer fakturering på Tradera?
+ANSWER: Hvis der er gebyrer, der skal betales i slutningen af en måned, og ingen kommende betalinger fra salg vil dække gebyrerne, vil der blive oprettet en faktura for disse gebyrer. Det samme gælder, hvis den udestående betaling ikke dækker gebyrernes størrelse.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvad er gebyrerne for at bruge Highlight-funktionen på Tradera?
+ANSWER: Gebyrerne for at tilføje Highlight til ens annonce på Tradera afhænger af kategori og varer og kan variere mellem 2 - 25 SEK.
+URL: https://info.tradera.com/da/nettoutbetalning/

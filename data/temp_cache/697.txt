@@ -1,0 +1,42 @@
+QUESTION: Vilka uppgifter behöver jag lägga till som första gången säljare på Tradera?
+ANSWER: Som första gången säljare på Tradera behöver du lägga till ditt kontonummer/PayPal konto och Swish-nummer.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är nettoutbetalning?
+ANSWER: Nettoutbetalning är ett betalningssätt som innebär att Tradera drar av sina avgifter innan de betalar ut försäljningsintäkterna till säljaren. Detta gäller för alla betalsätt på Tradera utom Swish.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag läsa mer om utbetalningar på Tradera?
+ANSWER: Ja, det finns mer information om utbetalningar på Tradera som du kan läsa om.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är en Fraktkalkylator och hur kan jag använda den på Tradera?
+ANSWER: En Fraktkalkylator på Tradera är ett verktyg som du kan använda för att se vad det kostar att leverera din vara med olika speditörer. Du kan använda den för att beräkna hur mycket frakten kommer att kosta för din vara.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Hur många bilder kan jag ladda upp per annons på Tradera?
+ANSWER: Du kan ladda upp fem bilder per annons på Tradera.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vilka tips kan jag använda för att öka chansen att sälja min vara på Tradera?
+ANSWER: För att öka chansen att sälja din vara på Tradera, kan du använda dig av följande tips:
+- Sätt en beskrivande rubrik där du anger relevant information som färg, storlek och modell på det du säljer.
+- Ladda upp fem bilder per annons som visar varan från olika håll och med alla dess detaljer.
+- Om du säljer en dyrare vara, inkludera en bild på tillhörande kvitto.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag inkludera varumärken i min annons och finns det några regler för detta på Tradera?
+ANSWER: Du kan enbart nämna varumärken som har en direkt koppling till det du säljer på Tradera. Det finns vissa regler för att inkludera varumärken i din annons, som du kan läsa mer om.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Hur kan jag sätta villkoren för min annons på Tradera?
+ANSWER: Du sätter enkelt villkoren för din annons på Tradera när du skapar den. Detta kan inkludera fraktkostnader, betalningsmetoder och andra relevanta villkor.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Finns det några specifika tips för att sälja en dyrare vara på Tradera?
+ANSWER: Ja, om du säljer en dyrare vara på Tradera, rekommenderar vi att du inkluderar en bild på tillhörande kvitto för att öka kundens förtroende. Du kan även använda dig av övriga tips som att sätta en beskrivande rubrik och ladda upp flera bilder på varan.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är Traderabetalning på Tradera?
+ANSWER: Traderabetalning är en betalningstjänst som används på Tradera för att hantera köp- och försäljningstransaktioner. Du kan läsa mer om Traderabetalning på Tradera.
+URL: https://info.tradera.com/salja-pa-tradera/

@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas säljarskydd?
+ANSWER: Tradera har ett säljarskydd där säljare under vissa förutsättningar har rätt att behålla erhållen betalning även om köparen påstår att varan inte överensstämmer med beskrivningen. Säljaren kan ta del av säljarskyddet genom att följa villkoren för det.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Om jag som säljare tar del av Traderas säljarskydd, vad händer om det uppstår en tvist mellan mig och köparen?
+ANSWER: Om en tvist uppstår och avslutas till säljarens fördel, har köparen inte rätt till återbetalning inom ramen för Traderas tvistlösningsförfarande. Säljare och köpare kan dock nå en annan lösning på tvisten i ett annat forum.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka produkter omfattas inte av Traderas säljarskydd?
+ANSWER: Traderas säljarskydd omfattar inte försäljning av fastigheter och fordon, inklusive motorfordon, motorcyklar, husvagnar, och liknande.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är det säljarens eller köparens ansvar att betala försäljningsprovision och andra kostnader som kan uppkomma i samband med en försäljning på Traderas Plattform?
+ANSWER: Det är säljarens ansvar att betala försäljningsprovision och andra kostnader som kan uppkomma i samband med en försäljning på Traderas plattform. Om Tradera blir tvungen att betala dessa avgifter på säljarens vägnar, kommer de att fakturera säljaren ett återbetalningsskyldigt belopp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Traderas beslut i ett tvistlösningsförfarande överklagas av säljare eller köpare?
+ANSWER: Traderas beslut i ett tvistlösningsförfarande kan inte överklagas till Tradera. Säljare och köpare kan dock nå en annan lösning på en tvist i ett annat forum.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om en köpare säger att hen aldrig mottog en vara?
+ANSWER: Om en köpare påstår att de aldrig mottog en vara, men säljaren har skickat den enligt överenskomna villkor, kan säljaren ta del av Traderas säljarskydd under vissa omständigheter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan jag som köpare få pengarna tillbaka genom Traderas tvistlösningsförfarande om jag inte är nöjd med varan?
+ANSWER: Ja, om en köpare inte är nöjd med en vara som köpts på Traderas plattform kan de använda sig av Traderas tvistlösningsförfarande för att kräva att säljaren återbetalar pengarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan jag som köpare använda Traderas tvistlösningsförfarande om varan jag köpte inte överensstämmer med säljarens beskrivning?
+ANSWER: Ja, köpare kan använda Traderas tvistlösningsförfarande om varan inte överensstämmer med säljarens beskrivning för att kräva att säljaren återbetalar pengarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Om jag köper en vara på Tradera, hur betalar jag för den?
+ANSWER: Betalningen för en vara på Traderas plattform görs direkt till säljaren via Traderas betalningssystem.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är det säkert att betala för varor via Traderas betalningssystem?
+ANSWER: Ja, Tradera har ett säkert betalningssystem som möjliggör säkra transaktioner mellan köpare och säljare samt skyddar dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

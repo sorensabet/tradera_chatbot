@@ -1,0 +1,39 @@
+QUESTION: Vilka annonseringpartners används för att riktade annonser på Tradera?
+ANSWER: Traderas annonseringspartners används för att skapa riktade annonser som är relevanta för användarna.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är funktionen av "Shipping calculator" för Tradera?
+ANSWER: "Shipping calculator" på Tradera ger en uppskattning av fraktpriset för en produkt.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är "Charity causes" på Tradera?
+ANSWER: "Charity causes" på Tradera tillåter säljare att donera en del av förtjänsten från sina försäljningar till ideella organisationer.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är "Rules" på Tradera?
+ANSWER: "Rules" på Tradera är en samling av regler som alla användare måste följa för att använda plattformen.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är "Terms of service" på Tradera?
+ANSWER: "Terms of service" på Tradera är regler som beskriver vilka åtgärder som ska vidtas i händelse av tvister eller problem mellan användarna och plattformen.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är "Privacy statement" på Tradera?
+ANSWER: "Privacy statement" på Tradera beskriver hur Tradera hanterar användardata och vilka åtgärder som vidtas för att skydda integriteten hos sina användare.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är "Cookies" på Tradera?
+ANSWER: "Cookies" på Tradera är små datafiler som Tradera använder för att spåra och samla in information om användarnas beteende på plattformen.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vad är "Contact us" på Tradera?
+ANSWER: "Contact us" på Tradera ger användarna möjlighet att kontakta kundtjänst om de har frågor eller problem med användningen av plattformen.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vilka typer av cookies används på Tradera?
+ANSWER: Nödvändiga, prestanda, funktionella och marknadsföringscookies används på Tradera.
+URL: https://info.tradera.com/en/annonsguide/
+
+QUESTION: Vilken information delas av Tradera med dess partners?
+ANSWER: Tradera delar information om användning av plattformen med dess partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/annonsguide/

@@ -1,0 +1,39 @@
+QUESTION: Var skickar man Tradera Användaravtal?
+ANSWER: Användaravtal ska skickas med rekommenderat brev till Tradera Sweden AB, Box 45026, 104 30 Stockholm.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Hur skickar Tradera meddelanden till användare?
+ANSWER: Tradera skickar meddelanden till användare via e-post till den e-postadress som användaren har registrerat hos Tradera.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Hur länge är e-postmeddelanden giltiga enligt Tradera?
+ANSWER: E-postmeddelanden från Tradera anses ha tagits emot 24 timmar efter att e-postmeddelandet skickades, om inte den som skickade e-postmeddelandet får ett meddelande om att e-postadressen inte är giltig.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Hur skickar Tradera meddelanden till användare om de inte har registrerat en e-postadress?
+ANSWER: Om en användare inte har registrerat en e-postadress kan Tradera skicka meddelanden med rekommenderat brev till den adress som användarens har registrerat hos dem.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Hur lång tid tar det för mottagaren att få meddelanden från Tradera som har skickats med rekommenderat brev?
+ANSWER: Meddelanden som har skickats med rekommenderat brev till en användare ska anses ha tagits emot av mottagande part tre dagar efter att meddelandet skickades.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: På Tradera finns det ett stort antal kategorier för olika produkter, såsom kläder, skor, heminredning, elektronik, musikinstrument, och mycket mer.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vilka är de mest populära varumärkena på Tradera?
+ANSWER: Populära varumärken på Tradera inkluderar märken inom mode såsom Acne Studios, Ganni och Nike och andra såsom Sony, Apple och IKEA.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Grön frakt är Traderas fraktalternativ som är mer miljövänligt jämfört med andra försändelser av liknande storlek eftersom det kan beställas online och använda återanvändbara påsar om det är mindre paket.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Hur säljer man på Tradera som privatperson?
+ANSWER: Som privatperson kan man skapa en kostnadsfri auktion på en produkt och välja ut aktuell kategori, ange varans skick och rättade in den till Tradera.
+URL: https://info.tradera.com/salj/
+
+QUESTION: Hur säljer man på Tradera som företag?
+ANSWER: Om man vill sälja på Tradera som ett företag krävs det att man registrerar sig som en egen företagsprofilsida, där man kan list ut produkter som företaget säljer.
+URL: https://info.tradera.com/salj/

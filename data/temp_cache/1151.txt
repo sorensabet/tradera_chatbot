@@ -1,0 +1,45 @@
+QUESTION: Vad händer om Säljaren inte har yttrat sig angående återbetalning?
+ANSWER: Om Säljaren inte har yttrat sig angående återbetalning och redan har fått betalt, kan Tradera skicka en faktura om återbetalning till Säljaren. Sedan är Säljaren skyldig att betala detta belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka åtaganden måste Säljaren uppfylla i förhållande till Traderas köparskydd?
+ANSWER: Säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd, oavsett vilket betalsätt som Köparen har valt att betala genom.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka typer av köp omfattas inte av Traderas köparskydd?
+ANSWER: Följande typer av köp omfattas inte av Traderas köparskydd:
+- Köp av fastigheter (inklusive, utan begränsning, bostadsfastigheter)
+- Köp av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul
+- Köp av anpassade objekt (såvida inte mottagaren påstår att objekten inte kommit fram)
+- Köp av objekt som motsvarar kontanter (inklusive, utan begränsning, presentkort)
+- Köp av biljetter till evenemang så som sport- eller konsertbiljetter
+- Köp av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur fungerar Traderas tvistlösningsförfarande?
+ANSWER: Om en Säljare och en Köpare har en meningsskiljaktighet kan de lägga fram ärendet för Traderas tvistlösningsförfarande. Tradera kommer då att hantera ärendet och försöka hitta en lösning som är acceptabel för båda parter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om Köparen inte betalar varan?
+ANSWER: Om Köparen inte betalar vara inom 14 dagar från att Köparen har vunnit auktionen eller gjort köpet på Tradera, kan Säljaren begära att Tradera avslutar köpet och returnerar varan till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur hanterar Tradera en tvist om en vara inte har kommit fram till mottagaren?
+ANSWER: Om det uppstår en tvist eftersom en vara inte har kommit fram till mottagaren, så kan både Köparen och Säljaren lämna information till Tradera om vad som har hänt. Tradera kan då använda denna information för att försöka hitta en lösning som är acceptabel för båda parter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur lång tid har Köparen på sig att betala varan?
+ANSWER: Köparen har 14 dagar på sig att betala varan från det att Köparen har vunnit auktionen eller gjort köpet på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Säljaren neka en återbetalning?
+ANSWER: Ja, Säljaren kan neka en återbetalning om Säljaren anser att Köparen inte har rätt till en återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Köparen få sin pengar tillbaka om varan inte är som beskrivet?
+ANSWER: Ja, om varan inte är som beskrivet i annonsen har Köparen rätt till en återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om varan är skadad när den kommer fram till Köparen?
+ANSWER: Om varan är skadad när den kommer fram till Köparen, så kan Köparen begära en återbetalning eller en ersättning från Säljaren. Köparen kan också lämna in en reklamation till Tradera om varan är defekt eller skadad.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

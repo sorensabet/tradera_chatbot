@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies på Tradera? 
+ANSWER: Syftet med cookies på Tradera är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Kan cookies stängas av på Tradera? 
+ANSWER: Nej, det är inte möjligt att stänga av cookies på Tradera eftersom de är nödvändiga för att webbplatsen ska fungera. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Varför delar Tradera information om min användning av webbplatsen med partners för sociala medier, annonsering och analys? 
+ANSWER: Tradera delar information om din användning av webbplatsen med partners för sociala medier, annonsering och analys för att bättre kunna anpassa innehållet och annonserna till dig. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Vad är prestandacookies på Tradera och vad används de till? 
+ANSWER: Prestandacookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Vad används funktionella cookies på Tradera till? 
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Vad är marknadsföringscookies på Tradera och vilken funktion har de? 
+ANSWER: Marknadsföringscookies på Tradera används av Traderas annonseringspartners för riktade annonser relevanta för dig. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Varför är cookies nödvändiga för att Tradera ska fungera? 
+ANSWER: Cookies är nödvändiga för att Tradera ska kunna lagra information om användares inställningar och önskemål för att tillhandahålla en bättre användarupplevelse. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Varför är det viktigt att läsa om Traderas cookiepolicy? 
+ANSWER: Det är viktigt att läsa om Traderas cookiepolicy eftersom det ger dig information om hur Tradera använder cookies och hur du kan använda-webbplatsen på ett optimalt sätt. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Kan Traderas annonseringspartners samla in personlig information via cookies? 
+ANSWER: Ja, Traderas annonseringspartners kan samla in personlig information via cookies för att kunna rikta annonser relevanta för dig. 
+URL: https://info.tradera.com/en/review-policy/
+
+QUESTION: Vilka inställningar kan jag ändra på Tradera när det kommer till cookies? 
+ANSWER: Du kan ändra inställningarna för nödvändiga cookies på Tradera, men de kan inte stängas av. Däremot kan du välja att inte tillåta funktionella och marknadsföringscookies, men det kan påverka din användarupplevelse på webbplatsen. 
+URL: https://info.tradera.com/en/review-policy/

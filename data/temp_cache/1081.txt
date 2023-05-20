@@ -1,0 +1,39 @@
+QUESTION: What can I make a purchase request for on Tradera?
+ANSWER: You can make a purchase request for any unsold auction or fixed price listing. It is not possible to send a request for shop items.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: How many times can I make a purchase request per listing?
+ANSWER: You can make 3 requests per listing. This way, you are able to send a new request with a higher offer if the seller declines the previous one.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: What happens if the seller declines my purchase request?
+ANSWER: If the seller declines your purchase request, the listing remains unsold, and you can make 3 requests per listing. You can send a new request with a higher offer if the seller declines your previous request.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: What happens when the seller doesn't answer my purchase request?
+ANSWER: If the seller doesn't answer your purchase request within 24 hours, the request counts as declined. If you get several requests and choose to accept one of them, all other requests are automatically declined.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: How do I know if I have received a new purchase request on Tradera?
+ANSWER: Purchase requests are sent as a message on Tradera. You will also receive an email or an app notification when you get a new purchase request.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: Can I opt-out of the messaging service on Tradera to receive purchase requests?
+ANSWER: All purchase requests are sent by Tradera messaging. This means that you need to have messages enabled to receive purchase requests. Messages are active by default on all accounts and only business accounts can opt-out of the messaging service.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: What happens when you opt-out of the messaging service as a business account on Tradera?
+ANSWER: If you opt-out of the messaging service as a business account, you won't receive any purchase requests because all purchase requests are sent by Tradera messaging. Messages are active by default on all accounts, and only business accounts can opt-out of the messaging service.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: Does the seller have to accept my purchase request on Tradera?
+ANSWER: The seller doesn't have to accept your purchase request on Tradera. It's entirely up to them whether they want to accept your offer or not. If they choose to decline your request or not answer, the listing remains unsold.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: Can you only make a purchase request if you have an account on Tradera?
+ANSWER: Yes, you need to have an account on Tradera to make a purchase request.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION: Can I make a purchase request on Tradera for sold items?
+ANSWER: No, you cannot make a purchase request on Tradera for sold items. You can only make a purchase request for any unsold auction or fixed price listing.
+URL: https://info.tradera.com/en/purchase-request/

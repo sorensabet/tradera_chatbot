@@ -1,0 +1,39 @@
+QUESTION: How do I start a dispute on Tradera?
+ANSWER: To start a dispute on Tradera, you need to log on to the Klarna website or app, find the listing, and click on "report a problem". 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Which payment options on Tradera come with buyer protection?
+ANSWER: Klarna, Paynova, and Paypal are the payment options on Tradera that offer buyer protection. Other payment options may have optional buyer protection. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What is PayPals buyer protection policy on Tradera?
+ANSWER: Items paid for with PayPal on Tradera are covered by PayPals buyer protection policy. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Do I have to pay the fee for the buyer protection even if I win the dispute?
+ANSWER: Yes, you still have to pay the fee for buyer protection even if you win the dispute on Tradera, as the buyer protection works like an insurance against problems with the deal. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Can I pause the invoice if I've started a dispute on Tradera?
+ANSWER: Yes, the invoice is automatically put on hold until the dispute on Tradera is resolved, and you do not have to contact Klarna/Paynova. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: What are the payment options on Tradera that don't come with buyer protection?
+ANSWER: Swish direkt till säljaren is a payment option on Tradera that does not come with buyer protection. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: How do I send attachments in a dispute on Tradera?
+ANSWER: Attachments can be sent to dispyt@tradera.com, which is an email address exclusively for ongoing or newly settled disputes. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: How long does it take for a dispute on Tradera to be settled?
+ANSWER: On average, it takes between 10-14 days for a dispute on Tradera to be settled to ensure that both parties have time to respond and send any relevant information. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Can I use my right of withdrawal instead of buyer protection when purchasing from a private user on Tradera?
+ANSWER: No, the right of withdrawal only applies when purchasing from a company on Tradera, and most sales on the platform are between private users. Hence, buyer protection is recommended. 
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: How can I invoke buyer protection when making a purchase on Tradera?
+ANSWER: You could use Klarna, Paynova, or Paypal when making a purchase on Tradera as they all offer mandatory buyer protection. 
+URL: https://info.tradera.com/en/tvist-kopare/

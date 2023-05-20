@@ -1,0 +1,39 @@
+QUESTION: Vad är Köpare på Tradera?
+ANSWER: Köpare avser en fysisk eller juridisk person som har utfört ett köp genom att köpa en vara eller tjänst från Säljaren på Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Mitt Tradera?
+ANSWER: Mitt Tradera är en inloggad miljö som Tradera tillhandahåller, där Säljaren kan sköta orderhantering och Köparen kan hantera sina köp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka är reglerna för Säljare på Tradera Plattform?
+ANSWER: Reglerna för Säljare avser de regler som en Säljare alltid måste följa vid försäljning på Traderas Plattform och som i sina senaste versioner finns tillgängliga på följande länk: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Klarna?
+ANSWER: Klarna avser Klarna Bank AB, org. nr 556737-0431. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är betallösningen på Tradera?
+ANSWER: Betallösningen på Tradera avser Tradera som medlare och betalningsförmedlare mellan Köpare och Säljare på Traderas plattform. Säljaren accepterar att Köparen betalar med hjälp av Traderas betallösning och Säljaren tar betalt genom Traderas betallösning när Säljaren säljer något på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Tradera Plattform?
+ANSWER: Traderas Plattform avser de webbplatser, tjänster, och applikationer som Tradera tillhandahåller för att möjliggöra försäljning och köp mellan Säljare och Köpare. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad menas med ”Parterna” på Tradera?
+ANSWER: ”Parterna” på Tradera refereras till både Säljaren och Tradera som är med i affären. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är säljarens åtagande på Tradera?
+ANSWER: Säljaren har åtaganden att ta betalt genom Traderas betallösning när Säljaren säljer något på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Tradera Marketplace AB?
+ANSWER: Tradera Marketplace AB är ett svenskt auktionsföretag och en online handelsplattform för försäljning och köp av varor och tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Part på Tradera?
+ANSWER: Part på Tradera inkluderar både Säljaren och Tradera, som båda är med i affären. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

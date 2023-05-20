@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas köparskydd?
+ANSWER: Traderas köparskydd är en avgift på 6% av försäljningspriset på produkten med en lägsta kostnad på 5kr och en högsta kostnad på 750kr. Oavsett vilket betalningsalternativ som passar dig, köparskyddet ingår i fakturaavgiften.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är förseningsavgiften om jag inte betalar min faktura i tid?
+ANSWER: Vid en sen betalning på Traderas faktura tillkommer en påminnelseavgift och dröjsmålsränta. Vid ytterligare aviseringar om obetalda fordringar kan en administrativ avgift eller förseningsavgift om 29kr tillkomma.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Hur många olika delbetalningslängder tillåter Tradera?
+ANSWER: Tradera tillåter fyra olika delbetalningslängder: 3, 6, 12 eller 24 månader.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är uppläggningsavgiften för 6 månader på Traderas fakturabetalning?
+ANSWER: Uppläggningsavgiften för 6 månader på Traderas fakturabetalning är 100kr.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är krediträntan för 24 månaders delbetalning på Tradera?
+ANSWER: Krediträntan för 24 månaders delbetalning på Tradera är 9,95%.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Hur mycket kostar det att använda möjligheten att dela upp betalningen under introduktionstiden hos Traderas fakturabetalning?
+ANSWER: Under introduktionstiden tillkommer inga extra kostnader för Traderas köparskydd. Den enda extraavgiften är 29kr per betalningstillfälle för att dela upp betalningen.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vilka delbetalningslängder har 0% kreditränta vid Traderas fakturabetalning?
+ANSWER: Både 3 och 6 månaders delbetalning har 0% kreditränta vid Traderas fakturabetalning.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är den högsta möjliga förseningsavgiften på Traderas fakturabetalning?
+ANSWER: Den högsta möjliga förseningsavgiften på Traderas fakturabetalning är en förseningsavgift eller administrativ avgift på 29kr vid ytterligare aviseringar om obetalda fordringar.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vilken är den längsta delbetalningslängden som Traderas faktura tillåter?
+ANSWER: Den längsta delbetalningslängden som Traderas faktura tillåter är 24 månader.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/
+
+QUESTION: Vad är den lägsta försäljningspriset för att köpa på faktura hos Tradera?
+ANSWER: Den lägsta avgiften för att köpa på faktura hos Tradera är 5kr.
+URL: https://info.tradera.com/traderabetalning/handla-pa-faktura/

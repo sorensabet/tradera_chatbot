@@ -1,0 +1,39 @@
+QUESTION: How many emails will sellers receive after a purchase is made?
+ANSWER: Sellers will receive two emails after a purchase is made- the first when the buyer buys the item and another one when the buyer pays. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Does the first email indicate whether the item has been paid for?
+ANSWER: No, the first email does not indicate if the item has been paid for. It only serves as a notification that the item has been bought.
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: How does this change affect buyers?
+ANSWER: Buyers can wait with the payment until they are done shopping from the seller and have agreed on the price for combined shipping (if offered by the seller), even though they have agreed to purchase the item. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: What is the reason for having two emails for sellers?
+ANSWER: The reason for having two emails for sellers is so that they can keep a track of the transaction. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: What is the buyer experience like for store listings after this change?
+ANSWER: The buyer experience for store listings is more reminiscent of how regular auctions work after this change. 
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Are there any other changes for sellers?
+ANSWER: The provided context doesn't mention any other changes for sellers.
+URL: https://info.tradera.com/en/ny-checkout/
+
+QUESTION: Where can I find information on how to sell as a private seller?
+ANSWER: Information on how to sell as a private seller can be found on the "Sell" page of Tradera's website. 
+URL: https://info.tradera.com/salja/
+
+QUESTION: Is there a shipping calculator on Tradera's website?
+ANSWER: Yes, there is a shipping calculator available on Tradera's website.
+URL: https://info.tradera.com/salja/
+
+QUESTION: Where can I find answers to frequently asked questions on Tradera's website?
+ANSWER: Answers to frequently asked questions can be found on the "FAQ" page of Tradera's website.
+URL: https://info.tradera.com/faq/
+
+QUESTION: What is the purpose of using cookies on Tradera's website?
+ANSWER: Tradera uses cookies to customize content and advertisements, provide features for social media, and analyze traffic. The website also shares information about its users' website usage with their partners for social media, advertising, and analysis purposes.
+URL: https://info.tradera.com/en/ny-checkout/

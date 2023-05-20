@@ -1,0 +1,39 @@
+QUESTION: Hvad er Traderas regler for salg af narkotikarelaterede varer?
+ANSWER: Salg af narkotika eller udstyr til indtagelse af narkotiske stoffer er forbudt på Tradera. Dette inkluderer varer til produktion, camouflage eller brug af stoffer, der er klassificeret som narkotika.
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Hvorfor har Tradera denne regel om narkotikarelaterede varer?
+ANSWER: Tradera har denne regel, da salget af stoffer, der er klassificeret som narkotika, er forbudt ved lov og kan skade både Tradera og deres brugere.
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Hvad er eksempler på forbudte narkotikarelaterede varer på Tradera?
+ANSWER: Eksempler på forbudte varer på Tradera inkluderer stoffer, der er klassificeret som narkotika og rygetilbehør, som f.eks. hashpiber, vaporizers og chillummer, samt olier, røgelse og lignende produkter med cannabislugt.
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Er der narkotikarelaterede varer, der er tilladt at sælge på Tradera?
+ANSWER: Ja, der er narkotikarelaterede varer, der er tilladt med restriktioner på Tradera. Dette inkluderer f.eks. udstyr, der er beregnet til tobaksrygning, samt rullepapir, der ikke indeholder tråd.
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: For at handle på Tradera skal man oprette en brugerprofil, finde de produkter, man ønsker at købe, byde på auktionen og betale for varen, hvis man er den højestbydende.
+URL: https://www.tradera.com/
+
+QUESTION: Hvordan kan man sælge på Tradera som privatperson?
+ANSWER: For at sælge på Tradera som privatperson skal man oprette en brugerprofil og derefter oprette en annonce med information om det produkt, man ønsker at sælge.
+URL: https://www.tradera.com/sell/start
+
+QUESTION: Er det kun private personer, der kan sælge på Tradera?
+ANSWER: Nej, både private personer og erhvervssælgere kan sælge på Tradera.
+URL: https://www.tradera.com/sell/how-to-sell/business-sellers
+
+QUESTION: Hvordan fungerer fragtberegneren på Tradera?
+ANSWER: fragtberegneren på Tradera giver køberen mulighed for at indtaste deres postnummer og se den estimerede fragtpris for den ønskede vare.
+URL: https://www.tradera.com/shipping/calculate
+
+QUESTION: Hvordan kan man kontakte Tradera?
+ANSWER: Man kan kontakte Tradera ved at udfylde deres kontaktformular på deres hjemmeside eller gennem deres kundesupport på e-mail eller telefon.
+URL: https://www.tradera.com/contact
+
+QUESTION: Hvor kan man finde information om Traderas handelsbetingelser?
+ANSWER: Man kan finde information om Traderas handelsbetingelser på deres hjemmeside under afsnittet "Handelsbetingelser".
+URL: https://www.tradera.com/info/terms

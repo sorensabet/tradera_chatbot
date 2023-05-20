@@ -1,0 +1,39 @@
+QUESTION: What is the responsibility of the seller regarding the description of goods?
+ANSWER: The Seller must describe the goods they are selling in text and photographs to allow the Buyer to examine the goods before entering a contract. Additionally, the Seller must deliver the goods to the carrier in the same condition as described in the advertisement.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How much is the transaction cost for payments when using Tradera's payment solution?
+ANSWER: Provided that the Seller follows the Terms and Conditions, the transaction cost for payments with Tradera's payment solution is free and no fees are payable to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Tradera invoice the Seller for recoverable amounts?
+ANSWER: If the Seller acts in a way that results in Tradera refunding Transactions to the Buyer, Tradera may invoice the Seller for a recoverable amount.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What are intellectual property rights according to Tradera's terms and conditions?
+ANSWER: Tradera reserves ownership of intellectual property rights for everything developed by Tradera that the Seller has access to and uses on the Tradera platform. The Seller agrees not to use any symbols, logos, or characters that may be confused with Tradera's trademark.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if Tradera terminates the Terms and Conditions?
+ANSWER: If Tradera terminates the Terms and Conditions, then it will be terminated without obligation for a refund.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the role of PayPal in handling personal data under the Terms and Conditions?
+ANSWER: Personal data will be handled independently by PayPal as part of the Hyperwallet service in addition to Tradera's ordinary privacy policy.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the responsibility of the Seller regarding the delivery of goods?
+ANSWER: The Seller is responsible for delivering the goods in an appropriate manner, with all ordered goods being packaged and shipped to minimize the risk of damage to the products.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is there a fee associated with using Tradera's payment solution?
+ANSWER: If the Seller follows the Terms and Conditions, there is no fee associated with using Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What trademarks should the Seller avoid using according to Tradera's Terms and Conditions?
+ANSWER: The Seller should avoid using any symbols, logos or characters that may be confused with Tradera's trademark.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is Tradera's policy on personal data?
+ANSWER: Tradera follows its ordinary privacy policy when handling personal data as part of the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

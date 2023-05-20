@@ -1,0 +1,39 @@
+QUESTION: Vad är Tradera?
+\ANSWER: Tradera är en nordisk e-handelsplattform där användare kan köpa och sälja nya eller begagnade varor och tjänster.
+URL: https://info.tradera.com/kom-igang/
+
+QUESTION: Vilka steg måste tas för att sälja på Tradera som privatperson?
+\ANSWER: Om man vill sälja som privatperson på Tradera behöver man verifiera sitt konto, lära sig hur man säljer på Tradera och gör en lyckad annons. Man behöver också känna till betalningar och avgifter samt hur man hanterar en utebliven försäljning.
+URL: https://info.tradera.com/kom-igang/salja-pa-tradera/
+
+QUESTION: Vad är ProLister på Tradera?
+\ANSWER: ProLister är ett verktyg som möjliggör att skapa, redigera och publicera annonser på Tradera i batch-format. Med ett ProLister-konto kan du skapa och hantera många annonser samtidigt.
+URL: https://info.tradera.com/kom-igang/salja-pa-tradera/prolister/
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+\ANSWER: Fraktkalkylatorn på Tradera kan användas för att få en uppskattning av fraktkostnaden för att skicka en vara. Med hjälp av fraktkalkylatorn kan du se olika fraktoptionspriser och välja den som passar dig.
+URL: https://info.tradera.com/kom-igang/salja-pa-tradera/fraktkalkylatorn/
+
+QUESTION: Vad är Traderabetalning och hur fungerar det?
+\ANSWER: Traderabetalning är en betallösning från Tradera som använder sig av Klarna Checkout för att hjälpa säljare på Tradera med betalning från köparen. När en vara säljs kan säljaren välja att göra en faktura eller en delbetalning med Klarna Checkout. När köparen betalar pengarna går direkt till en mellanhand och sedan till säljarens konto som nettoutbetalning efter en granskning.
+URL: https://info.tradera.com/kom-igang/salja-pa-tradera/traderabetalning/
+
+QUESTION: Vad är köparskyddet på Tradera?
+\ANSWER: Köparskyddet på Tradera är en garanti som Tradera ger till köparen. Om en vara inte levereras eller är av annan kvalitet än vad som utlovades kan köparen få sin pengarna tillbaka, upp till 50 000 kr.
+URL: https://info.tradera.com/kom-igang/shoppa-pa-tradera/kop/
+
+QUESTION: Vad är Nettoutbetalning på Tradera?
+\ANSWER: Nettoutbetalning är det belopp säljaren får efter att Tradera har tagit ut en avgift och haft en granskning för att se till att varan har levererats och inte har några reklamationer. Säljaren får nettoutbetalningen via det betalsätt som valts på Tradera när produkten såldes.
+URL: https://info.tradera.com/kom-igang/salja-pa-tradera/traderabetalning/
+
+QUESTION: Hur fungerar Shoppa på Tradera?
+\ANSWER: Att shoppa på Tradera är enkelt, du behöver bara söka efter vad du vill ha, läsa beskrivningen av varan och köpa den. Som köpare har du även köparskydd och kan lämna omdömen efter att du har handlat.
+URL: https://info.tradera.com/kom-igang/shoppa-pa-tradera/kop/
+
+QUESTION: Vad är Grön Frakt på Tradera?
+\ANSWER: Det är Traderas initiativ för att göra e-handel mer miljövänlig genom att minska koldioxidavtrycket för de transporter som sker med PostNord. Det kan göras genom att använda miljövänliga emballage och tänka på hur varan packas för att minimera mängden material och använda miljövänliga transportalternativ.
+URL: https://gronfrakt.tradera.com/
+
+QUESTION: Vad är en Köpförfrågan på Tradera?
+\ANSWER: Köpförfrågan möjliggör att köpare kan ställa frågor och komma överens om priset med säljare, närvarande i annonsen. Detta görs innan köparen skickar ett köpa direktköp.
+URL: https://info.tradera.com/kom-igang/shoppa-pa-tradera/kopforfragan/

@@ -1,0 +1,39 @@
+QUESTION: Vilka betalsätt erbjuder Tradera?
+ANSWER: Tradera erbjuder flera betalsätt för köpare och säljare. Dessa är Swish, kortbetalningar och betalning med PayPal, samt betalning mot faktura eller avbetalning via Paynova eller Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka åtgärder tar Tradera om det föreligger misstanke om att en säljare inte kommer att fullgöra sina åtaganden?
+ANSWER: Tradera kan hålla inne betalningen om det föreligger misstanke om att en säljare inte kommer att fullgöra sina åtaganden. Detta innebär att Tradera tar säljarens historik och feedback från tidigare transaktioner på plattformen i beaktande.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur fungerar Swish som betalsätt på Tradera?
+ANSWER: När en köpare vill betala med Swish går betalningen direkt från köparens konto till säljarens konto. Genom Traderas betallösning underlättas transaktionen, då säljarens telefonnummer fylls i automatiskt i Swish-appen och köparen kan godkänna betalningen direkt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer efter betalning med kort eller PayPal på Tradera?
+ANSWER: Vid betalning med kort eller PayPal på Tradera kommer pengarna först sättas in på PayPals (Hyperwallets) bankkonto. Därefter kommer Tradera att kontrollera transaktionen, och om den godkänns av Tradera kommer PayPal sedan att betala ut pengarna till säljaren. Efter att köparen har betalat meddelar Tradera säljaren via e-post och i Mitt Tradera om att betalning har skett, och varan ska då skickas av säljaren till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka betalsätt omfattas av Paynovas tjänst för betalning mot faktura eller avbetalning på Tradera?
+ANSWER: Vid försäljning på plattformen kan köpare välja att betala mot faktura eller avbetalning via Paynovas tjänst. Säljaren accepterar då att PayPal övertar säljarens rätt att få betalt från köparen i utbyte mot att PayPal erlägger betalning till säljaren för transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer vid försäljning på plattformen om köpare väljer att betala med Klarna?
+ANSWER: Vid försäljning på plattformen kan köpare välja att betala med Klarna för betalning mot faktura eller avbetalning. Det innebär att säljaren accepterar att Klarna övertar säljarens rätt att få betalt från köparen i utbyte mot att Klarna erlägger betalning till säljaren för transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken information fylls automatiskt i Swish-appen vid betalning på Tradera?
+ANSWER: Vid betalning med Swish på Tradera fylls säljarens telefonnummer i automatiskt i Swish-appen, vilket underlättar transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur meddelar Tradera säljaren om en betalning har skett efter betalning med kort eller PayPal?
+ANSWER: Efter att köparen har betalat med kort eller PayPal meddelar Tradera säljaren via e-post och i Mitt Tradera om att betalning har skett. Säljaren kan därefter skicka varan till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer vid försäljning på Tradera om köparen inte betalar?
+ANSWER: Om köparen inte betalar inom angivet tidsram på plattformen kan säljaren lägga in ett obetalt ärende. Tradera kan då bistå säljaren med att söka betalning från köparen, men kan inte garantera att betalningen kommer att ske.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan säljaren få betalt direkt vid försäljning på Tradera?
+ANSWER: Ja, vid försäljning på Tradera kan säljaren få betalt direkt om köparen väljer att betala med Swish. Betalningen går direkt från köparens konto till säljarens konto.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

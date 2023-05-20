@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information samlar Tradera in från användare?
+ANSWER: Tradera samlar in information från användare som är relaterad till deras aktiviteter på webbplatserna, såsom budgivning, köp, försäljning, annonsinformation och innehåll skapade av användarna som kan hänföras till kontot. Andra typer av information som samlas in inkluderar leveransinformation, faktureringsinformation, betalningsinformation, information från diskussioner i forum, chattar, och korrespondens skickad till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera komma att erhålla information om en användare från tredje parter?
+ANSWER: Ja, Tradera kan samla in tilläggsinformation om användare från tredjeparter såsom säljarföretag, databyråer och dataleverantörer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av tilläggsinformation kan Tradera samla in om en användare från tredje parter?
+ANSWER: Tilläggsinformation som Tradera kan samla in om en användare från tredje parter kan inkludera demografisk information och navigationsinformation, kreditupplysningsinformation och annan information från kreditupplysningsföretag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information kan Tradera komma att efterfråga från en användare för att verifiera deras identitet?
+ANSWER: Tradera kan be användare att skicka in ett identitetsbevis eller annan handling för att bekräfta deras identitet eller adress. De kan också ställa andra frågor för att bekräfta identitet eller att användaren äger en produkt som de säljer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Spara Tradera leveransstatusinformation relaterad till min beställning?
+ANSWER: Ja, om leveranstjänster tillhandahålls genom ett av Traderas integrerade system, sparas annan relevant leveransinformation (leveransstatus) som sparas av den valda leveranspartnern.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av diskussioner kan användare ha på Traderas plattform?
+ANSWER: Användare på Traderas plattform kan ha diskussioner i forum, chattar, tvistlösning, och korrespondens genom webbplatserna eller direkt till Tradera via e-post, telefon eller brev.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare på Traderas plattform skapa egna annonser?
+ANSWER: Ja, användare på Traderas plattform kan skapa egna annonser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kommer Tradera att lägga till kompletterande information om användare från tredje parter utan att användarna är medvetna om det?
+ANSWER: Tradera kommer inte att lägga till kompletterande information om användare från tredje parter utan att användarna är medvetna om det.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare på Traderas plattform sälja produkter?
+ANSWER: Ja, användare på Traderas plattform kan sälja produkter till andra användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur använder Tradera den information som samlas in från användare?
+ANSWER: Tradera använder den information som samlas in från användare för att förbättra deras tjänster och för att ge en mer personlig och anpassad upplevelse för användarna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

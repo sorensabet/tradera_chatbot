@@ -1,0 +1,39 @@
+QUESTION: Hur väljer jag PayPal som en betalningslösning?
+ANSWER: För att kunna välja PayPal som betalningsmetod, se till att valutan är inställd på antingen EUR, GBP, SEK eller USD.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jag registrera både en bank- och en PayPal-konto hos Tradera?
+ANSWER: Nej, du kan endast ha ett konto hos Tradera åt gången.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad händer om jag inte har lagt till mitt bank- eller PayPal-konto när en kund betalar för min annons?
+ANSWER: Din betalning kommer att vänta på att genomföras tills du har lagt till dina kontouppgifter.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hur handlar jag på Tradera?
+ANSWER: För att handla på Tradera behöver du först klicka på “Köp”-knappen på produktsidan för den produkt som du vill köpa. Därefter kan du slutföra betalningen och invänta att produkten levereras till dig.
+URL: https://info.tradera.com/sv/kopara/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: Kategorierna på Tradera inkluderar lantbruk, bilar, motorcyklar, båtar, kläder och accessoarer, datorer och tillbehör, och mycket mer.
+URL: https://www.tradera.com/kategorier
+
+QUESTION: Vilka populära varumärken säljs på Tradera?
+ANSWER: Det finns många populära varumärken som säljs på Tradera, inklusive Apple, Samsung, Adidas, Nike, Muuto, Marimekko och många fler.
+URL: https://www.tradera.com/varumarken
+
+QUESTION: Hur säljer jag på Tradera som privatperson?
+ANSWER: För att sälja på Tradera som privatperson, behöver du först skapa ett konto och aktivera försäljning på din inloggningssida. Därefter kan du lägga upp produkter till försäljning och vänta på att en köpare slutför ditt köp.
+URL: https://info.tradera.com/sv/salja/
+
+QUESTION: Hur fungerar fragtberäknaren på Tradera?
+ANSWER: Fragtberäknaren på Tradera räknar ut fraktkostnaden och visar den för köparen under köpprocessen. Priset baseras på vikten, destinationen och fraktsättet.
+URL: https://www.tradera.com/fragt
+
+QUESTION: Finns det en butik på Tradera?
+ANSWER: Ja, det finns möjlighet att öppna en butik på Tradera.
+URL: https://info.tradera.com/se/butik/
+
+QUESTION: Vilka handelsvillkor har Tradera?
+ANSWER: De fullständiga handelsvillkoren för Tradera finns tillgängliga på deras webbplats under “Handelsvillkor”.
+URL: https://www.tradera.com/help/shopping/tradera-terms-and-conditions

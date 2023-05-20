@@ -1,0 +1,39 @@
+QUESTION: Vilka förslag för konfliktlösning ger Tradera om en tvist uppstår mellan användare och företaget?
+ANSWER: Tradera rekommenderar att användare som har en tvist med företaget i första hand kontaktar kundtjänsten för att hitta en lösning. Om ärendet inte kan lösas med kundtjänsten kan användare begära att det ska eskaleras till företagets interna system för hantering av klagomål. Om tvisten inte löses med hjälp av interna systemet kommer tredje linjens support att involveras för att avgöra tvisten.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka åtgärder kan Tradera vidta för att lösa en tvist mellan företag och användare?
+ANSWER: Tradera kan genom alternativa tvistlösningsmetoder, såsom medling eller skiljeförfarande, beakta rimliga förfrågningar från användare för att lösa en tvist som uppstår i samband med tillhandahållandet av deras tjänster.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka advokater kan Tradera anlita om en tvist uppstår mellan företag och användare som inte kan lösas genom företagets interna klagomålshantering?
+ANSWER: Tradera är villigt att anlita advokaterna Anders Arthur eller Fredrik Norburg för att försöka nå en överenskommelse med företagsanvändare om en lösning på eventuella tvister mellan Tradera och användaren som uppstår i samband med tillhandahållandet av tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken lag gäller för alla krav, tvister eller andra frågor som uppkommer i samband med användaravtalet?
+ANSWER: Alla krav, tvister eller andra frågor som uppkommer med anledning av användaravtalet ska avgöras av svensk allmän domstol och svensk rätt ska gälla.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om en tvist inte kan lösas genom Traderas interna system för hantering av klagomål?
+ANSWER: Om tvisten inte löses med hjälp av Traderas interna system för hantering av klagomål kommer tredje linjens support att involveras för att slutligt avgöra tvisten.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kommer Tradera meddela en användare resultatet om en tvist har hanterats av en tredje part?
+ANSWER: Ja, resultatet kommer att meddelas användaren individuellt.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken typ av support kommer att hantera en tvist om den inte kan lösas med kundtjänstens hjälp?
+ANSWER: Om en tvist inte kan lösas med hjälp av Traderas Kundservice kan tredje linjens support ansvara för att ge vägledning och slutligen avgöra tvisten.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka tvistlösningsmetoder är Tradera villigt att använda för att lösa en tvist mellan företag och användare?
+ANSWER: Tradera är villigt att beakta rimliga förfrågningar från användare att lösa en tvist genom alternativa tvistlösningsmetoder, såsom medling eller skiljeförfarande.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad rekommenderar Tradera användare att göra om en tvist uppstår mellan dem och företaget?
+ANSWER: Tradera rekommenderar att användare som har en tvist med företaget i första hand kontaktar kundtjänsten för att hitta en lösning.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Finns det någon extern part som kan ta hand om en tvist mellan företag och användare?
+ANSWER: Svensk allmän domstol kan avgöra alla krav, tvister eller andra frågor som uppkommer med anledning av användaravtalet.
+URL: https://info.tradera.com/anvandaravtal/

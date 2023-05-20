@@ -1,0 +1,39 @@
+QUESTION: Vad menar de med integritetspolicy?
+ANSWER: Integritetspolicyen beskriver hur Tradera hanterar personuppgifter och integritet på deras webbsidor, applikationer och verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka konsekvenser kan det få om man inte godkänner Traderas integritetspolicy?
+ANSWER: Om man inte godkänner Traderas integritetspolicy kan det innebära att man inte längre har åtkomst till deras webbplatser, applikationer och verktyg, samt att man inte längre kan ta del av de tjänster och kundservice som erbjuds.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Varför lämnar Tradera ut personuppgifter?
+ANSWER: Tradera kan lämna ut personuppgifter för att uppfylla rättsliga skyldigheter, upprätthålla sina policys och skydda tredje mans rättigheter, tillgångar eller säkerhet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av information kan Tradera lämna ut till sina underleverantörer?
+ANSWER: Tradera kan dela med sig av personuppgifter till sina underleverantörer som hjälper dem att bedriva verksamheten. Det kan exempelvis handla om kundservice, bedrägeriutredningar, fakturaindrivning, lojalitetsprogram och drift av webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan andra Tradera-användare se mina personuppgifter?
+ANSWER: Andra Tradera-användare kan se din e-postadress och begära ut dina kontaktuppgifter och postadress om du är involverad i en transaktion med dem och för att kunna slutföra affären.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka länder kan andra Tradera-användare vara bosatta i?
+ANSWER: Andra Tradera-användare kan vara bosatta i ditt eget land eller i andra länder.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka typer av transaktioner kan andra Tradera-användare vara involverade i?
+ANSWER: Det är inte specificerat vilka typer av transaktioner som andra Tradera-användare kan vara involverade i, men om man är involverad i en transaktion med en annan användare kan denna användare se ens e-postadress och begära ut ens kontaktuppgifter och postadress för att slutföra affären.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka krav kan andra ha på min annons eller annat innehåll på Tradera?
+ANSWER: Andra kan ha krav på att ens annons eller annat innehåll kränker deras rättigheter, och då kan Tradera lämna ut ens personuppgifter för att svara på dessa krav.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka regler följer Tradera när de lämnar ut personuppgifter?
+ANSWER: Tradera lämnar endast ut personuppgifter i enlighet med tillämpliga lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera lämna ut personuppgifter till andra länder?
+ANSWER: Ja, Tradera kan lämna ut personuppgifter till andra länder där Traderas underleverantörer eller andra användare befinner sig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

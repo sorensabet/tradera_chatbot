@@ -1,0 +1,39 @@
+QUESTION: Vad är en Köpare enligt Traderas avtal?
+ANSWER: En Köpare enligt Traderas avtal är en person som läser hela annonsen innan hen lägger ett bud på eller förbinder sig att köpa ett föremål, ingår ett bindande avtal att köpa ett föremål när hen går med på att köpa ett föremål eller om hen lägger det vinnande budet (eller om budet accepteras på annat sätt), ingår ett särskilt avtal med tredje man för vissa Tjänster och godkänner de villkor som gäller för det betalningssätt och fraktalternativ som hen använder när hen köper ett föremål.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilket ansvar har Köparen när hen lägger ett bud på eller förbinder sig att köpa ett föremål enligt Traderas regler för Köpare?
+ANSWER: Enligt Traderas regler för Köpare, har Köparen ansvar att läsa hela annonsen innan hen lägger ett bud på eller förbinder sig att köpa ett föremål.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad är ett bindande avtal när det gäller att köpa ett föremål på Tradera?
+ANSWER: Ett bindande avtal att köpa ett föremål på Tradera innebär att när en köpare går med på att köpa ett föremål eller om hen lägger det vinnande budet (eller om budet accepteras på annat sätt), så ingår hen en överenskommelse om att köpa föremålet.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilket ansvar har Köparen när det gäller betalningssätt och fraktalternativ i samband med ett köp på Tradera?
+ANSWER: Enligt Traderas regler för Köpare, har Köparen ansvar att godkänna de villkor som gäller för det betalningssätt och fraktalternativ som hen använder när hen köper ett föremål.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad innebär Paynova och Klarnas försorg i samband med köparskydd på Tradera?
+ANSWER: Om en Köpare väljer att betala mot faktura eller avbetalning genom Paynovas eller Klarnas försorg i samband med köp på Tradera, ingår Köparskydd, vilket innebär att Köpare har vissa rättigheter vid tvister och kan få återbetalat det belopp som de har betalat vid en Transaktion.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilka betalningssätt ingår inte i Traderas köparskydd?
+ANSWER: Betalning med PayPal, kort eller Swish ingår inte i Traderas köparskydd enligt reglerna för Köpare. 
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kommer Tradera att erbjuda köparskydd vid betalning med kort eller Swish?
+ANSWER: Enligt Traderas regler för Köpare, kan Tradera vid ett senare tillfälle komma att erbjuda köparskydd även vid betalning med kort eller Swish mot en avgift.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad innebär Traderas köparskydd?
+ANSWER: Traderas köparskydd innebär att Köpare har vissa rättigheter vid tvister och kan få återbetalat det belopp som de har betalat vid en Transaktion om Köpare väljer att betala mot faktura eller avbetalning genom Paynovas eller Klarnas försorg.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad är en Transaktion på Tradera?
+ANSWER: En Transaktion på Tradera innebär ett köp eller en försäljning av ett föremål mellan en Köpare och en Säljare.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad är en Säljare enligt Traderas regler för Köpare?
+ANSWER: En Säljare enligt Traderas regler för Köpare är en person som säljer ett föremål på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/

@@ -1,0 +1,39 @@
+QUESTION: Vad krävs för att slutföra sin registrering på Tradera?
+ANSWER: För att slutföra sin registrering på Tradera behöver man komplettera den med ytterligare information samt lämna in ett personbevis som intygar om vilka uppgifter som finns registrerade om användaren i folkbokföringen.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vad är ett personbevis?
+ANSWER: Ett personbevis är ett intyg som visar vilka uppgifter som finns registrerade om en person i folkbokföringen.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Var kan jag hitta mitt personbevis?
+ANSWER: Ett personbevis kan man hitta genom att gå in på skatteverkets hemsida, klicka sedan på "Skriv ut personbevis" och logga in med e-legitimation.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Varför behöver jag lämna in ett personbevis för att aktivera mitt konto på Tradera?
+ANSWER: För att Tradera ska kunna aktivera ens konto behöver man lämna in ett personbevis som intygar om vilka uppgifter som finns registrerade om en i folkbokföringen.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vad krävs för att logga in på skatteverkets hemsida och skriva ut sitt personbevis?
+ANSWER: För att logga in på skatteverkets hemsida och skriva ut sitt personbevis behöver man använda e-legitimation.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Varför behöver Tradera ha information om mig?
+ANSWER: Tradera behöver vissa uppgifter om ens identitet av säkerhetsskäl och för att uppfylla kraven i lagstiftningen.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vad händer om jag inte lämnar in ett personbevis till Tradera?
+ANSWER: Om man inte lämnar in ett personbevis till Tradera kan inte ens konto aktiveras och man kan inte använda Tradera-tjänsten.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vad innebär folkbokföring?
+ANSWER: Folkbokföring innebär att personer skrivs in och registreras med vissa uppgifter i Skatteverkets register för att staten ska kunna utföra sina uppgifter och ge medborgarna access till service och skyldigheter.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Kan jag använda Tradera utan ett personbevis?
+ANSWER: Nej, man kan inte använda Tradera utan att lämna in ett personbevis då detta krävs för att aktivera ens konto.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Varför behöver jag lämna in ytterligare information för att slutföra min registrering på Tradera?
+ANSWER: För att Tradera ska kunna uppfylla lagstiftningens krav och säkerhetskrav måste man lämna in ytterligare information vid registrering.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/

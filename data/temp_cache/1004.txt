@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Integritetspolicyn på Tradera?
+ANSWER: Syftet med Integritetspolicyn på Tradera är att förklara hur Tradera samlar in, använder, skyddar och delar personuppgifter från användare som besöker webbplatsen. Policyn innehåller information om användarnas rättigheter avseende deras personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka personuppgifter samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter som namn, e-postadress, telefonnummer, adress, betalningsinformation, födelsedatum, användarnamn och lösenord när en användare registrerar sig. Andra personuppgifter som Tradera kan samla in inkluderar användaraktiviteter under en tradera-auktion eller användning av Traderas tjänster, samt teknisk information om användarens enhet och webbläsare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka användningsändamål har Tradera för personuppgifterna som samlas in?
+ANSWER: Tradera använder personuppgifterna som samlas in för att hantera användarupplevelsen och tillhandahålla Traderas tjänster, inklusive att möjliggöra auktioner, bearbeta transaktioner, hantera användarnas konton och för att förbättra Traderas tjänster. Personuppgifterna används också för att förebygga och upptäcka bedrägeri och andra olagliga eller oetiska aktiviteter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Delar Tradera personuppgifter med tredje part?
+ANSWER: Ja, Tradera delar personuppgifter med vissa tredje parter såsom betalningsleverantörer, transportörer och andra företag som Tradera anlitar för att tillhandahålla sina tjänster. Tradera kan också dela personuppgifter för att efterleva lagliga skyldigheter och skydda Traderas rättigheter och egendom. Tradera säljer dock inte personuppgifter till tredje part.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur skyddar Tradera personuppgifterna?
+ANSWER: Tradera vidtar lämpliga tekniska och organisatoriska åtgärder för att skydda personuppgifterna som samlas in, inklusive åtgärder för att förhindra obehörig åtkomst, radering och ändring av personuppgifter. Tradera skyddar också personuppgifterna under lagring- och överföringsprocesser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är en GDPR och vad har den med Integritetspolicyn att göra?
+ANSWER: GDPR är en förkortning för General Data Protection Regulation, som är en EU-förordning för dataskydd. Integritetspolicyn för Tradera beskriver hur Tradera följer GDPR och andra relevanta regler för dataskydd.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Har användarna några rättigheter gällande deras personuppgifter på Tradera?
+ANSWER: Ja, användare på Tradera har vissa rättigheter avseende deras personuppgifter, inklusive rättigheter till information, tillgång, rättelse eller radering av personuppgifter, och begränsning av användning och spridning av personuppgifter. Dessa rättigheter kan utövas genom att kontakta Traderas kundtjänst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan användare begära att deras personuppgifter raderas från Traderas system?
+ANSWER: Ja, användare kan begära att deras personuppgifter raderas från Traderas system genom att kontakta Traderas kundtjänst. Tradera kommer att radera användarens personuppgifter om det inte finns någon laglig grund att behålla dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka åtgärder vidtar Tradera för att säkerställa att användare över 13 år har gett sitt samtycke för att använda webbplatsen?
+ANSWER: Om en användare på Tradera är under 13 år krävs särskilt samtycke från förälder eller vårdnadshavare innan användaren kan använda webbplatsen. Tradera berättar också att samtycke krävs på lämpligt sätt för andra användare inom webbplatsens funktioner.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur länge sparar Tradera personuppgifter som samlats in?
+ANSWER: Tradera sparar personuppgifter som samlats in i begränsad tid som krävs för att tillhandahålla tjänster, uppfylla lagliga skyldigheter och avtal. Personuppgifter kan bevaras längre för att skydda Traderas rättigheter, upptäcka bedrägerier eller förhindra olagliga aktiviteter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

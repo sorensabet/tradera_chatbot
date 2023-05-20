@@ -1,0 +1,39 @@
+QUESTION: Vad kan orsaka att min verifiering misslyckades på Tradera?
+ANSWER: Det vanligaste orsaken till att verifieringen misslyckas är att man inte legitimerar sig inom en viss tid så avbryts inloggningsförsöket och ett felmeddelande dyker upp. Om man loggar in från en mobil enhet kan man också behöva växla över till BankID säkerhetsapp manuellt, och efter verifieringen måste man även växla tillbaka till webbläsaren eller Tradera-appen manuellt. Det är också viktigt att säkerställa att identiteten på ens BankID stämmer överens med personnumret på ens konto eftersom en del av ens personnummer visas vid verifieringen.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vilken information delas med Traderas partners vid användning av cookies?
+ANSWER: Genom användning av Traderas cookies delas information om användning av webbplatsen med Traderas partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad är Green shipping med Tradera?
+ANSWER: Green shipping är en tjänst som Tradera erbjuder sina kunder som gör att man kan välja ett klimatvänligt fraktalternativ och därmed minska sin miljöpåverkan.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Kan man som företag sälja på Tradera?
+ANSWER: Ja, man kan sälja som företag på Tradera. På sajten finns information om hur man går tillväga för att registrera ett företagskonto.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Hur säljer man som privatperson på Tradera?
+ANSWER: På Tradera finns information om hur man går tillväga för att sälja som privatperson. Det krävs att man skapar en annons där man kan lägga upp bilder och beskrivning av varan man vill sälja. När någon köper ens vara på Tradera hanterar sajten betalningen för köpet samt frakten av varan.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Kan man donera till välgörenhet med Tradera?
+ANSWER: Ja, man kan donera till välgörenhet med Tradera genom att välja att skänka del av försäljningsintäkterna till en av organisationerna som är partners med Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Var hittar jag information om Traderas användaravtal?
+ANSWER: Informationen om Traderas användaravtal finns på sajtens informationssida. Detta avtal beskriver vilka regler och villkor som gäller när man använder Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Finns det olika kategorier på varor som man kan köpa på Tradera?
+ANSWER: Ja, det finns olika kategorier på varor som man kan köpa på Tradera. På sajten kan man hitta allt från kläder, skor och accessoarer till hemelektronik och sportutrustning.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Kan man kontakta Tradera vid eventuella problem med sitt köp?
+ANSWER: Ja, man kan kontakta Tradera vid eventuella problem med sitt köp. På sajten finns kontaktuppgifter till Traderas kundtjänst där man kan få hjälp med de frågor som man har.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Var kan man hitta information om hur man använder fraktkalkylatorn på Tradera?
+ANSWER: Information om hur man använder fraktkalkylatorn på Tradera finns på sajten under fliken "Fraktkalkylatorn".
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/

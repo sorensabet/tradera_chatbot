@@ -1,0 +1,39 @@
+QUESTION: How can I complete my registration process at Tradera?
+ANSWER: To complete your registration at Tradera, you need to provide the necessary information as per the guidelines provided on the provided URL.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: What kind of document should I provide to register a company in Sweden on Tradera?
+ANSWER: If you are registering a Swedish company on Tradera, you need to provide a proof of registry for your company and a valid ID picture from a member of the company's board of directors, which is available at bolagsverket.se.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: What documents should I provide to register a non-Swedish company on Tradera?
+ANSWER: If you are registering a non-Swedish company on Tradera, you need to provide a proof of registry for your company and a valid ID picture from a member of the company's board of directors.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: What is a proof of registry according to Tradera's registration guidelines?
+ANSWER: A proof of registry is a document providing evidence that the company you are trying to register is registered in the country mentioned.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: Why does Tradera require a proof of registry and a valid ID picture to register a company?
+ANSWER: Tradera only requires these documents if they can't verify your company with the information you provided. The primary reason for verifying each company is to ensure a safe and secure marketplace.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: Where can I find a valid ID picture to register a Swedish company on Tradera?
+ANSWER: You can obtain a valid ID picture from a board member at the company and then upload it while registering the Swedish company on Tradera.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: Can I register a Swedish company on Tradera without providing the necessary documents?
+ANSWER: No, you cannot register a Swedish company on Tradera without providing a proof of registry and a valid ID of a board member.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: Can I register a non-Swedish company on Tradera without providing the necessary documents?
+ANSWER: No, you cannot register a non-Swedish company on Tradera without providing a proof of registry and a valid ID of a board member.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: What is the purpose of verifying each company while registering on Tradera?
+ANSWER: The main purpose of verifying each company is to ensure a secure and safe marketplace for all users.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/
+
+QUESTION: What are the steps to register a company on Tradera?
+ANSWER: The registration steps for registering a company on Tradera are available on the website.
+URL: https://info.tradera.com/en/foretagskonto-pa-tradera/

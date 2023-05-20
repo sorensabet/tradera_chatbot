@@ -1,0 +1,39 @@
+QUESTION 1: Vad är Tradera Pay Invoice?
+\ANSWER: Tradera Pay Invoice är en betalningsmetod som låter köpare betala efter att de har mottagit varan, istället för att betala direkt vid köptillfället. Detta ger köparna en extra trygghet och bekräftelse på att varan är som beskrivet.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 2: Hur kan jag registrera mig som företagsförsäljare på Tradera?
+\ANSWER: För att registrera sig som företagsförsäljare på Tradera, behöver man gå till sidan "Create a Business Account" och följa anvisningarna där. Beroende på företagets status kan man behöva komplettera registreringen med en kopia av företagets registreringsbevis och giltig ID-handling för företagets ägare.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 3: Vilka betalningsvillkor finns det på Tradera?
+\ANSWER: Betalningsvillkoren på Tradera beror på vilken betalningsmetod som används. Vanligtvis betalar köparen direkt vid köptillfället, men det finns även alternativ som Tradera Pay Invoice, där köparen kan betala efter att de har mottagit varan. Läs mer om betalningsvillkoren på sidan "Payment Terms & Conditions".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 4: Hur fungerar köparskyddet på Tradera?
+\ANSWER: Traderas köparskydd ger köpare en extra trygghet och bekräftelse på att varan är som beskriven. Om köparen inte är nöjd med varan, kan de välja att returnera den och få tillbaka pengarna. Läs mer om köparskyddet på sidan "Buyer's Protection".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 5: Vad krävs för att registrera sig som säljare på Tradera?
+\ANSWER: För att registrera sig som säljare på Tradera behöver man skapa ett konto och ange personlig information samt uppgifter om de varor man planerar att sälja. Som privat säljare behövs ingen ytterligare registrering, medan företagssäljare kan behöva komplettera registreringen med en kopia av företagets registreringsbevis och giltig ID-handling för företagets ägare.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 6: Vilka populära märken säljs på Tradera?
+\ANSWER: Det finns många populära märken som säljs på Tradera, som exempelvis Adidas, Apple, Gucci, IKEA, Nike, och H&M. För att se en fullständig lista över kategorier och varumärken, besök sidan "Categories Popular brands".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 7: Vad är en Shipping calculator på Tradera?
+\ANSWER: En Shipping calculator är ett verktyg som används för att beräkna fraktkostnaden för en försändelse baserat på storlek och vikt. Tradera har en egen fraktkalkylator som kan användas av säljare för att ange fraktkostnaden i annonsen.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 8: Hur kan jag komma i kontakt med Traderas försäljningsteam för företag?
+\ANSWER: För att komma i kontakt med Traderas försäljningsteam för företag, skicka ett e-mail till sales@tradera.com.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 9: Vilka regler finns det att följa som säljare på Tradera?
+\ANSWER: Det finns flera regler som säljare på Tradera måste följa för att garantera en säker och positiv köpupplevelse för köparna. Dessa regler kan inkludera t.ex. krav på objektbeskrivningar och bilder, hantering av returer och reklamationer, och att följa givna tidsramar för transaktioner. Läs mer om reglerna på sidan "Rules".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION 10: Vilka kontaktalternativ finns tillgängliga för att få hjälp på Tradera?
+\ANSWER: För att få hjälp på Tradera finns flera olika kontaktalternativ tillgängliga, som t.ex. FAQ-sidan, kontaktformuläret, och Traderas kundtjänst. Mer information finns på sidan "Contact & help".
+URL: https://info.tradera.com/en/foretag/

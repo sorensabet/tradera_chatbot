@@ -1,0 +1,39 @@
+QUESTION 1: Vad är användningsområdet för Traderas prestandacookies?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 2: Kan jag stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 3: Vad är syftet med Traderas funktionella cookies?
+ANSWER: Syftet med Traderas funktionella cookies är för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 4: Vad är annonseringspartners?
+ANSWER: Annonseringspartners är företag som Tradera samarbetar med för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 5: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att förbättra användarupplevelsen, anonymt mäta Traderas användning, utöka funktionaliteten och anpassningen för användare samt möjliggöra riktade annonser.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 6: Vad händer om jag inte godkänner cookies på Tradera?
+ANSWER: Om du inte godkänner cookies på Tradera kan vissa delar av sajten inte fungera som de ska och du kan inte använda alla funktioner.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 7: Kan Traderas annonseringspartners se mina personliga uppgifter?
+ANSWER: Nej, Traderas annonseringspartners kan inte se dina personliga uppgifter.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 8: Vilka cookies krävs för att Tradera ska fungera?
+ANSWER: Nödvändiga cookies krävs för att Tradera ska fungera.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 9: Vilka cookies används för att mäta Traderas användning?
+ANSWER: Prestandacookies används för att anonymt mäta Traderas användning.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION 10: Kan jag använda Tradera utan att godkänna cookies?
+ANSWER: Ja, du kan använda Tradera utan att godkänna cookies, men vissa delar av sajten kan inte fungera som de ska och du kan inte använda alla funktioner.
+URL: https://info.tradera.com/fraktguiden/

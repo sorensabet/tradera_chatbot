@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information delar Tradera med sina partners för sociala medier?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier för annonsering och analys för att kunna anpassa innehåll och annonser utifrån användarbeteende. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Vad är syftet med cookies på Tradera?
+ANSWER: Cookies används på Tradera för att anpassa innehåll, annonser, analysera trafik och förbättra användarupplevelsen. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Kan cookies på Tradera stängas av?
+ANSWER: Nödvändiga cookies på Tradera kan inte stängas av då det behövs för att webbplatsen ska fungera, medan prestanda, funktionella och marknadsföring cookies kan stängas av via inställningar. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Vilken typ av cookies används för att förbättra användarupplevelsen på Tradera?
+ANSWER: Prestanda cookies används för att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Hur kan användare stänga av funktionella cookies på Tradera?
+ANSWER: Användare kan stänga av funktionella cookies genom att ändra sina inställningar på Tradera, men detta kan begränsa funktionaliteten och användaranpassningen på webbplatsen. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Vilket syfte har marknadsföring cookies på Tradera?
+ANSWER: Marknadsföring cookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Kan Tradera använda cookies för att samla in personlig information om användaren?
+ANSWER: Tradera kan samla in personlig information genom cookies om användaren interagerar med innehåll, t.ex. genom en inloggning eller delning av Traderas innehåll på sociala medier. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Vilka typ av cookies anses vara nödvändiga för Tradera att fungera?
+ANSWER: Nödvändiga cookies är de cookies som behövs för att Traderas webbplats ska fungera, t.ex. för att kunna hantera användarsessioner och åtgärda tekniska fel. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Hur kan användare ändra sina cookie-inställningar på Tradera?
+ANSWER: Användare kan ändra sina cookie-inställningar på Tradera genom att klicka på "Inställningar för cookies" längst ner på webbplatsen och välja vilka typer av cookies som de vill acceptera eller avvisa. 
+URL: https://info.tradera.com/en/information-about-cookies/
+
+QUESTION: Vilket är syftet med anonym mätning med prestanda cookies på Tradera?
+ANSWER: Syftet med anonym mätning med prestanda cookies på Tradera är att mäta hur webbplatsen används för att förbättra användarupplevelsen. 
+URL: https://info.tradera.com/en/information-about-cookies/

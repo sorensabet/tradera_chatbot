@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter samlar Tradera in?
+ANSWER: I texten nämns inte vilka personuppgifter Tradera samlar in, utan fokuserar mer på hur de används och utlämnas.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Till vilka kan Tradera lämna ut mina personuppgifter?
+ANSWER: Tradera kan lämna ut personuppgifter för att uppfylla rättsliga skyldigheter, upprätthålla sina policys, svara på krav om att en annons eller annat innehåll kränker annans rättigheter och för att skydda tredje mans rättigheter, tillgångar eller säkerhet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Delar Tradera mina personuppgifter med koncernbolag inom eBay Inc.?
+ANSWER: Ja, för att kunna tillhandahålla gemensamt innehåll och gemensamma tjänster (såsom registrering, transaktioner och kundservice), för att upptäcka och förebygga potentiellt olagliga handlingar och överträdelser av deras policys, samt för att ge vägledning om deras produkter, webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera sälja mina personuppgifter till tredje part för marknadsföringsändmål?
+ANSWER: Nej, enligt texten lämnar inte Tradera ut dina personuppgifter till tredje man för marknadsföringsändamål utan ditt uttryckliga samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan jag använda Traderas webbplatser om jag inte samtycker till användning eller utlämnande av mina personuppgifter?
+ANSWER: Om du inte samtycker till användning eller utlämnande av dina personuppgifter för andra ändamål som anges i Integritetspolicyn, kan det innebära att du inte kan fortsätta att använda Traderas webbplatser, applikationer och verktyg eller tillhandahålla tjänster och kundservice som erbjuds.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka skyldigheter har Tradera när det gäller mina personuppgifter?
+ANSWER: Tradera har skyldigheter att upprätthålla sina policys, uppfylla rättsliga skyldigheter, svara på krav om att en annons eller annat innehåll kränker annans rättigheter och skydda tredje mans rättigheter, tillgångar eller säkerhet. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad händer om mina personuppgifter lämnas ut enligt tillämpliga lagar och regler?
+ANSWER: Om dina personuppgifter lämnas ut enligt tillämpliga lagar och regler så är detta tillåtet, men Tradera garanterar att detta sker endast i enlighet med dessa lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan jag neka till utlämnande av mina personuppgifter?
+ANSWER: Du kan neka till användning eller utlämnande av dina personuppgifter för andra ändamål som anges i Traderas Integritetspolicy, men om du gör det kan det innebära att du inte längre kan använda deras webbplatser, applikationer och verktyg eller ta del av deras tjänster och kundservice som erbjuds.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka andra ändamål än marknadsföring kan Tradera använda mina personuppgifter för?
+ANSWER: Texten nämner inte specifika ändamål för användning av personuppgifter utöver de ändamål som anges i Integritetspolicyn, vilka inkluderar upprätthållande av policys, rättsliga skyldigheter och skydd av tredje mans rättigheter, tillgångar och säkerhet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan jag få tillgång till mina personuppgifter som Tradera har sparade?
+ANSWER: Ja, enligt GDPR har du rätt att begära tillgång till och rättelse av dina personuppgifter. Du kan begära detta från Tradera genom att skicka in en begäran till deras Dataskyddsombud.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

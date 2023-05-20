@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av uppgifter kan delas med andra användare på Tradera?
+ANSWER: På Tradera kan personliga och ekonomiska uppgifter delas med andra användare för att slutföra en transaktion och erhålla betalning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad rekommenderas när det gäller att lämna ut personuppgifter på Tradera?
+ANSWER: Det rekommenderas att beskriva rutinerna för behandling av personuppgifter och att respektera andra användares personliga integritet när man lämnar ut personliga och ekonomiska uppgifter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera garantera skyddet av personlig integritet för delade uppgifter?
+ANSWER: Nej, Tradera kan inte garantera skyddet av personlig integritet eller skydd av delade personuppgifter för information som användaren väljer att dela med andra användare och partners.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad bör man göra innan man delar personuppgifter på Tradera?
+ANSWER: Innan man delar personuppgifter på Tradera, bör man utvärdera motpartens integritetspolicy och besluta om det är tillrådligt att slutföra transaktionen och dela personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av information kan andra användare och partners få tillgång till på Tradera?
+ANSWER: Andra användare och partners på Tradera kan endast få begränsad tillgång till kontaktuppgifter, leveransuppgifter och ekonomiska uppgifter för att underlätta genomförandet av transaktioner och erhållande av betalning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan andra användare begära att bli raderade från ens databas på Tradera?
+ANSWER: Ja, andra användare kan begära att bli raderade från ens databas på Tradera och man är skyldig att ge dem möjlighet att begära information om vilka uppgifter man har samlat in om dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad är syftet med att använda andra användares personuppgifter på Tradera?
+ANSWER: Syftet med att använda andra användares personuppgifter på Tradera är för transaktionsrelaterade ändamål på Tradera och inte för oönskade marknadsföringsmeddelanden, för att använda tjänster som erbjuds via Tradera och för särskilda ändamål som användaren uttryckligen väljer eller lägger någon annan information om.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan man använda andra användares personuppgifter för oönskade marknadsföringsmeddelanden på Tradera?
+ANSWER: Nej, man kan endast använda andra användares personuppgifter för transaktionsrelaterade ändamål på Tradera och inte för oönskade marknadsföringsmeddelanden.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka tjänster kan man använda via Tradera förutom betalning, frakt, leverans och klagomål om bedrägerier?
+ANSWER: Det anges inte exakt vilka andra tjänster man kan använda via Tradera förutom betalning, frakt, leverans och klagomål om bedrägerier.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad bör man göra om man vill använda andra användares personuppgifter för särskilda ändamål på Tradera?
+ANSWER: Om man vill använda andra användares personuppgifter för särskilda ändamål på Tradera måste man se till att användaren uttryckligen väljer eller lägger någon annan information om detta.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

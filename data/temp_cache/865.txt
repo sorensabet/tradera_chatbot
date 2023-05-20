@@ -1,0 +1,39 @@
+QUESTION: Finns det några regler för att sälja livsmedel på Tradera?
+ANSWER: Ja, det finns regler för att sälja livsmedel på Tradera. Dessa regler omfattar bland annat krav på förpackning, märkning och upplysning om allergener.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/livsmedel/
+
+QUESTION: Måste man vara över 18 år för att använda Tradera?
+ANSWER: Ja, för att använda Tradera måste man vara över 18 år.
+URL: https://info.tradera.com/sakerhetscenter/viktigt-att-veta/
+
+QUESTION: Har Tradera någon köparskyddsgaranti?
+ANSWER: Ja, Tradera har en köparskyddsgaranti som innebär att köpare kan få pengarna tillbaka om varan inte motsvarar beskrivningen eller om säljaren inte skickar varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/koparskydd/
+
+QUESTION: Kan jag betala med Swish på Tradera?
+ANSWER: Nej, det går inte att betala med Swish på Tradera. Däremot kan man använda andra betalningsmetoder som exempelvis banköverföring eller betalkort.
+URL: https://info.tradera.com/betalning/
+
+QUESTION: Kan jag sälja piratkopior på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja piratkopior på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/piratkopior/
+
+QUESTION: Kan jag avbryta en auktion på Tradera?
+ANSWER: Ja, det går att avbryta en auktion på Tradera, men endast i vissa undantagsfall och en särskild avgift kan tas ut.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/auktionsregler/
+
+QUESTION: Hur fungerar Traderas betalningsservice?
+ANSWER: Traderas betalningsservice möjliggör betalningar via deras plattform för både köp och försäljning. Köparen betalar Tradera som sedan vidarebefordrar betalningen till säljaren efter att varan har levererats och godkänts av köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsservice/
+
+QUESTION: Vad innebär Traderas utökade försäljningsgaranti?
+ANSWER: Traderas utökade försäljningsgaranti innebär att säljaren garanterar att varan är i det skick som beskrivs i annonsen och att köparen har rätt att returnera varan och få pengarna tillbaka om den inte motsvarar beskrivningen.
+URL: https://info.tradera.com/sakerhetscenter/utokad-forsaljningsgaranti/
+
+QUESTION: Kan jag sälja alkohol på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja alkohol på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/livsmedel/
+
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Tradera?
+ANSWER: På Tradera finns flera olika betalningsalternativ tillgängliga som banköverföring, betalkort och PayPal.
+URL: https://info.tradera.com/betalning/

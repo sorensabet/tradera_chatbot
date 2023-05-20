@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's buyer protection policy?
+ANSWER: Tradera's buyer protection policy is a set of terms and conditions that Sellers must agree to in order to sell their products on Tradera. This policy guarantees that the Buyer can receive a refund if there are any errors in the item sold by the Seller or if the item differs from the Seller's description.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if the Buyer initiates a dispute settlement procedure that is not covered by Tradera's buyer protection?
+ANSWER: If the Buyer initiates a dispute settlement procedure that is not covered by Tradera's buyer protection, Tradera will terminate the dispute without further investigation, and the Buyer will not be entitled to a refund.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Is a dispute settlement procedure appealable at Tradera?
+ANSWER: No, Tradera's decision in a dispute settlement procedure cannot be appealed to Tradera itself.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the Buyer?
+ANSWER: If a dispute settlement procedure is terminated in favor of the Buyer, the Buyer is entitled to a refund, either in part or in whole, of the amount paid for an item.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the Seller?
+ANSWER: If a dispute settlement procedure is terminated in favor of the Seller, the Buyer will not be entitled to a refund in the framework of Tradera's dispute settlement procedure.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the Seller's obligations when it comes to the Buyer's protection?
+ANSWER: The Seller must agree to the terms and conditions of Tradera's buyer protection and dispute settlement procedures, respond promptly to the Buyer's complaint through the process provided by Tradera on My Tradera, and fulfill their obligations regardless of the payment method.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if the Seller does not promptly notify Tradera of the responses and supporting documents requested by Tradera?
+ANSWER: If the Seller fails to promptly notify Tradera of the responses and supporting documents requested by Tradera, Tradera may find that the Buyer is entitled to a refund for a product without the Seller having given their opinion. If the Seller has already been paid, Tradera may send an invoice to the Seller for the refundable amount, and the Seller will be obliged to pay this amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can the Seller and Buyer find another solution to a dispute on their own?
+ANSWER: Yes, if a dispute settlement procedure is terminated, the Seller and Buyer are free to find another solution to the dispute in another forum.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the context for a refund as per Tradera's buyer protection policy?
+ANSWER: The context for a refund as per Tradera's buyer protection policy is that there must be errors in the service provided by the Seller or the item sold by the Seller, and the Buyer must provide evidence that the goods differ from the Seller's description.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can Tradera terminate a dispute settlement procedure initiated by the Buyer?
+ANSWER: Yes, if the Buyer initiates a dispute settlement procedure that is not covered by Tradera's buyer protection, Tradera will terminate the dispute without further investigation and the Buyer will not be entitled to a refund.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

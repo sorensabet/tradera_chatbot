@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Tradearas säkerhetsarbete? 
+ANSWER: Tradearas syfte med deras säkerhetsarbete är att köpare och säljare alltid ska känna sig trygga med att handla på deras marknadsplats. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Varför är det viktigt att ha ett säkert lösenord på Tradera? 
+ANSWER: Det är viktigt att ha ett säkert lösenord på Tradera eftersom det skyddar din personliga information och hindrar obehöriga från att kunna logga in på ditt konto. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vilka samarbeten har Tradera med andra företag? 
+ANSWER: Det står att Tradera har samarbeten, men det står inte angivet vilka samarbeten de har. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Hur hanterar Tradera personuppgifter på sin marknadsplats? 
+ANSWER: Tradera hanterar personuppgifter på sin marknadsplats genom att varje medlem har sitt personnummer kopplat till sitt medlemskap. Mer information om personuppgiftsbehandling finns på deras säkerhetscenter-sida. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Hur vet man att en annons på Tradera är säker att handla från? 
+ANSWER: Tradera verifierar alla användare på sin marknadsplats, vilket gör att annonsörerna också verifieras, vilket kan bidra till att öka säkerheten för både köpare och säljare. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är en falsk e-post och hur undviker man det? 
+ANSWER: En falsk e-post är en e-post som ser ut att komma från Tradera, men i själva verket är det en bedragare som försöker lura dig att lämna ifrån dig dina personuppgifter eller pengar. Det bästa sättet att undvika detta är att alltid vara misstänksam mot e-postmeddelanden som ber om personlig information eller pengar. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är Traderas integritetspolicy och vad innefattar den? 
+ANSWER: Det är oklart exakt vad som ingår i Traderas integritetspolicy, men det är tydligt på deras säkerhetscenter-sida att de har en sådan policy och att det går att läsa mer om den på deras webbplats. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vilken typ av villkor finns det för användare på Tradera? 
+ANSWER: Användarvilkoren på Tradera inkluderar regler och villkor för hur man får använda deras tjänst och vad som förväntas av användarna på deras marknadsplats. Mer information om användarvillkoren finns på deras webbplats. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är Rättighetsinnehavare och Tradera och vad gör de? 
+ANSWER: Även om det är oklart exakt vad Rättighetsinnehavare och Tradera gör, så kan man anta att de arbetar tillsammans för att skydda rättigheterna till immateriella och andra typer av egendomar på Traderas marknadsplats. Det finns förmodligen mer information om detta på Traderas säkerhetscenter-sida. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Hur skyddar Tradera sina användares personliga information? 
+ANSWER: Tradera skyddar sina användares personliga information genom att varje medlem har sitt personnummer kopplat till sitt medlemskap, vilket kan bidra till att minska bedrägerier och missbruk av sina användares personuppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/

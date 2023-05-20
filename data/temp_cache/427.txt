@@ -1,0 +1,39 @@
+QUESTION: Vil kunder udenfor EU få discount på forsendelsesomkostninger?
+ANSWER: Nej, kun kunder indenfor EU vil få discount på forsendelsesomkostningerne.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan fungerer systemet for at estimere vægten af butiksvarer til forsendelse?
+ANSWER: Systemet bruger en konverteringstabel for at få så præcist et estimat som muligt ud fra forsendelsesprisen og hvilken forsendelsesleverandør, der er valgt.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan vægten af butiksvarer til forsendelse tilføjes?
+ANSWER: Nej, du kan ikke tilføje vægt til en butiksvare, så systemet bruger en konverteringstabel for at estimere vægten.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan bliver discount til kunder for forsendelsesomkostninger beregnet?
+ANSWER: Kunden vil få en discount svarende til det beløb, der betales for forsendelsesomkostninger i Sverige.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan annoncen begrænses til kun at være levering i Sverige?
+ANSWER: Ja, du kan begrænse annoncen til kun at være levering i Sverige, enten før du publicerer, eller efter annoncen er blevet publiceret.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan området begrænses, hvis det højeste bud er fra et andet land?
+ANSWER: Nej, du kan ikke begrænse området, hvis det højeste bud er fra et andet land, selvom annoncen var begrænset til kun at være levering i Sverige.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Er EU det eneste standard forsendelsesområde?
+ANSWER: Ja, EU er det eneste standard forsendelsesområde.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Vil der være en ændring i indsatsen for sælgeren, når man bruger integreret forsendelsesmulighed?
+ANSWER: Nej, indsatsen for sælgeren vil være den samme som ved forsendelse i Sverige, når man bruger integreret forsendelsesmulighed.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Tilbyder de fleste sælgere samlet forsendelse?
+ANSWER: Ja, de fleste sælgere tilbyder samlet forsendelse.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad sker der, hvis prisen for forsendelse i Sverige er højere end discount-beløbet?
+ANSWER: Kunden vil ikke skulle betale mere end det beløb, der gives som discount, selvom forsendelsesomkostningerne var højere end discount-beløbet.
+URL: https://info.tradera.com/da/fraktguiden/

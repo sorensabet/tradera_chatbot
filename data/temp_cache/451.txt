@@ -1,0 +1,39 @@
+QUESTION: What are the prices for traders and private individuals on Tradera?
+ANSWER: The prices for traders are listed in the price list without VAT, while for private individuals, the prices are listed including VAT. The information can be found on the pages linked in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Which payment solutions are integrated on Tradera.com?
+ANSWER: Currently, Tradera.com uses PayPal and Klarna as integrated payment solutions. If a user chooses to use these payment solutions, they must agree to the respective terms and conditions. The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: What are the terms and conditions for fees and billing for the Store service in Tradera?
+ANSWER: The terms and conditions for fees and billing related to the Store service are specified in the User Agreement under the section "Fees and Billing". The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Do the terms and conditions apply to the user when they start using the Store service in Tradera?
+ANSWER: Yes, by using or starting to use the Store service, the user agrees to purchase the service and is bound by the terms and conditions specified for it. The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: How long do the terms and conditions for the Store service apply for annual agreements?
+ANSWER: The terms and conditions for the Store service apply for twelve months for annual agreements. If the agreement is not terminated at least one month before the twelve-month period expires, the agreement will be automatically renewed for another twelve-month period. The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: How long do the terms and conditions for the Store service apply for monthly agreements?
+ANSWER: The information about how long the terms and conditions for monthly agreements apply can be found in the context, but the text has been cut off and does not provide a complete answer.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: What happens if the user chooses to use other payment solutions on Tradera.com?
+ANSWER: If a user chooses to use payment solutions other than those integrated on Tradera.com, they will enter into a separate agreement with the payment solution provider and agree to the terms and conditions for the payment method they select. The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Are there any specific terms and conditions regarding payment in the User Agreement?
+ANSWER: Yes, the specific terms and conditions for payment can be found in the User Agreement, under the section "Betalning" (Payment). The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: What is the term of agreement when a user purchases the Store service on Tradera.com?
+ANSWER: By purchasing the Store service on Tradera.com, the user agrees to the specific terms and conditions for the service and is bound by them. The term of agreement is twelve months for annual agreements and is automatically renewed for another twelve months if not terminated at least one month before the period expires. The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: How long does a user need to cancel their agreement for the Store service before it is automatically renewed for another period?
+ANSWER: If a user has an annual agreement for the Store service, they need to cancel the agreement at least one month before the twelve-month period expires to avoid automatic renewal for another twelve-month period. The information can be found in the context.
+URL: https://info.tradera.com/butiksavtal/

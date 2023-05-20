@@ -1,0 +1,39 @@
+QUESTION 1: What are the payment methods available in Tradera's checkout solution?
+ANSWER: The text mentions that Swish, credit card, PayPal, and other payment methods can be added in due course. However, the payment services in Tradera's checkout solution are provided by third parties with whom Tradera has a contract.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 2: What is the meaning of "Tradera's payment service"?
+ANSWER: According to the text, "Tradera's payment service" means Tradera's payout to the Seller through Nordea or Hyperwallet after receiving a payment from the Buyer at Tradera's bank account. This service is provided in pursuance with the Payment Services Act (2010:751).
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 3: What is the meaning of "Tradera's payment solution"?
+ANSWER: The text explains that "Tradera's payment solution" refers to the whole transaction process, starting from the Buyer's payment through a payment method offered in Tradera's checkout solution, until a payout to the Seller has been carried out through Tradera's payment service.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 4: What is a transaction according to Tradera's payment terms?
+ANSWER: As per the text, a transaction is defined as a payment for goods or services on Tradera's platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 5: What is a refundable amount?
+ANSWER: The text defines "Refundable amount" as the amount that the Seller will refund to Tradera in connection with a refund of an amount already paid to the Seller as a result of a purchase being canceled. The amount is part or all of the Transaction, plus any fees charged to Tradera in connection with the Transaction, including shipping charges for the return of a product, and charges imposed on Tradera for a transaction in relation to its partners such as PayPal, Klarna, Paynova, VISA, or MasterCard. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 6: What does Tradera undertake with regards to payment solutions?
+ANSWER: The text states that Tradera undertakes, subject to the Terms and Conditions, to allow the Seller to be paid through Tradera's payment service in the event of a sale on Tradera's Platform. The Seller is obliged to comply with the Terms and Conditions and to use Tradera's payment solution when selling on Tradera's Platform. Additionally, the Seller is not entitled to receive payment in any other way than the options available through Tradera's checkout solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 7: Is a Seller allowed to receive payment for using Tradera's checkout solution?
+ANSWER: According to the text, a Seller is not entitled to receive payment for the Buyer's option of using Tradera's checkout solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 8: Who provides the payment services in Tradera's checkout solution?
+ANSWER: The text mentions that the payment services in Tradera's checkout solution are provided by third parties with whom Tradera has a contract.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 9: What is the payout process for the Seller in Tradera's payment solution?
+ANSWER: According to the text, the payout to the Seller is carried out through Tradera's payment service after receiving a payment from the Buyer at Tradera's bank account. Tradera's payment service makes the payout to the Seller through Nordea or Hyperwallet.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 10: What laws govern Tradera's payment service?
+ANSWER: The text mentions that Tradera's payment service is provided in pursuance with the Payment Services Act (2010:751).
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

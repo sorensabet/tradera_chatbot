@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftena med att använda cookies på Tradera?
+ANSWER: Syftena med att använda cookies på Tradera är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på webbplatsen. Informationen om användandet av Traderas webbplats kan också delas med partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Kan jag stänga av de nödvändiga cookies på Tradera?
+ANSWER: Nej, de nödvändiga cookiesen på Tradera kan inte stängas av eftersom de är nödvändiga för att Tradera ska fungera som det ska.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Vad är prestandacookies och vad används de för på Tradera?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Vilka är funktionella cookies och vad används de för på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Vad är marknadsföringscookies och vad används de för på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Kan jag godkänna cookies på Tradera utan att ändra inställningarna för dem?
+ANSWER: Ja, du kan godkänna cookies på Tradera utan att ändra inställningarna för dem genom att klicka på "Godkänn cookies" på meddelandet som visas när du besöker webbplatsen för första gången. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Vad händer om jag inte godkänner cookies på Tradera?
+ANSWER: Om du inte godkänner cookies på Tradera kan viss funktionalitet på webbplatsen påverkas negativt och du kanske inte kan använda alla funktionerna på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Kan jag anpassa inställningarna för cookies på Tradera?
+ANSWER: Ja, du kan anpassa inställningarna för cookies på Tradera genom att klicka på "Inställningar för cookies" bredvid alternativet "Godkänn cookies", som visar en lista över de olika typerna av cookies som används på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Vad är syftet med att Tradera delar information om min användning av deras webbplats med partners?
+ANSWER: Syftet med att Tradera delar information om din användning av deras webbplats med partners är för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Var kan jag läsa mer om cookies på Tradera?
+ANSWER: Du kan läsa mer om cookies på Tradera genom att klicka på "Läs mer" bredvid alternativet "Vad är det här?" bredvid meddelandet på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/

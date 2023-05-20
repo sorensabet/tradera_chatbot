@@ -1,0 +1,39 @@
+QUESTION 1: Vilka är de olika typerna av cookies som Tradera använder?
+ANSWER: Tradera använder fyra olika typer av cookies, nämligen Nödvändiga, Prestanda, Funktionella och Marknadsföring.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 2: Vad är syftet med Nödvändiga cookies som Tradera använder?
+ANSWER: Nödvändiga cookies används för att Tradera ska fungera och kan inte stängas av av användaren.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 3: Vad är syftet med Prestanda cookies som Tradera använder?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 4: Vad är syftet med Funktionella cookies som Tradera använder?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel för vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 5: Vilken användning har Marknadsföring cookies som Tradera använder?
+ANSWER: Marknadsföring cookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 6: Kan Nödvändiga cookies stängas av av användaren?
+ANSWER: Nej, Nödvändiga cookies kan inte stängas av av användaren eftersom de krävs för att Tradera ska fungera.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 7: Hur används Prestanda cookies på Tradera?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 8: Hur hjälper Funktionella cookies till att anpassa Tradera användarupplevelse?
+ANSWER: Funktionella cookies hjälper till att tillhandahålla utökad funktionalitet och användaranpassning på Tradera, till exempel genom sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 9: Varför är Marknadsföring cookies viktiga för Traderas annonseringspartners?
+ANSWER: Marknadsföring cookies är viktiga för Traderas annonseringspartners eftersom de används för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/tillval/
+
+QUESTION 10: Vilka är de olika syftena med de olika cookies som Tradera använder?
+ANSWER: De olika typerna av cookies som Tradera använder har olika syften. Nödvändiga cookies krävs för att Tradera ska fungera. Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. Funktionella cookies tillhandahåller utökad funktionalitet och användaranpassning på Tradera. Marknadsföring cookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/tillval/

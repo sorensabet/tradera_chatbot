@@ -1,0 +1,39 @@
+QUESTION: What are the costs of selling on Tradera?
+ANSWER: The costs of selling on Tradera include additional fees, commission fees, and setup fees, which are deducted from your balance or billed to you. More information about the selling process can be found by clicking on the link provided.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: What is the commission fee for selling on Tradera?
+ANSWER: The commission fee for selling on Tradera is 10% of the final price of the sold item, with a maximum of 200 SEK and a minimum of 3 SEK. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: Is there a maximum number of ads per month for which commission fees apply?
+ANSWER: Yes, commission fees apply to 100 ads per month. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: What is the setup fee for selling on Tradera?
+ANSWER: The setup fee for selling on Tradera is 3-10 SEK per ad after the first 100 ads that have free layouts. This fee is only charged for unsold items.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: Are there any free layouts when creating ads on Tradera?
+ANSWER: Yes, there are 100 free layouts per month on Tradera. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: How much does it cost to use a layout after the 100 free layouts provided by Tradera?
+ANSWER: It costs 3-10 SEK per ad after the first 100 ads that have free layouts. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: Are there any maximum limits for domain names on Tradera?
+ANSWER: No, there are no maximum limits for domain names on Tradera. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: What is the minimum commission fee for selling on Tradera?
+ANSWER: The minimum commission fee for selling on Tradera is 3 SEK. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: Are restarted ads also counted towards the 100 free layouts per month?
+ANSWER: Yes, restarted ads are also counted towards the 100 free layouts per month. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION: How can I learn more about how selling on Tradera works?
+ANSWER: More information about how selling on Tradera works can be found by clicking on the link provided. 
+URL: https://info.tradera.com/da/price-list-personal-account/

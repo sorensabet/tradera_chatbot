@@ -1,0 +1,39 @@
+QUESTION: Hvordan får jeg en forsendelse label?
+ANSWER: Du vil modtage en e-mail med en 8-cifret kode, som kan skrives direkte på pakken i stedet for at udskrive en label. 
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvad sker der, hvis pakken vejer mere end jeg har betalt for?
+ANSWER: Hvis pakken er tungere end det du bestilte, vil du blive opkrævet for forskellen i fragtomkostninger. 
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg aflevere pakken hos et andet fragtfirma end jeg har valgt?
+ANSWER: Du kan indlevere pakken hos alle Brings ind- og udleveringssteder.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Får jeg en kvittering for pakken?
+ANSWER: Ja, du vil modtage en elektronisk kvittering på email eller SMS når pakken er blevet scannet. 
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan ændrer jeg modtagerens adresse?
+ANSWER: Modtageren skal ændre adresse før du bestiller forsendelsen.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg bruge en box-adresse som afsender?
+ANSWER: Nej, kun almindelige adresser er mulige. 
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan ved jeg, hvornår pakken er leveret?
+ANSWER: Der bliver sendt en sms til det telefonnummer, du har registreret hos Tradera, som indeholder sporingsoplysninger.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvor finder jeg Brings ind- og udleveringssteder?
+ANSWER: Du kan finde en liste med ind- og udleveringssteder på Bring's hjemmeside.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg sende en pakke til udlandet med Bring?
+ANSWER: Ja, du kan bruge Bring til forsendelser til både ind- og udlandet.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvad sker der, hvis modtageren ikke er hjemme ved levering?
+ANSWER: Bring vil forsøge at levere pakken et par gange mere, inden den sendes tilbage til afsenderen.
+URL: https://info.tradera.com/da/bring/

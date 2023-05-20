@@ -1,0 +1,39 @@
+QUESTION: Vilka guider finns tillgängliga på Tradera?
+ANSWER: På Tradera finns det guider tillgängliga för både nya och erfarna medlemmar som vill lära sig mer om att köpa och sälja på Tradera.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Vilken information finns tillgänglig om att sälja på Tradera?
+ANSWER: Om du vill sälja på Tradera finns det information tillgänglig om priser, försändelsekalkylator och butiker för privatbrukare på webbplatsen.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Kan jag sälja på Tradera som en virksomhedsbruger?
+ANSWER: Ja, som en virksomhedsbruger kan man sälja på Tradera, och det finns information tillgänglig på webbplatsen för att sälja som en virksomhedsbruger.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Hur fungerar auktioner på Tradera?
+ANSWER: Auktioner fungerar genom att en säljare lägger upp en vara till försäljning, köparen kan sedan lägga bud på varan, och auktionen slutar när ingen annan lägger bud innan tiden går ut.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Vad händer om jag vinner en auktion på Tradera?
+ANSWER: Om du vinner en auktion på Tradera så ska du betala för varan och sedan får du den skickad till dig av säljaren.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Kan jag vara säker på att få min vara när jag köper på Tradera?
+ANSWER: Ja, som köpare på Tradera är du skyddad av köparskyddet, vilket innebär att du kan få pengarna tillbaka om varan inte skickas från säljaren.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Vad är Traderabetaling?
+ANSWER: Traderabetaling är en betalingsmetod för köp på Tradera och möjliggör en smidig betalning mellan köpare och säljare.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Kan jag lägga till en anmeldelse på Tradera?
+ANSWER: Ja, du kan lägga till en anmeldelse om en säljare eller köpare på Tradera.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Vilka regler gäller på Tradera?
+ANSWER: På Tradera finns det regler som gäller för både säljare och köpare. Dessa regler är utformade för att säkerställa en säker och rättvis köp-och säljprocess på webbplatsen.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION: Vilken information finns tillgänglig om Tradera Pay?
+ANSWER: Informationen om Tradera Pay finns tillgänglig på webbplatsen och ger dig möjlighet att göra betalningar via Tradera.
+URL: https://info.tradera.com/da/kom-igang/

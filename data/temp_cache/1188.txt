@@ -1,0 +1,39 @@
+QUESTION: How does the payment process work for sellers on the Tradera platform?
+ANSWER: The payment process for sellers on the Tradera platform depends on the payment method chosen by the buyer. If the buyer chooses to pay via PayPal, Tradera verifies the transaction and, upon approval, PayPal pays the seller. If the buyer chooses to pay via Paynova or Klarna, the seller's right to be paid is transferred to PayPal or Tradera, respectively, and the seller is paid through Hyperwallet. Regardless of the payment method chosen, Tradera notifies the seller via email and in their My Tradera account that payment has been made and the seller should send the goods to the buyer. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How does payment by invoice or installment work on Tradera?
+ANSWER: When a buyer chooses to pay by invoice or installment on the Tradera platform, they enter into an agreement with Paynova or Klarna and undergo a credit check. The seller does not have to agree to payment by invoice or installment, but will still be paid in the same way as if the buyer had chosen to pay by card or PayPal. Tradera notifies the seller once payment has been made and the seller should then send the goods to the buyer. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Is the seller responsible for processing payments on Tradera?
+ANSWER: No, sellers on the Tradera platform are not responsible for processing payments. The payment process depends on the payment method chosen by the buyer and is verified and approved by Tradera before the money is paid to the seller through PayPal or Hyperwallet. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens once the buyer has paid for a purchase on Tradera?
+ANSWER: Once the buyer has paid for a purchase on Tradera, Tradera notifies the seller via email and in their My Tradera account that payment has been made. The seller should then send the goods to the buyer. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is Hyperwallet and how is it involved in the payment process on Tradera?
+ANSWER: Hyperwallet is a payment platform used by Tradera to pay sellers for transactions made on the platform. If a buyer chooses to pay via Paynova or Klarna, the seller's right to be paid is transferred to PayPal or Tradera, respectively, and the payment is made through Hyperwallet. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Is there a credit check involved when a buyer chooses to pay by invoice or installment on Tradera?
+ANSWER: Yes, when a buyer chooses to pay by invoice or installment on the Tradera platform, they undergo a credit check by Paynova or Klarna. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can a seller on Tradera receive payment by invoice or installment?
+ANSWER: No, a seller on the Tradera platform cannot receive payment by invoice or installment. The buyer enters into an agreement with Paynova or Klarna, and the seller is paid in the same way as if the buyer had chosen to pay by card or PayPal. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How does Tradera notify sellers of payment?
+ANSWER: Tradera notifies sellers of payment via email and in their My Tradera account.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is Paynova and how is it involved in the payment process on Tradera?
+ANSWER: Paynova is a payment platform that buyers can use to pay for purchases on the Tradera platform. If a buyer chooses to pay via Paynova, PayPal takes over the seller's right to be paid by the buyer in exchange for PayPal to pay the seller for the transaction. Once Tradera verifies and approves the transaction, the money is paid to the seller's account through Hyperwallet. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How soon after a purchase is made on Tradera is payment typically made to the seller?
+ANSWER: Payment to the seller on the Tradera platform is typically made within 1-2 days after Tradera verifies and approves the transaction. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

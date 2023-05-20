@@ -1,0 +1,39 @@
+QUESTION: What is the right of withdrawal?
+ANSWER: The right of withdrawal is the right for the buyer to cancel the purchase within a certain period of time after receiving the item.
+URL: https://info.tradera.com/en/right-of-withdrawal/
+
+QUESTION: How can a seller inform the buyer about the right of withdrawal?
+ANSWER: The seller can inform the buyer about the right of withdrawal by including the information in the email that Tradera sends out to the buyer after the listing is completed. This can be easily done via My Tradera - Sales Tools - Customize Winner Email.
+URL: https://info.tradera.com/en/right-of-withdrawal/
+
+QUESTION: What happens if the seller does not inform the buyer of the right of withdrawal?
+ANSWER: If the seller does not inform the buyer of the right of withdrawal both before and after the purchase, the withdrawal period is extended and the seller is responsible for the shipping cost of returning the item.
+URL: https://info.tradera.com/en/right-of-withdrawal/
+
+QUESTION: When does the right of withdrawal not apply?
+ANSWER: The right of withdrawal does not apply in certain occasions, such as the sale of items such as precious metals, food, newspaper subscriptions and certain items where the buyer has broken the seal. More information can be found on the Swedish Consumer Agency's website.
+URL: https://info.tradera.com/en/right-of-withdrawal/
+
+QUESTION: How can someone shop at Tradera?
+ANSWER: Someone can shop at Tradera by browsing the categories, searching for specific items or popular brands and making a purchase.
+URL: https://www.tradera.com/
+
+QUESTION: Can private sellers sell items on Tradera?
+ANSWER: Yes, private sellers can sell items on Tradera.
+URL: https://www.tradera.com/
+
+QUESTION: Can businesses sell items on Tradera?
+ANSWER: Yes, businesses can sell items on Tradera.
+URL: https://www.tradera.com/
+
+QUESTION: How can a seller calculate shipping cost?
+ANSWER: A seller can calculate shipping cost by using the shipping calculator provided on Tradera's website.
+URL: https://www.tradera.com/
+
+QUESTION: What causes can someone support by shopping on Tradera?
+ANSWER: Someone can support different charity causes by shopping on Tradera. More information can be found on Tradera's website.
+URL: https://www.tradera.com/
+
+QUESTION: Where can someone find information about Tradera's rules?
+ANSWER: Someone can find information about Tradera's rules on Tradera's website.
+URL: https://info.tradera.com/en/faq/

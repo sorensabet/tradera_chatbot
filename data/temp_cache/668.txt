@@ -1,0 +1,39 @@
+QUESTION: Vad är Regler på Tradera?
+ANSWER: Regler på Tradera är en informationssida som ger detaljerad information om vad som är tillåtet att sälja på Tradera, vilka objekt som är förbjudna och beskriver för att säkerställa en trygg och säker handel för användarna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är användaravtal?
+ANSWER: Användaravtalet beskriver de grundläggande reglerna som gäller för användning av Tradera. Det beskriver bland annat de skyldigheter och ansvar som följer med att använda tjänsten samt vad som är tillåtet respektive inte tillåtet att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/anvandaravtal/
+
+QUESTION: Vilka typer av objekt är inte tillåtna att sälja på Tradera?
+ANSWER: Tradera förbjuder försäljning av vissa objekt, såsom begagnade underkläder, drog- och läkemedelsrelaterade objekt, falska sedlar, mynt och frimärken, livsmedel, märkeskopior och förfalskningar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Vad är Traderas samarbeten?
+ANSWER: Tradera samarbetar med några företag för att erbjuda användarna en trygg handelsmiljö. Dessa inkluderar Hermes, som ger enkel och bekväm leverans av försändelser, samt Safelog som kontrollerar och granskar vissa objekt som säljs på Tradera för att säkerställa att de är äkta.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vara-samarbeten/
+
+QUESTION: Vilka är de otillåtna objekten på Tradera?
+ANSWER: Tradera förbjuder försäljning av begagnade underkläder, djur- och växtrelaterade objekt, drog- och läkemedelsrelaterade objekt, elektronisk utrustning, explosiva objekt och kemikalier, förfalskade sedlar, mynt och frimärken, livsmedel, märkeskopior, förfalskningar och andra kopior.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/ovriga-otillatna-objekt/
+
+QUESTION: Vad gör Tradera för att säkerställa en trygg handel?
+ANSWER: Tradera samarbetar med olika företag, har tydliga regler för vilka objekt som är tillåtna och har även en funktion för att rapportera oegentligheter. De tillhandahåller också information och råd till användare om säkerhet på deras webbplats.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är falska e-postmeddelanden?
+ANSWER: Falska e-postmeddelanden är bedrägliga e-postmeddelanden som ser ut som de kommer från en pålitlig källa, men syftar till att lura mottagaren att lämna ut personlig information eller göra en betalning. Det är viktigt att användarna tar försiktighetsåtgärder för att skydda sig från dem.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/falska-e-postmeddelanden/
+
+QUESTION: Vad är BankID?
+ANSWER: BankID är en e-legitimationslösning som används i Sverige för att identifiera sig och signera dokument, till exempel betalningar. Användarinformationen för BankID skyddas av Sveriges största banker.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/sms-koder-och-bankid/
+
+QUESTION: Varför tillåter Tradera inte försäljning av begagnade underkläder?
+ANSWER: Tradera tillåter inte försäljning av använda underkläder på grund av hygien- och hälsoskäl.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/begagnade-underklader/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy beskriver hur de hanterar personuppgifter och vilken information de samlar in från användarna. Den beskriver också hur denna information kan användas av Tradera och vilka rättigheter användarna har att kontrollera sin personliga information.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/integritetspolicy/

@@ -1,0 +1,39 @@
+QUESTION: Vilka uppgifter krävs för att använda betaltjänsten hos Tradera?
+ANSWER: För att Traderas användare ska kunna använda betaltjänsten kan Tradera begära information från både köpare och säljare för att bland annat fastställa identitet och syftet med användningen av Traderas betaltjänst.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är de tillämpliga bestämmelserna som Traderas betaltjänst måste följa enligt svensk lag?
+ANSWER: Traderas betaltjänst är skyldig att efterleva lag (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är syftet med att begära information från både köpare och säljare enligt Tradera?
+ANSWER: Information begärs från både köpare och säljare för att bland annat fastställa identitet och syftet med användningen av Traderas betaltjänst i syfte att följa tillämpliga bestämmelser om bekämpning av penningtvätt och finansiering av terrorism.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om säljaren inte ger Tradera korrekta uppgifter?
+ANSWER: Om säljaren inte ger Tradera korrekta uppgifter, kan det leda till förseningar eller att Tradera inte kan tillhandahålla betaltjänsten för säljaren eller köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur länge kommer Tradera att lagra personuppgifterna för betaltjänsten?
+ANSWER: För att följa tillämpliga bestämmelser kommer Tradera att lagra personuppgifterna enligt avsnitt 13.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Tradera vägra att tillhandahålla betaltjänsten?
+ANSWER: Vid bristande efterlevnad av en begäran om information som kan anses nödvändig för Traderas syfte att följa tillämpliga bestämmelser om bekämpning av penningtvätt och finansiering av terrorism, kan Tradera vägra att tillhandahålla betaltjänsten.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Närsker utbetalning till säljarens konto vanligtvis efter att en försäljning har gjorts genom Tradera?
+ANSWER: Normalt sker utbetalning till säljarens bankkonto inom 1–2 bankdagar, förutsatt att Tradera har erhållit korrekta uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Varför är Tradera skyldig att efterleva lag om åtgärder mot penningtvätt och finansiering av terrorism?
+ANSWER: Som betalningsinstitut är Tradera skyldig att efterleva lag om åtgärder mot penningtvätt och finansiering av terrorism.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Traderas transaktionsmonitorering?
+ANSWER: Säljarens och köparens transaktioner som utförs med Traderas betaltjänst är föremål för Traderas transaktionsmonitorering.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om kunden vägrar att lämna nödvändig information för användning av Traderas betaltjänst?
+ANSWER: Bristande efterlevnad av en begäran kan resultera i att Tradera vägrar att tillhandahålla betaltjänsten för kunden.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

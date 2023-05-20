@@ -1,0 +1,48 @@
+QUESTION: What are fake emails?
+ANSWER: Fake emails or phishing emails are fraudulent messages that appear to come from legitimate sources, such as a company or service and they are designed to trick the recipients into providing sensitive information, such as passwords, credit card numbers, or other personal details. They are meant to steal information or spread malware. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: How can you identify a fake email?
+ANSWER: Some signs of a fake email include urgent requests for information, suspicious emails with a generic greeting, grammatical or spelling errors, and fraudulent emails that contain suspicious links or attachments. Always pay attention to the sender’s email address, and be wary of any emails that seem too good to be true. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: What kind of information should I never share via email?
+ANSWER: You should never share sensitive information via email, such as passwords, credit card numbers, social security numbers, or any other personal information that could be used for identity theft. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: Does Tradera request sensitive information via email?
+ANSWER: No, Tradera never requests sensitive information such as your passwords, credit card information, or any other personal details via email. If you receive any suspicious email from a source pretending to be Tradera, it is recommended to delete it immediately. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: Can I trust links sent in emails?
+ANSWER: It is recommended never to click on links sent in emails that you are uncertain about. These links can direct you to phishing sites that steal personal information, or they may install malware onto your device. Instead, go to the website directly by typing the URL into your browser. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: What are the risks associated with revealing personal information through fake emails?
+ANSWER: Revealing personal information through fake emails can lead to identity theft, data breaches, and financial losses. Hackers can use this information to open credit cards, apply for loans, or even file tax returns in your name. Always be vigilant when opening emails and never provide any personal information. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: What should I do if I receive a phishing email?
+ANSWER: If you receive a phishing email, it is recommended to immediately delete it and not respond to any requests for personal information. Additionally, you can report the email to the organization that the email is supposedly coming from. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: How can I protect myself from fake emails?
+ANSWER: To protect yourself from fake emails, never share any sensitive information via email, keep your antivirus software up to date, and always verify the sender's email address and the content of the email before clicking on any links. Additionally, it is recommended to use strong and unique passwords for all your online accounts. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: What can happen if I follow the instructions given in a phishing email?
+ANSWER: If you follow the instructions given in a phishing email, it can lead to loss of personal information, monetary losses, or infection with malware. 
+URL: https://info.tradera.com/en/fake-emails/
+
+
+QUESTION: What is the best way to access Tradera's website?
+ANSWER: To access Tradera's website securely, it is recommended to enter the URL www.tradera.com directly into your browser. This helps to ensure that you are not being directed to a phishing site. 
+URL: https://info.tradera.com/en/fake-emails/

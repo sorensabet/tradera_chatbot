@@ -1,0 +1,39 @@
+QUESTION: Vilken e-postadress ska jag skicka mina underlag till om jag redan har dem?
+ANSWER: Om du redan har underlagen till hands ska du skicka ett mail till verifikation@tradera.com med samtliga underlag. Du bör ange vad ärendet gäller i rubriken på mailet samt ditt alias. Om du inte skickar mailet från samma adress som företaget registrerades med så rekommenderar Tradera även att du skriver med organisationsnummer.
+URL: https://info.tradera.com/underlag-foretagskonto/
+
+QUESTION: Kan jag sälja på Tradera som privatperson? 
+ANSWER: Ja, du kan sälja på Tradera som privatperson. Tradera har en sida som heter "Så säljer du som privatperson" där du kan läsa om hur du går tillväga för att börja sälja.
+URL: https://www.tradera.com/content/sa-saljer-du-som-privatperson
+
+QUESTION: Kan jag sälja på Tradera som företag?
+ANSWER: Ja, du kan sälja på Tradera som företag. Tradera har en sida som heter "Så säljer du som företag" där du kan läsa om hur du går tillväga för att börja sälja som företag.
+URL: https://www.tradera.com/content/sa-saljer-du-som-foretag
+
+QUESTION: Vad är Grön Frakt på Tradera?
+ANSWER: Grön Frakt på Tradera innebär att säljare och köpare kan välja att kompensera för sina utsläpp genom att välja att skicka sina paket med fossilfria bränslen. Det innebär inte att själva fraktavgifterna påverkas.
+URL: https://www.tradera.com/content/gron-frakt
+
+QUESTION: Vad är kategorier på Tradera?
+ANSWER: Kategorier på Tradera är en uppdelning av produkter i olika kategorier för att göra det enklare att hitta produkter man är intresserad av att köpa.
+URL: https://www.tradera.com/content/kategorier
+
+QUESTION: Vilka är de populära varumärkena på Tradera?
+ANSWER: Olika varumärken kan vara populära på Tradera vid olika tidpunkter, men du kan se en lista på Traderas sida med "Populära varumärken", där du kan få en uppfattning om vad många köpare just nu är intresserade av.
+URL: https://www.tradera.com/content/populara-varumarken
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera hjälper dig att estimera fraktkostnaderna för en viss produkt, baserat på storlek och vikt. Du kan använda den för att få en idé om vad det kommer att kosta att frakta din produkt.
+URL: https://www.tradera.com/content/fraktkalkylatorn
+
+QUESTION: Finns det en butik på Tradera?
+ANSWER: Ja, det finns en butik på Tradera där du kan köpa produkter från olika säljare. Butiken har olika kategorier och du kan söka efter produkter precis som du gör på den vanliga sajten.
+URL: https://www.tradera.com/content/butik
+
+QUESTION: Kan man donera till välgörenhet med Tradera?
+ANSWER: Ja, du kan donera till välgörenhet med Tradera. I samarbete med olika organisationer kan du som säljare på Tradera välja att donera en del av försäljningspriset till en välgörenhetsorganisation. 
+URL: https://www.tradera.com/content/donera-med-tradera
+
+QUESTION: Vad är användaravtalet på Tradera?
+ANSWER: Användaravtalet på Tradera är ett avtal som definierar förhållandet mellan Tradera och dess användare. Det innefattar bland annat köp- och säljavtal, sekretessavtal, samt länkar till andra viktiga dokument.
+URL: https://www.tradera.com/content/anvandaravtal

@@ -1,0 +1,38 @@
+QUESTION: Hvordan kan jeg få mere information om muligheden for samlet forsendelse?
+ANSWER: Du kan finde mere information om muligheden for samlet forsendelse ved at besøge følgende hjemmeside: https://info.tradera.com/da/samfrakt-kopare/
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Hvordan fungerer samlet forsendelse, når jeg køber flere varer fra forskellige sælgere?
+ANSWER: Samlet forsendelse er kun tilgængelig for køb af to eller flere varer fra samme sælger, ikke for køb fra forskellige sælgere. Hvis du køber fra forskellige sælgere, vil hver ordre have sin egen forsendelsespris.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Kan jeg købe flere varer fra samme sælger og betale for dem alle sammen samtidigt?
+ANSWER: Ja, du kan købe flere varer fra samme sælger og betale for dem alle sammen samtidigt ved at benytte muligheden for samlet forsendelse.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Hvorfor er det billigere at købe flere varer i én ordre med samlet forsendelse?
+ANSWER: Det er billigere at købe flere varer i én ordre med samlet forsendelse, fordi du kun betaler én forsendelsespris, i stedet for at betale en forsendelsespris for hver vare.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Kan jeg anmode om en pris på samlet forsendelse, når jeg har købt flere varer fra forskellige sælgere?
+ANSWER: Nej, du kan kun anmode om en pris på samlet forsendelse, når du har købt to eller flere varer fra den samme sælger.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Skal jeg betale for ordren med det samme, når jeg køber en vare med Køb nu-knappen?
+ANSWER: Ja, du skal betale for ordren med det samme, når du køber en vare med Køb nu-knappen.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Hvad sker der, hvis jeg køber flere varer, efter tiden er udløbet?
+ANSWER: Hvis du køber flere varer, efter tiden er udløbet, vil disse ende i en ny ordre og vil ikke blive tilføjet til den samlede forsendelse.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Hvad sker der, når jeg er færdig med at handle hos sælgeren?
+ANSWER: Når du er færdig med at handle hos sælgeren, vil sælgeren tilføje en forsendelsespris til ordren. Du kan gå videre til betaling, efter sælgeren har tilføjet forsendelsesprisen.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Kan jeg bruge samlet forsendelse på alle varer på Tradera?
+ANSWER: Nej, samlet forsendelse er kun tilgængelig for visse varer på Tradera.
+URL: https://info.tradera.com/da/samfrakt-kopare/
+
+QUESTION: Hvor finder jeg flere annoncer fra en sælger, som jeg tidligere har handlet med?
+ANSWER: Det er nemt at finde flere annoncer fra en sælger, som du tidligere har handlet med, på Tradera. URL: https://info.tradera.com/da/samfrakt-kopare/

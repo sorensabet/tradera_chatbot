@@ -1,0 +1,39 @@
+QUESTION: Vilken kontaktinformation kan jag använda om jag misstänker att jag fått ett falskt e-postmeddelande eller lämnat ut känslig information?
+ANSWER: Om du misstänker att du fått ett falskt e-postmeddelande eller om du lämnat ut känslig information, kan du kontakta Tradera direkt på abuse@tradera.com. 
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Vad ska jag göra om jag är osäker på en länk som skickats till mig via e-post eller SMS?
+ANSWER: Klicka aldrig på länkar som skickats i mejl eller SMS som du känner dig osäker på.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Hur kan jag vara säker på att inloggningen är krypterad när jag besöker Traderas webbsida?
+ANSWER: För att vara säker på att inloggningen är krypterad (säker), skriv in www.tradera.com i webbläsaren för att komma till Tradera. 
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Grön frakt är en miljövänlig tjänst som Tradera erbjuder för att minska fraktens miljöpåverkan. 
+URL: https://www.tradera.com/gron-frakt
+
+QUESTION: Hur kan jag handla på Tradera?
+ANSWER: Information om hur man kan handla på Tradera finns under fliken "Köp" på webbplatsen. 
+URL: https://www.tradera.com/kop
+
+QUESTION: Vilka kategorier av varor säljer Tradera?
+ANSWER: Information om Traderas olika produktkategorier finns under fliken "Kategorier" på webbplatsen. 
+URL: https://www.tradera.com/kategorier
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Information om populära varumärken på Tradera finns under fliken "Populära varumärken" på webbplatsen. 
+URL: https://www.tradera.com/populara-varumarken
+
+QUESTION: Hur kan jag sälja som privatperson på Tradera?
+ANSWER: Information om hur man säljer som privatperson på Tradera finns under fliken "Sälj" på webbplatsen. 
+URL: https://www.tradera.com/salj
+
+QUESTION: Hur kan jag använda Tradera för att donera till välgörenhet?
+ANSWER: Du kan använda Traderas "Butik"-funktion för att donera försäljningsintäkter till valfri välgörenhetsorganisation. 
+URL: https://www.tradera.com/butik
+
+QUESTION: Var kan jag hitta Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy finns under fliken "Information" på webbplatsen. 
+URL: https://www.tradera.com/information

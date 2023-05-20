@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med Traderas användning av cookies?
+ANSWER: Tradera använder cookies för olika ändamål såsom anonym mätning av Traderas användning för att förbättra användarupplevelsen, för utökad funktionalitet samt för marknadsföring genom annonsering. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 2: Hur används cookies för marknadsföringssyften?
+ANSWER: Cookies används av Traderas annonseringspartners för att visa annonser som är relevanta för användaren. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 3: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge användaren utökad funktionalitet och användaranpassning på Tradera såsom sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 4: Varför är cookies viktiga för användarupplevelsen på Tradera?
+ANSWER: Cookies används för att mäta hur Tradera används och vilken funktionalitet användaren använder. Detta hjälper Tradera att förbättra användarupplevelsen. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 5: Kan man stänga av Traderas användning av cookies?
+ANSWER: Nej, det går inte att stänga av användningen av cookies på Tradera då det är nödvändigt för att Tradera ska kunna fungera korrekt. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 6: Vilka data samlas in med hjälp av cookies på Tradera?
+ANSWER: Med hjälp av cookies samlas det in anonyma data om hur Tradera används för att kunna förbättra användarupplevelsen samt för att kunna visa riktade annonser. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 7: Är det säkert att använda cookies på Tradera?
+ANSWER: Ja, Tradera använder endast cookies för specifika ändamål och all data som samlas in är anonym. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 8: Måste man godkänna användning av cookies på Tradera?
+ANSWER: Ja, för att kunna använda Tradera måste man acceptera användningen av cookies. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 9: Kan man rensa cookies från Tradera?
+ANSWER: Ja, det är möjligt att rensa cookies från Tradera genom webbläsarens inställningar. 
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION 10: Hur påverkar Traderas användning av cookies GDPR?
+ANSWER: Traderas användning av cookies följer GDPR och alla användare har rätt att veta vilken data som samlas in och för vilket ändamål samt möjlighet att välja bort cookies. 
+URL: https://info.tradera.com/en/refund-claim/

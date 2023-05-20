@@ -1,0 +1,39 @@
+QUESTION: Vad är en CSV fil, och hur konverterar jag en till en vanlig Excel/Sheet fil? 
+ANSWER: En CSV fil är en filtyp som står för "Comma-Separated Values". Det är en filtyp som innehåller tabellinformation med skilda fält avgränsade med ett kommatecken. För att konvertera en CSV fil till en vanlig Excel/Sheet fil, kan du öppna filen i Excel eller Google Sheets. Om du inte har tillgång till Excel kan du enkelt öppna filen i Google Sheets, förutsatt att du har ett Google konto. För att göra det, går du till sidan sheets.new, klicka på arkiv och sedan på importera. Sedan kan du dra och släppa din CSV fil i rutan, ändra avgränsar typ till anpassa och skriva in ett semikolon i rutan och till sist klicka på importera data.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilka kategorier kan jag handla på Tradera?
+ANSWER: På Tradera kan du handla i olika kategorier såsom Kläder, Skor & Accessoarer, Hem & Inredning, Elektronik, Hälsa & Skönhet och mycket mer.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Kan jag köpa populära varumärken på Tradera?
+ANSWER: Ja, du kan handla populära varumärken på Tradera.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera innebär att du som köpare kan välja att skicka dina varor med miljövänliga transportalternativ. Detta innebär att din försändelse skickas som en klimatkompenserad försändelse och Tradera betalar för mellanskillnaden mellan en vanlig och en klimatkompenserad försändelse.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur kan jag sälja på Tradera som privatperson?
+ANSWER: För att sälja på Tradera som privatperson behöver du skapa ett konto på Tradera och sedan lägga upp en annons för den vara du vill sälja. När annonsen har blivit godkänd kan köpare buda på den eller köpa den till fast pris.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur kan jag sälja på Tradera som företag?
+ANSWER: För att sälja på Tradera som företag behöver du följa vissa regler, så som att ha ett eget företag samt uppfylla krav på säljaktiviteten. När du har registrerat ditt företag hos Tradera kan du lägga upp annonser för de varor du vill sälja.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Kan jag använda Fraktkalkylatorn på Tradera?
+ANSWER: Ja, du kan använda Fraktkalkylatorn på Tradera för att beräkna fraktkostnaderna för din vara baserat på dess storlek, vikt och destination.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Var kan jag donera med Tradera?
+ANSWER: Du kan donera till välgörenhetsorganisationer genom att använda Traderas "Donera med Tradera" funktion. När du säljer en vara på Tradera kan du donera en del av försäljningspriset till en av de välgörenhetsorganisationer som listas i funktionen.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Var hittar jag mer information om Traderas användaravtal och integritetspolicy?
+ANSWER: Mer information om Traderas användaravtal och integritetspolicy finns på följande länkar: https://www.tradera.com/disclaimer och https://www.tradera.com/privacy-policy.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilka sociala medier kan jag följa Tradera på?
+ANSWER: Du kan följa Tradera på Facebook, Twitter, Pinterest, Instagram och LinkedIn.
+URL: https://info.tradera.com/bokforingnettoutbetalning/

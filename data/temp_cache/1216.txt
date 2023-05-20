@@ -1,0 +1,39 @@
+QUESTION: Vad är en Transaktion på Traderas Plattform?
+ANSWER: En Transaktion på Traderas Plattform hänvisar till betalningar för varor eller tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad innebär ett återbetalningsskyldigt belopp enligt Tradera?
+ANSWER: Ett återbetalningsskyldigt belopp är det belopp som en säljare ska återbetala till Tradera i samband med en återbetalning av belopp som redan betalats ut till säljare på grund av att ett köp ska gå åter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är avgifterna som kan påföras på en transaktion på Traderas Plattform?
+ANSWER: Avgifterna som kan påföras på en transaktion på Traderas Plattform inkluderar fraktkostnader för retur av en vara samt avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA eller MasterCard.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken kassalösning ska användas vid försäljning på Traderas plattform?
+ANSWER: Säljaren måste använda Traderas kassalösning vid försäljning på Traderas Plattform och får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Får en säljare ta betalt för köparens användning av Traderas kassalösning?
+ANSWER: Nej, en säljare har inte rätt att ta betalt för köparens användning av Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Är Tradera skyldiga att låta säljaren få betalt genom sin utbetalningslösning vid försäljning på deras plattform?
+ANSWER: Ja, Tradera åtar sig att låta Säljaren få betalt genom Traderas utbetalningslösning vid försäljning på deras Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka åtaganden har säljaren vid användning av Traderas kassalösning vid försäljning?
+ANSWER: Säljaren åtar sig att följa Traderas villkor och använda Traderas kassalösning vid försäljning på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan säljaren kräva betalning på andra sätt än genom Traderas kassalösning?
+ANSWER: Nej, säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka betalningsalternativ är tillgängliga genom Traderas kassalösning?
+ANSWER: Informationen om vilka betalningsalternativ som är tillgängliga genom Traderas kassalösning finns inte i detta utdrag av texten. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är de samarbetspartners Tradera nämner i samband med avgifter på en transaktion på deras plattform?
+ANSWER: Samarbetpartners som Tradera nämner i samband med avgifter på en transaktion kan inkludera PayPal, Paynova, Klarna, VISA eller MasterCard.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

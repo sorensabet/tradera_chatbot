@@ -1,0 +1,39 @@
+QUESTION: What is Paynova and why is it recommended for purchases on Tradera?
+ANSWER: Paynova is a payment service that ensures safe, simple and convenient purchases on Tradera. It gives customers control over their payment and guarantees a safe transaction for the purchase made on Tradera.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What is required to be eligible for PayLater as a payment method on Tradera?
+ANSWER: To use PayLater as a payment method on Tradera, the customer must be at least 18 years old, a Swedish resident, have access to Swedish BankID and have a credit check approved.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What is the minimum amount required for installment payments on Tradera?
+ANSWER: The minimum amount required for installment payments on Tradera is 450 SEK.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What alternatives are available for PayLater payments on Tradera?
+ANSWER: Customers can choose between two PayLater alternatives - Invoice payment in which the seller is directly notified about the payment and the customer gets the product before paying within 14 days, and Installments which can be split over 3, 6, 12 or 24 months for only 29 SEK per installment payment.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: How does Tradera's buyer protection work during the introduction period for Installment payments?
+ANSWER: During the introduction period, there is no extra charge for Tradera's buyer protection for Installment payments.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What are the setup fee and credit fees for a 3 months installment on Tradera?
+ANSWER: The setup fee for a 3 months installment on Tradera is 60 SEK and the credit interest is 0%.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What are the setup fee and credit fees for a 6 months installment payment on Tradera?
+ANSWER: The setup fee for a 6 months installment on Tradera is 100 SEK and the credit interest is 0%.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What are the setup fee and credit fees for a 12 months installment payment on Tradera?
+ANSWER: The setup fee for a 12 months installment on Tradera is 200 SEK and the credit interest is 9.95%.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What are the setup fee and credit fees for a 24 months installment payment on Tradera?
+ANSWER: The setup fee for a 24 months installment on Tradera is 300 SEK and the credit interest is 9.95%.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What is the purpose of PayLater as a payment option on Tradera?
+ANSWER: PayLater is a payment option on Tradera that allows customers to purchase items on Tradera and pay for them later within 14 days or with installment payments. It is convenient, safe, and simple to use.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/

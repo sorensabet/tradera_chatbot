@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter behöver man lämna för att genomgå verifieringen som företag hos Tradera?
+ANSWER: Tradera behöver personuppgifter på samtliga som är listade i bolagsverket som styrelseledamöter och personer/företag som äger 25% eller mer av bolaget behöver listas för att verifikationen ska gå igenom. Därtill behöver man även skicka med ID-handling för den som är listad som ägare, bild på båda sidor av körkort/ID-kort eller hela uppslaget om det är bild på pass, registreringsbevis och eventuellt en letter of authorization om kontaktpersonen ni anger inte är en av ägarna eller styrelsemedlemmarna.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Går enskilda firmor igenom samma verifiering som privarpersoner hos Tradera?
+ANSWER: Ja, enskilda firmor går igenom samma verifiering som en privatperson hos Tradera.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är en miljövänligare fraktalternativ som Tradera erbjuder. Det innebär att säljaren skickar paketet med DHL service point och klimatkompenserar för paketet.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vilken typ av varor kan man köpa på Tradera?
+ANSWER: Man kan köpa en mängd olika varor på Tradera och de har flera kategorier för olika typer av produkter, bland annat kläder, elektronik, hem och trädgård och sport och fritid.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg för att beräkna fraktkostnaden för ett paket som ska skickas inom Sverige.
+URL: https://info.tradera.com/salj/
+
+QUESTION: Vad är skillnaden mellan att sälja som privatperson och att sälja som företag på Tradera?
+ANSWER: Skillnaden mellan att sälja som privatperson och att sälja som företag på Tradera är att som företag så behöver man genomgå en verifieringsprocess för att köpa och sälja på sajten. Dessutom tillkommer moms på priset för företag som säljer på Tradera.
+URL: https://info.tradera.com/salj/
+
+QUESTION: Vad är Vanliga frågor och svar på Tradera?
+ANSWER: Vanliga frågor och svar på Tradera är en informationssida där vanliga frågor som Tradera-kunder ställer besvaras.
+URL: https://info.tradera.com/kontakt-och-hjalp/
+
+QUESTION: Vad är en Letter of authorization på Tradera?
+ANSWER: En Letter of authorization är en fullmakt som behöver bifogas vid verifieringsprocessen om kontaktpersonen ni anger inte är en av ägarna eller styrelsemedlemmarna för företaget som ansöker om att bli verifierade hos Tradera.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Vad innebär det att donera med Tradera?
+ANSWER: Genom att donera med Tradera så kan man sälja saker på sajten och välja att donera hela eller delar av försäljningsintäkterna till olika organisationer och välgörenhet.
+URL: https://info.tradera.com/butik/
+
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är en nordisk e-handelsplattform där man kan köpa och sälja en mängd olika typer av varor.
+URL: https://info.tradera.com/om-tradera/

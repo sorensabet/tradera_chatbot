@@ -1,0 +1,39 @@
+QUESTION: What is the maximum refund amount that a Buyer can receive under Buyer Protection?
+ANSWER: The highest amount that a Buyer can be refunded under Buyer Protection is 50,000 SEK.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the limit for refunds for transactions exceeding 1000 SEK?
+ANSWER: If the Seller wants to refund transactions in excess of 1000 SEK, they must first contact Tradera's customer service to receive instructions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What purchases are never covered by Tradera's buyer protection?
+ANSWER: Tradera's buyer protection doesn't cover the purchase of properties, vehicles (including motor vehicles, motorcycles, caravans, aircraft, and boats, except for private portable light vehicles used for recreational purposes such as bicycles and wheeled hoverboards) or customized products.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can a Seller and a Buyer agree to a return or price reduction?
+ANSWER: Yes, a Seller and a Buyer can agree to a return or price reduction.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Who is responsible for paying back the Buyer if the Buyer is a consumer and the Seller is a trader and a statutory right of withdrawal is exercised?
+ANSWER: If the Buyer is a consumer and the Seller is a trader and a statutory right of withdrawal is exercised, the Seller is responsible for paying back part or all of the amount to the Buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can the Seller make refunds through other payment methods?
+ANSWER: No, the Seller can only make refunds through Tradera's payment solution and not through other payment methods.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is the Buyer always entitled to buyer protection?
+ANSWER: No, the Buyer is not always entitled to buyer protection. Buyer protection is included if the Buyer chooses to pay through Paynova, PayPal or Klarna. If the Buyer pays with card, Google Pay, Apple Pay, or Swish, they can add Tradera's buyer protection for a charge. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the maximum amount that a Seller must refund to the Buyer up to?
+ANSWER: The Seller must refund the agreed amount to the Buyer up to 1000 SEK.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What should the Seller do if they want to refund transactions in excess of 1000 SEK?
+ANSWER: If the Seller wants to refund transactions in excess of 1000 SEK, they must first contact Tradera's customer service to receive instructions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is a buyer protection?
+ANSWER: In certain circumstances, a Buyer is entitled to buyer protection, meaning that a Buyer can have a dispute handled via a dispute resolution process and be refunded an amount paid in a transaction.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

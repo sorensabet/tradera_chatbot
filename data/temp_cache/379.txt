@@ -1,0 +1,39 @@
+QUESTION: Hvem samarbejder Tradera med for at sikre brugerne tryghed?
+ANSWER: Tradera samarbejder med politiet og andre partnere for at gøre brugerne trygge og sikre deres oplevelse på platformen.
+URL: https://info.tradera.com/da/our-collaborations/
+
+QUESTION: Hvad kan man gøre hvis man er offer for en forbrydelse på Tradera?
+ANSWER: Hvis man er offer for en forbrydelse på Tradera, anbefaler Tradera altid at kontakte dem og lave en politianmeldelse på politiets hjemmeside. Tradera samarbejder tæt med politiet og giver altid information for at hjælpe.
+URL: https://info.tradera.com/da/our-collaborations/
+
+QUESTION: Hvordan kan man rapportere mistænkelig aktivitet på Tradera?
+ANSWER: Hvis du har mistanke om bedrageri eller anden forbrydelse på Tradera, kan du bruge funktionen "Rapportér til gennemgang" for at give information om den mistænkelige aktivitet.
+URL: https://info.tradera.com/da/our-collaborations/
+
+QUESTION: Hvordan kan man sikre sit Tradera-login?
+ANSWER: Tradera anbefaler at bruge sikre adgangskoder og ikke dele dem med andre. De har også en "Säkerhetscenter" side med mere information om sikkerhed på Tradera.
+URL: https://info.tradera.com/da/sakerhetscenter/
+
+QUESTION: Hvilke regler er der på Tradera?
+ANSWER: Der er regler på Tradera for at opretholde sikkerheden og retfærdigheden for brugerne. Disse regler er beskrevet i "Regler på Tradera" på deres hjemmeside.
+URL: https://info.tradera.com/da/regler-pa-tradera/
+
+QUESTION: Hvor kan jeg oprette en ny annonce på Tradera?
+ANSWER: Man kan oprette en ny annonce på Tradera ved at gå til "Opret ny annonce" på deres hjemmeside.
+URL: https://www.tradera.com/sell/start
+
+QUESTION: Har Tradera en integritetspolitik?
+ANSWER: Ja, Tradera har en integritetspolitik, som er beskrevet på deres hjemmeside.
+URL: https://info.tradera.com/da/integritetspolicy/
+
+QUESTION: Har Tradera samarbejdspartnere udover politiet?
+ANSWER: Ja, udover politiet har Tradera også andre samarbejdspartnere. Yderligere oplysninger om deres samarbejdspartnere findes på deres hjemmeside.
+URL: https://info.tradera.com/da/our-collaborations/
+
+QUESTION: Hvor kan jeg finde Traderas betalingsvillkor?
+ANSWER: Traderas betalingsvilkår kan findes på deres hjemmeside under "Betalningsvillkor".
+URL: https://info.tradera.com/da/betalningsvillkor/
+
+QUESTION: Hvad er "falska e-postmeddelanden"?
+ANSWER: "Falska e-postmeddelanden" refererer til phishing-e-mails, som forsøger at stjæle brugerens personlige oplysninger og adgangskoder. Tradera advarer om denne form for svindel og opfordrer brugere til at være forsigtige og ikke dele oplysninger med andre.
+URL: https://info.tradera.com/da/falska-e-postmeddelanden/

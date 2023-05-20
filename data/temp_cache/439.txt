@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas syfte med de olika cookies som används?
+ANSWER: Traderas syfte med de olika cookies som används är att förbättra användarupplevelsen, ge utökad funktionalitet och användaranpassning, och möjliggöra riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilka typer av cookies använder Traderas annonseringspartners?
+ANSWER: Traderas annonseringspartners använder cookies för marknadsföringssyften, vilket inkluderar att visa riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan användare stänga av cookies på Tradera?
+ANSWER: Nej, cookies kan inte stängas av på Tradera då de är nödvändiga för att plattformen ska fungera.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att ge användarna utökad funktionalitet och användaranpassning, till exempel genom att spara vissa inställningar eller tillåta inloggning med Facebook.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Varför använder Tradera cookies för anonym mätning?
+ANSWER: Tradera använder cookies för anonym mätning för att analysera hur plattformen används och förbättra den övergripande användarupplevelsen.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilken typ av information samlas in genom funktionella cookies på Tradera?
+ANSWER: Genom funktionella cookies kan viss information sparas, till exempel sparade inställningar eller inloggningsuppgifter med Facebook.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Varför använder Tradera annonseringspartners?
+ANSWER: Tradera använder annonseringspartners för att möjliggöra riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hur hjälper cookies Tradera att förbättra användarupplevelsen?
+ANSWER: Genom att samla in information med hjälp av cookies kan Tradera analysera hur plattformen används och förbättra den övergripande användarupplevelsen.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Syftet med marknadsföringscookies på Tradera är att möjliggöra riktade annonsering för användare.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilken typ av mätning görs genom anonym cookies på Tradera?
+ANSWER: Anonym mätning av Traderas användning görs genom cookies för att förbättra användarupplevelsen på plattformen.
+URL: https://info.tradera.com/da/traderabetalning/aktivera-traderabetalning/

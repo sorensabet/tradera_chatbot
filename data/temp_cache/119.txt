@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att dela information om användningen av webbplatsen med partners?
+ANSWER: Syftet med att dela information om användningen av webbplatsen med partners är för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Varför kan inte nödvändiga cookies stängas av för Tradera?
+ANSWER: Nödvändiga cookies kan inte stängas av på Tradera eftersom de krävs för att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Vad är syftet med prestanda-cookies på Tradera?
+ANSWER: Syftet med prestanda-cookies på Tradera är att mäta anonymt hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Vilket syfte har marknadsförings-cookies på Tradera?
+ANSWER: Marknadsförings-cookies på Tradera används av Traderas annonseringspartners för riktade annonsering som är relevanta för användaren.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Vad är cookies och varför används de på Tradera?
+ANSWER: Cookies är små textfiler som lagras i webbläsaren och används på Tradera för att förbättra användarupplevelsen genom olika funktioner som att spara användarinloggningsuppgifter, anpassa inställningar och för att rikta annonsering som är relevanta för användaren.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Kan användaren stänga av alla cookies på Tradera?
+ANSWER: Nej, användaren kan inte stänga av alla cookies på Tradera eftersom det finns nödvändiga cookies som behövs för att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Vad är skillnaden mellan nödvändiga och funktionella cookies på Tradera?
+ANSWER: Skillnaden mellan nödvändiga och funktionella cookies på Tradera är att nödvändiga cookies krävs för att webbplatsen ska fungera korrekt medan funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Hur används prestanda cookies på Tradera?
+ANSWER: Prestanda cookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att ge användarna utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook. 
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/

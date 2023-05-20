@@ -1,0 +1,39 @@
+QUESTION: Vad är förhandsbokningar av ett objekt på Tradera?
+ANSWER: Förhandsbokning innebär att en köpare ser ett objekt innan det har lagts upp på Tradera, och betalar för att vara säker på att köpa det när det väl läggs upp på sidan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad innebär dropshipping på Tradera?
+ANSWER: Dropshipping är inte tillåtet för privata säljare på Tradera men endast för företagssäljare med vissa specifika villkor. Det innebär att en säljare har avtal med en leverantör som hanterar lager och frakt av varorna medan säljaren säljer varorna på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Kan företagssäljare skicka varor från ett lager utanför EU till en köpare inom EU på Tradera?
+ANSWER: Ja, företagssäljare kan skicka varor från ett lager utanför EU till en köpare inom EU på Tradera. Detta är tillåtet eftersom det anses som en försäljning direkt till köparen från företaget och inte som en import.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är tillåtet att sälja på Tradera?
+ANSWER: Det är tillåtet att sälja objekt som du äger eller som du har tillstånd att sälja på Tradera. Exempel på sådana objekt kan vara kläder, husgeråd, elektronik och möbler.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vad-far-jag-salja/
+
+QUESTION: Är det tillåtet att sälja en produkt före dess officiella lanseringsdatum på Tradera?
+ANSWER: Ja, det är tillåtet att sälja produkter som inte har lanserats än internationellt men inte i Sverige, på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vad-far-jag-salja/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: På Tradera finns det många olika kategorier som t.ex. Kläder och accessoarer, Hem och trädgård, Elektronik, Böcker och tidningar, Sport och fritid, och mycket mer.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är en tjänst som Tradera erbjuder för att minska miljöbelastningen när varor skickas till köparen. Då väljer säljaren fraktalternativ som minskar klimatpåverkan, till exempel genom att välja ett klimatkompenserat fraktalternativ eller genom att använda sig av återanvändningsbara förpackningar.
+URL: https://www.tradera.com/
+
+QUESTION: Hur kan man sälja på Tradera som privatperson?
+ANSWER: För att sälja på Tradera som privatperson behöver man skapa ett gratis konto, lägga upp bilder och en beskrivning av varan man vill sälja, välja ett lämpligt försäljningspris och sedan vänta på att någon köper varan. När varan är såld behöver man skicka den till köparen och sedan få betalningen via Tradera.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn är en funktion på Tradera som hjälper både säljare och köpare att enkelt jämföra priser och leveranstider för olika fraktalternativ när de ska skicka paket till varandra.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är Användaravtal på Tradera?
+ANSWER: Användaravtal är en samling bestämmelser på Tradera som användare, både säljare och köpare, accepterar när de skapar ett konto på Tradera. Avtalet reglerar bland annat användarens rättigheter och skyldigheter på Tradera, samt användning av webbplatsen och hantering av personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/anvandaravtal/

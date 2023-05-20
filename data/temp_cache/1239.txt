@@ -1,0 +1,39 @@
+QUESTION: How does a Seller receive payment on Tradera?
+ANSWER: The Seller receives payment in the same way as if the Buyer had chosen to pay by card or PayPal. After Paynova or Klarna has carried out a normal credit check of the Swedish Buyer, a payout will be carried out to PayPal (Hyperwallet). Once Tradera has carried out its check of the Transaction and it has been approved, a payout to the Seller’s account will be carried out.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a Seller gets paid by mistake?
+ANSWER: Tradera has the right to withhold payment to the Seller or, if the Seller has already been paid, to require the Seller to pay the refundable amount to Tradera in cases such as transactions through which the Seller violates applicable law.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: How does payment by installment work on Tradera?
+ANSWER: In the case of payment by invoice or installment, Tradera notifies the Seller via e-mail and in My Tradera that payment for the purchase has been made. The Seller should then send the goods to the Buyer. Payments to the Seller's bank account will normally be made within 1–2 business days, provided that Tradera has received accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a transaction is suspected to violate laws and regulations?
+ANSWER: Tradera has the right to withhold payment to the Seller or to require the Seller to pay the refundable amount to Tradera for transactions that are reasonably suspected to constitute money laundering, terrorist financing, or otherwise violate applicable laws and regulations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if the Seller does not comply with Tradera's Seller Protection?
+ANSWER: Tradera has the right to withhold payment to the Seller or to require the Seller to pay the refundable amount to Tradera for transactions where the Seller has not complied with the Terms and Conditions of Tradera's prevailing Seller Protection, if and when available.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's dispute settlement system?
+ANSWER: Tradera's dispute settlement system gives Tradera the right to withhold payment to the Seller or to require the Seller to pay the refundable amount to Tradera within the framework of the dispute settlement system, where Tradera considers that the Buyer is right.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a transaction violates Tradera's User Agreement or Rules for Sellers?
+ANSWER: Tradera has the right to withhold payment to the Seller or to require the Seller to pay the refundable amount to Tradera for transactions that are in violation of the Terms and Conditions, Tradera's User Agreement, or Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the time frame for a payment to the Seller?
+ANSWER: Payments to the Seller's bank account will normally be made within 1–2 business days, provided that Tradera has received accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: How will a Seller be notified of payment through Tradera?
+ANSWER: In the case of payment by invoice or installment, Tradera notifies the Seller via e-mail and in My Tradera that payment for the purchase has been made.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a Buyer uses their statutory right of withdrawal against a Seller?
+ANSWER: Tradera has the right to withhold payment to the Seller or to require the Seller to pay the refundable amount to Tradera in transactions in which the Buyer, as a consumer, has used his/her statutory right of withdrawal against a Seller conducting business activities.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

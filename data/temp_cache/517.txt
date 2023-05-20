@@ -1,0 +1,39 @@
+QUESTION: Vilka produkter får inte säljas på Tradera?
+ANSWER: Explosiva objekt och kemikalier är en kategori av produkter som inte får säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Varför är försäljning av explosiva objekt och kemikalier reglerad på Tradera?
+ANSWER: Försäljning av hälsovådliga och farliga varor, inklusive explosiva objekt och kemikalier, regleras noggrant eftersom vissa varor inte får skickas med Posten eller andra transportföretag.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Vad händer om man säljer explosiva objekt och kemikalier på Tradera?
+ANSWER: Om någon säljer explosiva objekt eller kemikalier på Tradera bryter de mot reglerna och riskerar att stängas av från webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Vad räknas som explosiva objekt på Tradera?
+ANSWER: Explosiva objekt inkluderar produkter som fyrverkeripjäser, ammunition och vapen med explosiv laddning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Vilka kemikalier får inte säljas på Tradera?
+ANSWER: Vissa kemikalier som är farliga för hälsan eller som är reglerade som miljöfarliga produkter får inte säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Varför får inte vissa kemikalier säljas på Tradera?
+ANSWER: Vissa kemikalier är farliga för hälsan eller miljön och är därför reglerade, vilket innebär att de inte får säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Kan man sälja några kemikalier på Tradera?
+ANSWER: Vissa kemikalier som inte är farliga för hälsan eller miljön får säljas på Tradera, men det finns fortfarande begränsningar och regler som måste följas.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Vilka ansvarar för att reglerna om explosiva objekt och kemikalier följs?
+ANSWER: Det är säljarens ansvar att följa reglerna på Tradera när det gäller explosiva objekt och kemikalier.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Kan man skicka explosiva objekt och kemikalier med posten?
+ANSWER: Vissa explosiva objekt och kemikalier får inte skickas med Posten eller andra transportföretag enligt lagstiftningen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Vad händer om man oavsiktligt säljer explosiva objekt eller kemikalier på Tradera?
+ANSWER: Om någon oavsiktligt säljer explosiva objekt eller kemikalier på Tradera bryter de mot reglerna, men det är upp till Tradera att avgöra om de ska stängas av från webbplatsen eller inte.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/

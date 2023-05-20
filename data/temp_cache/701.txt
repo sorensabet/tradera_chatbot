@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg oprette en virksomhedskonto hos Tradera?
+ANSWER: Du kan oprette en virksomhedskonto hos Tradera ved at følge instruktionerne på siden for virksomhedskonto på Tradera's hjemmeside.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke dokumenter er nødvendige for at registrere en virksomhedskonto på Tradera?
+ANSWER: Det kan være nødvendigt at registrere din virksomhed med en kopi af din virksomheds registreringsattest og et gyldigt id-dokument på en af virksomhedens ejere.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad kræves der, for at ens registrering suppleres?
+ANSWER: Hvis din registrering suppleres, vil du blive underrettet via e-mail om kravene til din supplerende registrering.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Kan jeg sælge produkter med defekter på Tradera?
+ANSWER: Ja, du kan sælge produkter, der har en form for defekt eller bruges til at give det en chance for nyt liv gennem genbrug på Tradera.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvorfor bør jeg overveje at sælge på Tradera?
+ANSWER: Tradera sætter prisen på dine produkter, og det kan give dig mulighed for at nå en bredere kundebase.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke gebyrer skal jeg betale til Tradera som erhvervssælger?
+ANSWER: Du skal betale et provisionsgebyr angivet uden svensk moms, der varierer efter kategori.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke kategorier har en provisionsgebyr på 5% hos Tradera?
+ANSWER: Kategorier med et provisionsgebyr på 5 % inkluderer Computere & tilbehør, Foto, kameraer & optisk udstyr, Husholdningsapparater, Mobiltelefoner & tele, Videospil & computerspil.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke gebyrer medfølger i kategorierne med 5% provisionsgebyr hos Tradera?
+ANSWER: Du skal betale 5% af salgsprisen med et minimum på 2,40 SEK og et maksimum på 160 SEK i kategorier med 5% provisionsgebyr hos Tradera.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke kategorier har en provisionsgebyr på 8% hos Tradera?
+ANSWER: Kategorier med et provisionsgebyr på 8 % inkluderer Antikvitet & design, Byggematerialer & værktøjer, Bøger & blade, DVD & VHS, Køretøjer, både & reservedele, Frimærker, Hjem & husholdning, Kunst, Musik, Mønter & pengesedler.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er provisionsgebyret i kategorier med 8% gebyr hos Tradera?
+ANSWER: Du skal betale 8% af salgsprisen med et minimum på 2,40 SEK og et maksimum på 160 SEK i kategorier med 8% provisionsgebyr hos Tradera.
+URL: https://info.tradera.com/da/virksomhedskonto/

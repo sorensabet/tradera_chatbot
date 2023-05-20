@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas tvistlösningsförfarande?
+ANSWER: Tradera erbjuder ett tvistlösningsförfarande där en säljare och en köpare som har en meningsskiljaktighet kan lösa tvisten genom Traderas plattform. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka typer av produkter kan inte köpas på Tradera?
+ANSWER: Det går inte att köpa objekt som inte kan spåras (t.ex. brev, postomdelning, händelser eller hantverk som utförs, eller mot betalning överlämnas personligen), objekt som motsvarar kontanter (t.ex. presentkort), biljetter till evenemang som sport- eller konsertbiljetter samt varor och tjänster som är förbjudna enligt Traderas regler för säljare.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad gör Tradera om en köpare inte har fått en vara eller om varan är väsentligt annorlunda än beskrivningen som säljaren har gett?
+ANSWER: Om en köpare och en säljare har en meningsskiljaktighet på Tradera, till exempel att köparen inte har fått sin vara eller att varan väsentligt skiljer sig från säljarens beskrivning, kan parterna lösa sin meningsskiljaktighet genom Traderas tvistlösningssystem på plattformen. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Hur inleds en tvistlösningsprocess på Tradera?
+ANSWER: En tvistlösningsprocess inleds på Tradera genom att gå till "Mitt Tradera" och använda Traderas tvistlösningsförfarande. Kommunikation om tvisten kan endast ske genom Traderas tvistlösningssystem på Traderas plattform. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilken är tidsfristen för att inleda en tvistlösningsprocess på Tradera?
+ANSWER: En tvistlösningsprocess måste inledas inom 30 dagar från det att köpet genomfördes på Tradera. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om köpare och säljare inte kan lösa en tvist inom tio dagar?
+ANSWER: Om köpare och säljare inte kommer överens om en lösning på tvisten inom tio dagar från det att tvistlösningsförfarandet inleddes, kan köparen eskalera tvisten till Tradera. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan köparen eller säljaren kommunicera direkt utanför Traderas tvistlösningssystem under en tvist?
+ANSWER: Nej, all kommunikation om tvisten måste ske genom Traderas tvistlösningssystem på plattformen under en tvistlösningsprocess på Tradera. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan en säljare och köpare komma överens om en lösning på tvisten utan att Traderas tvistlösningsförfarande används?
+ANSWER: Ja, om köpare och säljare löser tvisten på egen hand utan att använda Traderas tvistlösningsförfarande behöver det inte rapporteras till Tradera. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är skillnaden mellan en tvist och en återbetalning på Tradera?
+ANSWER: En tvist uppstår när en köpare och en säljare har en meningsskiljaktighet på plattformen medan en återbetalning innebär att en köpare får tillbaka pengarna från ett köp som inte uppfyllde säljarens beskrivning. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan jag kräva en återbetalning utan att inleda en tvistlösningsprocess på Tradera?
+ANSWER: Ja, en köpare kan begära en återbetalning genom plattformen utan att inleda en tvistlösningsprocess. Dock rekommenderas det att man använder Traderas tvistlösningsförfarande för att låta säljaren få en chans att ta tillbaka varan eller ordna en återbetalning själv. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

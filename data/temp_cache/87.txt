@@ -1,0 +1,39 @@
+QUESTION: Vilka åtgärder kan vidtas om en användare orsakar problem eller risker för skadeståndsskyldighet enligt Användaravtalet?
+ANSWER: Om en användare orsakar problem eller risker för skadeståndsskyldighet i enlighet med Användaravtalet kan Tradera vidta åtgärder som att ta bort vissa statusuppdateringar som hör till kontot, ta bort eller minska rabatter och använda tekniska och rättsliga åtgärder för att hindra användaren från att använda Traderas tjänster. Dessa åtgärder kan vidtas om Tradera anser att sådana begränsningar kommer att öka säkerheten för Traderas användare eller minska risken för att Tradera eller Traderas användare ådrar sig betalningsskyldighet, om användaren gör intrång i tredje parts rättigheter, om användaren agerar i strid med ändamålet med detta Användaravtal eller Traderas policys eller kränker Traderas anställda eller användare, om Tradera inte kan bekräfta den information som tillhandahållits av användaren eller om användaren inte betalar avgifterna för Traderas tjänster vid fallen betalningsdag.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilka andra påföljder kan Tradera tillgripa om användare bryter mot Användaravtalet?
+ANSWER: Denna bestämmelse i Användaravtalet begränsar inte andra påföljder som Tradera har rätt till, så utöver de tidigare nämnda åtgärderna kan Tradera tillgripa andra påföljder mot användare som bryter mot Användaravtalet om Tradera anser detta lämpligt.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Tar Tradera hänsyn till tidigare händelser och de särskilda omständigheterna i det aktuella fallet när en fråga uppstår som rör en köpare eller säljare?
+ANSWER: När en fråga uppstår som rör en köpare eller säljare kan Tradera ta hänsyn till tidigare händelser och de särskilda omständigheterna i det aktuella fallet när de tillämpar sina policys.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan Tradera ha överseende med brott mot sina policys?
+ANSWER: Tradera kan välja att ha överseende med brott mot sina policys och agera på sättet som de anser mest lämpligt för både köpare och säljare.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilka avgifter tillkommer när man använder Traderas tjänster?
+ANSWER: Avgifter för att använda Traderas tjänster tillkommer och dessa kan skilja sig åt beroende på vilken typ av transaktion som genomförs. Avgifterna kan också ändras på Traderas befogande och det är användarens ansvar att kontrollera dessa avgifter regelbundet.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad händer om användaren inte betalar avgifterna för Traderas tjänster när de förfaller?
+ANSWER: Om en användare inte betalar avgifterna för Traderas tjänster när de förfaller kan Tradera vidta åtgärder som att minska eller ta bort rabatter samt ta tekniska och rättsliga åtgärder för att hindra användaren från att använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan Tradera bekräfta den information som tillhandahålls av användare?
+ANSWER: Om Tradera inte kan bekräfta den information som tillhandahålls av användaren kan de vidta åtgärder, såsom att ta bort vissa statusuppdateringar som hör till kontot, ta bort eller minska rabatter och använda tekniska och rättsliga åtgärder för att hindra användaren från att använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan en användare agera i strid med ändamålet med Användaravtalet eller Traderas policys?
+ANSWER: Ja, en användare kan agera i strid med ändamålet med Användaravtalet eller Traderas policys, vilket kan leda till att Tradera vidtar åtgärder mot den användaren.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilka tekniska och rättsliga åtgärder kan Tradera vidta för att hindra en användare från att använda sina Tjänster?
+ANSWER: Tradera kan vidta tekniska och rättsliga åtgärder, till exempel ta bort eller minska rabatter och använda tekniska och rättsliga åtgärder för att hindra användaren från att använda sina Tjänster. Detta kan göras om Tradera anser att sådana begränsningar kommer att öka säkerheten för Traderas användare eller minska risken för att Tradera eller Traderas användare ådrar sig betalningsskyldighet, om användaren gör intrång i tredje parts rättigheter, om användaren agerar i strid med ändamålet med Användaravtalet eller Traderas policys eller kränker Traderas anställda eller användare, om Tradera inte kan bekräfta den information som tillhandahållits av användaren eller om användaren inte betalar avgifterna för Traderas Tjänster när de förfaller till betalning.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad händer om en användare kränker Traderas anställda eller användare?
+ANSWER: Om en användare kränker Traderas anställda eller användare kan Tradera vidta åtgärder som att ta bort vissa statusuppdateringar som hör till kontot, ta bort eller minska rabatter och använda tekniska och rättsliga åtgärder för att hindra användaren från att använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/

@@ -1,0 +1,39 @@
+QUESTION: Vilken är prissättningen för att sälja på Tradera?
+ANSWER: Kostnader för tillval, provisionsavgifter samt osåltavgifter dras från ditt saldo eller faktureras. För sålda varor tas en provisionsavgift på 10% av slutpriset med ett max på 200 kronor och minst 3 kronor. För osålda varor tillkommer ingen avgift.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Vilken är den högsta provisionsavgiften som tas ut på Tradera?
+ANSWER: Den högsta provisionsavgiften som tas ut på Tradera är 10% av slutpriset på sålda varor med ett max på 200 kronor.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Finns det något minsta belopp som tas ut i provisionsavgift på Tradera?
+ANSWER: Ja, det lägsta beloppet för provisionsavgift på Tradera är 3 kronor.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Vilka tillvalskostnader tillkommer när man säljer på Tradera?
+ANSWER: Kostnader för tillval dras från ditt saldo eller faktureras, men det nämns inte vilka specifika tillvalskostnader som kan tillkomma.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Tar Tradera ut någon avgift för osålda varor?
+ANSWER: Ja, en osåltavgift kan tas ut på Tradera som dock inte specificeras närmare i texten.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Hur många annonser kan jag lägga upp per månad på Tradera innan extra avgifter tillkommer?
+ANSWER: Du kan lägga upp 100 annonser per månad utan att extra avgifter tillkommer.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Hur dras kostnader från mitt saldo eller faktureras när jag säljer på Tradera?
+ANSWER: Kostnader för tillval, provisionsavgifter och osåltavgifter dras från ditt saldo eller faktureras.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Finns det någon minstaavgift för de annonser som inte säljs på Tradera?
+ANSWER: Det nämns inte någon specifik minstaavgift för annonser som inte säljs på Tradera, men det nämns att en osåltavgift kan tas ut.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Vad händer om jag inte lyckas sälja min vara på Tradera?
+ANSWER: Om du inte lyckas sälja din vara så tas ingen provisionsavgift ut, men det kan tillkomma andra kostnader såsom osåltavgift.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/
+
+QUESTION: Hur mycket kostar det att lägga upp en annons på Tradera?
+ANSWER: Det nämns inte någon specifik kostnad för att lägga upp en annons på Tradera, utan det tas endast ut kostnader för tillval, provisionsavgifter och osåltavgifter vid försäljning eller fakturering.
+URL: https://info.tradera.com/salja-pa-tradera/prislista-privat/

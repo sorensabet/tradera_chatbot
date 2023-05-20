@@ -1,0 +1,39 @@
+QUESTION: Vilka situationer ger Tradera rätt att återföra Transaktioner?
+ANSWER: Tradera har rätt att återföra Transaktioner till Säljaren i följande situationer: där leverans av varan eller tjänsten inte har skett, har blivit oskäligt fördröjd eller har skett till annan adress än en som Tradera har angivit eller godkänt, om det finns hinder som begränsar möjligheten att pantsätta eller förvärva Transaktionen, om det föreligger en tvist eller ett bestridande mellan Säljaren och Köparen gällande Transaktionen och sådan tvist eller sådant bestridande är baserat på annan omständighet än Köparens ovilja eller oförmåga att betala, transaktioner som resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren och transaktioner som är bedrägliga eller strider mot lagar eller regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilken rätt har Tradera när det gäller transaktioner där det föreligger en tvist eller ett bestridande mellan Säljaren och Köparen?
+ANSWER: Tradera har rätt att återföra Transaktioner till Säljaren i situationer där det föreligger en tvist eller ett bestridande mellan Säljaren och Köparen gällande Transaktionen och sådan tvist eller sådant bestridande är baserat på annan omständighet än Köparens ovilja eller oförmåga att betala.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är återföringsgundar enligt Tradera?
+ANSWER: Återföringsgundar är de situationer där Tradera har rätt att återföra Transaktioner till Säljaren. Dessa inkluderar situationer där leverans av varan eller tjänsten inte har skett, har blivit oskäligt fördröjd eller har skett till annan adress än en som Tradera har angivit eller godkänt, om det finns hinder som begränsar möjligheten att pantsätta eller förvärva Transaktionen, om det föreligger en tvist eller ett bestridande mellan Säljaren och Köparen gällande Transaktionen och sådan tvist eller sådant bestridande är baserat på annan omständighet än Köparens ovilja eller oförmåga att betala, transaktioner som resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren och transaktioner som är bedrägliga eller strider mot lagar eller regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer vid Transaktioner där varan eller tjänsten har levererats för sent?
+ANSWER: För Transaktioner där leverans av varan eller tjänsten inte har skett, har blivit oskäligt fördröjd eller har skett till annan adress än en som Tradera har angivit eller godkänt, har Tradera rätt att återföra Transaktioner till Säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: När har Tradera rätt att återföra Transaktioner där en tvist föreligger mellan Säljaren och Köparen?
+ANSWER: Tradera har rätt att återföra Transaktioner till Säljaren i situationer där det föreligger en tvist eller ett bestridande mellan Säljaren och Köparen gällande Transaktionen och sådan tvist eller sådant bestridande är baserat på annan omständighet än Köparens ovilja eller oförmåga att betala.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Kan Tradera återföra Transaktioner som är bedrägliga eller strider mot lagar eller regler?
+ANSWER: Ja, Tradera har rätt att återföra transaktioner som är bedrägliga eller strider mot lagar eller regler till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Om en fordran uppstår mot en tredje part vid en Transaktion, kan Tradera då återföra Transaktionen?
+ANSWER: Ja, Tradera har rätt att återföra transaktioner som resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka hinder kan begränsa möjligheten att pantsätta eller förvärva Transaktioner enligt Traderas betalningsvillkor?
+ANSWER: Hindren som kan begränsa möjligheten att pantsätta eller förvärva Transaktioner enligt Traderas betalningsvillkor innefattar bland annat att fordran redan är pantsatt eller avyttrad till tredje part.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka är de fem situationerna där Tradera har rätt att återföra Transaktioner enligt sina betalningsvillkor?
+ANSWER: De fem situationerna enligt Traderas betalningsvillkor där Tradera har rätt att återföra Transaktioner till Säljaren är: leverans av varan eller tjänsten inte har skett, har blivit oskäligt fördröjd eller har skett till annan adress än en som Tradera har angivit eller godkänt, om det finns hinder som begränsar möjligheten att pantsätta eller förvärva Transaktionen, om det föreligger en tvist eller ett bestridande mellan Säljaren och Köparen gällande Transaktionen och sådan tvist eller sådant bestridande är baserat på annan omständighet än Köparens ovilja eller oförmåga att betala, transaktioner som resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren och transaktioner som är bedrägliga eller strider mot lagar eller regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Kan Tradera godkänna en annan leveransadress än vad som anges av Säljaren?
+ANSWER: Ja, Tradera kan godkänna en annan leveransadress än vad som anges av Säljaren, men om leveransen sker till annan adress än en som Tradera har angivit eller godkänt, har Tradera rätt att återföra Transaktioner till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

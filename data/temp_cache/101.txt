@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av cookies används på Tradera?
+ANSWER: På Tradera används fyra olika typer av cookies, nämligen nödvändiga, prestanda-, funktionella- och marknadsföringscookies.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad är syftet med prestandacookies på Tradera?
+ANSWER: Syftet med prestandacookies på Tradera är att mäta hur Tradera används av användarna, för att användarupplevelsen ska kunna förbättras.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan jag stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de är nödvändiga för att Tradera ska fungera korrekt.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för att ge utökad funktionalitet och användaranpassning, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Hur används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av annonseringspartners för att visa riktade annonser som är relevanta för dig som användare.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Varför kan inte nödvändiga cookies stängas av på Tradera?
+ANSWER: Nödvändiga cookies på Tradera kan inte stängas av eftersom de krävs för att Tradera ska fungera ordentligt och ge användarna en god användarupplevelse.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilket syfte tjänar funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för att ge användarna utökad funktionalitet och användaranpassning, till exempel för att spara inställningar och för inloggning med Facebook.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Varför används prestandacookies på Tradera?
+ANSWER: Prestandacookies på Tradera används för att mäta hur Tradera används av användarna, för att Traderas användarupplevelse ska kunna förbättras.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilken nytta har Traderas annonseringspartners med marknadsföringscookies?
+ANSWER: Traderas annonseringspartners använder marknadsföringscookies för att visa riktade annonser som är relevanta för Traderas användare.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilka cookies kan stängas av på Tradera?
+ANSWER: På Tradera kan funktionella- och marknadsföringscookies stängas av i webbläsarens inställningar.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/

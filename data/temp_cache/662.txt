@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies på Tradera?
+\ANSWER: Syftet med cookies på Tradera är att anonymt mäta hur Tradera används för att förbättra användarupplevelsen samt för utökad funktionalitet och användaranpassning på Tradera. Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Vilken typ av cookies används för marknadsföring på Tradera?
+\ANSWER: Marknadsföringscookies används för riktade annonser relevanta för användaren på Tradera.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Varför behöver Tradera använda cookies?
+\ANSWER: Tradera behöver använda cookies för att kunna erbjuda utökad funktionalitet och användaranpassning för användare på deras plattform samt att anonymt mäta hur Tradera används för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Hur används funktionella cookies på Tradera?
+\ANSWER: Funktionella cookies används på Tradera för utökad funktionalitet och användaranpassning såsom sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Kan användare välja att avslå cookies på Tradera?
+\ANSWER: Ja, användare kan välja att avslå cookies på Tradera. Ett meddelande kommer då visas där användaren kan välja att acceptera eller avslå cookies.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Hur påverkar cookies på Tradera användarens upplevelse på plattformen?
+\ANSWER: Cookies på Tradera möjliggör utökad funktionalitet och användaranpassning på plattformen samt anonym mätning av hur Tradera används för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Vilken typ av cookies används för att mäta hur Tradera används?
+\ANSWER: Anonyma cookies används för att mäta hur Tradera används och för att förbättra användarupplevelsen på plattformen.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Kan cookies på Tradera användas för att samla in personlig information om användare?
+\ANSWER: Nej, cookies på Tradera används inte för att samla in personlig information om användare.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Vilken typ av cookies används för att förbättra användarupplevelsen på Tradera?
+\ANSWER: Anonyma cookies används för att förbättra användarupplevelsen på Tradera.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/
+
+QUESTION: Vad händer om en användare avvisar cookies på Tradera?
+\ANSWER: Om en användare avvisar cookies på Tradera kommer plattformen inte kunna erbjuda utökad funktionalitet och användaranpassning för användaren och marknadsföringspartners kommer inte att kunna leverera relevant annonsering.
+URL: https://info.tradera.com/da/misleading-titles-and-descriptions/

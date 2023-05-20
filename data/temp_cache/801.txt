@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av betalningar kan jag få för mina försäljningar på Tradera?
+\ANSWER: Du kan få utbetalningar till ditt bankkonto, PayPal-konto eller direkt till din Swish. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vad behöver jag lägga till för information för att få utbetalningar för mina försäljningar på Tradera?
+\ANSWER: Första gången du säljer på Tradera behöver du lägga till ditt kontonummer/PayPal-konto och Swish-nummer. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Hur lång tid tar det innan jag får utbetalning för mina försäljningar på Tradera?
+\ANSWER: Utbetalningen sker inom 1-2 bankdagar från att pengarna kommit till Tradera, förutom för Swish. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vad är Traderabetalning?
+\ANSWER: Traderabetalning är Traderas system för hantering av betalningar för försäljningar. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Kan jag få utbetalning till mitt konto utomlands?
+\ANSWER: Ja, det är möjligt för vissa länder. Du kan läsa mer på Traderas hemsida om vilka länder som accepteras. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vad är Swish?
+\ANSWER: Swish är ett svenskt system för mobilbetalningar som används av privatpersoner och företag. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Hur använder jag PayPal på Tradera?
+\ANSWER: För att använda PayPal på Tradera behöver du först lägga till ditt PayPal-konto som betalsätt. Du kan sedan välja att erbjuda PayPal som betalningsalternativ för dina köpare. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Kan jag använda Bitcoin som betalning på Tradera?
+\ANSWER: Nej, Tradera accepterar inte Bitcoin som betalning för försäljningar. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vilka bankkort kan jag använda för att betala på Tradera?
+\ANSWER: Du kan betala på Tradera med ett vanligt bankkort (Visa eller Mastercard) eller med Swish. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Kan jag få utbetalningar oftare än en gång i veckan?
+\ANSWER: Nej, Tradera gör bara utbetalningar en gång i veckan. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/

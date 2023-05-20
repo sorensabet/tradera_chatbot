@@ -1,0 +1,39 @@
+QUESTION 1: Vilka typer av cookies använder Tradera?
+ANSWER: Tradera använder fyra olika typer av cookies: nödvändiga cookies för att sajten ska fungera, prestandacookies för att mäta användning, funktionella cookies för att utöka funktionaliteten på sajten och marknadsföringscookies som används av Traderas annonsörer.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 2: Vad är syftet med nödvändiga cookies på Tradera?
+ANSWER: Syftet med nödvändiga cookies på Tradera är att de krävs för att sajten ska fungera korrekt och kan inte stängas av. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 3: Hur används prestandacookies på Tradera?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används, vilket hjälper till att förbättra användarupplevelsen på sajten. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 4: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att utöka funktionaliteten på sajten, t.ex. vissa sparade inställningar eller inloggning med Facebook. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 5: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonsörer för att visa riktade annonser som är relevanta för användarna. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 6: Kan nödvändiga cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera eftersom de är viktiga för att sajten ska fungera korrekt. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 7: Vilken typ av information mäts med prestandacookies på Tradera?
+ANSWER: Prestandacookies mäter anonymt hur Tradera används, vilket inkluderar information som antal sidvisningar, besökslängd och trafikkällor. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 8: Vilka funktioner kan utökas med hjälp av funktionella cookies på Tradera?
+ANSWER: Funktionella cookies kan användas för att utöka funktionaliteten på Tradera, exempelvis för att lagra sparade inställningar och möjliggöra inloggning med Facebook. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 9: Är marknadsföringscookies på Tradera obligatoriska?
+ANSWER: Nej, marknadsföringscookies på Tradera är inte obligatoriska och användare kan själva välja att stänga av dessa. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION 10: Varför används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används på Tradera av annonspartners för att visa riktade annonser som är relevanta för användarens intressen och beteenden. 
+URL: https://info.tradera.com/da/salja-pa-tradera/

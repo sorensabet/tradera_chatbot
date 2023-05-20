@@ -1,0 +1,39 @@
+QUESTION: Hvad er gebyret for usolgte annoncer efter 100 annoncer i en faktureringsperiode på Tradera?
+ANSWER: Hvis du publicerer mere end 100 annoncer under en faktureringsperiode fra den første til den sidste dag i måneden, vil et gebyr på mellem 2,40 og 8 SEK (ekskl. moms) blive opkrævet pr. usolgt annonce, alt efter hvilken kategori, de pågældende tilhører. Genstartede annoncer og automatiske gentagelser gælder som nye annonceperioder. Kategorier med 2,40 SEK (ekskl. moms) fremgår nedenfor, alle øvrige kategorier.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er prisen for tilføjelser til annoncer på Tradera?
+ANSWER: Hvis du vil fremhæve din annonce, har du flere tilføjelser at vælge mellem ved oprettelsen. Prisen for tilføjelserne bliver opkrævet pr. annonceperiode, uanset om varen er blevet solgt eller ikke. Genstartede annoncer og automatiske gentagelser bliver opkrævet som nye annonceperioder. Highlight koster 12 SEK, Få en højere placering koster 36 SEK, Reservationspris koster 32 SEK og Foretrukket sluttidspunkt koster 8 SEK.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er minimumsgebyret for salg på Tradera?
+ANSWER: Minimumsgebyret for salg på Tradera er 8% af salgsprisen med et minimum på 2,40 SEK og et maksimum på 160 SEK.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilke typer af varer kan købes og sælges på Tradera?
+ANSWER: Tradera tilbyder et bredt udvalg af varer, herunder samlerobjekter, postkort og billeder, tilbehør, børnetøj og -sko, ure, tøj, sko, skønhedsprodukter, smykker og ædelsten, sport og fritid, hobby, legetøj og børneartikler, billetter og rejser samt domænenavne.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan fungerer genstartede annoncer på Tradera?
+ANSWER: Genstartede annoncer på Tradera fungerer på den måde, at de bliver opkrævet som nye annonceperioder. Det betyder, at du vil blive opkrævet prisen for tilføjelserne igen, uanset om varen er blevet solgt eller ikke.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvornår opkræver Tradera gebyr for usolgte annoncer?
+ANSWER: Gebyret for usolgte annoncer opkræves, hvis du publicerer mere end 100 annoncer under en faktureringsperiode fra den første til den sidste dag i måneden, alt efter hvilken kategori, de pågældende annoncer tilhører. Genstartede annoncer og automatiske gentagelser gælder som nye annonceperioder.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan kan du få din annonce fremhævet på Tradera?
+ANSWER: Du kan fremhæve din annonce på Tradera ved at vælge nogle tilføjelser, når du opretter annonce. Tilføjelserne inkluderer Highlight, Få en højere placering, Reservationspris og Foretrukket sluttidspunkt, og prisen bliver opkrævet pr. annonceperiode, uanset om varen er blevet solgt eller ikke.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvor meget koster det at få en højere placering for din annonce på Tradera?
+ANSWER: Det koster 36 SEK at få en højere placering for din annonce på Tradera.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan fungerer automatiske gentagelser på Tradera?
+ANSWER: Automatiske gentagelser på Tradera fungerer på den måde, at de bliver opkrævet som nye annonceperioder. Det betyder, at du vil blive opkrævet prisen for tilføjelserne igen, uanset om varen er blevet solgt eller ikke.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er det usolgte gebyr for annoncer på Tradera?
+ANSWER: Hvis du publicerer mere end 100 annoncer under en faktureringsperiode fra den første til den sidste dag i måneden, vil et usolgt gebyr på mellem 2,40 og 8 SEK (ekskl. moms) blive opkrævet pr. usolgt annonce, alt efter hvilken kategori, de pågældende tilhører. Gebyret gælder fra annonce nummer 101. Genstartede annoncer og automatiske gentagelser gælder som nye annonceperioder. Kategorier med 2,40 SEK (ekskl. moms) fremgår nedenfor, alle øvrige kategorier.
+URL: https://info.tradera.com/da/virksomhedskonto/

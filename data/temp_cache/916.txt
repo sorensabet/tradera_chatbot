@@ -1,0 +1,39 @@
+QUESTION: What is force majeure and how does it affect Tradera's Terms and Conditions?
+ANSWER: According to the context, force majeure is an event outside Tradera's reasonable control that could cause a delay or failure to perform a service, such as lightning, sabotage, power outage, or deterioration of internet or telecommunications. The party invoking force majeure must take reasonable measures to limit the damage caused by the event, and if it lasts more than 60 days, each party can terminate the Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the governing law of Tradera's Terms and Conditions and where would disputes be settled?
+ANSWER: The governing law of Tradera's Terms and Conditions is Swedish law, and disputes relating to the Terms and Conditions would be settled by the Swedish General Court, with the Stockholm District Court as the first instance. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera allow sellers to sell as businesses?
+ANSWER: Yes, according to the context, Tradera allows sellers to sell as businesses. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Is there a shipping calculator available for Tradera buyers?
+ANSWER: According to the context, there is a shipping calculator available for Tradera buyers. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What are the popular brands available on Tradera?
+ANSWER: The context does not provide information on popular brands available on Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What should a seller do if there is a force majeure event that affects their ability to perform a service according to the Terms and Conditions?
+ANSWER: If there is a force majeure event that affects a seller's ability to perform a service according to the Terms and Conditions, they should take reasonable measures to limit the damage caused by the event. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can Tradera's payment solution be used by private sellers only?
+ANSWER: According to the context, both private sellers and business sellers can use Tradera's payment solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the duration of a force majeure event according to Tradera's Terms and Conditions?
+ANSWER: According to the context, the duration of a force majeure event is for the duration of that event. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Who are Tradera's partners for their payment solution?
+ANSWER: According to the context, Tradera's partner for their payment solution is PayPal's Hyperwallet solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Are there any agreements or terms and conditions for PayPal's Hyperwallet solution for Tradera sellers?
+ANSWER: According to the context, by using Tradera's payment solution, sellers also accept the terms and conditions of Tradera's partner PayPal's Hyperwallet solution, which are available on their website. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

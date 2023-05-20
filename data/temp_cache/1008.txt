@@ -1,0 +1,39 @@
+QUESTION 1: Vilka syften använder Tradera cookies för?
+ANSWER: Tradera använder cookies för tre syften: prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 2: Vilken typ av information samlar Tradera in från användarna?
+ANSWER: Tradera samlar in information som användarnamn, IP-adress, e-postadress och betalningsinformation från sina användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 3: Varför använder Tradera personlig information från användarna?
+ANSWER: Tradera använder personlig information från användarna för att hantera användarkonton, tillhandahålla tjänster, förbättra tjänster och för att göra annonser mer relevanta för användarna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 4: Vilka tredje parter kan Tradera dela personlig information med?
+ANSWER: Tradera kan dela personlig information med betalningsleverantörer, transportörer, och försäkringsgivare samt andra som Tradera samarbetar med för att leverera tjänster till användarna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 5: Kan användarna begära att få sin personliga information raderad från Tradera?
+ANSWER: Ja, användare kan begära att få sin personliga information raderad från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 6: Vilka rättigheter har användarna gällande sin personliga information enligt Traderas integritetspolicy?
+ANSWER: Enligt Traderas integritetspolicy har användare rätt att få tillgång till sin personliga information, rätt att rätta felaktig information samt rätt att begära att deras information raderas från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 7: Hur länge sparar Tradera personlig information från användarna?
+ANSWER: Tradera sparar personlig information från användarna så länge det är nödvändigt för att fullgöra syftet att tillhandahålla användarna tjänster eller så länge som krävs av lag eller reglering.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 8: Vilka säkerhetsåtgärder använder Tradera för att skydda användarnas personliga information?
+ANSWER: Tradera använder tekniska och organisatoriska säkerhetsåtgärder för att skydda användarnas personliga information mot obehörig åtkomst, ändring och förlust.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 9: Kan Traderas integritetspolicy ändras?
+ANSWER: Ja, Traderas integritetspolicy kan ändras och uppdateras när som helst. Användare rekommenderas att regelbundet granska integritetspolicyn för att hålla sig uppdaterade.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 10: Kan användare vägra att tillåta cookies på Tradera?
+ANSWER: Ja, användare kan vägra att tillåta cookies på Tradera. Dock kan detta påverka funktionaliteten och användarupplevelsen på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

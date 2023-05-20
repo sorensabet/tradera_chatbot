@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av personuppgifter samlas in av Tradera?
+ANSWER: Tradera samlar in personuppgifter genom användarnas och deras kontakters användning av tjänsterna, samt genom information som användarna och andra tillhandahåller. Dessa uppgifter används för att föreslå kontakter mellan användare och andra personer som de kanske känner eller vill handla med genom Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka funktioner kan användare förvänta sig på Tradera?
+ANSWER: Tradera har sociala nätverkstjänster och funktioner som är utformade för att förenkla användares användning av tjänsterna tillsammans med andra. Det kan också svara på användarnas önskemål, t.ex. att kontakta dem om en fråga de har skickat till kundtjänsten. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka är de olika syftena med att använda personuppgifter på Tradera?
+ANSWER: Personuppgifter på Tradera används för att föreslå kontakter mellan användare och personer de kanske känner eller vill handla med på Tradera, för att svara på användarnas önskemål, för att genomdriva villkoren i användaravtalet, för att hantera dagliga affärsbehov och för övervaknings- och analysändamål. Marknadsföring och reklamerbjudanden kan också skickas baserat på användarnas meddelandepreferenser och annonspreferenser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera sälja personuppgifter?
+ANSWER: Nej, Tradera säljer inte och lämnar inte ut personuppgifter till tredje part för deras marknadsföringsändamål utan användarens uttryckliga samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur använder Tradera personuppgifter för marknadsföring?
+ANSWER: Med användarens uttryckliga samtycke kan Tradera använda personuppgifter för att informera dem om sina webbplatser, applikationer, tjänster och verktyg, skicka riktad marknadsföring och reklam baserat på användarens meddelandepreferenser, samt individanpassa service och mäta och förbättra annonser baserat på användarens annonspreferenser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka regler måste uppfyllas för att Tradera ska samla in personuppgifter?
+ANSWER: Tradera måste uppfylla tillämpliga regler för att samla in personuppgifter, inklusive användarens uttryckliga samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan användare välja att inte tillåta användning av deras personuppgifter för marknadsföring?
+ANSWER: Ja, användare kan välja att inte tillåta användning av deras personuppgifter för marknadsföring genom att välja bort marknadsföringsmeddelanden och reklam i meddelande- och annonspreferenser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilket användande av personuppgifter anses vara Traderas berättigade intresse?
+ANSWER: Tradera använder personuppgifter för sitt berättigade intresse för att genomdriva villkoren i användaravtalet, hantera dagliga affärsbehov och för övervaknings- och analysändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur används personuppgifter för att föreslå kontakter mellan användare och personer de kanske känner eller vill handla med på Tradera?
+ANSWER: Tradera associerar information som samlas in från användare och deras kontakters användning av tjänsterna samt information som användare och andra tillhandahåller för att föreslå personer som de kanske känner eller vill handla med genom Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad kan användare förvänta sig när de kontaktar Traderas kundtjänst?
+ANSWER: När användare kontaktar Traderas kundtjänst kan de förvänta sig att få svar på sina frågor och önskemål, samt att bli kontaktade om en fråga de har skickat till kundtjänsten.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

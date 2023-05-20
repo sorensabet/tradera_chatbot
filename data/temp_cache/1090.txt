@@ -1,0 +1,39 @@
+QUESTION: Vad är ett registerutdrag?
+ANSWER: Ett registerutdrag är en sammanställning av de personuppgifter som en organisation behandlar om en person. Om en person begär ett sådant registerutdrag från Tradera måste personen identifiera sig och skicka sin begäran via e-post till privacy@tradera.com.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur snabbt kan jag förvänta mig att få ett registerutdrag från Tradera?
+ANSWER: Tradera kommer att återkomma med ett registerutdrag inom 30 dagar från det att de har mottagit din begäran om ett sådant utdrag.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vad är dataportabilitet?
+ANSWER: Dataportabilitet innebär att en person har rätt att få ut och överföra sina egna personuppgifter till en annan personuppgiftsansvarig. Om en person vill utöva sin rätt till dataportabilitet från Tradera måste personen skicka sin begäran via e-post till privacy@tradera.com.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Hur kan jag ändra eller rätta mina personuppgifter som Tradera har om mig?
+ANSWER: Du kan ändra dina personuppgifter genom Mitt Tradera eller genom att kontakta Tradera, så att de kan rätta alternativt komplettera de uppgifter de har om dig.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vad händer om jag återkallar mitt samtycke till Tradera?
+ANSWER: Om du återkallar ditt samtycke till Tradera för viss behandling, påverkar det inte den behandling Tradera redan har utfört.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Vad är en personuppgiftsansvarig?
+ANSWER: En personuppgiftsansvarig är en organisation eller myndighet som ensam eller tillsammans med andra bestämmer ändamålen och medlen för behandlingen av personuppgifter.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Var kan jag skicka min begäran om dataportabilitet från Tradera?
+ANSWER: Om du vill skicka en begäran om dataportabilitet från Tradera, kan du skicka din begäran via e-post till privacy@tradera.com.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Var kan jag skicka min begäran om rättelse av mina personuppgifter som Tradera har?
+ANSWER: Om du vill skicka en begäran om rättelse av dina personuppgifter som Tradera har, kan du ändra dina personuppgifter genom Mitt Tradera eller kontakta Tradera via e-post så att de kan rätta alternativt komplettera de uppgifter de har om dig.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Är det möjligt att få ut mina personuppgifter i ett annat format än Traderas registerutdrag?
+ANSWER: Ja, om en person begär en överföring av sina personuppgifter från Tradera kommer de att överföra uppgifterna i ett strukturerat, allmänt använt och maskinläsbart format.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION: Var kan jag skicka min begäran om ett registerutdrag från Tradera?
+ANSWER: Om du vill skicka en begäran om ett registerutdrag från Tradera, kan du skicka den via e-post till privacy@tradera.com.
+URL: https://info.tradera.com/dataskydd/

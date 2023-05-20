@@ -1,0 +1,39 @@
+QUESTION: Hvem er disse oplysninger rettet mod?
+ANSWER: Disse oplysninger henvender sig til erhvervssælgere
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvad er reklamationsret?
+ANSWER: Reklamationsret er en lovbestemt garanti, der sikrer købere ret til at klage over fejl ved et produkt inden for en vis periode efter købet.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvad sker der, hvis et produkt har en fejl?
+ANSWER: Hvis et produkt har en fejl, kan køberen indgive en reklamation og kræve en reparation, et nyt produkt eller et afslag i prisen. 
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvor lang tid har man til at reklamere over et produkt?
+ANSWER: Købere har normalt 2 års reklamationsret efter købet af et produkt.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Skal man betale for fragten, hvis man skal returnere et produkt på grund af en fejl?
+ANSWER: Nej, hvis du har reklamationsret på et produkt og ønsker at returnere det på grund af en fejl, skal sælgeren betale for fragten.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Kan man kræve penge tilbage, hvis man reklamerer over et produkt?
+ANSWER: Ja, hvis sælgeren ikke kan reparere produktet eller give en ny vare, kan køberen kræve pengene tilbage.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvordan kan man kræve reklamationsret?
+ANSWER: Hvis du vil kræve reklamationsret på et produkt, skal du kontakte sælgeren og informere dem om fejlen ved produktet. 
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Skal man have en kvittering for at reklamere over et produkt?
+ANSWER: Nej, det er ikke nødvendigt at have en kvittering, men det kan gøre processen lettere og hurtigere.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvor lang tid kan det tage at behandle en reklamation?
+ANSWER: Det afhænger af sælgerens behandling af sagen, men de skal normalt reagere inden for 30 dage efter modtagelsen af klagen.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Kan man kontakte Tradera for at få hjælp med en reklamation?
+ANSWER: Ja, Tradera kan hjælpe med at formidle en dialog mellem køber og sælger, men det er sælgeren, der har ansvaret for at løse problemet.
+URL: https://info.tradera.com/da/refund-claim/

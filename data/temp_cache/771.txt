@@ -1,0 +1,39 @@
+QUESTION: What is required for listings of stuffed animals?
+ANSWER: The context explicitly states that all listings of stuffed animals must include accurate information about the animal species and how it was acquired. Certificates must be provided in the listing as well.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Where can I find more information about protected species and the CITES list?
+ANSWER: The context advises users to visit Jordbruksverket's website and the CITES organization for more information about protected species and the CITES list.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: What animal products are allowed to be sold on Tradera?
+ANSWER: The context clearly states that Tradera allows furs, stuffed animals, and products from animals that are not on the protected species list to be sold on their platform.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: What are some examples of animal products that can be sold on Tradera?
+ANSWER: The context provides a list of examples that include muskrat, arctic fox, polar fox, blue or white European beaver, red fox/silver fox, Persian and karak wool sheep, coyote, sump beaver, nutria, mink, raccoon, sable, and white strawberries.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Does Tradera require sellers to be certified for selling animal products?
+ANSWER: The context does not explicitly state that Tradera requires sellers to be certified for selling animal products. However, it mentions that certificates must be provided in the listing for stuffed animals, indicating that certification might be required for certain types of animal products.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: What information should be included in the listings of stuffed animals?
+ANSWER: The context mentions that all listings of stuffed animals must include accurate information about the animal species and how it was acquired. Certificates must also be provided in the listing for stuffed animals.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: What should I do if the animal product I want to sell is from a protected species?
+ANSWER: The context advises users to check if the animal product they want to sell is from a protected species and included in CITES. Users can visit Jordbruksverket's website and the CITES organization for more information.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Can I sell animal-related items as a private seller on Tradera?
+ANSWER: The context indicates that both private sellers and businesses can sell animal-related items on Tradera.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Where can I find more information about the terms of service and privacy policy for Tradera?
+ANSWER: The context does not provide information on where to find the terms of service and privacy policy for Tradera. However, users can likely find this information by navigating to the website's footer or by using the search function on the website.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Are there any prohibited items related to animal products on Tradera?
+ANSWER: The context does not explicitly mention prohibited items related to animal products on Tradera. However, it indicates that protected species and CITES-listed animal products cannot be sold on the platform.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/

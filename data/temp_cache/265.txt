@@ -1,0 +1,39 @@
+QUESTION 1: Vilka sparade inställningar och inloggning kan jag använda på Tradera?
+ANSWER: På Tradera kan du exempelvis spara dina inställningar eller logga in med Facebook.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 2: Hur använder Traderas annonseringspartners min information för att visa relevanta annonser?
+ANSWER: Traderas annonseringspartners kan använda din information för att visa dig riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 3: Vad händer med mina sparade inställningar när jag loggar ut från Tradera?
+ANSWER: Dina sparade inställningar på Tradera sparas för att kunna användas nästa gång du loggar in, även efter att du loggat ut.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 4: Kan jag välja att inte få riktade annonser på Tradera?
+ANSWER: Nej, Traderas annonseringspartners kan använda din information för att visa riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 5: Vilken information används för att visa riktade annonser på Tradera?
+ANSWER: Informationen som Traderas annonseringspartners kan använda för att visa riktade annonser inkluderar dina sökningar och köp på Tradera, samt annan information du delar på Tradera.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 6: Kan Traderas annonseringspartners se min personliga information?
+ANSWER: Ja, Traderas annonseringspartners kan se din personliga information för att visa riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 7: Gör Tradera något för att skydda min personliga information från annonseringspartners?
+ANSWER: Ja, Tradera vidtar åtgärder för att skydda din personliga information från sina annonseringspartners.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 8: Varför använder Tradera riktade annonser?
+ANSWER: Tradera använder riktade annonser för att visa dig relevant information och produkter som kan vara av intresse för dig.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 9: Kan jag välja att inte dela min information med Traderas annonseringspartners?
+ANSWER: Nej, Traderas annonseringspartners kan använda din information för att visa riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/paynova/
+
+QUESTION 10: Kan jag ändra mina inställningar för riktade annonser på Tradera?
+ANSWER: Det går inte att ändra inställningarna för riktade annonser på Tradera.
+URL: https://info.tradera.com/paynova/

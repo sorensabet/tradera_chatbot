@@ -1,0 +1,39 @@
+QUESTION: Vad är Sello och hur kopplar man samman det med sitt Tradera-konto?
+ANSWER: Sello är en tjänst som hjälper företag att hantera sina försäljningar på Tradera. För att komma igång med Sello behöver man registrera sig genom att klicka på en länk på Traderas hemsida och ange samma inloggningsuppgifter som man har hos Tradera. Då kopplas kontona samman och alla aktiva auktioner, fastprisannonser och butiksobjekt från Tradera importeras till Sello. Man kan också välja att importera avslutade annonser sedan 60 dagar tillbaka.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Varför rekommenderar Tradera att man inte ska göra ändringar i "Mitt Tradera" när man börjar använda Sello?
+ANSWER: Tradera rekommenderar att man inte gör ändringar i "Mitt Tradera" när man börjar använda Sello eftersom man då riskerar att få osynkade objekt. Istället bör man göra ändringar direkt i Sello så att de synkas i "Mitt Tradera".
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är Traderabetalning och varför har Tradera samlat flera betalningsalternativ i en och samma tjänst?
+ANSWER: Traderabetalning är en betalningstjänst som Tradera har samlat flera populära betalningsalternativ i. För att underlätta för både köpare och säljare har Tradera gjort så att alla annonser kommer ha samma betalningsmöjligheter för köparen utan att man som säljare behöver registrera sig på flera olika tjänster.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Var hittar man hjälpsidor för försäljning på Tradera?
+ANSWER: Man hittar Sellos hjälpsidor för försäljning på Tradera genom en länk som finns på Sellos hemsida när man är inloggad.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken support hjälper till med frågor som rör Sello och var hittar man dem?
+ANSWER: Traderas support för företag hjälper till med frågor som rör Sello. Det enklaste sättet att få hjälp i ärenden som rör Sello är genom chatten som man hittar längst ner i det högra hörnet när man är inloggad hos Sello.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka objekt importeras från Tradera till Sello när man registrerar sig för tjänsten?
+ANSWER: Alla aktiva auktioner, fastprisannonser och butiksobjekt från Tradera importeras till Sello när man registrerar sig för tjänsten. Man kan också välja att importera avslutade annonser sedan 60 dagar tillbaka.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilket är det enklaste sättet att få hjälp med Sello?
+ANSWER: Det enklaste sättet att få hjälp med Sello är genom chatten som man hittar längst ner i det högra hörnet när man är inloggad hos Sello.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Varför bör man inte göra ändringar i "Mitt Tradera" när man använder Sello?
+ANSWER: Man bör inte göra ändringar i "Mitt Tradera" när man använder Sello eftersom man då riskerar att få osynkade objekt. Istället bör man göra ändringar direkt i Sello så att de synkas i "Mitt Tradera".
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken information behöver man ange för att koppla ihop sitt Tradera-konto med Sello?
+ANSWER: För att koppla ihop sitt Tradera-konto med Sello behöver man ange samma inloggningsuppgifter som man har hos Tradera när man registrerar sig för Sello.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur länge tillbaka i tiden kan man välja att importera avslutade annonser till Sello?
+ANSWER: Man kan välja att importera avslutade annonser från Tradera till Sello sedan 60 dagar tillbaka i tiden.
+URL: https://info.tradera.com/foretag/

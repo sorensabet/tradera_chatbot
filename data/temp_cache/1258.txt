@@ -1,0 +1,39 @@
+QUESTION: What is PostNord?
+ANSWER: PostNord is a company whose products' specific conditions are applied during the order of shipping services via Tradera's website. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: What is Tradera's administration for the shipping of an item?
+ANSWER: When ordering shipping for an item through Tradera's website, the user enters into an agreement with Tradera regarding the administration of the shipping process and information to the buyer of the item. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: What conditions apply to the shipping of an item through PostNord's services?
+ANSWER: The specific conditions of PostNord's products are applied during the order of shipping services. Additionally, PostNord's general customer terms are applied to their products. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: What do you need to pay for shipping when ordering through Tradera?
+ANSWER: You will pay for the ordered shipping directly to Tradera. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Can you fill in information about your item on Tradera's website for shipping purposes?
+ANSWER: Yes, the information you fill in about your item on Tradera's website serves as the basis for the shipping methods that Tradera suggests. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: What does the administration of the shipping process with Tradera entail?
+ANSWER: When ordering shipping for an item through Tradera's website, the user enters into an agreement with Tradera regarding the administration of the shipping process and information to the buyer of the item. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Is it necessary to enter into an agreement with PostNord when ordering shipping services via Tradera's website?
+ANSWER: No, when ordering shipping services through Tradera's website, the user only enters into an agreement with Tradera. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: What terms apply to the administration of shipping through Tradera?
+ANSWER: The terms of Tradera's User Agreement apply to the administration of shipping for an item through their website. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: How does the information you fill in about your item affect the shipping methods suggested by Tradera?
+ANSWER: The information you fill in about your item on Tradera's website serves as the basis for the shipping methods that Tradera suggests. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Who is responsible for the administration of shipping when ordering through Tradera's website?
+ANSWER: Tradera is responsible for the administration of shipping when shipping an item through their website. 
+URL: https://info.tradera.com/postnord/my-pack-home-small/

@@ -1,0 +1,39 @@
+QUESTION: Vad är Buy Now-annonser, och hur fungerar de?
+ANSWER: Buy Now-annonser på Tradera är annonser där köparen kan köpa produkten direkt utan att behöva lägga ett bud och vänta på auktionens slut. Annonsen försvinner så fort någon köper varan, och endast en vara kan läggas i lagersaldo för sådana annonser.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är en butiksannons, och vad är fördelarna med det?
+ANSWER: En butiksannons på Tradera är en annons där säljaren har en butik på Tradera, och annonserna visas kontinuerligt tills lagersaldot tar slut eller säljaren väljer att ta bort annonsen. Fördelarna med det är att man kan lägga till flera varor i lagersaldo, och annonserna har alltid ett fast pris.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken roll har verktyget ProLister på Tradera?
+ANSWER: ProLister är ett publiceringsverktyg på Tradera som gör det möjligt att ladda upp flera annonser samtidigt, och skapa listor för olika typer av annonser. Det är tänkt att underlätta för säljare som vill publicera många annonser på Tradera samtidigt.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Finns det någon begränsning för hur många annonser man kan publicera på Tradera med ProLister?
+ANSWER: Det finns ingen begränsning för hur många annonser man kan publicera på Tradera med ProLister, men man kan själv välja vilket tidsintervall man vill publicera annonserna inom så att de avslutas samtidigt.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Har man krav på att ha en butik på Tradera för att publicera annonser med fast pris?
+ANSWER: Ja, man måste ha en butik på Tradera för att publicera annonser med fast pris, även kallade butiksannonser.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Är det möjligt att ta bort en butiksannons innan lagersaldot tar slut?
+ANSWER: Ja, det är möjligt att ta bort en butiksannons innan lagersaldot tar slut, dock kommer annonsen att synas tills lagersaldot tar slut om man inte tar bort den själv.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Kan man publicera auktioner med ProLister på Tradera, eller endast annonser med fast pris?
+ANSWER: Det är möjligt att publicera både auktioner och annonser med fast pris på Tradera med ProLister.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur laddar man upp annonser på Tradera med ProLister?
+ANSWER: För att ladda upp annonser på Tradera med ProLister, behöver man skapa en lista med de annonser man vill publicera och välja det tidsintervall man vill att annonserna ska publiceras inom. Därefter kan man publicera alla annonserna på en gång på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Kan man använda samma inloggning till ProLister som till Tradera?
+ANSWER: Ja, man kan använda samma inloggning till ProLister som till Tradera, alltså samma mailadress och lösenord.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Är det gratis att använda ProLister på Tradera?
+ANSWER: Ja, det är gratis att använda ProLister på Tradera eftersom verktyget är skapat för att underlätta för säljare som säljer på Tradera.
+URL: https://info.tradera.com/foretag/

@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av objekt är inte tillåtna att sälja på Tradera?
+ANSWER: Enligt informationen på säkerhets- och regleringscentret på Traderas hemsida finns det flera objekt som inte är tillåtna att sälja, inklusive anstötliga eller pornografiska material, vapenrelaterade objekt, programvaror och elektroniska medier och ej tillåtna annonsupplägg, bland andra.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Får användare lägga upp annonser utan försäljningsobjekt?
+ANSWER: Enligt informationen på Traderas hemsida är det inte tillåtet att lägga upp annonser utan objekt till försäljning, vilket är ett av de objekt som räknas som "ej tillåtna annonsupplägg".
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Går det att lägga upp annonser med identiska objekt flera gånger?
+ANSWER: Det är inte tillåtet att lägga upp identiska annonser på Tradera, enligt informationen på Traderas hemsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vilka typer av objekt räknas som vapenrelaterade objekt som inte får säljas på Tradera?
+ANSWER: Enligt informationen på Traderas hemsida är det inte tillåtet att sälja vapenrelaterade objekt på Tradera. Detta inkluderar skjutvapen, ammunition, vapendelar och vapenliknande föremål.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Är frakten avgiftsfri på Tradera?
+ANSWER: Frakten på Tradera bestäms av säljaren, beroende på försäljningsobjektets vikt och storlek. Det finns ingen fast avgift för frakt på Tradera enligt informationen på hemsidan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Får användare sälja objekt utanför Tradera?
+ANSWER: Enligt informationen på Traderas hemsida är det inte tillåtet att sälja objekt utanför Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Gå det att sälja presentkort på Tradera?
+ANSWER: Det är tillåtet att sälja presentkort på Tradera enligt informationen på Traderas hemsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad ska man göra om man har fått en falsk e-post från Tradera?
+ANSWER: Om man har fått en falsk e-post från Tradera är det viktigt att man inte klickar på länkarna eller nedladdningsbara filer i e-postmeddelandet. Istället ska man anmäla e-postmeddelandet direkt till Tradera och genomsöka sin dator med en uppdaterad antivirusprogramvara, enligt informationen på Traderas hemsida.
+URL: https://info.tradera.com/sakerhetscenter/tradera-varnar-falska-e-postmeddelanden/
+
+QUESTION: Vad är dropshipping och är det tillåtet på Tradera?
+ANSWER: Dropshipping innebär att säljaren inte har produkten i lager utan istället skickar produktbeställningen till en tredje part som skickar produkten direkt till köparen. Enligt Traderas regler är det tillåtet att använda sig av dropshipping, men säljaren ansvarar fortfarande för att produkterna levereras i tid och i beskrivet skick.
+URL: https://info.tradera.com/sakerhetscenter/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vilka typer av objektsbeskrivningar och bilder är olämpliga på Tradera?
+ANSWER: Enligt informationen på Traderas hemsida är det inte tillåtet att ha olämpliga bilder eller objektsbeskrivningar som kan anses vilseledande eller som kan anses ha som syfte att lura köparen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/

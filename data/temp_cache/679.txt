@@ -1,0 +1,39 @@
+QUESTION: Where can I find a list of Schenker's vendors?
+ANSWER: You can find a list of Schenker's vendors on the information page provided by Tradera.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: How can I track my parcel and where is the tracking number?
+ANSWER: You can track your parcel in My Tradera and the tracking number is saved so you don't have to save your tracking number.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: What is the average delivery time for a package?
+ANSWER: Your package is usually delivered in a standard delivery time as provided by Schenker.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I contact DB Schenker directly to ask questions?
+ANSWER: Tradera provides a contact form for customers to get in touch with Schenker and ask any questions they may have.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: What are the delivery options available with DB Schenker?
+ANSWER: Details about the delivery options available with Schenker are provided on the information page.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I change my delivery address after placing an order with DB Schenker?
+ANSWER: You can change the delivery address after placing an order with Schenker by contacting them using Tradera's contact form.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I cancel my order with DB Schenker?
+ANSWER: You can cancel your order with Schenker by contacting them using Tradera's contact form.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Does DB Schenker offer international shipping?
+ANSWER: Information about international shipping options offered by Schenker are provided on the information page.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: What is the cost of shipping with DB Schenker?
+ANSWER: The cost of shipping with Schenker is determined by several factors. Details are provided on the information page.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I choose a specific delivery date with DB Schenker?
+ANSWER: Schenker provides information about delivery scheduling options available for customers on the information page.
+URL: https://info.tradera.com/en/dbschenker/

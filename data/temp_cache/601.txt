@@ -1,0 +1,39 @@
+QUESTION: Hvilken type annoncer er tilladt på Tradera?
+ANSWER: På Tradera er kun annoncer for varer, der er til salg, tilladt.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvad er kravet til antallet af billeder for en annonce på Tradera?
+ANSWER: Kravet til antallet af billeder for en annonce på Tradera er mindst et billede af den pågældende vare.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvorfor har Tradera reglen om at alle annoncer skal være for en vare?
+ANSWER: Tradera er en markedsplads, og derfor skal alle annoncer være for en vare, der er til salg.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Er det muligt at oprette en annonce uden at have en vare til salg?
+ANSWER: Nej, det er ikke muligt at oprette en annonce på Tradera uden at have en vare til salg.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvad sker der, hvis en annonce ikke har en vare til salg?
+ANSWER: Annoncer, der ikke har en vare til salg, vil ikke blive tilladt på Tradera.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Er der andre krav udover at have mindst et billede af varen for en annonce på Tradera?
+ANSWER: Ja, der er andre krav til en annonce på Tradera, men mindst et billede af varen er et af de vigtigste krav.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Er det tilladt at sælge tjenester på Tradera?
+ANSWER: Nej, det er ikke tilladt at sælge tjenester på Tradera. Det er kun tilladt at oprette annoncer for varer, der er til salg på platformen.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Er der nogen mulighed for at kontakte Tradera vedrørende spørgsmål om oprettelse af annoncer?
+ANSWER: Ja, der er mulighed for at kontakte Tradera vedrørende spørgsmål om oprettelse af annoncer. Deres kontaktinformation kan findes på deres hjemmeside.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Er der nogen aldersbegrænsning for at oprette en annonce på Tradera?
+ANSWER: Ja, der er aldersbegrænsninger for at oprette en annonce på Tradera. Brugere skal være mindst 18 år eller have tilladelse fra en forælder eller værge.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvorfor er tilladelsen af annoncer for varer vigtigt for Tradera?
+ANSWER: Tilladelsen af annoncer for varer er vigtig for Tradera, da de er en markedsplads for købere og sælgere, og annoncer uden en tilgængelig vare kan føre til falske annoncer og skabe problemer for både købere og sælgere.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/

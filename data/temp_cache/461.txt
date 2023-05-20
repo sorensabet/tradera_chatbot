@@ -1,0 +1,39 @@
+QUESTION: Vad är Bring och hur fungerar det?
+ANSWER: Bring är en fraktjänst som inte kräver någon pappersfraktsedel. Istället för en fraktsedel får du en 8-siffrig kod som du skriver direkt på paketet. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Hur får jag fraktsedeln om jag använder Bring?
+ANSWER: Vid försändelser med Bring så behöver du ingen fraktsedel, du får istället en 8-siffrig kod som du skriver direkt på paketet. 
+URL: https://info.tradera.com/bring/
+ 
+QUESTION: Vad händer om min försändelse väger mer än den viktklass jag betalat för med Bring?
+ANSWER: Om din försändelse väger mer än den viktklass du betalat för så kommer du bli fakturerad för det överskjutande beloppet på nästa faktura. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Kan jag lämna in min försändelse hos ett annat Bring ombud än det jag valt?
+ANSWER: Ja, du kan lämna in din försändelse hos valfritt Bring ombud. Du hittar listan över ombud på deras hemsida. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Får jag kvittens när jag lämnar in mitt paket hos Bring?
+ANSWER: Ja, du kommer att få ett mail eller SMS med kvittens när paketet har blivit scannat. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Kan jag ändra mottagaradressen efter att jag genomfört fraktbokningen med Bring?
+ANSWER: Nej, mottagaren behöver ändra adressen innan du genomför fraktbokningen. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Kan jag använda en Box adress som avsändaradress när jag skickar med Bring?
+ANSWER: Nej, du kan endast ange vanliga adresser som avsändaradress i fall varan skulle behöva returneras. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Hur vet jag när mitt paket har levererats med Bring?
+ANSWER: Du får ett SMS när paketet har blivit levererat. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Hur fungerar Bring för internationella försändelser?
+ANSWER: Bring kan användas för internationella försändelser och du behöver inte skriva ut några fraktsedlar. Istället för en fraktsedel så får du en 8-siffrig kod som du skriver direkt på paketet innan du lämnar in det hos ditt ombud. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vad är en viktklass med Bring och hur fungerar det?
+ANSWER: Bring har olika viktklasser som baseras på vikten på din försändelse. Om din försändelse väger mer än den viktklass du betalat för så kommer du bli fakturerad för det överskjutande beloppet på nästa faktura. 
+URL: https://info.tradera.com/bring/

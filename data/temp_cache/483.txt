@@ -1,0 +1,39 @@
+QUESTION: Hvad er auktionens slutdato, når man opretter en auktion med en fast varighed på Tradera?
+ANSWER: Hvis man opretter en auktion med en fast varighed på Tradera, så vil klokkeslættet for annoncens sluttidspunktet være det samme som klokkeslættet for starttidspunktet. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er fremgangsmåden for at publicere en annonce med fast pris på Tradera?
+ANSWER: For at publicere en annonce med fast pris på Tradera, skal man oprette en annonce og derefter aktivere den. Annoncen vil være aktiv med det samme og kan være aktiv i maks. 14 dage.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er en butiksannonce, og hvilke regler gælder for den på Tradera?
+ANSWER: En butiksannonce på Tradera er en annonce, hvor man kan tilføje alle de varer, som man har på lager. Denne annonce vil være synlig, indtil man ikke har flere varer på lager, eller man selv vælger at fjerne annoncen. Reglerne for butiksannoncer er, at man skal have en butik på Tradera for at kunne publicere en butiksannonce. Butiksannoncer har altid en fast pris.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvordan vil jeg modtage betaling for mine solgte varer på Tradera?
+ANSWER: Betalingen for dine solgte varer på Tradera vil enten gå til din bank-, PayPal- eller Swish-konto alt efter, hvordan kunden vælger at betale. Første gang man sælger på Tradera, skal man tilføje sin bank- eller PayPal-konto og sit Swish-nummer (Swish er valgfrit).
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Kan man byde på en annonce med fast pris på Tradera?
+ANSWER: Nej, det er ikke muligt at give bud på en annonce med fast pris på Tradera. Når nogen har købt varen, vil annoncen blive lukket.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvor længe vil en butiksannonce være synlig på Tradera?
+ANSWER: En butiksannonce vil være synlig på Tradera, indtil man beslutter sig for at fjerne den, eller indtil den sidste vare på lager er blevet solgt.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er de tilgængelige betalingsmuligheder for Tradera-kunder?
+ANSWER: Tradera-kunder kan betale via bankoverførsel, PayPal eller Swish.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er Nettoudbetaling for private brugere på Tradera?
+ANSWER: Fra den 1. maj 2022 indfører Tradera Nettoudbetaling for alle private brugere. Det betyder, at Tradera vil tage 10% af salgsprisen af hver vare solgt på platformen som salær, og derefter vil sælgeren modtage resten af beløbet.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er synlighedsperioden for en annonce med fast pris på Tradera?
+ANSWER: En annonce med fast pris kan være aktiv i maksimalt 14 dage på Tradera.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvordan betaler man for en annonce på Tradera?
+ANSWER: Fra den 1. maj 2022 vil Tradera indføre Nettoudbetaling for alle private brugere på platformen. Sælgere vil ikke længere betale direkte for deres annoncer, men vil i stedet betale en salær på 10% af salgsprisen for hver vare solgt på Tradera.
+URL: https://info.tradera.com/da/salja-pa-tradera/

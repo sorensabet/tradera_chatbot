@@ -1,0 +1,39 @@
+QUESTION: Vilka ändringar kan Tradera genomföra i sina Användarvillkor?
+ANSWER: Tradera kan genomföra ändringar i sina Användarvillkor för både företag och privatpersoner, inklusive Villkor för betalningar för kunder bosatta i Sverige och företag och kunder bosatta utomlands. Ändringarna träder i kraft 15 dagar från det datum då e-postmeddelandet om ändringarna skickades.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan företagsanvändare säga upp Användarvillkoren före varselperiodens utgång?
+ANSWER: Ja, företagsanvändare har rätt att säga upp Traderas Användarvillkor, inklusive Villkor för betalningar, före varselperiodens utgång. Uppsägningen ska få verkan inom 15 dagar efter mottagandet av meddelandet om ändringarna. Varselperioden kan också frångås av företagsanvändaren genom ett skriftligt meddelande eller genom en tydlig bekräftelse.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om Tradera behöver längre tid för tekniska eller kommersiella anpassningar med en företagsanvändare?
+ANSWER: Om Tradera behöver längre tid för tekniska eller kommersiella anpassningar med en företagsanvändare, kan de bevilja en längre varselperiod för ändringarna i Användarvillkoren. Om en förlängd varselperiod är tillämplig kommer Tradera att ange detta i e-postmeddelandet med de föreslagna ändringarna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Gäller varselperioden för företagsanvändare som saluför nya varor i Traderas tjänster?
+ANSWER: Nej, varselperioden gäller inte för företagsanvändare som saluför nya varor i Traderas tjänster. Dessa företagsanvändare anses ha bekräftat att avstå från varselperioden, såvida inte en längre uppsägningstid än 15 dagar gäller enligt Användarvillkoren. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan företagsanvändare frångå varselperioden genom ett skriftligt meddelande?
+ANSWER: Ja, företagsanvändare kan frångå varselperioden genom ett skriftligt meddelande eller genom en tydlig bekräftelse.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Gäller varselperioden för både svenska och utländska kunder?
+ANSWER: Ja, varselperioden gäller både för Villkor för betalningar för kunder bosatta i Sverige och för Villkor för betalningar (företag och kunder bosatta utomlands).
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om en företagsanvändare inte säger upp Användarvillkoren under varselperioden?
+ANSWER: Om en företagsanvändare inte säger upp Traderas Användarvillkor, inklusive Villkor för betalningar, under varselperioden på 15 dagar, anses företagsanvändaren ha accepterat de föreslagna ändringarna i meddelandet från Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan företagsanvändare få längre tid än 15 dagar på sig att acceptera ändringar i Användarvillkoren?
+ANSWER: Ja, Tradera kan bevilja en längre varselperiod om de föreslagna ändringarna kräver nödvändiga tekniska eller kommersiella anpassningar hos den berörda företagsanvändaren. Om en förlängd varselperiod är tillämplig kommer detta att anges i e-postmeddelandet med de föreslagna ändringarna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan företagsanvändare få en längre uppsägningstid än 15 dagar enligt Användarvillkoren?
+ANSWER: Ja, företagsanvändare kan få en längre uppsägningstid än 15 dagar enligt Användarvillkoren om detta gäller i enlighet med deras avtal med Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Traderas Användarvillkor omfatta en rättslig skyldighet som kräver en ändring?
+ANSWER: Ja, Tradera kan behöva ändra sina Användarvillkor på grund av en rättslig skyldighet. I sådana fall kan varselperioden inte frångås.
+URL: https://info.tradera.com/anvandaravtal/

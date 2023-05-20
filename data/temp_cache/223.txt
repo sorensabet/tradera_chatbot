@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att underlätta användning av webbplatsen, förbättra användarupplevelsen samt för riktad annonsering. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 2: Vad är skillnaden mellan nödvändiga och funktionella cookies på Tradera?
+ANSWER: Nödvändiga cookies är de cookies som behövs för att Tradera ska fungera som det är avsett medan funktionella cookies används för att ge en mer anpassad och utökad funktionalitet av Tradera. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 3: Hur använder Tradera cookies för att förbättra användarupplevelsen?
+ANSWER: Tradera använder cookies för att anonymt mäta hur Tradera används av besökare, för att sedan kunna identifiera eventuella förbättringsområden och åtgärda dem. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 4: Kan man stänga av alla cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies måste användas för att Tradera ska fungera tillfredsställande. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 5: Vad kan man använda funktionella cookies för på Tradera?
+ANSWER: Funktionella cookies kan användas för att spara inställningar och preferenser på Tradera. Till exempel, att logga in med Facebook konto. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 6: Kan Traderas annonseringspartners använda cookies för riktad annonsering?
+ANSWER: Ja, Traderas annonseringspartners kan använda cookies för riktade annonser, men det kommer endast att göras om användarna själva godkänner det.  
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 7: Är det säkert att använda cookies på Tradera?
+ANSWER: Ja, det är säkert att använda cookies på Tradera eftersom Tradera endast använder cookies för att underlätta användning av webbplatsen och för att förbättra användarupplevelsen. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 8: Kan Tradera dela användares personliga information med andra företag?
+ANSWER: Nej, Tradera säljer inte vidare användarnas personuppgifter till andra företag. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 9: Varför är det viktigt att använda cookies på Tradera?
+ANSWER: Det är viktigt att använda cookies på Tradera eftersom det gör det möjligt att optimera webbplatsens funktionalitet och förbättra användarupplevelsen. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION 10: Kan man radera cookies på Tradera?
+ANSWER: Ja, man kan radera Traderas cookies genom webbläsarens inställningar. 
+URL: https://info.tradera.com/felsokningsguide/

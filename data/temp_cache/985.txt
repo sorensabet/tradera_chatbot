@@ -1,0 +1,39 @@
+QUESTION: Vad omfattar denna Integritetspolicy?
+ANSWER: Denna integritetspolicy beskriver hur Tradera samlar in, använder, sparar, lämnar ut och skyddar personuppgifter som direkt eller indirekt kan identifiera en fysisk person.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka personuppgifter samlas in av Tradera?
+ANSWER: Denna Integritetspolicy beskriver inte uttömmande vilka personuppgifter som Tradera samlar in, men det inkluderar information som direkt eller indirekt kan identifiera en fysisk person.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vem ansvarar för personuppgifter som samlas in?
+ANSWER: Tradera är personuppgiftsansvarig för de personuppgifter som samlas in och behandlas i enlighet med denna Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur behandlar Tradera personuppgifterna?
+ANSWER: Tradera behandlar personuppgifterna i enlighet med denna Integritetspolicy, vilket innebär att de samlar in, använder, sparar, lämnar ut och skyddar personuppgifter som direkt eller indirekt kan identifiera en fysisk person.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken rättslig grund har Tradera för behandling av personuppgifter?
+ANSWER: Tradera har som rättslig grund för behandling av personuppgifter att det är nödvändigt för att fullgöra avtal med dig eller tillhandahålla tjänster som du har bett om, eller baserat på samtycke eller berättigat intresse.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Behandlar Tradera personuppgifter för marknadsföring?
+ANSWER: Ja, Tradera behandlar personuppgifter för marknadsföring, men endast om du har gett ditt samtycke eller om det är tillåtet enligt tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag avsluta Traderas användning av mina personuppgifter för marknadsföring?
+ANSWER: Ja, du kan när som helst avsluta Traderas användning av dina personuppgifter för marknadsföring genom att kontakta Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Delar Tradera personuppgifter med andra användare?
+ANSWER: Ja, Tradera kan dela personuppgifter som ditt användar-ID med andra användare för att utföra transaktioner och samarbeta med andra användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Använder Tradera cookies, webb-beacons eller liknande teknik?
+ANSWER: Ja, Tradera använder cookies, webb-beacons och liknande teknik för att förbättra webbplatsens funktionalitet och användarupplevelsen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Spam, spionprogram och identitetsstöld kan leda till utestängning från Tradera?
+ANSWER: Ja, spam, spionprogram och identitetsstöld är förbjudet på Tradera och kan leda till utestängning från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

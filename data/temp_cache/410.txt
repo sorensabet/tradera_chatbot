@@ -1,0 +1,39 @@
+QUESTION 1: Vilken information om Traderas arbete finns tillgänglig på webbplatsen?
+ANSWER: Informationen om Traderas arbete finns i länken "Traderas arbete" på webbplatsen.
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 2: Hur kan man kontakta Tradera?
+ANSWER: Tradera kan kontaktas genom länken "Kontakt os" på webbplatsen.
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 3: Vad är Traderas säkerhetscenter?
+ANSWER: Traderas säkerhetscenter är en resurs på webbplatsen för information om säkerhet och tips för att undvika bedrägeri.
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 4: Vilka regler gäller på Tradera?
+ANSWER: Reglerna på Tradera finns specificerade på webbplatsen under länken "Regler på Tradera".
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 5: Vad är Traderas policy för rättighetsinnehavare?
+ANSWER: Information om Traderas policy för rättighetsinnehavare finns på webbplatsen under länken "Rättighetsinnehavare och Tradera".
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 6: Hur kan man säkerställa ett säkert lösenord på Tradera?
+ANSWER: Informationen om hur man säkerställer ett säkert lösenord finns på webbplatsen under länken "Säkra lösenord".
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 7: Vad är falska e-postmeddelanden och vad kan man göra för att undvika dem på Tradera?
+ANSWER: Information om falska e-postmeddelanden på Tradera och tips för att undvika dem finns på webbplatsen under länken "Falska e-postmeddelanden".
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 8: Vilka samarbeten har Tradera?
+ANSWER: Information om Traderas samarbeten finns på webbplatsen under länken "Våra samarbeten".
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 9: Vad är SMS-koder och BankID på Tradera?
+ANSWER: Information om SMS-koder och BankID, och hur de används på Tradera finns på webbplatsen under länken "SMS-koder och BankID".
+URL: https://info.tradera.com/da/traderas-work/
+
+QUESTION 10: Vart finns avtals- och villkorsdokumenten för Tradera?
+ANSWER: Informationsdokumenten för avtal och villkor på Tradera finns på webbplatsen under länken "Avtal och villkor".
+URL: https://info.tradera.com/da/traderas-work/

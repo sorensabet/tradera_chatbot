@@ -1,0 +1,39 @@
+QUESTION: Hvad er en virksomhedsbevis eller en registreringsattest?
+ANSWER: Et virksomhedsbevis eller en registreringsattest er et dokument, der beviser, at den pågældende virksomhed er registreret i det angivne land.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Hvorfor har Tradera brug for disse dokumenter?
+ANSWER: Tradera har kun brug for disse dokumenter i tilfælde af, at de ikke kan verificere en virksomhed med de oplysninger, der allerede er angivet. Den primære grund til, at de verificerer hver virksomhed, er at de vil have en sikker markedsplads.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Kan jeg sende mine oplysninger til Tradera for virksomhedsverifikation?
+ANSWER: Ja, du kan sende dine oplysninger ved at klikke på knappen "klik her".
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Hvad er formålet med virksomhedsverifikation?
+ANSWER: Formålet med virksomhedsverifikation er at have en sikker markedsplads på Tradera, det giver også et tillidsfuldt forhold mellem Tradera og virksomhederne.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Er det nødvendigt at have en virksomhedskonto på Tradera for at sælge varer?
+ANSWER: Nej, Tradera tillader både private personer og erhvervssælgere at sælge varer på sin platform.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Hvordan kan jeg handle på Tradera?
+ANSWER: Du kan handle på Tradera ved at oprette en konto, søge efter det ønskede produkt, og derefter byde på produktet eller købe det til fast pris.
+URL: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+
+QUESTION: Er der nogen kategorier for produkter på Tradera?
+ANSWER: Ja, der er mange forskellige kategorier for produkter på Tradera, som f.eks. elektronik, tøj, skønhed, bøger og meget mere.
+URL: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+
+QUESTION: Kan jeg se populære varemærker på Traderas platform?
+ANSWER: Ja, du kan se populære varemærker på Traderas platform.
+URL: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+
+QUESTION: Hvordan kan jeg sælge som privatperson på Tradera?
+ANSWER: Du kan sælge som privatperson på Tradera ved at oprette en konto og derefter oprette en salgsannonce for dit produkt.
+URL: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+
+QUESTION: Har Tradera en fragtberegner?
+ANSWER: Ja, Tradera har en fragtberegner på deres platform til at beregne fragtpriser for købere og sælgere.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/

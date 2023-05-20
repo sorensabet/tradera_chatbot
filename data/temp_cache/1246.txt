@@ -1,0 +1,39 @@
+QUESTION 1: What is the first instance where disputes related to the terms and conditions shall be settled?
+ANSWER: Disputes related to terms and conditions shall be settled by the Swedish General Court where the Stockholm District Court shall be the first instance.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 2: Whose terms and conditions do sellers need to accept if they use Tradera's checkout solution and payout solution?
+ANSWER: Sellers who use Tradera's checkout solution and payout solution also accept the terms and conditions of Tradera's partner PayPal's Hyperwallet solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 3: What is the User Agreement for Hyperwallet solution?
+ANSWER: The User Agreement for Hyperwallet solution can be found on https://www.hyperwallet.com/agreements-terms/.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 4: What is the Privacy Policy for Hyperwallet solution?
+ANSWER: The Privacy Policy for Hyperwallet solution can be found on https://www.hyperwallet.com/privacy-policy/.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 5: What are some of the things Tradera uses cookies for?
+ANSWER: Tradera uses cookies for customizing content and ads, providing social media functions, and analyzing traffic. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 6: Is it possible to turn off the necessary cookies on Tradera's website?
+ANSWER: No, it is not possible to turn off the necessary cookies on Tradera's website.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 7: How are the performance cookies used on Tradera's website?
+ANSWER: Performance cookies are used for anonymous measurement of how Tradera is used so that user experience can be improved.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 8: What are functional cookies used for on Tradera's website?
+ANSWER: Functional cookies are used for extended functionality and user customization on Tradera such as some saved settings or logging in with Facebook.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 9: Who are the marketing cookies used by?
+ANSWER: The marketing cookies are used by Tradera's advertising partners for targeted ads relevant to the user.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION 10: What are the contact details for Tradera's customer support?
+ANSWER: The contact and help section of Tradera's webpage has all the details for contacting their customer support.
+URL: https://info.tradera.com/en/contact-and-help/help/

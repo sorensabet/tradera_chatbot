@@ -1,0 +1,39 @@
+QUESTION: Hvad er fokusområderne for Tradera, når det kommer til sikkerhed?
+ANSWER: Tradera fokuserer på flere områder i deres arbejde for at sikre en sikker markedsplads til deres kunder og sælgere. Disse områder omfatter blandt andet personlige oplysninger, verifikation og samarbejde. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Er Tradera en anonym platform?
+ANSWER: Nej, Tradera er ikke en anonym platform. Hvert medlem er tilknyttet sit eget personnummer for at sikre en højere grad af sikkerhed. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad er Traderas Privacy statement?
+ANSWER: Traderas Privacy statement beskriver, hvordan personlige oplysninger håndteres på deres platform. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvorfor er verifikation vigtigt for Tradera?
+ANSWER: Verifikation af alle brugere på platformen er et af Traderas fokusområder for at sikre en tryg handel for både købere og sælgere. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad er betalingsvilkårene hos Tradera?
+ANSWER: Betalingsvilkårene for køb og salg på Tradera er beskrevet i platformens vilkår og betingelser. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad er Traderas samarbejder?
+ANSWER: Tradera har flere samarbejder, der er en del af deres arbejde for at skabe en sikker markedsplads. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad er Traderas Integritetspolitik?
+ANSWER: Traderas Integritetspolitik beskriver, hvordan platformen håndterer brugerdata og personlige oplysninger. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvorfor arbejder Tradera med rättighetsinnehavare?
+ANSWER: Tradera arbejder sammen med rättighetsinnehavere for at sikre, at der ikke sælges produkter på deres platform, der krænker andres ophavsrettigheder. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad er SMS-koder og BankID hos Tradera?
+ANSWER: SMS-koder og BankID er en del af Traderas metoder til at bekræfte deres brugeres identitet og sikre en tryg handel. 
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvordan er Traderas anvendelse af cookies?
+ANSWER: Tradera anvender cookies for at forbedre brugeroplevelsen på deres platform og til at måle brugeraktivitet. 
+URL: https://info.tradera.com/da/security-center/

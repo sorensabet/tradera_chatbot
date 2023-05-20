@@ -1,0 +1,39 @@
+QUESTION: Kan jag få en återbetalning av mina avgifter om min vara inte säljer?
+ANSWER: Det finns en osåltavgift som du endast betalar om du har publicerat mer än 100 varor på en månad och din vara inte säljer. Priserna kan variera beroende på om du har en butik, är en aktiv kampanj etc. Tradera har en prislista för att visa de olika avgifterna för tillval och osåltavgift, men de ger inte återbetalning för avgifterna.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Hur avgörs slutpriset i en auktion?
+ANSWER: Det högsta budet vid slutet av auktionen bestämmer slutpriset för varan. Detta högsta bud är synligt för både säljaren och potentiella budgivare under auktionens gång och precis när auktionen slutar.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag välja när auktionen slutar?
+ANSWER: Ja, du kan välja hur lång en auktion på Tradera kommer att vara, med en längsta tid på 14 dagar och ett minimum på 3 dagar. Sluttiden för auktionen blir exakt samma som starttiden. 
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag göra min annons synlig även i min egen butik på Tradera?
+ANSWER: Ja, för att göra en annons synlig i din egen butik på Tradera, krävs att du har en butik på Tradera. Butiksannonser pågår tills du själv väljer att ta bort den eller om lagersaldot tar slut. När du har en butik kan du också lägga till flera varor i lagret och annonsen fortsätter att synas tills lagersaldot tar slut.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag sälja varor till fast pris på Tradera?
+ANSWER: Ja, det är möjligt att sätta upp en fastprisannons. En fastprisannons kommer att vara synlig på webbplatsen så snart du har klickat “publicera” och kommer att vara aktiv i högst 30 dagar. Under en fastprisannons, är det inte möjligt att bjuda på varan - köparen betalar direkt.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag publicera flera varor i lagret på en gång med min butiksannons?
+ANSWER: Ja, när du väl har skapat din butik och annonserat med en butiksannons på Tradera kan du lägga till flera varor i butikslagret på en gång och annonsen kommer att visas tills lagersaldot tar slut. 
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vilka betalningsalternativ erbjuder Tradera köpare?
+ANSWER: Tradera erbjuder flera betalningsalternativ för köpare, inklusive banköverföring, PayPal, och Swish. Detta beror dock på vilka betalningsalternativ som säljaren erbjuder.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag välja betalningssätt för mina försäljningar på Tradera?
+ANSWER: Ja, Tradera erbjuder flera utbetalningsalternativ för säljare, inklusive banköverföring, PayPal och Swish. Säljaren kan välja vilket alternativ som helst.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Hur länge kan en fastprisannons ligga aktiv på Tradera webbplatsen?
+ANSWER: En fastprisannons kan vara aktiv på Tradera webbplatsen i högst 30 dagar.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan jag redigera min butiksannons på Tradera?
+ANSWER: Ja, du kan redigera din butiksannons på Tradera när du vill. När du har gjort ändringar kommer den nya butiksannonsen att visas istället för den tidigare versionen.
+URL: https://info.tradera.com/salja-pa-tradera/

@@ -1,0 +1,39 @@
+QUESTION: What is the procedure for a dispute resolution process in Tradera?
+ANSWER: In case of a dispute in the seller's goods or services, the buyer must demonstrate that there is a defect in the goods or services sold by the seller by providing supporting documentation. If a dispute resolution process is closed in the buyer's favour, the buyer is entitled to a refund, but if the dispute resolution process is closed in the Seller's favour, the buyer is not entitled to a refund within the scope of Tradera's dispute resolution process. However, both the seller and the buyer are free to come to a different resolution in a different forum. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the international buying and selling policy on Tradera?
+ANSWER: It is lawful to sell certain products to other countries. The buyers and sellers are responsible for complying with all laws and regulations applicable to international sales, purchase, and shipment of items. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What happens if the buyer opens a dispute resolution process for a purchase of goods that isn't part of Tradera's buyer protection?
+ANSWER: If the buyer opens a dispute resolution process in respect of a purchase of goods that is not included in Tradera's buyer protection, Tradera will close the dispute without any further investigation, and the buyer will not be entitled to a refund.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can users translate a content using third-party tools on Tradera?
+ANSWER: Yes, Tradera may provide a function through services or automatic tools provided by third parties, which enable listings and other content on Tradera to be translated into other languages. Users have the option to use such services or tools. However, Tradera cannot guarantee the availability or the accuracy of any translation, and users use all such services at their own risk.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can Tradera use content provided by users for commercial purposes? 
+ANSWER: Yes, Tradera has the right, but not the obligation, to use for commercial purposes all content that users provide or make available to Tradera by using the Services, such as listing or offering, buying and/or selling items or services. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can users request a refund after a dispute resolution process on Tradera?
+ANSWER: If a dispute resolution process is closed in the buyer's favour, the buyer is entitled to a refund of all or some of the amount the buyer paid for the relevant goods. However, if the dispute resolution process is closed in the Seller's favour, the buyer is not entitled to a refund within the scope of Tradera's dispute resolution process.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can users appeal Tradera's decision in a matter?
+ANSWER: No, Tradera's decision in a matter cannot be appealed to Tradera. However, the seller and the buyer are free to come to a different resolution to a dispute in a different forum.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Are there rules set out in Tradera's Payment Solution Terms concerning seller protection?
+ANSWER: Yes, the rules concerning seller protection are set out in Tradera's Payment Solution Terms.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Do buyers have to provide supporting documentation to prove a defect in the goods or services sold by the seller in Tradera's dispute resolution process?
+ANSWER: Yes, the buyer must demonstrate that there is a defect in the services or goods sold by the seller, e.g. by offering supporting documentation to prove that the goods are different from the seller's description in Tradera's dispute resolution process.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Can Tradera guarantee the accuracy of any translation of the content on Tradera?
+ANSWER: Tradera cannot guarantee the availability or the accuracy of any translation of the content on Tradera because it may provide a function through services or automatic tools provided by third parties that enable listings and other content on Tradera to be translated into other languages. Users use all such services at their own risk.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

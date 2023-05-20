@@ -1,0 +1,39 @@
+QUESTION: Hvordan verificeres Tradera-brugere?
+ANSWER: Tradera-verifikationen afhænger af brugerens land. Svenske brugere verificeres med BankID, danske brugere med MitID og brugere fra andre lande skal uploade et billede af et gyldigt ID-dokument.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvordan kan kunder og sælgere videregive feedback på Tradera?
+ANSWER: Tradera giver kunder og sælgere mulighed for at give hinanden feedback efter hver gennemført handel. Dette feedbacksystem giver Tradera og medlemmerne bedre mulighed for at undersøge andre medlemmer.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvilke forsendelsesmetoder tilbyder Tradera?
+ANSWER: Tradera samarbejder med sikre og sporbar forsendelsesmuligheder såsom DHL og Schenker. Medlemmer får også bedre priser på disse forsendelsesmuligheder.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Er betaling sikker på Tradera?
+ANSWER: Ja, Tradera har en integreret betalingsløsning, der sikrer, at sælgeren er verificeret.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvilke typer transaktioner er sikre på Tradera?
+ANSWER: Tradera ønsker at skabe en sikker oplevelse for alle medlemmer, og derfor overvåger de løbende medlemskonti, som andre har haft dårlige oplevelser med.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvordan kan brugere rapportere en annonce på Tradera?
+ANSWER: Alle medlemmer kan rapportere en annonce, der ikke overholder Traderas regler, ved at bruge rapporteringsfunktionen. Herefter gennemgår sikkerhedsteamet rapporten.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvilke sikkerhedsfunktioner tilbyder Tradera?
+ANSWER: Tradera tilbyder flere sikkerhedsfunktioner som sikker forsendelse, integreret betalingsløsning, feedbacksystem og overvågning af medlemskonti. Disse er alle med til at skabe en sikker oplevelse for medlemmerne.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad er formålet med Traderas feedbacksystem?
+ANSWER: Traderas feedbacksystem giver medlemmerne mulighed for at give hinanden feedback efter gennemførte handler. Dette giver Tradera og medlemmerne bedre mulighed for at undersøge andre medlemmer.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvorfor samarbejder Tradera med DHL og Schenker?
+ANSWER: Tradera samarbejder med DHL og Schenker for at tilbyde sikker og sporbar forsendelse til medlemmerne. Medlemmerne får også bedre priser på disse forsendelsesmuligheder.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION: Hvad sker der, hvis en annonce på Tradera ikke overholder reglerne?
+ANSWER: Tradera sikrer, at annoncerne på deres hjemmeside følger reglerne og svensk lovgivning. Hvis en annonce ikke overholder reglerne, kan alle medlemmer rapportere den. Herefter vil sikkerhedsteamet gennemgå rapporten.
+URL: https://info.tradera.com/da/security-center/

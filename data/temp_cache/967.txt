@@ -1,0 +1,39 @@
+QUESTION: Vad är kostnaden för Fraktsätt #1 och Fraktkostnad #2?
+ANSWER: Kostnad #1 är kostnaden för Fraktsätt #1 och Fraktkostnad #2 är kostnaden för Fraktsätt #2. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken är kostnaden för DB Schenker frakten?
+ANSWER: Kostnaden för DB Schenker frakten är 69:-.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken är kostnaden för DHL frakten?
+ANSWER: Kostnaden för DHL frakten är 109:-.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad behöver man ange för att aktivera omstart?
+ANSWER: För att aktivera omstart behöver du ange värdet 2.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad behöver man ange för att ranka upp en annons?
+ANSWER: För att ranka upp en annons behöver du ange värdet "true", "yes", eller "1".
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad är det högsta antalet tecken man kan ange för en egen referens?
+ANSWER: Maximalt antal tecken man kan ange för en egen referens är 60.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad är reservationspris?
+ANSWER: Reservationspris är priset som anges i heltal utan decimaler.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken är den sista stepen för att lägga upp en lista som en CSV fil?
+ANSWER: Sista steget är att spara ner listan som en CSV fil.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilket format behöver man spara filen i om man utgår från exempelvis Excel?
+ANSWER: Om man utgår från exempelvis Excel behöver man spara filen i "CSV UTF-8" format.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Behöver man ange någon specifik symbol för att markera en highlight?
+ANSWER: Ja, för att markera en highlight behöver du ange "true", "yes", eller "1".
+URL: https://info.tradera.com/prolister/csv/

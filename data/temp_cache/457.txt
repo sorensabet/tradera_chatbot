@@ -1,0 +1,39 @@
+QUESTION: Er mine Bring-pakker forsikret? 
+ANSWER: Ja, alle Bring-pakker sendt gennem Tradera er forsikret op til 5000 DKK/6900 SEK.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg spore min Bring-pakke, og hvordan gør jeg det? 
+ANSWER: Ja, alle Bring-pakker er sporbare. Så snart pakken er afsendt af Bring, modtager modtageren en mail, hvorfra leveringen kan spores.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvad gør jeg, hvis jeg ønsker at få min pakke sendt til en anden adresse end min egen? 
+ANSWER: Kontakt venligst sælgeren, før pakken sendes, eller opdater din adresse, før sælgeren bestiller forsendelsen.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvor længe kan min pakke opbevares hos fragtfirmaet, før den sendes tilbage til afsenderen? 
+ANSWER: Pakken opbevares i 14 dage før den returneres.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvilke typer ID er nødvendige for at afhente min pakke? 
+ANSWER: Gyldige legitimation inkluderer billedeid eller sygesikringskort.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan min pakke blive opbevaret hos fragtfirmaet i længere tid, hvis jeg ikke kan hente den i løbet af den tildelte periode? 
+ANSWER: Pakken kan maksimalt blive stående i 14 dage, hvis du ikke kan afhente pakken i dette tidsrum, skal du kontakte sælgeren på forhånd og bede dem om at sende den på et senere tidspunkt.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg har yderligere spørgsmål? 
+ANSWER: Du kan kontakte Bring's kundeservice ved at ringe til telefonnummeret for dit land eller sende en e-mail til cs@bring.com.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan kan jeg kontakte Bring kundeservice i Danmark? 
+ANSWER: Du kan kontakte Bring's kundeservice i Danmark ved at ringe til telefonnummeret +45 70286070.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan kan jeg kontakte Bring kundeservice i Sverige? 
+ANSWER: Du kan kontakte Bring's kundeservice i Sverige ved at ringe til telefonnummeret +46 20765000.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg kontakte Bring kundeservice via e-mail? 
+ANSWER: Ja, du kan kontakte Bring's kundeservice via e-mail på cs@bring.com.
+URL: https://info.tradera.com/da/bring/

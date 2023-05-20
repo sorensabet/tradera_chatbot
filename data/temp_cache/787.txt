@@ -1,0 +1,39 @@
+QUESTION: Kan jag använda Swish som betalningsalternativ på Tradera?
+ANSWER: Ja, du kan använda Swish som betalningsalternativ på Tradera om du aktiverar Tradera Betalning. Aktivera Tradera Betalning krävs för att kunna ta emot betalningar från Swish på Tradera.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jag ha både ett privat och ett företagskonto på Tradera?
+ANSWER: Ja, du kan ha både ett privatkonto och ett företagskonto på Tradera. För att skapa ett företagskonto behöver du registrera ditt företag hos Bolagsverket och skapa ett separat konto med din företagsinformation.
+URL: https://www.tradera.com/hjalp?articleId=2310
+
+QUESTION: Vad ska jag göra om jag inte har lagt till mitt kontonummer eller PayPal-konto innan köparen betalat?
+ANSWER: Om du inte har lagt till ditt kontonummer eller PayPal-konto innan köparen betalar, kommer din utbetalning att integreras. Du kommer behöva lägga till din information för att få utbetalningen.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera beräknar automatiskt fraktkostnader utifrån varans vikt och storlek samt avsändarens och mottagarens postnummer. På så sätt kan du som säljare enkelt ange en rättvis fraktkostnad i dina annonser.
+URL: https://www.tradera.com/hjalp?articleId=2294
+
+QUESTION: Kan jag sälja varor med reserverat pris på Tradera?
+ANSWER: Ja, du kan sälja varor med reserverat pris på Tradera. Reserverat pris innebär att du som säljare sätter ett minimipris som auktionen inte kan gå under. Om budgivningen inte når upp till det reserverade priset, säljs inte varan.
+URL: https://www.tradera.com/hjalp?articleId=2337
+
+QUESTION: Vilken typ av varor kan jag sälja på Tradera?
+ANSWER: Du kan sälja ett brett sortiment av varor inom olika kategorier på Tradera. Allt från kläder och accessoarer till hemelektronik och inredning. När du skapar din annons kan du välja vilken kategori varan tillhör.
+URL: https://www.tradera.com/hjalp?articleId=2254
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera är ett val som både köpare och säljare kan göra för att minska miljöpåverkan. Genom Grön frakt kompenserar Tradera för klimatpåverkan från frakten av varan, vilket gör det till en mer hållbar leveransmetod.
+URL: https://www.tradera.com/hjalp?articleId=2297
+
+QUESTION: Vilka populära varumärken kan jag hitta på Tradera?
+ANSWER: Du kan hitta ett stort antal populära varumärken på Tradera, bland annat inom modebranschen såsom Nike, Adidas, Levi's och Filippa K. Populära varumärken varierar över tiden.
+URL: https://www.tradera.com/hjalp?articleId=2277
+
+QUESTION: Kan jag donera pengar till välgörenhet via Tradera?
+ANSWER: Ja, du kan donera pengar till välgörenhet via Tradera genom att lägga ut varor till förmån för en organisation. Du väljer själv organisationen som ska få donationen och Tradera donerar hela försäljningsbeloppet till organisationen.
+URL: https://www.tradera.com/hjalp?articleId=2323
+
+QUESTION: Var hittar jag information om säkerhet och regler på Tradera?
+ANSWER: Du hittar information om säkerhet och regler på Tradera genom att gå till sidan "Säkerhet & regler". Här hittar du information om bland annat hur du kan skydda dig mot bedrägeri och vilka regler som gäller på Tradera.
+URL: https://www.tradera.com/hjalp?section=sakerhet-regler

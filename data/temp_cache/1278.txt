@@ -1,0 +1,39 @@
+QUESTION: Vilka villkor måste jag godkänna som säljare när jag säljer ett föremål på Tradera?
+ANSWER: När du säljer ett föremål på Tradera måste du godkänna Villkor för Traderas betallösning som gäller för säljare.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vem ansvarar för betalningsrelaterade frågor på Tradera?
+ANSWER: Om det uppstår frågor som gäller betalning så ska de, om inte annat anges i detta Användaravtal, hanteras av dig och betallösningsleverantören enligt nämnda villkor. Tradera ansvarar inte för förseningar, fel, skador eller annat som har att göra med betalning eller utebliven betalning av föremål som du köper eller säljer på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan jag betala med Klarna när jag handlar på Tradera?
+ANSWER: Ja, vid köp på Traderas plattform om Köpare väljer att betala via Klarna är Köparen införstådd med att Säljaren överlåter rätten att få betalt av Köparen till Tradera, som i sin tur överlåter sådan fordran till Klarna.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilken betalningssätt är ansvarig för betalningen om jag handlar på Tradera och betalar via Klarna?
+ANSWER: Vid köp via Klarna, skyldighet att betala för ett köpt föremål endast uppfylls genom betalning till Klarna, inte genom betalning till Tradera eller Säljare.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan jag garantera att Tjänsterna är tillgängliga utan avbrott på Tradera?
+ANSWER: Nej, vi strävar efter att upprätthålla god säkerhet och tillgång till Tradera och Tjänsterna, men vi kan inte garantera att Tjänsterna är tillgängliga utan avbrott.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad händer om det uppstår förseningar eller fel i samband med betalning av föremål på Tradera?
+ANSWER: Tradera ansvarar inte för förseningar, fel, skador eller annat som har att göra med betalning eller utebliven betalning av föremål som du köper eller säljer på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilka betallösningsleverantörer hanterar frågor angående betalning på Tradera?
+ANSWER: Om det uppstår frågor som gäller betalning så ska de, om inte annat anges i detta Användaravtal, hanteras av dig och betallösningsleverantören enligt nämnda villkor.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad händer när jag betalar med Klarna och vem ska jag betala till?
+ANSWER: Vid köp på Traderas plattform om Köpare väljer att betala via Klarna är Köparen införstådd med att Säljaren överlåter rätten att få betalt av Köparen till Tradera, som i sin tur överlåter sådan fordran till Klarna. Köparen accepterar att, vid köp via Klarna, erlägga betalning för köpt föremål till Klarna, och inte till Tradera eller Säljare.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vem ansvarar för skador relaterade till betalning eller utebliven betalning av föremål på Tradera?
+ANSWER: Tradera ansvarar inte för förseningar, fel, skador eller annat som har att göra med betalning eller utebliven betalning av föremål som du köper eller säljer på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan jag förvänta mig att Tjänsterna alltid kommer att vara tillgängliga på Tradera?
+ANSWER: Nej, Tradera strävar efter att upprätthålla god säkerhet och tillgång till Tradera och Tjänsterna, men vi kan inte garantera att Tjänsterna är tillgängliga utan avbrott.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/

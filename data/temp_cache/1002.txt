@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information lagrar Tradera och var lagras den?
+ANSWER: Tradera lagrar personuppgifter på servrar i Sverige och andra delar av världen. Detta inkluderar information som användarnamn, e-postadress och betalningsinformation.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 2: Varför kan användare inte alltid ändra eller ta bort publicerad information på Tradera?
+ANSWER: Användare kan inte alltid ändra eller ta bort publicerad information på Tradera på grund av juridiska begränsningar. Tradera uppfyller dock användarens rättigheter enligt lag att begära rättelse eller radering av personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 3: Vilka åtgärder vidtas av Tradera för att skydda användarnas personuppgifter?
+ANSWER: Tradera använder fysiska, tekniska och organisatoriska säkerhetsåtgärder för att förhindra obehörig åtkomst, användning, förlust, radering eller skada på personuppgifter. Exempel på åtgärder inkluderar brandväggar, kryptering av data, inpasseringskontroll och behörighetskontroller.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 4: Var behandlar Tradera personuppgifter?
+ANSWER: Tradera behandlar personuppgifter på sina servrar i Sverige och andra delar av världen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 5: Vilka rättigheter har användare angående utlämnande av personuppgifter till tredje part?
+ANSWER: Användare har rätt att neka utlämnande av personuppgifter till tredje part. Om Tradera delar information med en leverantör utanför EU/EES vidtas lämpliga åtgärder som EU-kommissionens standardavtalsklausuler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 6: Vilka är några av de känsliga personuppgifter som Tradera hanterar?
+ANSWER: Exempel på känsliga personuppgifter som Tradera hanterar inkluderar användarens betalningsinformation och annan känslig information som kan lämnas i samband med köp- eller försäljningsprocessen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 7: Hur tar Tradera hand om personuppgifter som raderas av användare?
+ANSWER: När användare raderar personuppgifter från Tradera raderas de permanent från Traderas system och backupsystem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 8: Vilka tekniska skyddsåtgärder har Tradera implementerat för att skydda personuppgifter?
+ANSWER: Tradera har implementerat tekniska skyddsåtgärder som brandväggar, kryptering av data, inpasseringskontroll, behörighetskontroll och andra säkerhetsåtgärder för att skydda personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 9: Vilken typ av rättigheter har användare vad gäller användning av sina personuppgifter?
+ANSWER: Användare har rätt att begära rättelse eller radering av sina personuppgifter. De har också rätt att neka utlämnande av personuppgifter till tredje part.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 10: Vilka tillgängliga säkerhetsåtgärder vidtas när Tradera delar information med en IT-leverantör utanför EU/EES?
+ANSWER: När Tradera delar information med en IT-leverantör utanför EU/EES vidtas lämpliga säkerhetsåtgärder som EU-kommissionens standardavtalsklausuler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

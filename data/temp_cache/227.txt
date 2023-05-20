@@ -1,0 +1,39 @@
+QUESTION: Vilka fraktalternativ erbjuder Tradera?
+ANSWER: Tradera erbjuder frakt via DB Schenker, PostNord och Bussgods. Det går att lägga till frakt med upp till två olika speditörer så att köparen har alternativ att välja på. Det går också att lägga till avhämtning eller välja endast avhämtning.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vilket fraktalternativ rekommenderar Tradera för dyrare varor?
+ANSWER: För dyrare varor rekommenderar Tradera att man använder spårbar frakt.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Hur mycket utrymme ska man ta i beräkning när man väger varan för frakt?
+ANSWER: När man väger varan för frakt ska man tänka på att se till att det finns utrymme för extra vikt i form av kartong och emballage. Detta eftersom det fraktpris man anger är det som köparen kommer att behöva betala.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Kan man ange ett eget fraktpris vid försäljning på Tradera?
+ANSWER: Ja, det går att ange ett eget fraktpris. Man kan välja att rabattera frakten eller ta ut några kronor extra för emballage.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Hur handlar man på Tradera?
+ANSWER: Detaljerad information om hur man handlar på Tradera finns på sidan "Så handlar du på Tradera".
+URL: https://info.tradera.com/sa-handlar-du-pa-tradera/
+
+QUESTION: Vilka kategorier av varor finns tillgängliga på Tradera?
+ANSWER: Information om de olika kategorierna av varor som finns tillgängliga på Tradera finns på sidan "Kategorier".
+URL: https://www.tradera.com/categories
+
+QUESTION: Vilka populära varumärken kan man hitta på Tradera?
+ANSWER: Information om populära varumärken som kan hittas på Tradera finns på sidan "Populära varumärken".
+URL: https://www.tradera.com/popularavarumarken
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är hur Tradera försöker minska sin miljöpåverkan genom att erbjuda mer miljövänliga fraktalternativ. Mer information finns på sidan "Grön frakt".
+URL: https://www.tradera.com/gronfrakt
+
+QUESTION: Hur säljer man som privatperson på Tradera?
+ANSWER: Detaljerad information om hur man säljer som privatperson på Tradera finns på sidan "Så säljer du som privatperson".
+URL: https://info.tradera.com/sa-saljer-du-som-privatperson/
+
+QUESTION: Vad är Användaravtalet på Tradera?
+ANSWER: Användaravtalet på Tradera är de villkor som användarna av Tradera måste acceptera för att använda tjänsten. Mer information finns på sidan "Användaravtal".
+URL: https://www.tradera.com/user-agreement

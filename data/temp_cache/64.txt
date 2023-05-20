@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information samlar Tradera automatiskt in när du besöker deras webbplats?
+ANSWER: När du besöker Traderas webbplatser, applikationer, tjänster och verktyg eller klickar på annonser eller innehåll samlar de automatiskt in information såsom enhetens ID eller unika identifierare, vilken sorts enhet som används, data och anslutningsinformation, statistik om sidvisningar, trafik till och från webbplatserna, hänvisande URL, annonsdata, IP-adress och standardmässig information från webbloggar; och anonym information som samlas in genom användningen av cookies och webb-beacons.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan din personliga information knytas till dig om du inte loggar in som registrerad användare på Tradera?
+ANSWER: Nej, din personliga information kan endast knytas till dig personligen om du loggar in som en registrerad användare på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan omfattas när du lämnar information till Tradera?
+ANSWER: När du lämnar information till Tradera kan det omfatta information som du lämnar till oss vid registrering av ett konto, inklusive e-postadress, telefonnummer, mobiltelefonnummer, personnummer, kontaktinformation, och (beroende på vilken tjänst som används) i förekommande fall ekonomisk information såsom bankkontonummer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Samlar Tradera in information från mobila enheter?
+ANSWER: Ja, när du besöker Traderas webbplatser, använder deras applikationer, tjänster och verktyg eller klickar på annonser eller innehåll, samlar de automatiskt information som skickas till dem från din dator, mobila enhet eller annan enhet som används för åtkomst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad kan Tradera samla in information för?
+ANSWER: Tradera kan samla in information för att ge dig en personligt anpassad och bättre upplevelse och för marknadsföringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur samlar Tradera in anonym information?
+ANSWER: Tradera samlar in anonym information genom användningen av cookies och webb-beacons.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken information kan omfattas om du lämnar information till Tradera vid registrering av ett konto?
+ANSWER: Informationen som kan omfattas när du lämnar information till Tradera vid registrering av ett konto inkluderar e-postadress, telefonnummer, mobiltelefonnummer, personnummer, kontaktinformation och i förekommande fall ekonomisk information såsom bankkontonummer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan din information säljas vidare av Tradera till tredje part?
+ANSWER: Nej, din information säljs inte vidare av Tradera till tredje part.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan du lämna till Tradera när du använder deras tjänster eller verktyg?
+ANSWER: När du använder Traderas tjänster eller verktyg kan du lämna information såsom e-postadress, telefonnummer, mobiltelefonnummer, personnummer, kontaktinformation och i förekommande fall ekonomisk information såsom bankkontonummer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan den information som samlat in vid användning av Tradera kopplas som personliga data?
+ANSWER: Endast om du loggar in som registrerad användare på Tradera kan den information som samlats in kopplas till dig personligen. Annars är informationen anonym.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

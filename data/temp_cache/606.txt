@@ -1,0 +1,39 @@
+QUESTION: Hvad er grænsen for antallet af identiske annoncer en sælger må oprette?
+ANSWER: Ifølge teksten er grænsen for antallet af identiske annoncer en sælger må oprette fem.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Gælder grænsen for antallet af identiske annoncer også for butiksannoncer?
+ANSWER: Ja, ifølge teksten må butiksannoncer kun have én identisk annonce, da de har et lager.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hvorfor har Tradera en regel om antallet af identiske annoncer en sælger kan have?
+ANSWER: Ifølge teksten er det primære formål med denne regel at forhindre en sælger i at have monopol på en kategori ved at spamme lignende annoncer.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hvad sker der hvis en sælger opretter flere end fem identiske annoncer?
+ANSWER: Teksten nævner ikke specifikt, hvad der vil ske, hvis en sælger opretter flere end fem identiske annoncer.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Gælder reglen om antallet af identiske annoncer kun for danske sælgere?
+ANSWER: Teksten nævner ikke specifikt, om reglen kun gælder for danske sælgere eller også for sælgere i andre lande.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Er der undtagelser fra reglen om antallet af identiske annoncer?
+ANSWER: Teksten nævner ikke specifikt nogen undtagelser fra reglen om antallet af identiske annoncer.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hvor mange aktive annoncer kan en sælger have generelt?
+ANSWER: Teksten nævner ikke specifikt, hvor mange aktive annoncer en sælger kan have generelt.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Vil Tradera tillade en sælger at have flere identiske annoncer, hvis det er forskellige varianter af samme produkt?
+ANSWER: Teksten nævner ikke specifikt, om Tradera vil tillade en sælger at have flere identiske annoncer, hvis det er forskellige varianter af samme produkt.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Kan en sælger have identiske annoncer på forskellige kategorier?
+ANSWER: Teksten nævner ikke specifikt, om en sælger kan have identiske annoncer på forskellige kategorier.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hvor lang tid kan en sælger have en identisk annonce aktiv?
+ANSWER: Teksten nævner ikke specifikt, hvor lang tid en sælger kan have en identisk annonce aktiv.
+URL: https://info.tradera.com/da/limit-for-identical-items/

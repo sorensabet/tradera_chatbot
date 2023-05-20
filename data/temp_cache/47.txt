@@ -1,0 +1,39 @@
+QUESTION: Varför behöver jag komplettera min registrering på Tradera?
+ANSWER: Du behöver komplettera din registrering på Tradera för att Tradera ska kunna verifiera dina uppgifter och upprätthålla en trygg och säker marknadsplats för alla medlemmar.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vad är filformatet för det personbevis som jag behöver skicka in till Tradera?
+ANSWER: Filformatet för det personbevis som du behöver skicka in till Tradera är Adobe Acrobat Reader (PDF).
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vart ska jag skicka mitt personbevis?
+ANSWER: Du kan skicka ditt personbevis genom att klicka på länken som finns på webbsidan.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION: Vilka är de populära varumärkena på Tradera?
+ANSWER: Tradera har en sida med populära varumärken, som du enkelt kan söka efter och hitta produkter från.
+URL: https://www.tradera.com/popular-brands
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är ett alternativ på Tradera där säljare kan välja att skicka produkter på ett mer miljövänligt sätt. 
+URL: https://www.tradera.com/gron-frakt
+
+QUESTION: Hur kan jag donera med Tradera?
+ANSWER: Du kan donera med Tradera genom att sälja en vara och välja att donera en del av försäljningspriset till en organisation eller verksamhet som är registrerad hos Tradera. 
+URL: https://www.tradera.com/donera-med-tradera
+
+QUESTION: Vilka frågor kan besvaras på Traderas Vanliga frågor och svar-sida?
+ANSWER: På Traderas Vanliga frågor och svar-sida kan du hitta svar på frågor om bland annat registrering, betalning, leverans, reklamationsrätt och säkerhet. 
+URL: https://www.tradera.com/faq
+
+QUESTION: Var kan jag hitta information om Traderas integritetspolicy?
+ANSWER: Du kan hitta information om Traderas integritetspolicy på deras webbsida.
+URL: https://info.tradera.com/integritet/
+
+QUESTION: Var kan jag ändra mina inställningar för cookies på Tradera?
+ANSWER: Du kan ändra dina inställningar för cookies på Tradera genom att klicka på länken som finns på webbsidan.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Kan jag kontakta Tradera om jag har frågor eller problem?
+ANSWER: Ja, du kan kontakta Tradera om du har frågor eller problem. Du hittar kontaktinformation på deras webbsida.
+URL: https://www.tradera.com/kontakt/

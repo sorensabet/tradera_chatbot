@@ -1,0 +1,39 @@
+QUESTION: Vad är tillåtet att sälja på Tradera?
+ANSWER: Det är tillåtet att sälja bland annat biocheckar från SF Bio och presentkort hos Vingresor på Tradera, såväl som objekt med ett tydligt samlarvärde, eller objekt som ska modifieras utifrån köparens önskemål enligt deras policy för fria val av objekt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/
+
+QUESTION: Vilka typer av presentkort får säljas på Tradera?
+ANSWER: Det är tillåtet att sälja presentkort från olika företag på Tradera, såsom biocheckar från SF Bio och presentkort från Vingresor.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera används för att beräkna fraktkostnaden när du ska skicka en vara som säljare eller när du ska köpa en vara som köpare. Du anger då föremålets vikt, storlek och fraktsätt, och fraktkalkylatorn ger dig ett prisförslag.
+URL: https://info.tradera.com/salj/fraktkalkylatorn/
+
+QUESTION: Finns det några begränsningar för att sälja objekt på Tradera?
+ANSWER: Ja, det finns begränsningar för vad som är tillåtet att sälja på Tradera. Till exempel är det inte tillåtet att sälja föremål som är olagliga, farliga eller som kan skada någon, eller som strider mot Traderas policy och riktlinjer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forbjudna-objekt/
+
+QUESTION: Hur säljer man som företag på Tradera?
+ANSWER: För att sälja som företag på Tradera behöver man registrera ett företagskonto på Tradera och följa deras riktlinjer för företagsförsäljning. Detta inkluderar bland annat att ange företagets organisationsnummer och att följa Traderas regler för försäljning och betalning.
+URL: https://info.tradera.com/salj/salj-som-foretag/
+
+QUESTION: Hur fungerar Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera är ett sätt att minska klimatpåverkan från frakt av varor. När du väljer Grön frakt som fraktsätt vid köp och försäljning donerar Tradera pengar till klimatprojekt, vilket motsvarar den mängd koldioxidutsläpp som genereras vid frakten av föremålet.
+URL: https://info.tradera.com/salj/gron-frakt/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy är deras policy för hur de hanterar personlig information om användare och besökare på deras webbplats. Den omfattar bland annat hur de samlar in information, vilka typer av information de samlar in och hur de använder och skyddar denna information.
+URL: https://info.tradera.com/information/integritetspolicy/
+
+QUESTION: Vad är Traderas policy för fria val av objekt?
+ANSWER: Traderas policy för fria val av objekt gäller för objekt som köpare vill ändra eller anpassa på ett visst sätt. Enligt denna policy kan säljare och köpare förhandla om ändringar och anpassningar till objektet, men det är säljarens ansvar att säkerställa att eventuella ändringar eller tillägg inte bryter mot några av Traderas policyer eller riktlinjer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/modifierade-objekt/
+
+QUESTION: Vilka är de populära varumärkena på Tradera?
+ANSWER: Det finns många populära varumärken som säljs på Tradera, inklusive märken som GANT, Calvin Klein, Odd Molly, och H&M.
+URL: https://info.tradera.com/salj/inspiration/populara-varumarken/
+
+QUESTION: Vad är Traderas användaravtal?
+ANSWER: Traderas användaravtal är det avtal som användare av Traderas webbplats måste godkänna för att använda deras tjänster. Avtalet innehåller information om användares ansvar och skyldigheter på plattformen, riktlinjer för försäljning och köp, betalning, och annan relevant information.
+URL: https://info.tradera.com/information/anvandaravtal/

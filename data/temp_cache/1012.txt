@@ -1,0 +1,39 @@
+QUESTION: Vilken information kan Tradera samla automatiskt in från min enhet när jag besöker deras webbplats?
+ANSWER: Tradera kan automatiskt samla in information om enhetens ID eller unika identifierare, geografisk plats, vilken sorts enhet som används, data och anslutningsinformation, statistik om sidvisningar, trafik till och från webbplatserna, hänvisande URL, annonsdata, IP-adress och standardmässig information från webbloggar när användaren besöker deras webbplats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av information kan Tradera samla in från mig om jag blir en registrerad användare hos dem?
+ANSWER: Om du blir en registrerad användare av Tradera kan de samla in information som du uppger på deras webbplatser eller som du lämnar till dem i samband med användningen av deras webbplatser, applikationer, tjänster eller verktyg. Detta inkluderar information som du lämnar till dem vid kontoregistrering, såsom e-postadress, telefonnummer, mobiltelefonnummer, personnummer, kontaktinformation och om det behövs, ekonomisk information som bankkontonummer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Varför samlar Tradera in information från min enhet när jag besöker deras webbplats?
+ANSWER: Tradera samlar automatiskt in information om enhetens ID och andra uppgifter när användare besöker deras webbplatser för att ge dem en personligt anpassad och bättre användarupplevelse samt för marknadsföringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera samla information från mina sociala medier-plattformar?
+ANSWER: I integritetspolicyn nämns inte att Tradera samlar in data från sociala medier-plattformar. Däremot sammanställer Tradera data från användare som registrerat sig på deras plattform och använder deras tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan jag kontrollera vilken information Tradera har samlat in från mig?
+ANSWER: Ja, som användare har du rätt att få information om vilken personlig information Tradera har samlat in från dig. Du kan också be dem ändra eller radera informationen om det är felaktigt eller inte längre relevant.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Delar Tradera min personliga information med tredje part?
+ANSWER: Ja, Tradera kan dela din personliga information med tredje part såsom betalningsleverantörer, post- och distributionsföretag, IT-leverantörer och marknadsföringspartners. Dock kommer Tradera endast dela sådan information som är nödvändig för att kunna leverera sina tjänster och de kommer att skydda dina personuppgifter i enlighet med tillämpliga lagar och föreskrifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur skyddar Tradera min personliga information?
+ANSWER: Tradera tar skyddet av personuppgifter på största allvar och använder olika tekniska och organisatoriska åtgärder för att se till att din personliga information är skyddad mot obehörig åtkomst, förlust eller förstöring. De har även regler och rutiner för att minimera riskerna för dataintrång.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur länge kommer Tradera spara min personliga information?
+ANSWER: Tradera sparar din personliga information så länge det är nödvändigt för att tillhandahålla sina tjänster eller så länge det krävs enligt gällande lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Är min personliga information säker på Traderas plattform?
+ANSWER: Tradera tar skyddet av personuppgifter på största allvar och använder olika tekniska och organisatoriska åtgärder för att se till att din personliga information är skyddad mot obehörig åtkomst, förlust eller förstöring. Underhåll av säkerheten och själva plattformen sker också regelbundet för att skydda användarnas uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är syftet med att Tradera samlar in min personliga information?
+ANSWER: Tradera samlar in personlig information för att ge sina användare en bättre och mer personligt anpassad användarupplevelse och för att kunna leverera sina tjänster. De behöver också samla in information för att säkerställa att du är en verklig användare, hantera betalningar och för att uppfylla deras marknadsföringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

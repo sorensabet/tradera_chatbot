@@ -1,0 +1,39 @@
+QUESTION: How can I request for the transfer of my personal data from Tradera and can it be transferred to another controller?
+ANSWER: If you request for a transfer of your personal data, Tradera will transfer the data in a structured, commonly used and machine-readable format. In some cases, you may also have the right to obtain and transfer your personal data to another controller (data portability). However, your right to request transfer or data portability of your personal data is limited to such information that you yourself have provided to Tradera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can I withdraw my consent to the processing of my personal data and if I do, will it affect processing that was carried out while my consent was valid?
+ANSWER: You may withdraw your consent to Tradera for certain processing at any time by contacting them as explained in the section of their website where they describe which processing they carry out on the basis of your consent. A withdrawn consent, however, does not affect the lawfulness of the processing they carried out while they had your consent.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: In what cases will Tradera cease with the objected processing of personal data?
+ANSWER: Tradera will cease with the objected processing of personal data when there is no legitimate interest for the processing, or if there is no need to continue processing the personal data in order to determine, exercise, or defend themselves against legal claims.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What are Tradera's contact details?
+ANSWER: Tradera's contact details are as follows: Tradera Marketplace AB, org no 556569-4642, Sankt Eriksgatan 117, 113 43 Stockholm, Sweden, +46771-392 000, privacy@tradera.com.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the applicable supervisory authority in Sweden if I am not satisfied with how Tradera addressed my concerns regarding the processing of my personal data?
+ANSWER: If you are not satisfied with how Tradera addressed your concerns regarding the processing of your personal data, you may lodge a complaint with the applicable supervisory authority in Sweden, which is Integritetsskyddsmyndigheten. You can find their contact details at www.imy.se.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the basis on which Tradera may continue to process personal data even if my consent has been withdrawn?
+ANSWER: If you withdraw your consent, Tradera may continue to process personal data that is based on another legal ground, such as legal obligation, legitimate interest, and fulfillment of contract.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How can I make a complaint to Tradera if I believe they have not processed my personal data in a correct manner?
+ANSWER: If you believe that Tradera has not processed your personal data correctly, you can contact them with your comments at privacy@tradera.com.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is data portability and when can I exercise this right with Tradera?
+ANSWER: Data portability is the right to obtain and transfer your personal data to another controller. You may exercise this right with Tradera when you request for a transfer of your personal data. However, this right is limited to such information that you yourself have provided to Tradera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can Tradera continue processing my personal data while I am withdrawing my consent?
+ANSWER: Tradera may not continue to process your personal data on the basis of your consent from the moment you withdraw it. However, if there is another legal ground for Tradera to process your data, such as a legal obligation, legitimate interest, and fulfillment of contract, they may still continue processing it.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera transfer personal data in a specific format when requested?
+ANSWER: If you request a transfer of your personal data from Tradera, they will transfer the data in a structured, commonly used, and machine-readable format.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

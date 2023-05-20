@@ -1,0 +1,39 @@
+QUESTION: Vilken information kan Tradera be om för att bekräfta ens identitet?
+ANSWER: Tradera kan be om att skicka in ett identitetsbevis eller annan handling för att bekräfta ens identitet eller adress eller besvara andra frågor för att bekräfta identiteten eller att man äger en produkt som man vill sälja.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera komma att samla in information från tredje part om en användare?
+ANSWER: Ja, Tradera kan samla in kompletterande information om användaren från tredje parter såsom säljarföretag, databyråer och dataleverantörer och lägga till den i sin information om användaren. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av information kan Tradera samla in från tredje parter?
+ANSWER: Tradera kan samla in demografisk information, navigationsinformation och kreditupplysningsinformation från kreditupplysningsföretag i den utsträckning det är tillåtet enligt lag. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan man logga in på Tradera med tredje mans loginuppgifter?
+ANSWER: Ja, Tradera kan erbjuda inloggningstjänster som innebär att man kan använda tredje mans loginuppgifter för att få åtkomst till www.tradera.com och därtill anknutna webbplatser. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan man dela information i sociala medier med Tradera?
+ANSWER: Ja, Tradera kan erbjuda tjänster som gör det möjligt att dela information i sociala medier. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan man ge Tradera åtkomst till personuppgifter som lagras av webbplatser som drivs av tredje man?
+ANSWER: Ja, man kan välja att ge Tradera åtkomst till vissa personuppgifter som lagras av webbplatser som drivs av tredje man, men personuppgifterna som Tradera kan få åtkomst till varierar beroende på webbplats och styrs av dina inställningar på den webbplatsen och ditt samtycke. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken information kan Tradera samla in från ens mobila enhet?
+ANSWER: Vid använadet av Traderras mobilapplikation kan Tradera samla in information om enheten, inklusive unik enhetsidentifiering, hårdvaru- och programvaruspecifikationer, och operativsystem, samt information om användning av mobilapplikationen. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera komma att använda cookies?
+ANSWER: Ja, Tradera kan använda cookies och andra liknande tekniker för att samla in information om hur användaren använder deras webbplats och andra webbplatser. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera komma att använda användaruppgifter för marknadsföringsändamål?
+ANSWER: Ja, Tradera kan komma att använda användaruppgifter för marknadsföringsändamål, och kan även skicka information om produkter eller tjänster relaterade till användarens tidigare köp eller sökningar utanför Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av säkerhetsåtgärder har Tradera vid behandling av personuppgifter?
+ANSWER: Tradera har säkerhetsåtgärder på plats för att skydda mot obehörig åtkomst, radering eller ändring av personuppgifter, inklusive tekniska och organisatoriska åtgärder. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

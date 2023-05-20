@@ -1,0 +1,39 @@
+QUESTION: Varför finns det regler för bilder och objektsbeskrivningar på Tradera?
+ANSWER: Tradera har regler för bilder och objektsbeskrivningar för att skapa en trivsam miljö för alla medlemmar och för att se till att annonserna är tydliga och trevliga.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/olampliga-bilder-och-objektsbeskrivningar/
+
+QUESTION: Vad händer om en annons har olämpliga bilder och beskrivningar?
+ANSWER: Annonser med olämpliga bilder och beskrivningar kan tas bort från Tradera och användaren kan också få en varning eller bli avstängd från plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/olampliga-bilder-och-objektsbeskrivningar/
+
+QUESTION: Vad innebär det att ha ett "vårdat språkbruk" på Tradera?
+ANSWER: Att ha ett "vårdat språkbruk" betyder att använda ett korrekt och respektfullt språk utan svordomar eller annat som kan uppfattas som oanständigt på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/olampliga-bilder-och-objektsbeskrivningar/
+
+QUESTION: Vilka är några exempel på otillåtna objekt att sälja på Tradera?
+ANSWER: Några exempel på otillåtna objekt att sälja på Tradera är bilder och beskrivningar som kan uppfattas som hatiska, rasistiska eller på andra sätt stötande samt objekt som framställs med hjälp av sexuellt utmanande bilder eller beskrivningar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/olampliga-bilder-och-objektsbeskrivningar/
+
+QUESTION: Är det tillåtet att sälja objekt med olämpliga beskrivningar på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja objekt med olämpliga beskrivningar på Tradera, även om det är det faktiska namnet eller titeln på objektet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/olampliga-bilder-och-objektsbeskrivningar/
+
+QUESTION: Vad är några exempel på tillåtna objekt att sälja på Tradera?
+ANSWER: Några exempel på tillåtna objekt att sälja på Tradera är annonser där objektet är i fokus och framställs på ett passande sätt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/olampliga-bilder-och-objektsbeskrivningar/
+
+QUESTION: Vad är GreenShipping på Tradera?
+ANSWER: GreenShipping är ett program på Tradera som främjar hållbarhet genom att frakta paket med miljövänliga transportsätt och genom att återanvända kartonger och emballage.
+URL: https://info.tradera.com/sakerhetscenter/greenshipping/hur-funkar-greenshipping/
+
+QUESTION: Kan man donera pengar till välgörenhet genom Tradera?
+ANSWER: Ja, man kan donera pengar till välgörenhet genom att sälja på Tradera. Då kan man som säljare välja en eller flera organisationer att ge en andel av försäljningspriset till.
+URL: https://www.tradera.com/content/vagledning/Donationer
+
+QUESTION: Vad är skillnaden mellan att sälja som privatperson och som företag på Tradera?
+ANSWER: Skillnaden mellan att sälja som privatperson och som företag på Tradera är att som företagare måste man ha ett registrerat företag och betala moms på försäljningen, medan som privatperson behöver man inte det.
+URL: https://www.tradera.com/content/vagledning/salja-som-foretagare
+
+QUESTION: Var kan man hitta mer information om fraktpriser på Tradera?
+ANSWER: Mer information om fraktpriser på Tradera kan hittas på fraktkalkylatorn på Traderas webbplats.
+URL: https://www.tradera.com/content/kundtjanst/fraktkalkylatorn/

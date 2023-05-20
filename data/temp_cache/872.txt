@@ -1,0 +1,39 @@
+QUESTION: What is My Tradera?
+ANSWER: My Tradera is the logged-in environment provided by Tradera in which, among other things, the Seller can manage order processing and the Buyer can verify his/her purchases.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What are the Rules for Sellers?
+ANSWER: The Rules for Sellers are the rules that a Seller must always follow when selling on Tradera's Platform, and they are available on their latest version through this link: https://info.tradera.com/en/rules-at-tradera/.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is Tradera's Platform?
+ANSWER: Tradera's Platform means the websites, services, and applications that are provided by Tradera, which include www.tradera.com, among others.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is Tradera's User Agreement?
+ANSWER: Tradera's User Agreement means Tradera's prevailing terms and conditions for the use of Tradera's Platform and other services, and it can be found on this link: https://info.tradera.com/en/anvandaravtal-eng/.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Who is the Buyer in Tradera's Platform?
+ANSWER: The Buyer in Tradera's Platform refers to any natural or legal person who has made a purchase from the Seller on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Who is the Seller in Tradera's Platform?
+ANSWER: The Seller in Tradera's Platform refers to any natural or legal person who sells goods or services on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is Klarna?
+ANSWER: Klarna refers to Klarna Bank AB, Org. No. 556569-4642. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What does it mean that the Buyer pays with the help of Tradera's payment solution?
+ANSWER: It means that when a Seller sells something on Tradera's Platform, the Buyer must pay through Tradera's payment solution, and the Seller shall take payment through Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What are the obligations of the Seller according to the Terms and Conditions?
+ANSWER: The obligations of the Seller according to the Terms and Conditions include accepting that the Buyer pays with the help of Tradera's payment solution, and taking payment through Tradera's payment solution when selling something on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Who are the Parties referred to in the text?
+ANSWER: The Parties referred to in the text are the Seller and Tradera, who are collectively called "Party" or "Parties."
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

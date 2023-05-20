@@ -1,0 +1,39 @@
+QUESTION: Can you remain anonymous when buying and selling on Tradera?
+ANSWER: No, you cannot remain anonymous when doing business on Tradera, as each member's social security number is linked to their membership.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: How does Tradera verify the identity of its users?
+ANSWER: Tradera verifies the identity of its users through various methods depending on their citizenship. For Swedish users, they use BankID, for Danish users, they use MitID, and for the rest of the world, a valid picture ID is required.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Does Tradera allow buyers and sellers to review each other after a completed transaction?
+ANSWER: Yes, after each completed sale, buyers and sellers have the opportunity to give each other reviews, providing a better way to evaluate other members.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Which shipping alternatives does Tradera use?
+ANSWER: Tradera works with secure and traceable shipping alternatives like DHL, DB Schenker, and Postnord.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Does Tradera have an integrated payment solution?
+ANSWER: Yes, Tradera has an integrated payment solution that ensures that the seller has been verified.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: How does Tradera ensure a safe experience for its users?
+ANSWER: Tradera continuously audits its members with whom others have had bad experiences and encourages its members to use report functions to give them a fair idea of how other members are doing.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Can Tradera members report a listing that violates the site's rules?
+ANSWER: Yes, all Tradera members can report a listing that does not follow the site's rules, which are reviewed by the security team.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Does Tradera follow Swedish law for its listings?
+ANSWER: Yes, Tradera works to ensure that the listings on its site follow both the site's rules and Swedish law.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Does Tradera work proactively to find listings that do not follow their rules?
+ANSWER: Yes, Tradera works proactively to find listings that do not follow their rules.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: What methods of contact does Tradera offer for its users who need help?
+ANSWER: Tradera offers contact and help through a FAQ, Contact Us page, and Charity Causes page, as well as social media platforms like Facebook, Twitter, Pinterest, LinkedIn, and Instagram.
+URL: https://info.tradera.com/en/security-center/

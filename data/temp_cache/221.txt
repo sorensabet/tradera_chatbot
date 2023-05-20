@@ -1,0 +1,39 @@
+QUESTION: Varför kan jag inte komma åt Tradera på min webläsare?
+ANSWER: Om du inte kan komma åt Tradera på din webläsare, kan det finnas möjliga orsaker såsom att du har cache eller cookies i din webbläsare som orsakar problem med sidans laddning. Det kan också bero på vilken webbläsare eller browser extensions du använder eller en generell störning på tjänsten. För att lösa problemet kan du rensa cache för Tradera eller prova att använda en annan webbläsare eller en incognitoflik.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad ska jag göra om sidan inte laddas ordentligt?
+ANSWER: Om sidan inte laddas ordentligt, kan det bero på problem med internetanslutningen, föråldrade cookies eller cache-problem. För att lösa problemet kan du prova att starta om enheten eller ansluta till en annan enhet om du har möjlighet till det.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Hur löser jag problem med Tradera-appen?
+ANSWER: Om du upplever problem med Tradera-appen kan du försöka lösa det genom att starta om din enhet. En enkel omstart av din telefon eller surfplatta kan faktiskt lösa många problem. Om problemet kvarstår kan du kontakta Traderas support så att de kan hjälpa vidare med felsökning av app-problemen.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Hur avinstallerar jag cookies från Tradera?
+ANSWER: Om du behöver avinstallera cookies från Tradera för att klara av sidans problem, hur du går tillväga beror på vilken webbläsare och vilket operativsystem du använder. Gå till inställningarna för webbläsaren där du kan hitta alternativ att rensa cache och cookies.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Kan jag använda Tradera-appen på både telefon och surfplatta?
+ANSWER: Ja, du kan använda Tradera-appen på både telefon och surfplatta för att köpa och sälja varor på plattformen. Du laddar enkelt ned appen från App Store eller Google Play och loggar in på ditt Tradera-konto för att börja använda den.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad ska jag göra om fler personer också upplever problem med Tradera?
+ANSWER: Om fler personer än du upplever problem med Tradera är det troligtvis en generell störning på tjänsten. Försök igen senare och kontrollera sidans informationspanel för eventuella driftproblem.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Kan jag använda olika webläsare för att köpa och sälja på Tradera?
+ANSWER: Ja, det är möjligt att använda olika webläsare för att köpa och sälja på Tradera. Ibland kan dock problem uppstå beroende på vilken webbläsare du använder eller vilka browser extensions som är installerade. Om du upplever problem kan du prova att använda en annan webbläsare eller en incognitoflik för att lösa problemet.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Är det gratis att använda Tradera-appen?
+ANSWER: Ja, det är gratis att använda Tradera-appen för köp och försäljning av varor. Du behöver bara logga in på ditt Tradera-konto och ladda ned appen från App Store eller Google Play för att använda den på din mobiltelefon eller surfplatta.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Varför fungerar inte Tradera på min enhet?
+ANSWER: Om Tradera inte fungerar på din enhet kan det bero på flera faktorer såsom problem med internetuppkoppling, föråldrade cache eller cookies, eller problem med din webbläsare. Försök att starta om enheten eller använda en annan enhet för att se om problemet kvarstår. Annars kan du kontakta Traderas support för att få hjälp med felsökning.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Kan jag köpa och sälja på Tradera via webbläsaren och appen?
+ANSWER: Ja, du kan både köpa och sälja på Tradera via både webbläsaren och appen. Via webbläsaren loggar du in på ditt Tradera-konto och börjar köpa och sälja varor. Appen går att ladda ner gratis från App Store eller Google Play och sedan loggar du in på ditt konto på appen för att använda funktionerna för köp och försäljning.
+URL: https://info.tradera.com/felsokningsguide/

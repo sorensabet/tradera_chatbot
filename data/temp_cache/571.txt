@@ -1,0 +1,39 @@
+QUESTION: Vad är nödvändiga cookies på Tradera?
+ANSWER: Nödvändiga cookies är cookies som krävs för att Tradera ska fungera och kan inte stängas av.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Varför är prestanda cookies används på Tradera?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Vilket syfte har marknadsförings cookies på Tradera?
+ANSWER: Marknadsförings cookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Kan nödvändiga cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera eftersom de krävs för att webbplatsen ska fungera.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Vad är idén bakom prestanda cookies på Tradera?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används, så att webbplatsens användarupplevelse kan förbättras.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Vad ger funktionella cookies på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera. Exempelvis inloggning med Facebook eller vissa sparade inställningar.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Vilket företag använder marknadsförings cookies på Tradera?
+ANSWER: Traderas annonseringspartners använder marknadsförings cookies för att leverera riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Vad är inställningar för cookies på Tradera?
+ANSWER: Inställningar för cookies ger dig möjlighet att hantera Traderas cookies. Du kan tillåta eller blockera olika typer av cookies som Nödvändiga, Prestanda, Funktionella och Marknadsföring.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Kan jag påverka användning av cookies på Tradera?
+ANSWER: Ja, du kan påverka användningen av cookies på Tradera genom att justera inställningarna. Du kan tillåta eller blockera olika typer av cookies som Nödvändiga, Prestanda, Funktionella och Marknadsföring.
+URL: https://info.tradera.com/da/services-and-gift-cards/

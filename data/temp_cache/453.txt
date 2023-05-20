@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftet med cookies på Tradera?
+ANSWER: Cookies på Tradera används för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vilka kategorier av cookies används på Tradera?
+ANSWER: Det finns fyra kategorier av cookies som används på Tradera: Nödvändiga, Prestanda, Funktionella och Marknadsföring.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Kan jag stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av då de behövs för att Tradera ska fungera.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vilken typ av data delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Varför använder Tradera cookies för annonsering?
+ANSWER: Tradera använder cookies för annonsering för att kunna erbjuda riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att erbjuda utökad funktionalitet och användaranpassning på Tradera, till exempel spara inställningar eller tillåta inloggning med Facebook.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Använder Tradera cookies för att analysera trafiken?
+ANSWER: Ja, Tradera använder cookies för att analysera trafiken på sin webbplats.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Varför använder Tradera cookies för att anpassa innehåll?
+ANSWER: Tradera använder cookies för att anpassa innehåll så att det blir mer relevant och intressant för användaren.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Var kan jag ändra mina cookieinställningar på Tradera?
+ANSWER: Du kan ändra dina cookieinställningar på Tradera genom att klicka på "Ändra inställningar" i cookies-meddelandet.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vad är syftet med prestanda-cookies på Tradera?
+ANSWER: Syftet med prestanda-cookies på Tradera är att mäta anonymt hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/butiksavtal/

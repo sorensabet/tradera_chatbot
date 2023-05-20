@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att uppdatera till senaste versionen av appen?
+ANSWER: Syftet med att uppdatera till senaste versionen av appen är att det kan förbättra appens prestanda och funktionalitet.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad ska man göra om man har en gammal version av telefonen eller surfplattans operativsystem?
+ANSWER: Om man har en gammal version av telefonen eller surfplattans operativsystem så kan det påverka hur appen fungerar. Därför bör man se till att telefonen/surfplattan är uppdaterad.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad är syftet med att testa inloggning via webbläsaren?
+ANSWER: Syftet med att testa inloggning via webbläsaren är för att avgöra om felet som uppstår är på kontot eller i appen.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad ska man göra om man får samma fel vid inloggning via webbläsaren?
+ANSWER: Om man får samma fel vid inloggning via webbläsaren som i appen så bör man kontakta Tradera för att få hjälp med att lösa problemet.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vilka steg bör man ta om man upplever problem med Tradera-appen?
+ANSWER: Om man upplever problem med Tradera-appen så bör man först uppdatera till senaste versionen av appen, se till att telefonen/surfplattan är uppdaterad och testa inloggning via webbläsaren. Om man fortfarande upplever problem kan man kontakta Tradera för att få hjälp.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vilket syfte har Tradera för att använda cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbsida.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vilka är Traders partners inom sociala medier, annonsering och analys?
+ANSWER: Tradera delar information om din användning av deras webbsida med deras partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad är syftet med funktioner för sociala medier på Tradera?
+ANSWER: Syftet med funktioner för sociala medier på Tradera är att underlätta delning av innehåll på deras webbsida på sociala medier.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vilka typer av varor kan man köpa på Tradera?
+ANSWER: Man kan köpa olika typer av varor på Tradera, och det finns flera kategorier att välja mellan. 
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad ska man göra om man vill sälja varor som privatperson på Tradera?
+ANSWER: Om man vill sälja varor som privatperson på Tradera kan man följa de enkla anvisningar som finns på Traderas webbsida och skapa ett konto för att börja sälja.
+URL: https://info.tradera.com/felsokningsguide/

@@ -1,0 +1,39 @@
+QUESTION: What is the purpose of the "Känn din kund Privatperson" page?
+ANSWER: The purpose of the "Känn din kund Privatperson" page is to educate users on how to verify their account information and ensure its accuracy on Tradera.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: What information do I need to provide in order to complete the verification process?
+ANSWER: In order to complete the verification process, users may be prompted to add a government document as well as pictures of both sides of a valid ID. It is important to make sure that the text is legible.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: Why am I being prompted to send in additional documents during the verification process?
+ANSWER: Users may be prompted to send in additional documents during the verification process if their initial documents were not sufficient. The additional documents that may be required include a government document, pictures of both sides of a valid ID, or both. The government document must not be older than 6 months.
+URL: https://info.tradera.com/en/kann-din-kund-privatperson/
+
+QUESTION: How do I shop at Tradera?
+ANSWER: To shop at Tradera, users can browse through popular brands or search for a specific item. Once they find an item they want to purchase, they can place a bid or use the "Buy it Now" option if available. Payment can be made using a variety of methods, including bank transfer, Swish, and PayPal.
+URL: https://www.tradera.com/page/how-to-shop-at-tradera
+
+QUESTION: How do I sell my items on Tradera?
+ANSWER: To sell items on Tradera, users can create an ad by filling out a form with details about the item. Private sellers can sell their personal items, while businesses must register and follow certain guidelines. Once the ad is created, buyers can bid on the item and the seller can choose to accept the highest bid or use the "Buy it Now" option if available.
+URL: https://www.tradera.com/page/sell-private-seller
+
+QUESTION: Is there a shipping calculator available on Tradera?
+ANSWER: Yes, there is a shipping calculator available on Tradera. Users can enter the shipping details for their item, including weight and size, and the calculator will provide an estimated cost for shipping.
+URL: https://www.tradera.com/page/shipping-calculator
+
+QUESTION: What is the purpose of the Store feature on Tradera?
+ANSWER: The Store feature on Tradera allows users to create a personalized storefront where they can showcase their items for sale. This can be especially useful for businesses or individuals who have a large number of items to sell and want to make them easy to find for potential buyers.
+URL: https://www.tradera.com/page/store
+
+QUESTION: Are there any charity causes supported by Tradera?
+ANSWER: Yes, there are charity causes supported by Tradera. Users can choose to donate a portion of their sale to a selected charity when creating an ad, or they can make a direct donation through the Tradera Charity initiative.
+URL: https://www.tradera.com/page/charity-causes
+
+QUESTION: How can I contact Tradera if I have questions or concerns?
+ANSWER: Users can contact Tradera with questions or concerns through the "Contact us" feature on the website. They can also access the FAQ section or browse through the information pages for more information.
+URL: https://www.tradera.com/page/contact-us
+
+QUESTION: What methods of payment are accepted on Tradera?
+ANSWER: Tradera accepts a variety of payment methods, including bank transfer, Swish, and PayPal. The seller can choose which payment methods to accept for their item.
+URL: https://www.tradera.com/page/how-to-shop-at-tradera

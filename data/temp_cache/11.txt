@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas ansvar vid betalningar?
+ANSWER: Tradera ansvarar inte för förseningar, fel, skador eller annat som har att göra med betalning eller utebliven betalning av föremål som du köper eller säljer på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vilka betalningssätt finns tillgängliga på Tradera?
+ANSWER: Det finns flera betalningssätt tillgängliga för dig när du köper eller säljer på Tradera. Sådana betalningssätt tillhandahålls av betallösningsleverantörer som Tradera samarbetar med och kan ändras från tid till annan.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vem erbjuder betalningssätten på Tradera?
+ANSWER: Betalningssätten på Tradera erbjuds av betallösningsleverantörer som Tradera samarbetar med. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan betalningssätten på Tradera ändras?
+ANSWER: Ja, betalningssätten på Tradera kan ändras från tid till annan eftersom de tillhandahålls av betallösningsleverantörer som Tradera samarbetar med. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om jag väljer att använda betalningssättet som erbjuds på Tradera?
+ANSWER: Om du väljer att använda de betalningssätt som erbjuds på Tradera så kommer du att ingå ett separat avtal med betallösningsleverantörerna och godkänna de villkor som gäller för det betalningssätt som du väljer att använda.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vem bestämmer vilka betalningssätt som erbjuds på Tradera?
+ANSWER: Betalningssätten erbjuds av betallösningsleverantörer som Tradera samarbetar med och de avgör vilka betalningssätt de vill erbjuda dig.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad ska jag göra om jag har frågor om betalning?
+ANSWER: Om det uppstår frågor som gäller betalning så ska de hanteras av dig och betallösningsleverantören enligt villkoren som gäller för det betalningssätt som du har valt att använda.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Hur hanteras förseningar i Traderas bud och meddelandefunktioner?
+ANSWER: Uppdatering av bud och andra meddelandefunktioner i Traderas Tjänster sker inte i realtid och sådana funktioner kan drabbas av förseningar.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan Tradera garantera att Tjänsterna är tillgängliga utan avbrott?
+ANSWER: Nej, Tradera kan inte garantera att Tjänsterna är tillgängliga utan avbrott. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om jag köper eller säljer föremål på Tradera som bryter mot tredje mans rättighet?
+ANSWER: Du kan inte köpa eller sälja föremål på Tradera som bryter mot någon materiell eller immateriell rättighet tillhörande tredje man.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/

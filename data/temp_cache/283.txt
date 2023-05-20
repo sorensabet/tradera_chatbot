@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att Tradera samlar in personuppgifter?
+ANSWER: Syftet med att Tradera samlar in personuppgifter är för att ge användare åtkomst till deras webbplatser och tjänster, ge kundservice och relevanta uppgifter om konton och tjänster, ge en säker, problemfri, effektiv och anpassad upplevelse, samt för att förebygga bedrägerier och upprätthålla deras användaravtal. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av personuppgifter samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress, telefonnummer, betalningsinformation, användarnamn, lösenord och annan information som användare ger vid användning av deras tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Varför behöver Tradera använda personuppgifter för att upprätthålla deras användaravtal?
+ANSWER: Ändamålet att använda personuppgifter för att upprätthålla deras användaravtal är för att förebygga bedrägerier, upptäcka och utreda potentiellt förbjudna eller olagliga aktiviteter och upprätthålla användarvillkoren. Detta är nödvändigt för att skydda användarnas och företagets intressen. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka åtgärder vidtar Tradera för att skydda användares personuppgifter?
+ANSWER: Tradera vidtar olika åtgärder för att skydda användares personuppgifter, inklusive men inte begränsat till tekniska och organisatoriska åtgärder för att förebygga obehörig åtkomst, missbruk och förstörelse av personuppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera sälja användares personuppgifter till tredje part?
+ANSWER: Nej, Tradera säljer inte användares personuppgifter till tredje part. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan användare begära att deras personuppgifter raderas från Traderas system?
+ANSWER: Ja, användare kan begära att deras personuppgifter raderas från Traderas system, förutsatt att det inte strider mot något lagkrav eller rättigheter till säkerhet eller försvar. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Om användare inte godkänner Traderas integritetspolicy, kan de ändå använda deras tjänster?
+ANSWER: Nej, om användare inte godkänner Traderas integritetspolicy kan de inte använda deras tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Använder Tradera cookies för att samla in information om användare?
+ANSWER: Ja, Tradera använder cookies för att samla in information om användare och deras användning av webbplatser, tjänster, applikationer och verktyg. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad använder Tradera personuppgifterna för som de samlar in från användare?
+ANSWER: Tradera använder personuppgifter från användare för att ge användare åtkomst till deras webbplatser och tjänster, förhindra bedrägerier och upprätthålla deras användaravtal, anpassa, mäta och förbättra deras tjänster, kontakta användare om tvister eller problem med deras konto, jämföra information för att kontrollera riktigheten och tillhandahålla andra tjänster som användare begär. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur länge sparar Tradera personuppgifter?
+ANSWER: Tradera sparar personuppgifter så länge som det är nödvändigt för att tillhandahålla tjänster till användare, för att upprätthålla deras användaravtal och för att följa lagkrav. De kan också fortsätta att spara viss information efter att kontot har raderats om det krävs för att lösa tvister eller följa lagliga krav. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

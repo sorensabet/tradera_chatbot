@@ -1,0 +1,39 @@
+QUESTION: Vad är ett wildcard och hur fungerar det vid sökning på Tradera?
+ANSWER: Ett wildcard är en asterisk som betyder "och vad som helst som kommer efter". Om man använder wildcard behöver man bara skriva in början av sökordet. Exempelvis ger en sökning på Mumin* träff på annonser med Muminmugg, muminkopp och mumintallrik m.fl.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Hur kan man söka på Tradera med exakt fras?
+ANSWER: Man kan söka med exakt fras genom att använda citationstecken runt sökordet. Exempelvis ger en sökning på "Polarn och pyret" träff på annonser som innehåller exakt frasen "polarn och pyret" i rubriken.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Kan man söka på varumärken på Tradera?
+ANSWER: Ja, man kan söka på populära varumärken på Tradera. Det finns även en egen kategori för varumärken på sidan.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Kan man få träffar för olika stavningar på Tradera?
+ANSWER: Ja, man kan få träffar för olika stavningar på Tradera genom att använda ett frågetecken där man tror det finns olika stavningar. Exempelvis skulle en sökning på Gusta?sberg ge träff på både Gustavsberg och Gustafsberg.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Går det att spara en hel sökning på Tradera?
+ANSWER: Ja, man kan spara en hel sökning på Tradera, inklusive alla filter, och bli notifierad direkt när en produkt som matchar sökningen läggs upp.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Vilka kategorier finns det på Tradera?
+ANSWER: Det finns många olika kategorier att söka på Tradera. Exempelvis kläder och accessoarer, elektronik och datorer, hobby och samlingar, sport och fritid, hem och trädgård, och många fler.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Vad är "Grön frakt" på Tradera?
+ANSWER: "Grön frakt" är ett samarbete mellan Tradera och PostNord som innebär att man som köpare och säljare kan välja klimatkompenserade transportalternativ när man skickar och tar emot paket.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Vilka möjligheter finns det att donera med Tradera?
+ANSWER: Det finns flera möjligheter att donera med Tradera. Exempelvis kan man donera sina försäljningsintäkter till välgörenhet genom "Skänk direkt" eller skänka udda prylar till välgörenhet genom "Skänk till Tradera-butiken".
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Hur kan man handla på Tradera?
+ANSWER: Man kan handla på Tradera genom att använda sökfunktionen för att hitta det man söker efter eller navigera bland olika kategorier och populära varumärken. När man hittat en produkt man vill köpa kan man lägga den i sin varukorg och betala med ett betalningsalternativ som passar en själv, exempelvis banköverföring eller kortbetalning.
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Vilka möjligheter finns det att sälja på Tradera som privatperson?
+ANSWER: Som privatperson kan man sälja på Tradera genom att skapa en egen annons och bestämma vad man vill sälja, till vilket pris, och med vilka villkor. Man betalar endast för annonsen om man får en köpare, och Tradera har en garanti som skyddar mot bedrägeri och andra problem.
+URL: https://info.tradera.com/soktips-pa-tradera/

@@ -1,0 +1,39 @@
+QUESTION: Which purchases are prohibited by Tradera's Rules for Sellers? 
+ANSWER: The purchases prohibited by Tradera's Rules for Sellers include objects (unless the recipient claims that the objects have not arrived), purchase of items equivalent to cash (including, without limitation, gift cards), purchase of tickets for events such as sports or concert tickets, and purchase of goods and services prohibited by Tradera's Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if a buyer does not receive a paid delivery from the seller on Tradera? 
+ANSWER: If a Buyer does not receive a paid delivery from the seller on Tradera, they can initiate a dispute settlement procedure on My Tradera within 30 days from the date of purchase. If the Buyer fails to escalate the dispute to Tradera within 10 days of the initiation of the dispute settlement procedure, the dispute settlement procedure will automatically be terminated in the Seller's favor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How can disputes be resolved between Seller and Buyer on Tradera? 
+ANSWER: Disputes can be resolved between Seller and Buyer on Tradera by means of the dispute settlement system offered by Tradera on "My Tradera". Such a dispute settlement procedure must be initiated in My Tradera within 30 days from the date of the purchase. Once a dispute settlement procedure has been initiated, Buyer and Seller must first communicate with each other through Tradera's dispute settlement system to try to find a solution to the problem. If Buyer and Seller fail to reach a resolution within ten (10) days of the initiation of the dispute settlement procedure, the Buyer may escalate the dispute to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Who is responsible for providing evidence of an error in service or item sold in the dispute settlement procedure? 
+ANSWER: In the dispute settlement procedure on Tradera, the Buyer is responsible for proving that there are errors in the service provided by the Seller, or the item sold by the Seller, e.g., by providing evidence that the goods differ from the Seller's description.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens when a dispute is escalated to Tradera? 
+ANSWER: When a dispute is escalated to Tradera, Tradera will contact both Buyer and Seller to obtain an understanding of what has happened. Tradera may then ask both Parties for supporting evidence, such as additional documentation concerning the goods or Transactions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is there a time limit to escalate a dispute to Tradera on My Tradera? 
+ANSWER: Yes, there is a time limit to escalate a dispute to Tradera on My Tradera. If the Buyer does not escalate the dispute to Tradera within ten (10) days of the initiation of the dispute settlement procedure, the dispute settlement procedure will automatically be terminated in the Seller's favor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What must be done before escalating a dispute to Tradera in the dispute settlement procedure? 
+ANSWER: Before escalating a dispute to Tradera in the dispute settlement procedure, Buyer and Seller must first communicate with each other through Tradera's dispute settlement system to try to find a solution to the problem. If Buyer and Seller fail to reach a resolution within ten (10) days of the initiation of the dispute settlement procedure, the Buyer may escalate the dispute to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the time limit to initiate a dispute settlement procedure on Tradera? 
+ANSWER: The time limit to initiate a dispute settlement procedure on Tradera is within 30 days from the date of the purchase.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What kind of communication should be made about a dispute in the dispute settlement procedure on Tradera? 
+ANSWER: Any communication about a dispute in the dispute settlement procedure on Tradera shall be made through Tradera's dispute settlement system on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can a dispute settlement procedure be initiated after 30 days from the date of the purchase? 
+ANSWER: No, a dispute settlement procedure cannot be initiated after 30 days from the date of the purchase on Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

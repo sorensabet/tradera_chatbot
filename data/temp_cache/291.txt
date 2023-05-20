@@ -1,0 +1,39 @@
+QUESTION: Varför använder Tradera cookies och liknande teknik?
+ANSWER: Tradera använder cookies, webb-beacons och liknande teknik för att lagra information för att ge användare en bättre, snabbare och säkrare upplevelse, samt för annonseringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Var kan jag hitta mer information om Traders cookie-policy?
+ANSWER: Du kan hitta mer detaljerad information om cookies och liknande teknik på Traderas Cookie-policy-sida.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Får jag skicka spam via min Tradera-profil?
+ANSWER: Nej, traders tillåter inte skräppost, spionprogram och identitetsstöld.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad ska jag göra om jag får Tradera-relaterat spam eller e-post med förfalskad avsändaradress?
+ANSWER: Om du mottar Tradera-relaterat spam eller e-post med förfalskad avsändaradress, ska du vidarebefordra e-postmeddelandet till abuse@tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Spart Tradera permanent några meddelanden som skickas genom deras verktyg för att söka efter skräppost, virus och phishing?
+ANSWER: Nej, Tradera sparar inte permanent några meddelanden som skickas genom deras verktyg för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur garanterar Tradera säkerheten för mina personuppgifter?
+ANSWER: Tradera garanterar säkerheten för dina personuppgifter genom att följa gällande lagar och förordningar som skyddar kundernas rättigheter. Personuppgifter är endast tillgängliga för registrerade användare och skyddas med hjälp av lösenord.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Är det tillåtet att dela mitt Tradera-lösenord med andra?
+ANSWER: Nej, Tradera rekommenderar inte att användare delar sitt lösenord eller sina personuppgifter med någon annan.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad ska jag använda för lösenord för mitt Tradera-konto?
+ANSWER: Du bör använda unika siffror, bokstäver och symboler för att skapa ett säkert lösenord för ditt Tradera-konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan jag granska och ändra mina personuppgifter på Tradera?
+ANSWER: Ja, du kan granska och ändra dina personuppgifter på Tradera, inklusive uppgifter om ditt Tradera-konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan någon annan än jag använda mitt Tradera-konto?
+ANSWER: Nej, för att använda ditt Tradera-konto krävs ditt lösenord och personliga uppgifter, som endast du ska ha tillgång till.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

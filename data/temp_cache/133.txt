@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med s.k. "cookies" på Tradera?
+ANSWER: Syftet med s.k. "cookies" på Tradera är att tillhandahålla utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/annons-typer/
+
+QUESTION 2: Varför används s.k. "cookies" av Traderas annonseringspartners?
+ANSWER: Traderas annonseringspartners använder s.k. "cookies" för att kunna tillhandahålla riktade annonser relevanta för Traderas kunder.
+URL: https://info.tradera.com/en/annons-typer/
+
+QUESTION 3: Vilken typ av annonsering är tillåten på Tradera?
+ANSWER: På Tradera är det tillåtet med annonsering av varor och tjänster som är lagliga och tillåtna enligt Traderas regler och de tillämpliga lagarna.
+URL: https://info.tradera.com/sv/annonsera-pa-tradera/
+
+QUESTION 4: Vad händer om man bryter mot Traderas regler för annonsering?
+ANSWER: Om man bryter mot Traderas regler för annonsering kan ens konto stängas av eller begränsas.
+URL: https://info.tradera.com/sv/regler-for-annonsering/
+
+QUESTION 5: Vilka typer av betalning accepterar Tradera?
+ANSWER: Tradera accepterar betalning via banköverföring, Swish, kortbetalning och faktura.
+URL: https://info.tradera.com/sv/betalning/
+
+QUESTION 6: Vilken typ av varor är förbjudna att sälja på Tradera?
+ANSWER: Varor som är olagliga eller utgör en risk för allmänhetens hälsa eller säkerhet är förbjudna att sälja på Tradera.
+URL: https://info.tradera.com/sv/forbjudna-objekt-pa-tradera/
+
+QUESTION 7: Kan man få återbetalning om man inte är nöjd med en vara man köpt på Tradera?
+ANSWER: Ja, man kan få återbetalning om man inte är nöjd med en vara man köpt på Tradera om man kontaktar säljaren inom 14 dagar efter att man mottagit varan.
+URL: https://info.tradera.com/sv/guider/kopaviktig/
+ 
+QUESTION 8: Vilka regler gäller för frakt av varor på Tradera?
+ANSWER: Reglerna för frakt av varor på Tradera är att säljaren ansvarar för att varan skickas på ett säkert och lämpligt sätt, medan köparen ansvarar för att betala fraktkostnaden.
+URL: https://info.tradera.com/sv/regler-for-frakt/
+
+QUESTION 9: Hur fungerar Tradera Pay?
+ANSWER: Tradera Pay är en betaltjänst som används för att hantera betalningar mellan köpare och säljare på Tradera. Tjänsten är säker och enkel att använda.
+URL: https://info.tradera.com/sv/tradera-pay/
+
+QUESTION 10: Vilka fördelar finns det med att använda Traderas returtjänst?
+ANSWER: Fördelarna med att använda Traderas returtjänst är att man som säljare inte behöver hantera returhanteringen själv, och som köpare kan man få tillbaka pengarna om varan inte uppfyller beskrivningen. 
+URL: https://info.tradera.com/sv/retur/

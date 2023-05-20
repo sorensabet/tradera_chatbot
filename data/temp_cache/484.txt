@@ -1,0 +1,39 @@
+QUESTION: Hvad er Nettoudbetaling?
+ANSWER: Nettoudbetaling indebærer, at gebyrerne bliver trukket fra beløbet, før Tradera udbetaler betalingen til sælgeren. Dette sker i stedet for en månedlig fakturering. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvilke betalingsmetoder kan bruges med Nettoudbetaling?
+ANSWER: Nettoudbetaling fungerer med alle gængse betalingsmetoder.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvor mange billeder kan man overføre pr. annonce?
+ANSWER: Man kan overføre fem billeder pr. annonce.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvorfor er det en god idé at have klare og detaljerede billeder til annoncen?
+ANSWER: Klare og detaljerede billeder fra forskellige vinkler og med god belysning vil hjælpe dig med dit salg. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvilket mærke kan man skrive i annoncen?
+ANSWER: Man kan kun skrive det mærke, som varen reelt er. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvorfor er det en god idé at have et billede af kvitteringen, hvis man sælger en dyr vare?
+ANSWER: Hvis man sælger en dyr vare, er det altid en god idé at have et billede af kvitteringen for at vise potentielle købere, at varen ikke er en kopi. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad kan man gøre, hvis man er usikker på, hvad forsendelsen vil koste?
+ANSWER: Hvis man er usikker på, hvad forsendelsen vil koste, kan man bruge Traderas forsendelsesberegner til at tjekke forsendelsespriserne hos forskellige forsendelsesleverandører. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er en auktion på Tradera?
+ANSWER: En auktion er en annoncetype, hvor købere kan byde på varen, og den højeste budgiver vinder og køber varen. Det er den mest typiske annoncetype på Tradera. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvilke andre lande kan man sælge til udover Danmark og Sverige?
+ANSWER: Man kan også sælge til resten af EU og hele verden.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvilke tips kan hjælpe med at forøge salgchancerne på Tradera?
+ANSWER: En god beskrivelse med en uddybende overskrift med relevante oplysninger såsom farve, størrelse og hvilken model, du sælger, kan forøge salgchancerne. 
+URL: https://info.tradera.com/da/salja-pa-tradera/

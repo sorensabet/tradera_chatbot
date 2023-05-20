@@ -1,0 +1,39 @@
+QUESTION: Vad ska jag skicka in om jag har fått ett felmeddelande eller annat underlag för felsökning?
+ANSWER: Om du har fått ett felmeddelande eller annat underlag för felsökning bör du skicka in en bild på detta till Traderas kundservice på e-postadressen kundservice@tradera.com.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vad ska jag skicka in om Tradera har begärt en verifiering från mig?
+ANSWER: Om Tradera har begärt en verifiering från dig bör du skicka in personbevis, registreringsbevis, kvitto eller kompletterande bilder som kan styrka ett varumärke, och skicka dem till Traderas verifieringsadress på verifikation@tradera.com.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Kan jag skicka in mail till Tradera för att komma i kontakt med dem?
+ANSWER: Ja, men endast om du har blivit ombedd att skicka in underlag för felsökning eller verifiering. Mail som inkommer där Tradera inte har bett om underlag kommer inte att besvaras. Om du behöver komma i kontakt med Tradera vänligen kontakta dem via chatt eller telefon, kontaktuppgifterna hittar du på deras kontaktsida.
+URL: https://info.tradera.com/underlag/
+
+QUESTION: Vad innebär Traderas grön frakt?
+ANSWER: Traderas grön frakt innebär att varorna som säljs på deras plattform levereras på ett hållbart sätt med minimal klimatpåverkan. Detta görs genom samarbeten med fraktbolag som prioriterar miljön och genom att uppmuntra säljare att använda återvunna material för att packa sina varor.
+URL: https://info.tradera.com/om-tradera/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Det finns många populära varumärken som säljs på Tradera, några exempel är Acne Studios, Gant, Odd Molly, Filippa K och Lexington.
+URL: https://www.tradera.com/populara-varumarken
+
+QUESTION: Vad är köpkyddet på Tradera?
+ANSWER: Köpkyddet på Tradera innebär att köparen har rätt till ersättning om den köpta varan inte motsvarar beskrivningen eller om säljaren inte levererar varan. Köparen kan reklamera varan inom 14 dagar efter att den mottagits och Tradera hjälper till med att genomföra en återbetalning eller att ordna en retur.
+URL: https://info.tradera.com/sakerhet/
+
+QUESTION: Kan jag sälja något på Tradera som privatperson?
+ANSWER: Ja, som privatperson kan du sälja både nya och begagnade varor på Tradera. Det finns dock vissa regler att följa, som till exempel att inte sälja förfalskade varor och att ange varans skick så detaljerat som möjligt i beskrivningen.
+URL: https://info.tradera.com/sa-saljer-du-som-privatperson/
+
+QUESTION: Kan jag sälja något på Tradera som företag?
+ANSWER: Ja, som företag kan du sälja varor på Tradera. Det finns dock vissa regler att följa, som till exempel att ha ett svenskt organisationsnummer och att följa Traderas riktlinjer för försäljning av varor.
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Vilka leveransalternativ finns tillgängliga på Tradera?
+ANSWER: Vilka leveransalternativ som är tillgängliga på Tradera beror på vilka fraktbolag som säljarna väljer att använda. Tradera samarbetar med flera fraktbolag, såsom PostNord, DHL och Schenker, och de leveransalternativ som erbjuds kan variera från säljare till säljare.
+URL: https://info.tradera.com/fraktkalkylatorn/
+
+QUESTION: Vilka regler finns det att följa på Tradera?
+ANSWER: Det finns flera regler att följa på Tradera, både för köpare och säljare. Dessa inkluderar bland annat att inte sälja förfalskade varor, att inte skapa falska eller vilseledande beskrivningar av varor, och att inte använda sig av ojusta metoder för att öka en auktionens pris.
+URL: https://info.tradera.com/regler/

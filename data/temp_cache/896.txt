@@ -1,0 +1,39 @@
+QUESTION: Vad händer om Köparen inte eskalerar tvisten till Tradera inom 10 dagar?
+ANSWER: Om Köparen inte eskalerar tvisten till Tradera inom tio (10) dagar från att tvistlösningsförfarandet inleddes så kommer tvistlösningsförfarandet automatiskt avslutas till Säljarens fördel.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken roll spelar Tradera när en tvist eskaleras?
+ANSWER: När en tvist eskaleras till Tradera enligt punkt ii ovan, kommer Tradera kontakta både Köpare och Säljare för att skaffa sig en uppfattning om vad som har inträffat. Tradera kan sedan komma att be bägge parter om underlag, så som ytterligare dokumentation kring varan eller Transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket ansvar har Köparen vid tvistlösning?
+ANSWER: Köparen är ansvarig för att påvisa att det föreligger fel i den tjänst Säljaren utfört eller den vara som Säljaren har sålt, t.ex. med underlag bevisa att varan skiljer sig från Säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om ett tvistlösningsförfarande inleds för en produkt som inte omfattas av Traderas köparskydd?
+ANSWER: Om Köparen inleder ett tvistlösningsförfarande där köpet avser en produkt som inte omfattas av Traderas köparskydd enligt punkt 6 d) ovan, kommer Tradera att avsluta tvisten utan vidare undersökning och Köparen har inte rätt till någon återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om ett tvistlösningsförfarande avslutas till Köparens fördel?
+ANSWER: Om ett tvistlösningsförfarande avslutas till Köparens fördel, har Köparen rätt till återbetalning av, delar av eller hela, det belopp som Köparen har betalat för en vara.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Köparen få hela det betalda beloppet återbetalat vid tvistlösning?
+ANSWER: Om ett tvistlösningsförfarande avslutas till Köparens fördel, har Köparen rätt till återbetalning av, delar av eller hela, det belopp som Köparen har betalat för en vara.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan tvistlösning påbörjas för alla köp?
+ANSWER: Tvistlösning kan bara påbörjas för de köp som omfattas av Traderas köpskydd enligt punkt 6 d) ovan.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur lång tid har Köparen på sig att eskalera tvisten till Tradera?
+ANSWER: Om Köparen inte eskalerar tvisten till Tradera inom tio (10) dagar från att tvistlösningsförfarandet inleddes så kommer tvistlösningsförfarandet automatiskt avslutas till Säljarens fördel.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad bör Köparen påvisa vid tvistlösning?
+ANSWER: Köparen är ansvarig för att påvisa att det föreligger fel i den tjänst Säljaren utfört eller den vara som Säljaren har sålt, t.ex. med underlag bevisa att varan skiljer sig från Säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Köparen kräva återbetalning vid tvistlösning?
+ANSWER: Om ett tvistlösningsförfarande avslutas till Köparens fördel, har Köparen rätt till återbetalning av, delar av eller hela, det belopp som Köparen har betalat för en vara.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

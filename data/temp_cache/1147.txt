@@ -1,0 +1,39 @@
+QUESTION: Vad händer när en köpare betalar via Swish?
+ANSWER: När en köpare betalar via Swish sker betalningen automatiskt i Swish-appen och köparen kan godkänna betalningen direkt. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken process sker efter att köparen har betalat med kortbetalning eller PayPal?
+ANSWER: Vid betalning med kortbetalning eller PayPal sätts pengarna först in på PayPals (Hyperwallets) bankkonto. Tradera kontrollerar sedan transaktionen och om det godkänns av Tradera betalar PayPal ut pengarna till säljaren. När köparen har betalat kommer Tradera att meddela säljaren via e-post och i Mitt Tradera om att betalning har skett. Varan ska då skickas av säljaren till köparen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken betalningsmetod kan köpare välja om de vill betala via Paynova?
+ANSWER: Vid försäljning på plattformen, om köpare har valt att betala via Paynova, accepterar säljaren att PayPal övertar säljarens rätt att få betalt från köparen i utbyte mot att PayPal erlägger betalning till säljaren för transaktionen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken betalningsmetod kan köpare välja om de vill betala via Klarna?
+ANSWER: Vid försäljning på plattformen, om köpare har valt att betala via Klarna överlåter säljaren rätten att få betalt från köparen till Tradera som i sin tur överlåter sådan fordran till Klarna. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur sker utbetalning till säljaren vid försäljning på plattformen?
+ANSWER: Säljaren accepterar att utbetalning för transaktionen kommer att ske via Hyperwallet. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vem har ansvar för att utbetalning till säljaren genomförs?
+ANSWER: Ansvaret för att utbetalning till säljaren genomförs åligger Hyperwallet om köparen har valt att betala via Klarna. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om köparen väljer att betala mot faktura eller avbetalning?
+ANSWER: Vid betalning mot faktura eller avbetalning ingår köparen en transaktion som görs av en tredje part. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken betalningstjänst används när köparen väljer att betala via Paynova?
+ANSWER: När köpare har valt att betala via Paynova övertar PayPal säljarens rätt att få betalt från köparen i utbyte mot att PayPal erlägger betalning till säljaren för transaktionen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken betalningstjänst används när köparen väljer att betala via Klarna?
+ANSWER: När köpare har valt att betala via Klarna överlåter säljaren rätten att få betalt från köparen till Tradera som i sin tur överlåter sådan fordran till Klarna. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: När meddelas säljaren om att betalning har skett?
+ANSWER: När köparen har betalat kommer Tradera att meddela säljaren via e-post och i Mitt Tradera om att betalning har skett. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

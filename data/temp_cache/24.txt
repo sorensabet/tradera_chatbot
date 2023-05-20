@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information samlar Tradera in om användare genom sin användning av cookies och webb-beacons?
+ANSWER: Tradera samlar in enhet som används, data och anslutningsinformation, statistik om sidvisningar, trafik till och från webbplatserna, hänvisande URL, annonsdata, IP-adress och standardmässig information från webbloggar genom sin användning av cookies och webb-beacons.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken typ av information samlar Tradera in från användare i samband med användning av webbplatser, applikationer, tjänster eller verktyg?
+ANSWER: Tradera samlar in och sparar användarinformation såsom information som användare lämnar vid registrering av ett konto (inklusive personuppgifter och ekonomisk information), information som användare delar via sociala medier, transaktionsrelaterad information (såsom budgivning och köp) samt leverans- och betalningsinformation.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad ingår i leveransinformationen som Tradera kan samla in?
+ANSWER: Leveransinformationen som kan samlas in av Tradera omfattar faktureringsinformation, betalningsinformation samt annan information som lämnas för köp och leverans av en produkt. Om leveranstjänster tillhandahålls genom ett av Traderas integrerade system kan även annan relevant leveransinformation (t.ex. leveransstatus) som sparas av vald leveranspartner samlas in.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan annonsdata om användare samlas in av Tradera?
+ANSWER: Ja, Tradera kan samla in annonsdata om användare genom sin användning av cookies och webb-beacons.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Samlar Tradera in information från diskussioner i forum och chattar på sina plattformar?
+ANSWER: Ja, Tradera kan samla in information som lämnas i samband med diskussioner i forum och chattar på sina plattformar.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera samla in personnummer från användare?
+ANSWER: Ja, användare kan lämna personnummer till Tradera vid registrering av ett konto på plattformen.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera samla in kontaktinformation från användare?
+ANSWER: Ja, Tradera samlar in kontaktinformation som användare lämnar vid registrering av ett konto på plattformen.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Samlar Tradera in ekonomisk information från användare?
+ANSWER: Ja, Tradera kan samla in ekonomisk information från användare vid registrering av ett konto, om det är relevant för den tjänst som används (t.ex. bankkontonummer vid användning av betalningstjänster på plattformen).
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera använda information som delas av användare via sociala medier?
+ANSWER: Ja, Tradera kan använda information som delas av användare via sociala medier i samband med deras användning av plattformen.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken typ av transaktionsrelaterad information samlar Tradera in?
+ANSWER: Tradera samlar in transaktionsrelaterad information baserat på användares aktiviteter på plattformen, såsom budgivning, köp, försäljning, annonsinformation och innehåll som kan hänföras till användares konto.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

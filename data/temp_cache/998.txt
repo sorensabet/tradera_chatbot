@@ -1,0 +1,39 @@
+QUESTION: Vilka företag kan få tillgång till mina personuppgifter enligt Traderas integritetspolicy?
+ANSWER: Enligt Traderas integritetspolicy kan företag som Trapets (ett kreditupplysningsföretag) och andra företag som Tradera eventuellt kan fusioneras med eller bli uppköpta av få tillgång till dina personuppgifter. Deltagande rättighetsinnehavare i Traderas VeRO-program kan också få tillgång till dina personuppgifter om det är nödvändigt för att undersöka olagliga aktiviteter såsom bedrägeri eller intrång i immateriella rättigheter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken personlig information kan Tradera lämna ut om jag är föremål för en utredning gällande olaglig aktivitet som bedrägeri eller piratkopiering?
+ANSWER: Om du är föremål för en utredning gällande olaglig aktivitet som bedrägeri, intrång i immateriella rättigheter eller piratkopiering kan Tradera lämna ut ditt namn, personnummer, hemadress, stad, stat, postadress, land, telefonnummer, e-postadress och företagsnamn till deltagande rättighetsinnehavare i Traderas VeRO-program om detta anses nödvändigt eller lämpligt.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan min användar-ID på Tradera kopplas till mina personuppgifter?
+ANSWER: Ja, Traderas användar-ID är genomgående på deras plattform och därmed tillgängligt för allmänheten. Därför kan ditt Tradera användar-ID kopplas till dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka regler följer det företag som Tradera eventuellt kan fusioneras med eller bli uppköpta av vad gäller behandling av mina personuppgifter?
+ANSWER: Om Tradera skulle fusioneras med eller bli uppköpt av ett annat företag, kommer Tradera att kräva att det nya företaget följer deras integritetspolicy vad gäller behandling av dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Får Tradera använda mina personuppgifter för andra ändamål än vad som anges i deras integritetspolicy?
+ANSWER: Tradera kommer att informera dig om och efterfråga ditt samtycke om dina personuppgifter kommer att användas eller lämnas ut för andra ändamål än vad som anges i deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka typer av överträdelser kan leda till att Tradera rapporterar information om mig till Trapets?
+ANSWER: Tradera kan rapportera information om ditt konto till kreditupplysningsföretaget Trapets om du har uteblivna betalningar eller andra överträdelser av ditt konto som kan framgå i din kreditupplysning, i den utsträckning det tillåts enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka är deltagande rättighetsinnehavare i Traderas VeRO-program och vad är syftet med programmet?
+ANSWER: Deltagande rättighetsinnehavare i Traderas VeRO-program är företag som har immateriella rättigheter till vissa varumärken eller produkter. Syftet med programmet är att sätta stopp för försäljning av piratkopierade produkter eller produkter som kränker andras immateriella rättigheter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är Trapets för företag och varför rapporterar Tradera information om mitt konto till dem?
+ANSWER: Trapets är ett kreditupplysningsföretag. Tradera rapporterar information om ditt konto till Trapets om du har uteblivna betalningar eller andra överträdelser av ditt konto som kan framgå i din kreditupplysning, i den utsträckning det tillåts enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Är deltagande rättighetsinnehavare i Traderas VeRO-program bundna av sekretessavtal?
+ANSWER: Ja, enligt Traderas integritetspolicy är deltagande rättighetsinnehavare i deras VeRO-program bundna av sekretessavtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är Traderas VeRO-program och vad är syftet med det?
+ANSWER: Traderas VeRO-program är ett program där deltagande rättighetsinnehavare har möjlighet att anmäla försäljning av piratkopierade produkter eller produkter som kränker deras immateriella rättigheter. Syftet med programmet är att sätta stopp för försäljningen av sådana produkter på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

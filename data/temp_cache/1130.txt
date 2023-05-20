@@ -1,0 +1,39 @@
+QUESTION: Vilken funktion tillhandahåller Tradera för tvistlösning?
+ANSWER: Tradera tillhandahåller en tvistlösningsfunktion som gör att en säljare och en köpare kan lösa sina meningsskiljaktigheter på plats. Kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på plattformen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är tidsramen för att inleda ett tvistlösningsförfarande på Tradera?
+ANSWER: Ett tvistlösningsförfarande måste inledas i Mitt Tradera inom trettio (30) dagar från det att köpet genomfördes. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+ 
+QUESTION: Hur kan Köparen eskalera en tvist på Tradera?
+ANSWER: Om Köparen inte kommer fram till en lösning med Säljaren inom tio (10) dagar från att tvistlösningsförfarandet inleddes, kan Köparen eskalera tvisten till Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om Köparen inte eskalerar tvisten till Tradera inom tio dagar?
+ANSWER: Om Köparen inte eskalerar tvisten till Tradera inom tio (10) dagar från att tvistlösningsförfarandet inleddes så kommer tvistlösningsförfarandet automatiskt att avslutas till förmån för Säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Är det obligatoriskt att använda Traderas tvistlösningsfunktion om en meningsskiljaktighet uppstår?
+ANSWER: Nej, det är frivilligt att använda Traderas tvistlösningsfunktion, men det rekommenderas att Köparen och Säljaren använder systemet för att lösa sina problem. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Finns det tidsramar för när Säljaren och Köparen behöver lösa en meningsskiljaktighet självständigt?
+ANSWER: Ja, Säljaren och Köparen behöver försöka lösa en meningsskiljaktighet självständigt inom tio (10) dagar från det att tvistlösningsförfarandet inleddes. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av meningsskiljaktigheter kan lösas genom Traderas tvistlösningsförfarande?
+ANSWER: Om en Säljare och en Köpare har en meningsskiljaktighet som exempelvis beror på att Köparen inte fått leverans av en betald vara eller att den levererade varan enligt Köparen skiljer sig väsentligt från Säljarens beskrivning, kan parterna lösa sin meningsskiljaktighet genom det tvistlösningssystem som Tradera tillhandahåller på "Mitt Tradera." 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan tvistlösningsförfarandet börjas utanför "Mitt Tradera"?
+ANSWER: Nej, tvistlösningsförfarandet måste inledas i "Mitt Tradera" och all kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan parterna fortfarande inleda ett tvistlösningsförfarande efter trettio dagars perioden?
+ANSWER: Nej, det är inte möjligt att inleda ett tvistlösningsförfarande efter trettio (30) dagar från det att köpet genomfördes. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan andra typer av meningsskiljaktigheter lösas genom Tradera?
+ANSWER: Nej, endast meningsskiljaktigheter som uppstår när Köparen inte fått leverans av en betald vara eller när den levererade varan enligt Köparen skiljer sig väsentligt från Säljarens beskrivning kan lösas genom Traderas tvistlösningsförfarande. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

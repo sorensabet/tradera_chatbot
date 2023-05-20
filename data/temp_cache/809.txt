@@ -1,0 +1,39 @@
+QUESTION: What are the fees for using Tradera's services?
+ANSWER: The fees we charge for using our Services are listed on our price list for individuals and business users. You can find the fee structure on their price list page.
+URL: https://info.tradera.com/en/prislista/
+
+QUESTION: Can Tradera change their fees?
+ANSWER: Yes, Tradera may change their fees from time to time by posting the changes on the Tradera site or by sending the information by email 30 days in advance. By continuing to use the Services after the new fees take effect, you accept the new fees.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: How does Tradera handle invoicing?
+ANSWER: Tradera's invoicing procedures and payment terms are set out in their Invoicing & Payment Policy, and they send invoices electronically by email.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: How long does it take for a listing to become searchable on Tradera?
+ANSWER: When listing an item for sale, your listing may not be immediately searchable by keyword or category until after up to 24 hours. The exact duration may depend on several factors such as the listing format, heading, bidding activity, and deadline for responses.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Are there any restrictions when listing items for sale on Tradera?
+ANSWER: Yes, when listing an item for sale on Tradera, you are responsible for the content of the listing and agree to only post listings in accordance with their policies relating to prohibited and unauthorized items or listing. You can find more details about these policies on their Rules for sellers page.
+URL: https://info.tradera.com/salj-pa-tradera/saljare-bli-proffs/regler-for-saljare/
+
+QUESTION: What determines when a listing appears on Tradera's search results?
+ANSWER: The factors that determine when and if your listing appears in search results on Tradera or the Internet may depend on several factors such as the listing format, heading, bidding activity, deadline for responses, keyword, price and shipping costs, valuation, and feedback about you as a seller.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Does Tradera offer any seller upgrades?
+ANSWER: Yes, some optional listing upgrades will only be visible on certain Tradera Services. You can find more information about these upgrades on their seller upgrades page.
+URL: https://info.tradera.com/salj-pa-tradera/saljarverktyg-och-tjanster/
+
+QUESTION: How often may Tradera change their fees?
+ANSWER: Tradera may change their fees from time to time but they must post the changes on the Tradera site or send the information by email 30 days in advance.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: How does Tradera handle suspending or terminating a business user's use of the Services?
+ANSWER: Tradera will provide the business user concerned with a statement of reasons for that decision without undue delay. However, if Tradera is subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds, or where the business user has repeatedly infringed the applicable terms and conditions of this User Agreement, including the Payment Solution Terms, resulting in termination of the provision of the whole of the Services in question, Tradera may not be under an obligation to provide reasons for the decision to suspend, restrict or terminate a business user's use of the Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: How can I find out which items are prohibited on Tradera?
+ANSWER: Tradera has policies relating to prohibited and unauthorized items or listing, and you agree to only post listings in accordance with these policies. You can find more details about these policies on their Rules for sellers page.
+URL: https://info.tradera.com/salj-pa-tradera/saljare-bli-proffs/regler-for-saljare/

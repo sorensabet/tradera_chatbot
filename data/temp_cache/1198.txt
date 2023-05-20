@@ -1,0 +1,39 @@
+QUESTION 1: What is Tradera's checkout solution?
+ANSWER: Tradera's checkout solution is a website that offers various payment methods that a Buyer may use to pay for a purchase on Tradera's Platform. The Seller must accept that the Buyer pays with the help of Tradera's checkout solution when selling on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 2: What are the obligations of a Seller when selling on Tradera's Platform?
+ANSWER: When selling on Tradera's Platform, the Seller must accept that the Buyer pays with the help of Tradera's checkout solution, take payment through Tradera's checkout solution, and receive payout through Tradera's payment service. More information about this and the Seller's obligations can be found in the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 3: Who can be considered as the "Buyer" in Tradera's Platform?
+ANSWER: The "Buyer" in Tradera's Platform refers to any natural person residing in Sweden, who has made a purchase on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 4: What is Klarna in Tradera's Platform?
+ANSWER: Klarna is a bank that works together with Tradera in providing payment solutions on Tradera's Platform. Buyers may choose Klarna as a payment method during checkout.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 5: What is "My Tradera"?
+ANSWER: "My Tradera" is a logged-on environment provided by Tradera where Sellers can manage order processing, and Buyers can verify their purchases.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 6: What are the "Rules for Sellers" on Tradera's Platform?
+ANSWER: The "Rules for Sellers" are rules that Sellers must always follow when selling on Tradera's Platform. The latest versions of these rules are available on the Tradera website.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION 7: What is the definition of a "Seller" in Tradera's Platform?
+ANSWER: A "Seller" in Tradera's Platform refers to any natural person residing in Sweden who sells goods or services on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 8: What is Tradera's User Agreement?
+ANSWER: Tradera's User Agreement is the prevailing terms and conditions for the use of Tradera's Platform and other services. More information about Tradera's User Agreement can be found on the Tradera website.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION 9: What is Tradera?
+ANSWER: Tradera is a Swedish licensed payment institution that provides websites, marketplace services, and applications through www.tradera.com. It is authorised and supervised by the Swedish Financial Supervisory Authority (Sw. Finansinspektionen).
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 10: What services does Tradera provide?
+ANSWER: Tradera provides websites, marketplace services, and applications through www.tradera.com. It offers payment solutions for Buyers, and a platform for Sellers to sell goods or services. More information about Tradera's services can be found on their website.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att förbättra användarupplevelsen genom att samla in data om hur Tradera används, spara vissa inställningar och anpassa annonser efter användarens intressen. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Kan cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de krävs för att Tradera ska fungera. Funktionella och marknadsföringscookies kan stängas av i inställningarna för cookies. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Vad är nödvändiga cookies på Tradera?
+ANSWER: Nödvändiga cookies på Tradera är de cookies som krävs för att Tradera ska fungera, som att komma ihåg användarinloggningar och säkerhetsinställningar. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Vilken information samlas in med prestandacookies på Tradera?
+ANSWER: Prestandacookies på Tradera samlar in anonym mätdata om hur Tradera används, som antal besökare och klickade länkar, för att kunna förbättra användarupplevelsen. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för att utöka funktionaliteten och användaranpassningen, såsom att spara vissa inställningar eller möjliggöra inloggning med Facebook. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Är användardata på Tradera delad med andra företag?
+ANSWER: Ja, Tradera delar användardata med sina partners för sociala medier, annonsering och analys. Detta görs för att kunna anpassa annonser och förbättra användarupplevelsen. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Varför behöver Traderas annonseringspartners tillgång till användardata?
+ANSWER: Traderas annonseringspartners behöver tillgång till användardata för att kunna anpassa annonser och göra dem mer relevanta för användarna. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Kan användare på Tradera ändra sina cookie-inställningar?
+ANSWER: Ja, användare på Tradera kan ändra sina cookie-inställningar genom att gå till inställningarna för cookies på Traderas webbsida. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Vad är inställningar för cookies på Tradera?
+ANSWER: Inställningarna för cookies på Tradera är där användare kan styra vilka typer av cookies som används på Tradera och vilka inställningar som ska sparas. 
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Är det frivilligt att godkänna cookies på Tradera?
+ANSWER: Ja, det är frivilligt att godkänna funktionella och marknadsföringscookies på Tradera. Nödvändiga cookies kan inte stängas av, men det går att välja vilka cookies som ska godkännas i inställningarna för cookies. 
+URL: https://info.tradera.com/da/bids-are-binding/

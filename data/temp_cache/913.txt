@@ -1,0 +1,39 @@
+QUESTION: Who is responsible for providing evidence if there are errors in the service provided by the seller?
+ANSWER: The Buyer is responsible for proving that there are errors in the service provided by the Seller, or the item sold by the Seller, e.g., by providing evidence that the goods differ from the Seller's description. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: When will Tradera terminate a dispute without further investigation?
+ANSWER: Tradera will terminate a dispute without further investigation if the Buyer initiates a dispute settlement procedure in which the purchase relates to a product not covered by Tradera’s buyer protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: When will the Buyer be entitled to a refund in case a dispute settlement procedure is terminated in favor of them?
+ANSWER: If a dispute settlement procedure is terminated in favor of the Buyer, the Buyer shall be entitled to a refund, in part or in whole, of the amount paid by the Buyer for an item. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera have an appeals process to their decision in a case?
+ANSWER: No, Tradera's decision in a case cannot be appealed to Tradera, but the Seller and Buyer are free to find another solution to a dispute in another forum.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What kind of transactions are never covered by Tradera's seller protection?
+ANSWER: Sale of properties (including, without limitation, residential properties) are never covered by Tradera's seller protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Under which conditions is a seller entitled to Tradera's seller protection?
+ANSWER: A Seller is entitled under certain conditions to Tradera's seller protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Is a seller protected by Tradera's seller protection if the buyer claims that the Buyer has never received an item?
+ANSWER: A Seller is protected under Tradera's seller protection, even if the Buyer claims that the Buyer has never received an item, or that the item is not in accordance with the Seller's description, provided that the Seller complies with the terms and conditions of Tradera's seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the seller?
+ANSWER: If a dispute settlement procedure is terminated in favor of the Seller, the Buyer shall not be entitled to a refund within the framework of Tradera's dispute settlement procedure.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera reserve the right to invoice the seller for the amount of refund owed?
+ANSWER: Yes, Tradera reserves the right to invoice the Seller for the amount of refund owed. In this case, the invoice will be sent to the Seller in the same way as Tradera invoices for sales commission, and other costs that may arise in connection with a sale on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can the Buyer be entitled to a refund if a dispute settlement procedure is terminated in their favor?
+ANSWER: Yes, the Buyer shall be entitled to a refund, in part or in whole, of the amount paid by the Buyer for an item if a dispute settlement procedure is terminated in favor of the buyer. Tradera will then ensure that the amount is refunded to the Buyer. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

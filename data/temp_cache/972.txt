@@ -1,0 +1,39 @@
+QUESTION: What types of personal information can Tradera collect from its users?
+ANSWER: Tradera can collect a wide range of personal information from its users such as name, phone number, personal identification number, contact information, financial information, additional information provided via social media, transactional information, shipping and billing information, and additional documents for verification purposes.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the purpose of collecting shipping information by Tradera?
+ANSWER: Tradera collects shipping information for the purpose of providing shipping services through integrated systems, and for storing additional relevant shipping information such as tracking updates by the chosen shipping partner.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can Tradera verify the identity of its users?
+ANSWER: Yes, Tradera can verify the identity of its users by requesting additional documents to verify their identity or address or by asking additional questions to help verify their identity or ownership of an item they list for sale.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What type of additional information related to users does Tradera collect from third parties?
+ANSWER: Tradera can collect additional information related to its users such as demographic and navigation information, credit check information, and other information from credit bureaus, data bureaus, data providers, authorities, and public actors, as permitted by law.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera collect information from social media?
+ANSWER: Yes, Tradera may collect additional information provided by users via social media when they use sign-in services offered by Tradera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera use information from Creditsafe and Trapets?
+ANSWER: Tradera may use information from Creditsafe and Trapets to search for information on a company's beneficial owner, PEP lists (Politically Exposed Persons), and sanctions lists.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Is Tradera allowed to collect financial information related to users such as bank account numbers and tax identification numbers?
+ANSWER: Yes, if users sell goods or services via Tradera's websites, applications, services, or tools, Tradera is allowed to collect financial information related to them such as bank account numbers, tax identification numbers, and VAT registration numbers.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What happens if users do not have a tax identification number while using Tradera?
+ANSWER: If users do not have a tax identification number, Tradera collects information about their place of birth.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the purpose of collecting information on users based on their activities on the websites?
+ANSWER: The purpose of collecting information on users based on their activities on Tradera's websites is to provide better and more personalized services to them, and to improve the overall user experience.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera offer dispute resolution services?
+ANSWER: Yes, users can participate in discussions in forums, chats, dispute resolution, and correspondence with Tradera's websites or their customer service team.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

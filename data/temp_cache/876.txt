@@ -1,0 +1,39 @@
+QUESTION 1: What is Hyperwallet?
+ANSWER: Hyperwallet is the payment gateway responsible for paying the seller in respect of the transaction when the buyer makes a payment. Tradera accepts that payment to the seller will be made via Hyperwallet.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 2: Who is responsible for paying the seller if the buyer chooses to pay via invoice or installment?
+ANSWER: If the buyer chooses to pay via invoice or installment, the seller is paid in the same way as if the buyer had chosen to pay by card or PayPal. After Paynova or Klarna has carried out a credit check of the buyer, money will be paid to PayPal (Hyperwallet). Once Tradera has carried out its check of the Transaction and it has been approved, the money will be then paid to the Seller's account.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 3: How is the payment made to the seller if the buyer chooses to pay via invoice or installment?
+ANSWER: After Paynova or Klarna has carried out a credit check of the buyer, money will be paid to PayPal (Hyperwallet). Once Tradera has carried out its check of the Transaction and it has been approved, the money will be then paid to the Seller's account.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 4: How does Tradera inform the seller that the payment has been made if the buyer chooses to pay via invoice or installment?
+ANSWER: Tradera notifies the Seller via e-mail and in My Tradera that payment for the purchase has been made. The seller should then send the goods to the buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 5: What happens if Tradera considers that the buyer is right in a dispute settlement case?
+ANSWER: Within the framework of Tradera's dispute settlement system, where Tradera considers that the Buyer is right, Tradera has the right to withhold payment to the Seller or, if the Seller has already been paid, to require the Seller to pay the refundable amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 6: In which cases does Tradera have the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera?
+ANSWER: Tradera has the right to withhold payment to the Seller or, if the Seller has already been paid, to require the Seller to pay the refundable amount to Tradera in cases where: a) Tradera considers that the Buyer is right within the framework of Tradera's dispute settlement system, b) Transactions result in the creation of a claim against a natural or legal person who Tradera can reasonably assume shares a financial interest with the Seller, c) Transactions are reasonably suspected to constitute money laundering or otherwise violate applicable laws and regulations, d) Transactions through which the Seller violates applicable law.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 7: Who is responsible for paying the refundable amount to Tradera if Tradera withholds payment to the seller?
+ANSWER: If Tradera withholds payment to the seller, Tradera requires the seller to pay the refundable amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 8: How long does it take to make payments to the seller's bank account?
+ANSWER: Payments to the seller's bank account will normally be made within 1-2 business days, provided that Tradera has received accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 9: What happens if the seller violates applicable laws and regulations?
+ANSWER: Tradera has the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera if the seller violates applicable laws and regulations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 10: What happens if a transaction is suspected to constitute money laundering?
+ANSWER: Tradera has the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera if transactions are reasonably suspected to constitute money laundering or otherwise violate applicable laws and regulations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

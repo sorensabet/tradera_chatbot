@@ -1,0 +1,39 @@
+QUESTION: Vilka regler gäller för försäljning av livsmedel på Tradera?
+ANSWER: På Tradera är det tillåtet att sälja livsmedel som inte kräver kylning eller varmhållning, men säljaren måste följa alla gällande livsmedelslagar och -regler, bland annat märkning, hälsoskydd och produktion. Dessutom måste säljaren informera om eventuella allergener i produkten och se till att paketering och frakt är lämplig. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/livsmedel/
+
+QUESTION: Vilka produkter är inte tillåtna att sälja på Tradera och varför?
+ANSWER: Det finns många produkter som inte är tillåtna att sälja på Tradera, bland annat droger, explosiva ämnen, vapenrelaterade objekt, programvaror och elektronisk media, pornografiskt material med mera. Detta beror på att dessa produkter är olagliga, farliga eller kränkande på något sätt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Vad är budtrissning på Tradera?
+ANSWER: Budtrissning på Tradera betyder att flera budgivare samtidigt lägger bud på ett objekt och budgivningen sker genom att höja en specifik summa i taget. Budtrissning pågår i en bestämd tid och den högsta budgivaren när tiden är ute vinner auktionen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/bud/
+
+QUESTION: Finns det några regler angående kategorival när man säljer på Tradera?
+ANSWER: Ja, det finns regler om kategorival när man säljer på Tradera. Det är till exempel viktigt att välja rätt kategori för objektet man säljer, så att det blir enklare för köpare att hitta objektet. Felaktiga kategorival kan leda till att objektet inte syns i sökresultaten eller att det hamnar i fel kategori.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Måste jag betala för frakt vid köp på Tradera?
+ANSWER: Ja, som köpare på Tradera är man skyldig att betala för frakt om inte annat har avtalats med säljaren. Fraktkostnaden ska framgå tydligt i auktionen eller i köpavtalet. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad är förhandsförsäljning på Tradera?
+ANSWER: Förhandsförsäljning innebär att en säljare lägger upp en auktion för ett objekt som ännu inte finns tillgängligt för köp. Köpare kan lägga bud på objektet och när det sedan blir tillgängligt för försäljning skickas det till högsta budgivaren. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är dropshipping på Tradera?
+ANSWER: Dropshipping innebär att säljaren inte själv har sitt lager av varor, utan säljer varor från en tredjepart som hanterar lagerhållning och distribution. När en köpare köper ett objekt från en dropshipper skickas det direkt från tredjeparten till köparen, utan att säljaren själv hanterar varan. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är en falsk annons och varför är det olagligt på Tradera?
+ANSWER: En falsk annons är en annons som innehåller felaktig information eller som syftar till att vilseleda potentiella köpare. Det kan vara olagligt att lägga upp falska annonser på Tradera eftersom det kan vara ett brott mot marknadsföringslagen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Är det tillåtet att sälja använda underkläder på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja använda underkläder på Tradera. Detta beror på att det strider mot hygienlagar och är olämpligt för en marknadsplats som Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begagnade-underklader/
+
+QUESTION: Vad gäller för annonsupplägg på Tradera?
+ANSWER: Det finns vissa regler som gäller för annonsupplägg på Tradera, bland annat att man inte får lägga upp annonser utan objekt till försäljning eller annonser som är vilseledande. Dessutom måste kategorival och beskrivning av objektet vara korrekt och fraktkostnaden måste vara tydligt specificerad. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ej-tillatna-annonsupplagg/

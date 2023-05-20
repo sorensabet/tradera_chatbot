@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information skulle Tradera kunna lämna ut om en utredning kräver det?
+ANSWER: Om Tradera får en begäran om att lämna ut information om en användares aktiviteter på plattformen kan de lämna ut sådan information som är relevant och nödvändig för utredningen, till exempel namn, personnummer, stad, stat eller provins, postadress, telefonnummer, e-postadress, historik för användarnamn, IP-adress, klagomål om bedrägeri samt bud- och säljhistorik.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken information kan Tradera lämna ut till skattemyndigheterna?
+ANSWER: Om skattemyndigheterna kräver information om Traderas användare, kan Tradera lämna ut sådan information som är relevant för myndighetens bedömning, inklusive fullständigt namn, primär adress, personnummer, skatteregistreringsnummer, födelseort och registreringsnummer för mervärdesskatt.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka typer av användaruppgifter kan Tradera lämna ut till skattemyndigheterna?
+ANSWER: Tradera kan lämna ut användaruppgifter till skattemyndigheterna, inklusive fullständigt namn, primär adress, personnummer, skatteregistreringsnummer, födelseort och registreringsnummer för mervärdesskatt.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka typer av användaruppgifter kan Tradera lämna ut till leverantörer som tillhandahåller tjänster avseende kontroll av verklig huvudman, PEP och sanktionslistor?
+ANSWER: Tradera kan lämna ut uppgifter om organisationsnummer eller utländska bolagsregistreringsnummer till leverantörer som tillhandahåller tjänster avseende kontroll av verklig huvudman, PEP och sanktionslistor.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera lämna ut information om fåmansföretag eller enskilda näringsidkare till myndigheter?
+ANSWER: Ja, Tradera kan lämna ut uppgifter om företagens organisationsnummer eller utländska bolagsregistreringsnummer till myndigheter om det krävs eller är tillåtet enligt tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka myndigheter kan Tradera lämna ut användaruppgifter till?
+ANSWER: Tradera kan lämna ut användaruppgifter till brottsbekämpande myndigheter och skattemyndigheter vid behov eller enligt tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken typ av information kan Tradera samla in och lagra om användare?
+ANSWER: Tradera kan samla in och spara information som användarnas namn, adress, telefonnummer, e-postadress, IP-adress och betalningsinformation. De kan också samla in uppgifter om aktivitet på plattformen, inklusive budhistorik och köphistorik.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför samlar Tradera in information om användare?
+ANSWER: Tradera samlar in information om användare för att kunna erbjuda en säker och användarvänlig plattform, till exempel genom att bekämpa bedrägerier och identifiera användare som har brutit mot reglerna. De använder också informationen för att kunna leverera relevanta erbjudanden och annonser till användarna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur använder Tradera informationen de samlar in om användare?
+ANSWER: Tradera använder informationen de samlar in om användare för att kunna erbjuda en säker och användarvänlig plattform, till exempel genom att bekämpa bedrägerier och identifiera användare som har brutit mot reglerna. De använder också informationen för att kunna leverera relevanta erbjudanden och annonser till användarna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken typ av information kan Tradera dela med externa parter?
+ANSWER: Tradera kan dela information med externa parter för att tillhandahålla tjänster, såsom betalningstjänster eller marknadsföringstjänster. De kan också dela information vid behov för att uppfylla lagstadgade skyldigheter, till exempel för att få tillstånd att bedriva verksamhet eller för att följa skatteregler. Tradera kan också lämna ut information om användare för att bekämpa bedrägerier eller för att försvara sina rättigheter eller andras rättigheter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

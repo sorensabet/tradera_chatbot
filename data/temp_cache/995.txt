@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Traderas Integritetspolicy? 
+ANSWER: Traderas Integritetspolicy är en detaljerad förklaring om hur företaget samlar in, använder och skyddar personuppgifter och användardata på deras plattform.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/ 
+
+QUESTION: Vad görs med användardata på Tradera? 
+ANSWER: Tradera samlar in och använder användardata för att förbättra sin service, individanpassa annonsering och mäta deras annonsframgång.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera dela användarnas personuppgifter med tredje part? 
+ANSWER: Tradera delar inte användarnas personuppgifter med tredje part för marknadsföringsändamål utan användarens uttryckliga samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad kan användare göra om de inte vill ha marknadsföring från Tradera? 
+ANSWER: Användare kan ställa in sina meddelandepreferenser på sin Mitt Tradera-sida eller i kommunikationen från företaget.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan användare neka användning av tredje parts cookies på Traderas plattform? 
+ANSWER: Ja, användare kan läsa Traderas Cookie-policy för att ta reda på hur man kan avböja att tredje parts cookies används för annonsering.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer om användare återkallar sitt samtycke för användning av personuppgifter? 
+ANSWER: Om användare återkallar sitt samtycke för användning av personuppgifter kan det innebära att de inte längre har åtkomst till Traderas webbplatser, applikationer och verktyg eller tillhandahållande av tjänster och kundservice.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan personuppgifter lämnas ut av Tradera för andra ändamål än lagliga skyldigheter? 
+ANSWER: Ja, Tradera kan lämna ut personuppgifter för att upprätthålla sina policies och svara på krav.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Finns det någon information i Integritetspolicyn om användares rättigheter? 
+ANSWER: Ja, Integritetspolicyn innehåller information om användares rättigheter, som rätten att återkalla samtycke, rätt till tillgång till personuppgifter, rätt till radering av personuppgifter och rätt till begränsning av personuppgiftsbehandling.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Gäller Integritetspolicyn endast användare i Sverige eller för alla som använder Traderas plattform? 
+ANSWER: Integritetspolicyn gäller för alla användare som använder Traderas plattform, oavsett var användarna befinner sig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är syftet med Användaravtalet på Tradera? 
+ANSWER: Användaravtalet på Tradera innehåller reglerna för hur användarna får använda plattformen, inklusive ansvarsbegränsningar, begränsningar av ansvar och tvister.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

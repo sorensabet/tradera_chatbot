@@ -1,0 +1,39 @@
+QUESTION: Hvad skal man gøre, hvis man ønsker at købe flere varer fra samme sælger?
+ANSWER: Hvis man ønsker at købe flere varer fra samme sælger, anbefales det at kontakte sælgeren før betaling for at sikre, om en samlet forsendelse er mulig og for at finde ud af, hvordan man skal fortsætte.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad er Traderas holdning til samlad forsendelse?
+ANSWER: Tradera arbejder på at forbedre muligheden for samlad forsendelse. 
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Er det tilladt for sælgeren at opkræve mere for forsendelse end annonceret?
+ANSWER: Nej, sælgeren må ikke opkræve mere end de annoncerede forsendelsesomkostninger, medmindre der er aftalt en anden leverandør eller der er andre ændringer i forsendelsesaftalen. 
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvem bærer ansvaret for at kontakte forsendelsesleverandøren, hvis varen er blevet ødelagt under forsendelse?
+ANSWER: Det afhænger af forsendelsesleverandøren. Kunden kan gå til den aktuelle forsendelsesleverandør for mere information omkring regler og hvem der skal kontaktes. 
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad skal man gøre, hvis man ønsker at ændre leveringsadressen?
+ANSWER: Hvis man ønsker at ændre leveringsadressen, skal man sende pakken til den ønskede adresse for at undgå påvirkning af sælgerbeskyttelsen.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man vælge en anden forsendelsesleverandør end den sælgeren har angivet?
+ANSWER: Det er muligt at vælge en anden forsendelsesleverandør, men det skal aftales med sælgeren, og det kan betyde, at der opkræves forskellige forsendelsesomkostninger.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man få refunderet forsendelsesomkostninger, hvis varen er defekt eller mangler i forhold til beskrivelsen?
+ANSWER: Hvis varen er defekt eller mangler i forhold til beskrivelsen, kan man få refunderet forsendelsesomkostningerne, men det kan kræve en undersøgelse af sagen.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad skal man gøre, hvis man ikke modtager varen?
+ANSWER: Hvis man ikke modtager varen, skal man kontakte sælgeren og forsendelsesleverandøren for at undersøge sagen og søge en løsning.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvilke forskellige forsendelsesleverandører kan man vælge?
+ANSWER: Tradera tillader sælgeren at vælge den forsendelsesleverandør, som de ønsker at bruge, men det er muligt for køberen at aftale en anden leverandør med sælgeren.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man spore sin forsendelse?
+ANSWER: Ja, det er muligt at spore sin forsendelse, hvis sælgeren har opgivet sporingsnummeret til forsendelsesleverandøren og dette er blevet inkluderet i handelsbekræftelsen.
+URL: https://info.tradera.com/da/fraktguiden/

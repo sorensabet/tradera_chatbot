@@ -1,0 +1,39 @@
+QUESTION: Vad är omdömesreglerna på Tradera?
+ANSWER: Omdömesreglerna på Tradera är reglerna kring vad som är tillåtet att lämna ett omdöme om och när man får lämna ett omdöme efter en avslutad affär.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: När är det tillåtet att lämna ett omdöme på Tradera?
+ANSWER: Det är tillåtet att lämna ett omdöme efter en avslutad affär på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Får man lämna omdömen om säljaren på Tradera?
+ANSWER: Ja, det är tillåtet att lämna omdömen om säljaren på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Får man lämna omdömen om objekten som säljs på Tradera?
+ANSWER: Ja, det är tillåtet att lämna omdömen om objekten som säljs på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Vilka är begränsningarna för att lämna ett omdöme på Tradera?
+ANSWER: Begränsningarna för att lämna ett omdöme på Tradera är att omdömet inte får innehålla personuppgifter om andra användare, att det inte får innehålla hot, klankning, trakasserier eller annan kränkande information, eller att det inte får innehålla länkar till externa sidor eller reklam.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Vad händer om man bryter mot omdömesreglerna på Tradera?
+ANSWER: Om man bryter mot omdömesreglerna på Tradera kan ens konto uteslutas eller blockeras från att lämna vidare omdömen eller ens använda Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Vad innebär bud är bindande på Tradera?
+ANSWER: Bud är bindande på Tradera vilket innebär att man, när man lägger ett bud på en auktion, är skyldig att köpa objektet om man vinner auktionen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Gäller budet oavsett om man ändrar sig efter en vunnen auktion på Tradera?
+ANSWER: Ja, budet gäller oavsett om man ändrar sig efter en vunnen auktion på Tradera då bud är bindande.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Får man annonsera utan att ha något objekt till försäljning på Tradera?
+ANSWER: Nej, det är inte tillåtet att annonsera utan att ha något objekt till försäljning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ej-tillatna-annonsupplagg/
+
+QUESTION: Får man sälja elektronisk utrustning på Tradera?
+ANSWER: Ja, man får sälja elektronisk utrustning på Tradera, men det finns vissa regler om vad som är tillåtet att sälja och hur man ska beskriva objektets skick.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/elektronisk-utrustning/

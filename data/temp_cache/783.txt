@@ -1,0 +1,39 @@
+QUESTION: Är det möjligt att ändra fraktmetoder efter att annonsen publicerats?
+ANSWER: Ja, det är möjligt att ändra fraktmetoder även efter att annonsen publicerats. Om man väljer att använda integrerad frakt som en av fraktmetoderna blir försäljning inom EU valt med automatik, men du kan alltid ändra till endast Sverige eller hela världen.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad är Samfrakt Tradera och hur fungerar det?
+ANSWER: Samfrakt Tradera är en funktion som gör det enklare att kombinera frakt för flera objekt till ett paket genom att automatisera delar av hanteringen. Samfraktsfunktionen ger också en enklare överblick över ordrar som kommer från samma köpare. Mer information om hur samfrakt fungerar finns på sidan som länkas från CONTEXT.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Kan man välja att enbart skicka varor inom Sverige om högsta budgivaren kommer från ett annat land?
+ANSWER: Nej, om högsta budgivaren kommer från ett annat land går det inte att välja endast Sverige.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Gäller alltid fraktpriset som anges i annonsen?
+ANSWER: Som regel ska det fraktpris som angivits i annonsen gälla, men om ni kommer överens om att säljaren exempelvis ska använda en annan speditör än vad som angivits i annonsen eller om köparen har specifika önskemål om frakten handlar det om att komma överens om en lösning som passar båda parter.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vem är ansvarig för att reklamera en försändelse som kommit bort eller skadats i frakten?
+ANSWER: Detta kan variera beroende på vilken fraktmetod som användes, vilket transportbolag som användes och vem som köpte försändelsen. Mer information om reglerna för reklamation finns på sidan som länkas från CONTEXT.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Finns det några begränsningar för vilka typer av varor som kan skickas med Traderas integrerade frakt?
+ANSWER: Ja, vissa typer av varor kan ha begränsningar beroende på vilken fraktmetod som används och vilket land varorna ska skickas till. Mer information om begränsningar för varje fraktmetod finns på sidan som länkas från CONTEXT.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Kan man spåra paket som skickas med Traderas integrerade frakt?
+ANSWER: Ja, för vissa fraktmetoder finns det möjlighet att spåra paketet. Mer information om vilka fraktmetoder som har spårning finns på sidan som länkas från CONTEXT.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Finns det några specifika krav på förpackningar vid användning av Traderas integrerade frakt?
+ANSWER: Ja, det finns specifika krav på förpackningar beroende på vilken fraktmetod som används. Mer information om specifika krav för varje fraktmetod finns på sidan som länkas från CONTEXT.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur betalas fraktavgiften vid användning av Traderas integrerade frakt?
+ANSWER: Fraktavgiften betalas vanligtvis av köparen vid utcheckningen. Mer information om hur fraktavgiften hanteras finns på sidan som länkas från CONTEXT.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur fungerar arbetet med försäljning inom EU med Traderas integrerade fraktsystem?
+ANSWER: Om man väljer att använda integrerad frakt som en av fraktmetoderna blir försäljning inom EU valt med automatik, då det innebär lika mycket arbete för säljaren som att skicka varan inom Sverige.
+URL: https://info.tradera.com/fraktguiden/

@@ -1,0 +1,39 @@
+QUESTION: What does the seller need to provide in order to be covered by the seller protection?
+ANSWER: In order for the Seller to be covered by the seller protection, the Seller must be able to prove that the shipment was sent with traceability, e.g. a tracking number from the carrier.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What will Tradera ask the seller for if the buyer claims not to have received the delivery?
+ANSWER: If the Buyer claims not to have received the delivery, Tradera will ask the Seller for evidence that the Seller has delivered the item or items to the carrier.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What does the seller need to do in order to ensure that the buyer can examine the goods and their condition before entering into a contract?
+ANSWER: The Seller shall describe in text form and with photographs all goods in a satisfactory manner in the advertisement so that the Buyer can examine the goods and their condition before the Buyer enters into the contract with the Seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: How should the seller deliver the goods to the buyer?
+ANSWER: The Seller shall have sent the goods to the Buyer in an appropriate manner; i.e., delivery should take place with all ordered goods being packaged and shipped in a manner that minimizes the risk of damage to the products.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is the transaction cost for payments with Tradera's payment solution?
+ANSWER: Provided that the Seller acts in accordance with these Terms and Conditions, the transaction cost for payments with Tradera's payment solution shall be zero (0) SEK, and no start-up, monthly, or annual fee will be payable to Tradera for the use of the payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: When may Tradera invoice the seller for a recoverable amount?
+ANSWER: If the Seller acts in a manner which entails Tradera refunding Transactions to the Buyer in accordance with these Terms and Conditions, then Tradera may invoice the Seller for a recoverable amount. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What intellectual property rights does Tradera reserve ownership of?
+ANSWER: Tradera reserves the right of ownership of all intellectual property rights in everything developed by Tradera to which the Seller has access under the Terms and Conditions and on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is the seller not allowed to use in order to avoid infringing on Tradera's trademark?
+ANSWER: The Seller undertakes in particular not to use any characters, logos, symbols, or anything else that could be confused with Tradera's trademark. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What kind of personal data will Tradera's privacy policy apply to?
+ANSWER: Tradera's ordinary Privacy Policy will apply to personal information handled by Tradera in connection with these Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: How will personal data be handled?
+ANSWER: Personal data will also be handled independently.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

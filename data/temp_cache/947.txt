@@ -1,0 +1,29 @@
+QUESTION 1: What are the different categories available for shopping at Tradera?
+ANSWER: The context mentions "Categories" as one of the options available on the Tradera website. Hence, it can be inferred that users can shop for different items based on their categories. The relevant URL for finding the categories is https://www.tradera.com/find.
+
+QUESTION 2: Does Tradera sell products from popular brands?
+ANSWER: Yes, according to the context, Tradera lists products from popular brands. The context mentions "Popular brands" as one of the options available on the Tradera website. The relevant URL for finding products from popular brands is https://www.tradera.com/popular.
+
+QUESTION 3: How can a private seller sell their products on Tradera?
+ANSWER: The context mentions "Sell" as one of the options available on the Tradera website. Private sellers can list and sell their products by clicking on the "Sell" option and following the necessary steps. The relevant URL for private sellers is https://www.tradera.com/en/privatperson.
+
+QUESTION 4: Can businesses also sell their products on Tradera?
+ANSWER: Yes, businesses can sell their products on Tradera. According to the context, there is an option called "Sell as business" where businesses can list and sell their products. The relevant URL for selling as a business is https://www.tradera.com/en/foretagssaljare.
+
+QUESTION 5: Does Tradera have a shipping calculator?
+ANSWER: Yes, Tradera has a shipping calculator. The context mentions "Shipping calculator" as one of the options available on the Tradera website. The relevant URL for the shipping calculator is https://www.tradera.com/frakt-kostnad.
+
+QUESTION 6: Does Tradera have a store for its products?
+ANSWER: Yes, Tradera has a store where users can purchase products. The context mentions "Store" as one of the options available on the Tradera website. The relevant URL for the store is https://www.tradera.com/store.
+
+QUESTION 7: Does Tradera support charity causes?
+ANSWER: Yes, Tradera supports charity causes. The context mentions "Charity causes" as one of the options available on the Tradera website. Users can select a charity of their choice and donate a part of their sale proceeds to it. The relevant URL for the charity causes is https://www.tradera.com/en/tradera-hjaltar.
+
+QUESTION 8: How can users contact Tradera for help?
+ANSWER: According to the context, there is an option called "Contact & help" where users can find the necessary information to contact Tradera for help. The relevant URL for contacting Tradera is https://www.tradera.com/kundtjanst.
+
+QUESTION 9: What are the rules for using Tradera?
+ANSWER: According to the context, there is an option called "Rules" where users can find the rules for using Tradera. The relevant URL for the rules is https://www.tradera.com/regler.
+
+QUESTION 10: Does Tradera have a Facebook account?
+ANSWER: Yes, according to the context, Tradera has a Facebook account. The relevant URL for the Facebook account is https://www.facebook.com/tradera/.

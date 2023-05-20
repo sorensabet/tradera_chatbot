@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av funktionalitet kan användaren uppgradera till på Tradera?
+ANSWER: Användaren kan uppgradera till utökad funktionalitet och användaranpassning på Tradera, som inkluderar vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 2: Vad är syftet med funktionella-cookies på Tradera?
+ANSWER: Syftet med funktionella-cookies på Tradera är att tillhandahålla användaranpassning och utvidgad funktionalitet på plattformen, till exempel sparade inställningar och inloggning med Facebook.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 3: Vad är marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 4: För vilket specifikt syfte används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används för riktade annonser som är relevanta för användaren, och dessa annonser tillhandahålls av Traderas annonseringspartners.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 5: Vilka typer av cookies används på Tradera?
+ANSWER: Funktionella cookies och marknadsföringscookies används på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 6: Kan användarna välja bort marknadsföringscookies på Tradera?
+ANSWER: Ja, användarna kan välja bort marknadsföringscookies på Tradera genom att ändra inställningarna i webbläsaren eller genom att använda verktygen som tillhandahålls av annonseringspartnern.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 7: Är det obligatoriskt att använda cookies på Tradera?
+ANSWER: Nej, det är inte obligatoriskt att använda cookies på Tradera, men användning av cookies kan ge användaren en bättre plattformsupplevelse.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 8: Finns det alternativ till att använda cookies på Tradera?
+ANSWER: Ja, det finns alternativ till att använda cookies på Tradera genom att ändra inställningarna i webbläsaren eller genom att använda verktygen som tillhandahålls av annonseringspartnern.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 9: Kan Tradera sälja användarinformation till tredjepartsföretag?
+ANSWER: Nej, Tradera säljer inte användarinformation till tredjepartsföretag.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION 10: Hur kan användarna lära sig mer om användningen av cookies på Tradera?
+ANSWER: Användarna kan lära sig mer om användningen av cookies på Tradera genom att besöka Traderas informationssida om cookies på deras webbplats.
+URL: https://info.tradera.com/da/koebstilbud/

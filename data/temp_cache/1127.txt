@@ -1,0 +1,39 @@
+QUESTION: Vilka fall kan resultera i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren?
+ANSWER: En fordran kan uppstå mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren om transaktionen resulterar i en fordran och personen har ett ekonomiskt intresse med Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka transaktioner kan Tradera anse vara i strid med tillämpliga lagar och regler?
+ANSWER: Tradera kan anse följande transaktioner vara i strid med tillämpliga lagar och regler: transaktioner som skäligen kan misstänkas utgöra penningtvätt eller på annat sätt vara i strid med tillämpliga lagar och regler och transaktioner genom vilka Säljaren bryter mot gällande lag.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka transaktioner kan Tradera återbetala om Säljaren och Köparen är överens?
+ANSWER: Om Säljaren och Köparen är överens i en transaktion och transaktionen helt eller delvis ska återbetalas av Säljaren kan Tradera återbetala den.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är en återbetalning?
+ANSWER: En återbetalning är när Säljaren betalar tillbaka hela eller en del av priset för en vara till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av transaktion kan leda till en återbetalning från Säljaren till Köparen?
+ANSWER: Om Köparen beviljas returrätt av Säljaren eller om Köparen utnyttjar sin lagstadgade ångerrätt gentemot en Säljare som bedriver näringsverksamhet kan det leda till en återbetalning från Säljaren till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka transaktioner kan vara skyddade av Säljarskydd?
+ANSWER: Transaktioner där Säljaren inte har följt Villkor för Traderas vid var tid gällande Säljarskydd kan vara skyddade av Säljarskydd, om och när ett sådant finns tillgängligt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är Säljarskydd?
+ANSWER: Säljarskydd är ett skyddsprogram för Säljare som innebär att Tradera skyddar säljare mot potentiella bedrägerier och oegentligheter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka transaktioner kan strida mot Regler för Säljare?
+ANSWER: Transaktioner som strider mot Villkoren, Traderas Användaravtal eller Regler för Säljare kan strida mot Regler för Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är Regler för Säljare?
+ANSWER: Regler för Säljare är regler som Säljare måste följa när de säljer objekt på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Varför erbjuder Tradera ett tvistlösningssystem?
+ANSWER: Tradera erbjuder ett tvistlösningssystem för att lösa tvister mellan Köpare och Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

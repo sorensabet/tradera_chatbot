@@ -1,0 +1,39 @@
+QUESTION 1: Vilka är funktionerna hos fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera används för att uppge fraktkostnader för olika leverantörer och tjänster, och därmed kan du som säljare planera och specificera fraktkostnader för dina kunder. 
+URL: https://info.tradera.com/bring/
+
+QUESTION 2: Vad är "Donera med Tradera" och hur fungerar det?
+ANSWER: "Donera med Tradera" är en funktion på Tradera som låter användare skänka en del av sin försäljning till en ideell organisation av säljarens val. När en sådan försäljning görs skall Tradera dra av 2,5% av summan som donation till organisationen. 
+URL: https://info.tradera.com/donera/
+
+QUESTION 3: Vad är en "butik" på Tradera och hur skapar man en sådan?
+ANSWER: En "butik" på Tradera är en särskild typ av försäljningssida där säljaren kan erbjuda flera varor och tjänster och samtidigt stärka sitt varumärke på plattformen. Att skapa en butik är gratis och all information om hur man gör det med Tradera finns på denna sida.
+URL: https://info.tradera.com/butik/
+
+QUESTION 4: Hur kontaktar man kundtjänst på Tradera?
+ANSWER: Kundtjänsten på Tradera kan kontaktas via e-post eller telefon. Kontaktuppgifter finns på denna sida.
+URL: https://info.tradera.com/kontakt/
+
+QUESTION 5: Vilka regler gäller för försäljning på Tradera?
+ANSWER: Tradera har flera regler för försäljning, inklusive vad som kan säljas, hur produkterna ska beskrivas och vilka betalningsmetoder som ska accepteras. All information om Traderas regler finns på denna sida.
+URL: https://info.tradera.com/regler/
+
+QUESTION 6: Vilka vanliga frågor om Tradera har svar på denna sida?
+ANSWER: Denna sida innehåller svar på vanliga frågor om bland annat köp- och säljprocessen, betalning, frakt och returer på Tradera.
+URL: https://info.tradera.com/vanliga-fragor-och-svar/
+
+QUESTION 7: Vilka typer av personlig information behöver man lämna för att använda Tradera?
+ANSWER: För att använda Tradera behöver man ange personlig information såsom namn, adress, e-postadress och betalningsinformation. Tradera samlar också in information för att förbättra användarupplevelsen och undersöka trender och mönster på plattformen.
+URL: https://info.tradera.com/integritetspolicy/
+
+QUESTION 8: På vilket sätt använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll och annonser, tillhandahålla funktioner för sociala medier och för att analysera trafik. Mer information om Traderas användning av cookies finns på denna sida.
+URL: https://info.tradera.com/cookies/
+
+QUESTION 9: Vilka marknadsföringspartners använder Tradera?
+ANSWER: Tradera använder sig av flera marknadsföringspartners för att visa riktade annonser som är relevanta för Traderas användare. En lista över dessa partners finns på denna sida.
+URL: https://info.tradera.com/cookies/
+
+QUESTION 10: Vilka sociala medier-plattformar är Tradera aktiva på?
+ANSWER: Tradera är aktiv på Facebook, Twitter, Pinterest och LinkedIn. Länkar till dessa sidor finns längst ned på Traderas hemsida.
+URL: https://info.tradera.com/

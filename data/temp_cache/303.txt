@@ -1,0 +1,39 @@
+QUESTION: What should be specified when creating a listing on Tradera?
+ANSWER: When creating a listing on Tradera, a specific item for sale, size, and color should be specified if applicable. This is because listings where the buyer is prompted to choose which item they won has a tendency to lead to a bad buyer experience since the buyer does not know the exact terms or specifics of what they are buying. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: Can items that have been modified after the sale be sold on Tradera?
+ANSWER: Yes, items that have been modified after the sale can be sold on Tradera. If the modification is related to issues such as size, color or model, the cost for modification should be included in the price. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: Are there any prohibited listings on Tradera?
+ANSWER: Yes, there are prohibited listings on Tradera. Some examples of prohibited listings include selling a pair of shoes where the buyer chooses size after the sale, selling a cellphone case where the buyer picks a color after the sale or having individual prices of several items in the same listing. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: What kind of listings are allowed on Tradera?
+ANSWER: Items that have specific modifications stated in the listing are allowed on Tradera, such as selling a ring with a specific model where the buyer is offered size adjustment, selling a white dress in size M that's adjusted after the sale or selling a name tag where the seller inscribes the name after the sale. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: What could be the consequences of not specifying the details of the item in a listing?
+ANSWER: Not specifying the details of the item in a listing could lead to a bad buyer experience. Listings where the buyer is prompted to choose which item they won might appear misleading, since the buyer does not know the exact terms or specifics of what they are buying. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: How can a seller sell an item on Tradera that requires a modification?
+ANSWER: If a seller wants to sell an item on Tradera that requires a modification, such as size, color, or model change, they should include the cost of modification in the price. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: Can a seller sell multiple items with individual prices in the same listing on Tradera?
+ANSWER: No, a seller cannot sell multiple items with individual prices in the same listing on Tradera. 
+URL: https://info.tradera.com/en/buyers-choice-listings/
+
+QUESTION: What types of items can a seller list on Tradera as a private seller?
+ANSWER: Private sellers can sell a variety of items on Tradera, including clothing, electronics, vehicles, and more. 
+URL: https://info.tradera.com/salj/paverka-din-vara/
+
+QUESTION: How can a seller list items on Tradera as a business?
+ANSWER: To list items on Tradera as a business, a seller needs to create a Tradera shop. This requires a registration as a business and fees will apply. 
+URL: https://info.tradera.com/salj/paverka-din-vara/
+
+QUESTION: What methods of communication are available for contacting Tradera?
+ANSWER: Tradera can be contacted through its website using the online contact form or via email. 
+URL: https://info.tradera.com/en/contact-help/

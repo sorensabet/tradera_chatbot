@@ -1,0 +1,39 @@
+QUESTION: Vilken period var detta användaravtal aktivt?
+ANSWER: Detta användaravtal var aktivt mellan 16 november 2022-7maj 2023.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Var hittar jag Traderas policys?
+ANSWER: Du hittar Traderas policys på deras webbplats.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilka villkor innehåller Traderas Användaravtal?
+ANSWER: Traderas Användaravtal, Traderas Integritetspolicy och alla andra policys som finns tillgängliga på deras webbplats innehåller de villkor enligt vilka Tradera erbjuder tillgång till sina Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Är Traderas Integritetspolicy en del av detta Användaravtal?
+ANSWER: Ja, Traderas Integritetspolicy är en del av detta Användaravtal.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Finns det en engelsk version av detta användaravtal?
+ANSWER: Ja, det finns en engelsk version av detta användaravtal.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Gäller det nya användaravtalet från och med vilket datum?
+ANSWER: Det nya användaravtalet gäller från och med den 8 maj 2023.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad innehåller Traderas Integritetspolicy?
+ANSWER: Traderas Integritetspolicy innehåller de policyer och riktlinjer som Tradera har för att skydda din personliga integritet.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad är syftet med Traderas Användaravtal?
+ANSWER: Syftet med Traderas Användaravtal är att beskriva de villkor enligt vilka Tradera erbjuder tillgång till sina Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilka verktyg erbjuder Tradera i sina Tjänster?
+ANSWER: Tradera erbjuder tillgång till sina webbplatser, tjänster, applikationer och verktyg i sina Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad innehåller övriga policys som finns tillgängliga på Traderas webbplats?
+ANSWER: Övriga policys som finns tillgängliga på Traderas webbplats inkluderar andra regler och policyer som Tradera har för sina Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/

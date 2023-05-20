@@ -1,0 +1,39 @@
+QUESTION: Kan Tradera hålla tillbaka en betalning till en säljare?
+ANSWER: Ja, enligt informationen på sidan har Tradera rätt att innehålla betalning till säljaren under vissa omständigheter, exempelvis om transaktionen strider mot villkoren eller om det misstänks penningtvätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka transaktioner kan misstänkas utgöra penningtvätt, finansiering av terrorism eller på annat sätt vara i strid med tillämpliga lagar och regler enligt Traderas betalningsvillkor?
+ANSWER: Enligt Traderas betalningsvillkor kan transaktioner som skäligen kan misstänkas utgöra penningtvätt, finansiering av terrorism eller på annat sätt vara i strid med tillämpliga lagar och regler innebära att Tradera håller tillbaka betalningen till säljaren eller kräver återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Under vilka omständigheter kan en säljare bli skyldig att betala tradera istället för att få betalt?
+ANSWER: Om transaktionen resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med säljaren, kan Tradera kräva att säljaren betalar återbetalningsskyldigt belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Tradera anse att en köpare har rätt i en tvistlösning?
+ANSWER: Ja, Tradera kan anse att en köpare har rätt i en tvistlösning, vilket innebär att de kan hålla tillbaka betalningen till säljaren eller kräva en återbetalningsskyldig summa från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan säljaren bryta mot gällande lag genom en transaktion via Tradera?
+ANSWER: Ja, det är möjligt att en säljare bryter mot gällande lag genom en transaktion via Tradera, vilket kan leda till att Tradera håller tillbaka betalningen eller kräver en återbetalning från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Tradera kräva att säljaren betalar tillbaka en köpare som använt sin lagstadgade ångerrätt?
+ANSWER: Nej, en köpare som använt sin lagstadgade ångerrätt gentemot en säljare som bedriver näringsverksamhet kommer inte att leda till att Tradera kräver återbetalning från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka åtgärder tar Tradera vid transaktioner som bryter mot villkoren eller reglerna för säljare?
+ANSWER: Enligt informationen på Traderas betalningsvillkor kan Tradera inneha betalning till säljaren eller kräva att säljaren betalar återbetalningsskyldigt belopp till Tradera om transaktionen bryter mot villkoren eller reglerna för säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken information finns det på sidan om frivilliga återbetalningar?
+ANSWER: På sidan om betalningsvillkor beskrivs att om en transaktion helt eller delvis ska återbetalas av säljaren kan säljaren kontakta Tradera och göra en frivillig återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken typ av transaktioner kan leda till att säljaren inte får betalt av Tradera?
+ANSWER: Transaktioner som strider mot gällande lag, som skäligen kan misstänkas utgöra penningtvätt eller finansiering av terrorism, eller som bryter mot Traderas villkor eller regler för säljare kan leda till att säljaren inte får betalt från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Finns det några undantag från möjligheten att hålla betalningar eller kräva återbetalning enligt Traderas betalningsvillkor?
+ANSWER: Det beskrivs inte specifikt på sidan om Traderas betalningsvillkor om det finns några undantag från möjligheten att hålla betalningar eller kräva återbetalning, men det är möjligt att det finns andra sidor eller dokument som beskriver detta mer ingående.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

@@ -1,0 +1,39 @@
+QUESTION: What information may be disclosed in accordance with applicable laws and regulations?
+ANSWER: Personal Data may be disclosed only in accordance with applicable laws and regulations, and may include information such as name, personal identification number, city, state or province, provincial postal code, telephone number, email address, User ID history, IP address, fraud complaints, bidding and listing history.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Who are the service providers that we share Personal Data with?
+ANSWER: Service providers under contract who help with our business operations, such as customer service, fraud investigations, bill collection, affiliate and rewards programs and website operations may be shared with Personal Data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: How is a user's contact information shared with others?
+ANSWER: When you are involved in a transaction with another user, the other user may view your email address and request and obtain your contact information and postal address to help complete the transaction.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Under what circumstances may credit bureaus report information about a user's account?
+ANSWER: Credit bureaus with which Tradera might report information about your account, including information on late payments, missed payments, or other defaults on your account may be reflected in your credit report, as allowed by applicable law.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: To whom may Personal Data be disclosed in the event of an investigation of fraud, intellectual property infringement?
+ANSWER: Personal Data may be disclosed to Tradera VeRO Program participants under confidentiality agreement, as they in their sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Who may request a user's Personal Data in response to a criminal investigation or alleged illegal activity?
+ANSWER: Law enforcement or regulatory agencies, or authorized third-parties may request a user's Personal Data in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other Tradera user to legal liability.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can a user request us to send their information to third parties not mentioned in the Privacy Statement?
+ANSWER: Yes, a user can request us to send their information to other third parties they explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Who can access personal data of other Tradera users?
+ANSWER: Other Tradera users, whether located in your country of residence or outside of your country of residence, can access personal data of other users, as authorized by you or your use of our sites, services, applications or tools. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Under what circumstances do we disclose Personal Data?
+ANSWER: We disclose Personal Data to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone’s rights, property, or safety. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What type of information may be reported to credit bureaus?
+ANSWER: Information on late payments, missed payments, or other defaults on a user's account may be reported to credit bureaus, as allowed by applicable law.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

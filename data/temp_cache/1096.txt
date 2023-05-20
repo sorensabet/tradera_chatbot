@@ -1,0 +1,39 @@
+QUESTION: Varför rekommenderas det att redigera annonser en i taget när man lägger till Avhämtning på alla annonser? 
+ANSWER: Det rekommenderas att redigera annonser en i taget när man lägger till Avhämtning på alla annonser eftersom om man inte fyller i de fraktalternativ man erbjuder på annonserna kommer de att skrivas över med endast Avhämtning som alternativ. 
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur kan man importera de lister man skapat i gamla ProLister till den nya ProLister?
+ANSWER: Om man har lister man skapat i gamla ProLister så kan man importera dem i ProLister genom att öppna listan i gamla ProLister, spara listan "som arkiv", klicka på importera lista i headern i nya ProLister, och välja listan man exporterade från gamla ProLister.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Grön frakt är ett fraktalternativ som innebär att säljaren skickar varan till en av Traderas utlämningsställen, som i sin tur skickar varan vidare till köparen, för att minska miljöbelastningen.
+URL: https://info.tradera.com/gron-frakt/
+
+QUESTION: Vilka är de olika alternativ som erbjuds för frakt på Tradera?
+ANSWER: Det framgår inte direkt i den text man läser, men genom att klicka vidare på 'Fraktkalkylatorn' i menyn kan man se att de olika fraktalternativen som erbjuds på Tradera inkluderar 'Brev', 'Ombud', 'Paket', 'Avhämtning', och 'Grön frakt'.
+URL: https://www.tradera.com/frakt
+
+QUESTION: Hur kan man donera till välgörenhet med hjälp av Tradera?
+ANSWER: Man kan donera till välgörenhet med Tradera genom att välja att sälja sin vara som en auktion och sedan välja att skänka hela eller delar av vinsten till någon av de organisationer som samarbetar med Traderas insamlingsverktyg, som bland annat inkluderar Barncancerfonden och Rädda Barnen.
+URL: https://www.tradera.com/donera
+
+QUESTION: Hur kan man komma i kontakt med Traderas kundtjänst?
+ANSWER: Man kan komma i kontakt med Traderas kundtjänst genom att klicka på 'Kontakta oss'-länken på hemsidan, där man hittar information om olika ämnen och en chattfunktion med Traderas kundtjänst.
+URL: https://www.tradera.com/kontakta-oss
+
+QUESTION: Koordinatorns som är inblandade i köp och försäljning på Tradera, är de anställda hos Tradera eller privata personer?
+ANSWER: Det framgår inte i den text man läser vilka "koordinatorer som är inblandade i köp och försäljning på Tradera" syftar på eller om Tradera överhuvudtaget har anställda koordinatorer. Därför kan inte en exakt svar på den här frågan ges med den tillhandahållna informationen. 
+URL: https://www.tradera.com/info/bli-en-del-av-tradera
+
+QUESTION: Vilka är de olika sätten man kan sälja på Tradera?
+ANSWER: De olika sätten att sälja på Tradera inkluderar 'Sälj som privatperson' och 'Sälj som företag', vilka båda har olika krav och fördelar. 
+URL: https://www.tradera.com/info/salja-pa-tradera
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy är dokumentet som beskriver hur Tradera samlar in, använder och skyddar den personliga informationen som samlas in från användare som besöker och använder Traderas plattform och tjänster.
+URL: https://www.tradera.com/integritetspolicy
+
+QUESTION: Vad är ett användaravtal och varför är det viktigt på Tradera?
+ANSWER: Ett användaravtal är ett avtal mellan användaren och Tradera där man accepterar villkor och förutsättningar för användningen av Traderas plattform och tjänster. Det är viktigt på Tradera eftersom det definierar de riktlinjer och regler som användaren måste följa för att använda Traderas tjänster på ett ansvarsfullt och säkert sätt.
+URL: https://www.tradera.com/anvandaravtal

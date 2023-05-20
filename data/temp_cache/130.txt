@@ -1,0 +1,39 @@
+QUESTION 1: Vilka cookies-kategorier använder Tradera?
+ANSWER: Tradera använder fyra olika kategorier av cookies som är nödvändig, prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/en/security-center/lar-kanna-saljaren/
+
+QUESTION 2: Varför är nödvändiga cookies viktiga på Tradera?
+ANSWER: Nödvändiga cookies är viktiga för att Tradera ska fungera korrekt, och de kan inte stängas av.
+URL: https://info.tradera.com/en/security-center/lar-kanna-saljaren/
+
+QUESTION 3: Hur används prestanda-cookies på Tradera?
+ANSWER: Prestanda-cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/security-center/lar-kanna-saljaren/
+
+QUESTION 4: Vilken typ av funktionalitet kan användare få med funktionella cookies på Tradera?
+ANSWER: Användare kan få utökad funktionalitet och användaranpassning på Tradera med hjälp av funktionella cookies, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/security-center/lar-kanna-saljaren/
+
+QUESTION 5: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa annonser som är relevanta för användaren.
+URL: https://info.tradera.com/en/security-center/lar-kanna-saljaren/
+
+QUESTION 6: Vad är Traderas säkerhetsgaranti?
+ANSWER: Traderas säkerhetsgaranti är en garanti för att köp på Tradera är säkra, och den täcker köp upp till 10 000 kronor.
+URL: https://info.tradera.com/en/security-center/sakerhetsgaranti/
+
+QUESTION 7: Kan jag kontakta Traderas kundtjänst om jag har problem med en försäljning?
+ANSWER: Ja, du kan kontakta Traderas kundtjänst om du har problem med en försäljning.
+URL: https://info.tradera.com/en/security-center/kop-och-salj/
+
+QUESTION 8: Vilka betalningsalternativ erbjuder Tradera?
+ANSWER: Tradera erbjuder flera olika betalningsalternativ, inklusive Swish, kortbetalning och direktbetalning via bank.
+URL: https://info.tradera.com/en/security-center/betalning/
+
+QUESTION 9: Hur hanterar Tradera tvister mellan köpare och säljare?
+ANSWER: Tradera erbjuder en tvistlösningstjänst där köpare och säljare kan få hjälp att lösa problem som uppstått under en försäljning.
+URL: https://info.tradera.com/en/security-center/tvist/
+
+QUESTION 10: Hur kan jag anmäla en oseriös säljare på Tradera?
+ANSWER: Om du vill anmäla en oseriös säljare på Tradera kan du kontakta Traderas kundtjänst och rapportera problemet.
+URL: https://info.tradera.com/en/security-center/kop-och-salj/

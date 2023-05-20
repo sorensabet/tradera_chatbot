@@ -1,0 +1,39 @@
+QUESTION: Vilka är de specifika objekten som inte får säljas på Tradera?
+ANSWER: Enligt informationen på sidan är det inte tillåtet att sälja droger eller drogtillbehör, detta innefattar objekt som är avsedda att användas vid tillverkning, för att dölja eller för att använda ett narkotikaklassat preparat.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Varför är det inte tillåtet att sälja droger och drogtillbehör på Tradera?
+ANSWER: Försäljning av droger är enligt lag förbjuden eller reglerad, och kan komma att skada Tradera och dess medlemmar. Därför tillåts inte denna typ av försäljning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Vad händer om man försöker sälja droger på Tradera?
+ANSWER: Om en användare försöker sälja droger eller drogtillbehör på Tradera kommer annonsen att tas bort och användaren kan bli avstängd från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Vad är de begränsningar som finns för rökdon på Tradera?
+ANSWER: Rökdon, så länge de inte är främst avsedda för att röka cannabis eller andra rökbara droger, såsom bongar, vaporizers och liknande, är tillåtna på Tradera, men det finns restriktioner för försäljning av vissa typer av rökdon, såsom rullpapper som innehåller ståltråd.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Vad är restriktionerna för försäljning av rökpapper på Tradera?
+ANSWER: Rullpapper som innehåller ståltråd får inte säljas på Tradera, men rullpapper som inte innehåller ståltråd är tillåtna på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Är det tillåtet att sälja vattenpipor på Tradera?
+ANSWER: Ja, det är tillåtet att sälja vattenpipor på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Är det tillåtet att sälja vanliga pipor på Tradera?
+ANSWER: Ja, det är tillåtet att sälja vanliga pipor på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Var kan jag hitta information om omdömesregler på Tradera?
+ANSWER: Information om omdömesregler på Tradera kan hittas på Traderas säkerhetscenter-sida.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är reklamationsrätten på Tradera?
+ANSWER: Reklamationsrätten på Tradera innebär att köpare kan reklamera en vara om den är defekt eller inte stämmer överens med säljarens beskrivning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/reklamation/
+
+QUESTION: Vad är ångerrätten på Tradera?
+ANSWER: Ångerrätten på Tradera innebär att köpare har rätt att ångra sitt köp inom 14 dagar efter att de mottagit varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/

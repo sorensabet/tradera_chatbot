@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas provisionsavgift?
+ANSWER: Traderas provisionsavgift är en kostnad som tas ut för varje försäljning på deras plattform. Detta inkluderar provision på kategorier såsom Datorer & Tillbehör, Foto, Kameror & Optik, Hemelektronik, Telefoni, Tablets & Wearables, TV-spel & Datorspel och Antikt & Design, Bygg & Verktyg, Böcker & Tidningar, DVD & Videofilmer, Fordon, Båtar & Delar, Frimärken, Handgjort & Konsthantverk, Hem & Hushåll, Konst, Musik, Mynt & Sedlar, Samlarsaker, Vykort & Bilder, Accessoarer, Klockor, Kläder, Skor, Skönhetsvård, Smycken & Ädelstenar, Sport & Fritid, Hobby, Trädgård & Växter, Barnartiklar, Barnleksaker, Barnkläder & Barnskor, Biljetter & Resor, Domännamn och Övrigt. Provisionsavgiften varierar mellan 5 % och 8 % beroende på vilken kategori objektet tillhör. Provisionsavgifterna är också föremål för minimi- och maxbeloppsgränser per försäljning.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur beräknas Traderas provisionsavgift?
+ANSWER: Traderas provisionsavgift beräknas utifrån försäljningspriset på varan och varans kategori. Kategorier med 5 % provisionsavgift, vilket inkluderar kategorier som Datorer & Tillbehör och Foto, Kameror & Optik, har en provisionsavgift på 5 % av försäljningspriset. Kategorier med en 8% provisionsavgift, till exempel Antikt & Design och Hobby, har en provisionsavgift på 8% av försäljningspriset. Både 5 % och 8% kategorier har minimigränser på 2,40 kr och maxgränser på 160 kr för provisionsavgifterna.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Är Traderas provisionsavgift inklusive moms?
+ANSWER: Nej, Traderas provisionsavgift är inte inklusive moms. Provisionsavgiften är en kostnad som tas ut exklusive moms.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Har Tradera några tillval för att marknadsföra objekt på deras plattform?
+ANSWER: Ja, för att ytterligare lyfta fram objektet finns ett antal tillval att välja bland när man skapar en annons på Tradera. Tillvalen inkluderar funktioner som att highlighta, synliggöra eller lägga till fler bilder i annonsen. Tillvalen debiteras per annonsperiod och oavsett om objektet blivit sålt eller inte.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur fungerar debiteringen av tillvalsavgifter på Tradera?
+ANSWER: Tillvalen debiteras per annonsperiod, oavsett om objektet blivit sålt eller inte. Om annonsen blev återpublicerad eller om du använder automatiska repetitioner så kommer tillvalsavgifterna att debiteras som nya annonsperioder.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Finns det en övre gräns för traderas provisionsavgift?
+ANSWER: Ja, det finns ett tak på den avgift som tas ut i form av en Tradera-provisionsavgift per försäljning. För kategorier med en 5 % provisionsavgift och en 8 % provisionsavgift är den övre gränsen för provisionsavgiften 160 kr per försäljning, eller den faktiska avgiften baserat på försäljningspriset, beroende på vilket som är lägre. Men för försäljningar av domännamn finns det ingen övre beloppsgräns för provisionsavgiften.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka kategorier på Tradera har en 5% provisionsavgift?
+ANSWER: Datorer & Tillbehör, Foto, Kameror & Optik, Hemelektronik, Telefoni, Tablets & Wearables och TV-spel & Datorspel är exempel på kategorier på Tradera som har en 5% provisionsavgift.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka kategorier på Tradera har en 8% provisionsavgift?
+ANSWER: Antikt & Design, Bygg & Verktyg, Böcker & Tidningar, DVD & Videofilmer, Fordon, Båtar & Delar, Frimärken, Handgjort & Konsthantverk, Hem & Hushåll, Konst, Musik, Mynt & Sedlar, Samlarsaker, Vykort & Bilder, Accessoarer, Klockor, Kläder, Skor, Skönhetsvård, Smycken & Ädelstenar, Sport & Fritid, Hobby, Trädgård & Växter, Barnartiklar, Barnleksaker, Barnkläder & Barnskor, Biljetter & Resor, Domännamn och Övrigt är exempel på kategorier på Tradera som har en 8% provisionsavgift.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är minimigränserna för Traderas provisionsavgift?
+ANSWER: Traderas provisionsavgift har en minimigräns på 2,40 kr. Det innebär att när objektet säljs för en summa som är lägre än 2,40 kr, då debiteras ingen provisionsavgift. Men när försäljningspriset på objektet är 2,40 kr eller mer, då debiterar Tradera en provisionsavgift baserat på den specifika kategori som objektet tillhör.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är maxbeloppsgränserna för Traderas provisionsavgift?
+ANSWER: Traderas provisionsavgift har en maxbeloppsgräns på 160 kr per försäljning, eller den faktiska avgiften baserat på försäljningspriset, beroende på vilket som är lägre. Men för försäljningar av domännamn finns det ingen övre beloppsgräns för provisionsavgiften.
+URL: https://info.tradera.com/foretag/

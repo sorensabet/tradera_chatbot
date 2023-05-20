@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att använda cookies på Tradera?
+ANSWER: Syftet med att använda cookies på Tradera är att anpassa innehåll och annonser, tillhandahålla funktioner för sociala medier, analysera trafiken och förbättra användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vilken sorts cookies används på Tradera?
+ANSWER: Det används olika typer av cookies på Tradera, inklusive nödvändiga cookies, prestandacookies, funktionella cookies och marknadsföringscookies. Nödvändiga cookies är obligatoriska för webbplatsen att fungera, medan övriga typer av cookies används för att underlätta webbplatsens funktioner och förbättra användarupplevelsen.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Kan jag ställa in mina cookie-inställningar på Tradera?
+ANSWER: Ja, du kan ställa in dina cookie-inställningar på Tradera genom att ändra inställningarna för cookies på webbplatsen. Du har möjlighet att välja vilka typer av cookies du vill tillåta eller blockera.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad är Traderas användaravtal?
+ANSWER: Traderas användaravtal är en uppsättning regler och villkor som användarna måste följa när de använder webbplatsen. Avtalet innehåller information om bland annat Traderas tjänster, användarnas ansvar och skyldigheter, betalningsvillkor och regler för att hantera tvistelösningar.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vilken typ av information ingår i Traderas integritetspolicy?
+ANSWER: I Traderas integritetspolicy ingår information om hur Tradera samlar in, använder och skyddar personuppgifter från sina användare. Policyn beskriver också hur användare kan hantera sina personuppgifter, hur de kan komma åt och ändra sina personuppgifter, samt hur de kan kontakta Tradera om integritetsfrågor eller begära borttagning av sina uppgifter.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Kan jag kontakta Tradera för att få hjälp med mina köp eller försäljningar?
+ANSWER: Ja, du kan kontakta Tradera för att få hjälp med dina köp eller försäljningar genom att använda webbplatsens Kontakt & Hjälp-funktion. Där kan du skicka in en förfrågan eller fråga om hjälp via Traderas kontaktformulär
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vilka regler gäller för att sälja på Tradera?
+ANSWER: Det finns flera regler som säljare måste följa när de säljer på Tradera. Dessa inkluderar regler för produktbeskrivningar, priser, betalningar, frakt och leveranser, samt regler som förbjuder försäljning av vissa typer av produkter, såsom olagliga varor och förfalskningar.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad är Traderas policy om säkerhet på webbplatsen?
+ANSWER: Tradera har en omfattande säkerhetspolicy som syftar till att skydda användarnas personuppgifter och transaktioner på webbplatsen. Policyn omfattar bland annat kryptering av känsliga data, övervakning av kontokonfigurationer och transaktioner, samt system för att upptäcka och förhindra bedrägeri.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Kan jag använda Klarna för att betala på Tradera?
+ANSWER: Ja, du kan använda Klarna som betalningsmetod när du handlar på Tradera. Klarna erbjuder olika betalningsalternativ, inklusive faktura, delbetalning och direktbetalning med kort.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Finns det några vanliga frågor och svar på Tradera?
+ANSWER: Ja, Tradera har en sida med vanliga frågor och svar (FAQ) där användare kan hitta svar på många olika frågor relaterade till att både köpa och sälja på webbplatsen. Där kan man få svar på frågor som t.ex. hur man betalar för sina köp, hur man lägger upp en försäljning eller vad man ska göra om man vill returnera en vara.
+URL: https://info.tradera.com/klarna/

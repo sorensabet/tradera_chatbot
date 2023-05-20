@@ -1,0 +1,39 @@
+QUESTION: What is the notice period at Tradera?
+ANSWER: The notice period is waived by default unless a longer one applies, in which case it cannot be waived. However, there are some exceptions to this rule.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Under what circumstances is Tradera's notice period waived?
+ANSWER: Tradera's notice period is waived by default unless a longer one applies, or if Tradera is required by law to change its terms and conditions in a way that doesn't allow for a notice period, or if there's an unforeseen and imminent danger related to defending the Services, consumers or business users from fraud, malware, spam, data breaches or other cybersecurity risks.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can items for sale on Tradera infringe on intellectual property rights?
+ANSWER: Tradera cooperates with right holders through the Verified Right Owner (VeRO) Program to ensure that items offered for sale on the platform do not infringe on any copyright, trademark or other intellectual property rights of third parties. If you believe your intellectual property rights are being infringed, you can notify Tradera via the VeRO program.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Is Tradera liable for any disputes arising from transactions on its platform?
+ANSWER: Tradera is not liable for any disputes arising from transactions on its platform. Any disputes must be resolved between the buyer and seller, and Tradera cannot be held responsible for any losses or damages resulting from such disputes.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can someone who is not a party to the User Agreement make claims under it?
+ANSWER: No, a person who is not a party to the User Agreement cannot make any claims under its provisions. However, this does not limit any rights enjoyed by third parties as are set forth in the agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What happens to the User Agreement if Tradera changes its terms and conditions?
+ANSWER: If Tradera changes its terms and conditions, the User Agreement, along with Tradera's Privacy Policy and all policies available on its site, will constitute the entire agreement between the user and Tradera and will supersede all prior understandings and agreements between the parties.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: How does Tradera address cases of copyright infringement?
+ANSWER: Tradera cooperates with right holders through the Verified Right Owner (VeRO) Program to ensure that items offered for sale on the platform do not infringe on any copyright, trademark or other intellectual property rights of third parties. If a right holder believes their intellectual property rights are being infringed, they can notify Tradera via the VeRO program, and Tradera will then deal with the case according to its internal procedures.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does the User Agreement establish an agency agreement, partnership, or employment relationship between the parties?
+ANSWER: No, the parties are not intending to enter into any agency agreement, partnership, employment relationship or franchise agreement by signing the User Agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What provisions of the User Agreement survive any termination?
+ANSWER: The following sections survive any termination of the User Agreement: Fees (regarding fees you owe Tradera), Content, Limitation of Liability, Indemnity, Legal Disputes and the indemnity in the Miscellaneous section.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: How should messages pursuant to the User Agreement be sent?
+ANSWER: Messages pursuant to the User Agreement must be sent by registered post.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

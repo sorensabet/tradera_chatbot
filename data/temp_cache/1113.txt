@@ -1,0 +1,41 @@
+mobile app and enabling push notifications. 
+
+QUESTION: Can I make a purchase offer on any listing?
+ANSWER: No, purchase offers are only available on fixed price listings published using the Tradera site or app. Listings created using Prolister and Sello do not have the purchase offer function available yet.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: What happens if the seller rejects my purchase offer?
+ANSWER: If the seller rejects your purchase offer, you will get notified by a message. Once an offer has been declined either by you or if the time has run out, it's no longer possible to accept the offer.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: What is the lowest possible offer that I can make on a listing using the purchase offer function?
+ANSWER: The lowest possible offer is 30% of the fixed price, however, it is recommended to offer between 5-20% to have a better chance of getting the item.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: How many purchase offers can I make per listing?
+ANSWER: You can make up to 3 offers per listing.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Can I find the purchase offers sent to me?
+ANSWER: Yes, you can find the purchase offers sent to you in a message on the Tradera website or app with the option to accept or decline the offer.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: What happens if I don't answer a purchase offer?
+ANSWER: If you don't answer a purchase offer within 24 hours, the offer is automatically declined.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: How can I add purchase offer to my listings?
+ANSWER: If you have a business account, you need to enable messaging on Tradera to be able to get purchase requests. Since purchase requests are handled by their messaging service, you need to have messaging enabled to be able to receive requests.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Can I turn off purchase offers on my fixed price listings?
+ANSWER: No, it is currently not possible to turn off purchase offers on fixed price listings. However, you don't have to act on a purchase offer if you don't intend to accept it.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Can I send a purchase offer on any of my listings?
+ANSWER: Yes, you can send a purchase offer on any fixed price listing on the site as long as the seller didn't publish them from Sello or Prolister.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: What is the best way to ensure that I don't miss any purchase offers?
+ANSWER: The best way to get notified about a new purchase request is by downloading the Tradera mobile app and enabling push notifications.
+URL: https://info.tradera.com/en/purchase-offer/

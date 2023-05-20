@@ -1,0 +1,39 @@
+QUESTION: How does Tradera use cookies and tracking technologies?
+ANSWER: Tradera uses cookies and tracking technologies to provide online services and may work with third-party advertising or analytics companies. They use this information to enhance security, provide location-based services, suggest connections, respond to requests, enforce terms, manage business needs, and conduct monitoring and analytics purposes.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Does Tradera provide location-specific options?
+ANSWER: Yes, Tradera may provide location-specific options, functionality, or offers if users opt to share their geolocation information through the services. This allows for personalized content and advertising.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How does Tradera suggest connections between users?
+ANSWER: Tradera may use information shared by users to suggest connections between them and people they may know. This includes associating information learned through the use of the services and information provided by users and their contacts.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Does Tradera use personal data for marketing purposes?
+ANSWER: Yes, with consent obtained in a manner consistent with applicable regulations and the privacy statement, Tradera may use personal data to tell users about their websites and services, deliver targeted marketing and promotional offers, and personalize their services. They do not sell or rent personal data to third parties for marketing purposes without explicit consent.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How can users opt-out of Tradera's use of personal data?
+ANSWER: Users can indicate their communications preference on their My Tradera page or within direct communication from Tradera. They can also review the User Cookie Notice for information on opting out of third-party cookies for advertising.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What are some examples of social functionality and features designed to simplify use of the services with others?
+ANSWER: The social functionality and features designed to simplify use of the services with others may vary by service. For example, Tradera may suggest connections between users or suggest people they may want to transact with through their services.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Does Tradera use personal data for monitoring and analytics purposes?
+ANSWER: Yes, Tradera uses personal data for monitoring and analytics purposes, as well as for enforcing terms of the user agreement and managing everyday business needs.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How does Tradera respond to customer service requests?
+ANSWER: Tradera responds to customer service requests, such as contacting users about a question they submitted to the customer service team.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Does Tradera sell or rent personal data to third parties for marketing purposes?
+ANSWER: No, Tradera does not sell or rent personal data to third parties for marketing purposes without explicit consent.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Where can users find information on opting out of third-party cookies for advertising?
+ANSWER: Users can review the User Cookie Notice provided by Tradera for more information on how to opt-out of third-party cookies for advertising.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

@@ -1,0 +1,39 @@
+QUESTION: Kan jag avsluta mitt Tradera-konto när som helst?
+ANSWER: Ja, enligt Användaravtalet har du rätt att avsluta ditt användarkonto när som helst.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Hur ändrar Tradera Användaravtalet?
+ANSWER: Tradera kan ändra Användaravtalet från tid till annan genom att publicera de nya villkoren på www.tradera.com eller skicka dem via e-post. De ändrade villkoren börjar gälla automatiskt 30 dagar efter att de tillhandahölls.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Gäller ändringarna i Användaravtalet omedelbart?
+ANSWER: Nej, de ändrade villkoren börjar gälla automatiskt 30 dagar efter att de tillhandahölls.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera ändra sina policys?
+ANSWER: Ja, Traderas policys kan ändras från tid till annan och gäller från att de publiceras på Traderas webbplatser.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Användaravtalet ändras utan samtycke från mig som användare?
+ANSWER: Användaravtalet kan inte ändras om inte du och Traderas behöriga företrädare kommer överens om en ändring skriftligen.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka kan kräva skadestånd av Tradera?
+ANSWER: Enligt Användaravtalet är det bolag, dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda som kan kräva skadestånd av Tradera från alla typer av krav och skador (direkta och indirekta), kända eller okända som uppkommer med anledning av tvister.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är Användaravtalet?
+ANSWER: Användaravtalet är ett avtal mellan dig som användare och Tradera som reglerar dina användning av Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Gäller Användaravtalet för både privatpersoner och företagsanvändare?
+ANSWER: Ja, Användaravtalet gäller både för privatpersoner och företagsanvändare. Det finns dock särskilda villkor för betalningar för företagsanvändare.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka är de särskilda villkoren för betalningar för företagsanvändare?
+ANSWER: Företagsanvändare kommer att meddelas om alla ändringar av Villkor för betalningar (kunder bosatta i Sverige) och Villkor för betalningar (företag).
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Behöver företagsanvändare något särskilt tillstånd för att använda Traderas tjänster?
+ANSWER: Ja, företagsanvändare behöver ha en dessutom en godkänd F-skattsedel från Skatteverket och vara registrerade i ett svenskt bolagsregister för att få använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal/

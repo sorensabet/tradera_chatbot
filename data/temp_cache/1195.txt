@@ -1,0 +1,43 @@
+QUESTION: Vilken rättighet har Tradera vid force majeure-händelse som varar i mer än 60 dagar?
+ANSWER: Om force majeure-händelser varar i mer än sextio (60) dagar har varje part rätt att säga upp Villkor och bestämmelser.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Var finns information om Traders User Agreement?
+ANSWER: Traderas användaravtal finns på följande URL.
+URL: https://www.hyperwallet.com/agreements-terms/
+
+QUESTION: Är Traderas betalningslösning styrda av andra villkor än de som nämns i dokumentet Terms and Conditions?
+ANSWER: Nej, utöver vad som uttryckligen anges i dessa villkor, styr dessa villkor helt och hållet parternas avtal avseende Traderas betalningslösning och ersätter alla tidigare muntliga eller skriftliga företräden och alla tidigare avtal mellan parterna i fråga om betalningslösningar på Traderas plattform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Vilken domstol avgör tvister som rör dessa villkor?
+ANSWER: Tvister som rör dessa villkor ska lösas av allmän domstol i enighet med svensk rätt, där Stockholms tingsrätt är första instans.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Vilket år uppdaterades Villkor och bestämmelser för Traderas betalningslösning till version 1.3?
+ANSWER: Villkor och bestämmelser för Traderas betalningslösning uppdaterades till version 1.3 i oktober 2022.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Vilken partner använder Tradera för sin betalningslösning?
+ANSWER: Tradera använder PayPal's Hyperwallet-lösning för sin betalningslösning.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Är säljarens acceptans av villkoren för Traderas betalningslösning något som sker automatiskt genom användning av lösningen?
+ANSWER: Ja, genom att använda Traderas kassagransknings- och betalningsprocess (inklusive Hyperwallet), anser säljaren att ha accepterat dessa villkor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Är dessa villkor styrda av svensk lag?
+ANSWER: Ja, dessa Villkor och bestämmelser ska styras av och tolkas i enlighet med svensk lag.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Vilket år tillämpas de senaste Villkor och bestämmelserna för Traderas betalningslösning?
+ANSWER: De senaste Villkor och bestämmelserna för Traderas betalningslösning tillämpas från och med oktober 2022.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Vad händer om Tradera vill ändra Villkor och bestämmelser för sina betalningslösningar?
+ANSWER: Tradera ska meddela alla ändringar av Villkor och bestämmelser för sina betalningslösningar senast trettio (30) dagar innan de träder i kraft genom att sända ett meddelande om nya villkor till användarens e-postadress. Användarens fortsatta användning av Traderas betalningslösningar anses utgöra sådan användares godkännande av uppdaterade villkor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Kan Villkor och bestämmelser för Traderas betalningslösning ändras utan förvarning till användarna?
+ANSWER: Nej, Tradera ska meddela alla ändringar av Villkor och bestämmelser för Traderas betalningslösningar senast trettio (30) dagar innan de träder i kraft genom att sända ett meddelande om nya villkor till användarens e-postadress.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

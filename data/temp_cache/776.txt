@@ -1,0 +1,39 @@
+QUESTION: Hvilke varer er begrænset på Tradera i Sverige?
+ANSWER: Salg af visse dyr, dyreprodukter og planter er reguleret i Sverige på grund af at de er farlige eller tilhører en beskyttet art. Af disse grunde er salget omfattet af restriktioner på Tradera. Forbudt er: pattedyrdele eller produkter lavet af beskyttede dyr, primater, hvaler, de fleste vilde katte, elefanter, ulve, bjørne, næsehorn, samt dele af eller produkter lavet af beskyttede fugle, reptiler og fisk.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvor kan man finde flere oplysninger om de dele eller produkter der er lavet af beskyttede dyr, og som derfor er forbudte at sælge på Tradera?
+ANSWER: Man kan finde flere oplysninger om dele af eller produkter lavet af beskyttede dyr på Jordbruksverkets hjemmeside og CITES-organisationens hjemmeside for yderligere information.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvorfor er salg af dele eller produkter lavet af beskyttede fuglearter reguleret?
+ANSWER: Salget af dele af eller produkter lavet af beskyttede fuglearter er reguleret i Sverige, fordi disse fugle er truede og beskyttede arter.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvor kan man finde flere oplysninger om salg af beskyttede fugle?
+ANSWER: Man kan finde flere oplysninger om salg af dele af eller produkter lavet af beskyttede fugle på Jordbruksverkets hjemmeside og CITES-organisationens hjemmeside for yderligere information.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvilke havskildpadder er forbudte at sælge på Tradera?
+ANSWER: Alle havskildpadder er forbudte at sælge på Tradera på grund af at de er en beskyttet art.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvilke kattearter er det forbudt at sælge på Tradera?
+ANSWER: Det er forbudt at sælge produkter lavet af de fleste vilde katte, herunder ozelot, leopard, løve, gepard, tiger, los og bengal.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvilke slanger er det forbudt at sælge på Tradera?
+ANSWER: Det er forbudt at sælge dele af eller produkter lavet af beskyttede reptilarter, herunder varaner og store slanger.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvor kan man finde flere oplysninger om beskyttede reptilarter?
+ANSWER: Man kan finde flere oplysninger om salg af dele af eller produkter lavet af beskyttede reptilarter på Jordbruksverkets hjemmeside og CITES-organisationens hjemmeside for yderligere information.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvorfor er salg af visse dyr og dyreprodukter reguleret i Sverige?
+ANSWER: Salg af visse dyr og dyreprodukter er reguleret i Sverige, enten fordi de er farlige eller fordi de tilhører en beskyttet art for at beskytte disse arter og undgå deres udryddelse.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/
+
+QUESTION: Hvilke vandrende fugle er forbudte at sælge på Tradera?
+ANSWER: Alle vandrende fugle, såsom vandrefalk, ørn, glente, høg og alle i uglefamilien, er forbudte at sælge på Tradera på grund af at de er en beskyttet art.
+URL: https://info.tradera.com/da/animal-and-plant-related-items/

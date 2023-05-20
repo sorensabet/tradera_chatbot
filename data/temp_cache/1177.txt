@@ -1,0 +1,39 @@
+QUESTION: Vilka produkter omfattas aldrig av Traderas säljarskydd?
+ANSWER: Produkter som aldrig omfattas av Traderas säljarskydd är försäljning av fastigheter, försäljning av fordon (förutom privata bärbara, lätta fordon som används i rekreationssyfte), försäljning av anpassade objekt (såvida inte mottagaren påstår att objekten inte kommit fram), försäljning av objekt som motsvarar kontanter (inklusive presentkort), försäljning av biljetter till evenemang och försäljning av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka villkor måste vara uppfyllda för att en säljare ska kunna nyttja Traderas säljarskydd?
+ANSWER: Följande villkor måste vara uppfyllda för att en säljare ska kunna nyttja Traderas säljarskydd: Säljaren ska skicka varorna till den av Tradera vid betalningstillfället godkända leveransadressen. Om Köparens leveransadress har ändrats efter att köpet är genomfört, kommer Tradera meddela Säljare om detta genom den e-postbekräftelse som skickas när Köparen har betalt för varan och informationen kommer också finnas tillgänglig i Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur meddelar Tradera Säljare om en Köparens leveransadress har ändrats efter att köpet är genomfört?
+ANSWER: Om Köparens leveransadress har ändrats efter att köpet är genomfört, kommer Tradera meddela Säljare om detta genom den e-postbekräftelse som skickas när Köparen har betalt för varan och informationen kommer också finnas tillgänglig i Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Om ett anpassat objekt inte kommer fram, omfattas det av Traderas säljarskydd?
+ANSWER: Normalt omfattas inte försäljning av anpassade objekt av Traderas säljarskydd, såvida inte mottagaren påstår att objekten inte kommit fram.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan man sälja biljetter till evenemang på Tradera?
+ANSWER: Nej, försäljning av biljetter till evenemang så som sport- eller konsertbiljetter omfattas inte av Traderas säljarskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om köparen ändrar leveransadressen efter att köpet är genomfört?
+ANSWER: Om köparen ändrar leveransadressen efter att köpet är genomfört, kommer Tradera meddela Säljaren om detta genom den e-postbekräftelse som skickas när Köparen har betalt för varan och informationen kommer också finnas tillgänglig i Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är de objekt som motsvarar kontanter och som inte omfattas av Traderas säljarskydd?
+ANSWER: Objekt som motsvarar kontanter (inklusive presentkort) omfattas inte av Traderas säljarskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Om säljaren inte skickar varorna till den av Tradera vid betalningstillfället godkända leveransadressen, kan säljaren då nyttja Traderas säljarskydd?
+ANSWER: Nej, säljaren måste skicka varorna till den av Tradera vid betalningstillfället godkända leveransadressen för att kunna nyttja Traderas säljarskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan man sälja fordon på Tradera?
+ANSWER: Försäljning av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul, omfattas inte av Traderas säljarskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om man säljer varor och tjänster som är förbjudna enligt Traderas Regler för Säljare?
+ANSWER: Försäljning av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare omfattas inte av Traderas säljarskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

@@ -1,0 +1,39 @@
+QUESTION: Vilka är innefattade i Traderas Användaravtal? 
+ANSWER: Enligt texten innefattar Traderas Användaravtal villkoren för tillgång till Traderas webbplatser, marknadsplatstjänster, applikationer och verktyg. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka policies är inkluderade i Traderas Användaravtal?
+ANSWER: Enligt texten utgör alla policies, inklusive Traderas Integritetspolicy, en del av detta Användaravtal.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken organisation går man in avtal med vid användning av Tjänsterna?
+ANSWER: Enligt texten ingår man avtal med Tradera Marketplace AB (organisationsnummer 556569-4642) när man använder Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka är Traderas Villkor för betalningar, och när måste man godkänna dem?
+ANSWER: Enligt texten måste man godkänna Traderas Villkor för betalningar innan man betalar eller får en utbetalning för ett köpt eller sålt föremål. Traderas Villkor för betalningar är olika beroende på om man är bosatt i Sverige eller utomlands. För fysiska personer bosatta i Sverige gäller enbart ”Villkor för betalningar (kunder bosatta i Sverige)” och för kunder bosatta utomlands samt juridiska personer gäller enbart ”Villkor för betalningar (företag och kunder bosatta utomlands)”.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken period gäller detta Användaravtal från?
+ANSWER: Enligt texten gäller detta Användaravtal från 8 maj 2023.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilket Användaravtal gäller för perioden 16 november 2022 till 7 maj 2023?
+ANSWER: Enligt texten tillämpas den tidigare versionen av Användaravtalet för perioden 16 november 2022 till 7 maj 2023.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Gäller detta Användaravtal enbart för Tradera?
+ANSWER: Ja, enligt texten gäller detta Användaravtal enbart för Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad innebär Traderas egna betaltjänst?
+ANSWER: Enligt texten är det enbart Villkor för betalningar (kunder bosatta i Sverige) som reglerar Traderas egna betaltjänst.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är Traderas adress?
+ANSWER: Enligt texten är Traderas adress Sankt Eriksgatan 117, 113 43 Stockholm.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilket organisationsnummer har Tradera Marketplace AB?
+ANSWER: Enligt texten har Tradera Marketplace AB organisationsnummer 556569-4642.
+URL: https://info.tradera.com/anvandaravtal/

@@ -1,0 +1,39 @@
+QUESTION 1: Kan jag logga in på Tradera med Facebook?
+ANSWER: Ja, du kan logga in på Tradera med Facebook om du kopplar ditt Tradera-konto till ditt Facebook-konto.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 2: Vad händer om jag använder Facebook-inloggning för att logga in på Tradera?
+ANSWER: Om du använder Facebook-inloggning för att logga in på Tradera kan Traderas annonseringspartners använda dina personliga uppgifter för att hantera riktade annonser som kan vara relevanta för dig.
+URL: https://info.tradera.com/en/other-rules/
+
+QUESTION 3: Kan jag använda Facebook-inloggning för att göra köp på Tradera?
+ANSWER: Ja, du kan använda Facebook-inloggning för att logga in på Tradera och köpa varor från Tradera.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 4: Varför används Facebook-inloggning på Tradera?
+ANSWER: Facebook-inloggning används på Tradera för att göra det enklare och snabbare för användare att logga in och hantera sina kontouppgifter.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 5: Kan jag avbryta kopplingen mellan mitt Tradera- och Facebook-konto?
+ANSWER: Ja, du kan koppla bort ditt Tradera-konto från ditt Facebook-konto när som helst.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 6: Hur kan jag hantera mina personuppgifter på Tradera?
+ANSWER: Du kan hantera dina personuppgifter på Tradera genom att gå till inställningarna på ditt Tradera-konto och välja vilka personuppgifter du vill dela.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 7: Är mina personuppgifter säkra när jag loggar in med Facebook på Tradera?
+ANSWER: Ja, dina personuppgifter är säkra när du loggar in med Facebook på Tradera. Tradera skyddar dina personuppgifter i enlighet med gällande dataskyddsregler.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 8: Kan Traderas annonseringspartners använda mina personuppgifter för andra syften än riktade annonser?
+ANSWER: Nej, Traderas annonseringspartners kan inte använda dina personuppgifter för andra syften än riktade annonser utan ditt samtycke.
+URL: https://info.tradera.com/en/other-rules/
+
+QUESTION 9: Kan någon annan logga in på mitt Tradera-konto med Facebook?
+ANSWER: Nej, ingen annan kan logga in på ditt Tradera-konto med Facebook. Endast användare som kopplat sina egna konton kan logga in på Tradera med Facebook.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/
+
+QUESTION 10: Kan jag använda andra sociala medier för att logga in på Tradera?
+ANSWER: Nej, för tillfället kan du endast använda Facebook för att logga in på Tradera.
+URL: https://info.tradera.com/sv/sakerhet-och-skydd/sakerhet-och-personuppgifter/gdpr/

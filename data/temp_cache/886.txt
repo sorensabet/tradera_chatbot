@@ -1,0 +1,39 @@
+QUESTION: Vad menas med "Säljare" och "Tradera" enligt betalningsvillkoren?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ "Säljare(n)" hänvisar till en fysisk eller juridisk person som säljer varor eller tjänster på Traderas plattform. "Tradera" hänvisar till Tradera Marketplace AB, vilket är företaget som tillhandahåller handelsplattformen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är "Återbetalningsskyldigt belopp" enligt betalningsvillkoren?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ "Återbetalningsskyldigt belopp" hänvisar till beloppet som Säljaren ska återbetala till Tradera i samband med en återbetalning av belopp som redan betalats ut till Säljare på grund av att ett köp ska gå åter. Beloppet utgör en del av eller hela transaktionsbeloppet. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Traderas betallösning?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ så "Tradera betallösning" hänvisar till den webbplats som innehåller olika betalningsalternativ som köparen kan välja, såsom Swish, kreditkort, PayPal och andra betalningsmetoder som Tradera kan lägga till efter hand. Betaltjänsterna på Traderas betallösning levereras av tredjepartsleverantörer som Tradera har avtal med. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Var kan jag hitta de senaste versionerna av försäljningsvillkoren?
+ANSWER: Enligt informationen på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ så kan de senaste versionerna av försäljningsvillkoren hittas på https://info.tradera.com/sakerhetscenter/regler-pa-tradera/. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är en transaktion på Traderas plattform?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ så hänvisar "Transaktion" till en betalning för varor eller tjänster på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan köparen välja olika betalningsalternativ på Traderas plattform?
+ANSWER: Ja, enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ så kan köparen välja olika betalningsalternativ på Traderas Plattform, som Swish, kreditkort, PayPal och andra betalningsmetoder som Tradera kan lägga till efter hand. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är "Tradera Användaravtal"?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ utgör "Tradera Användaravtal" de villkor som Tradera har för användning av Traderas Plattform och övriga tjänster. Dessa villkor kan hittas på https://info.tradera.com/sakerhetscenter/anvandaravtal/. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Traderas Plattform?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ så hänvisar "Tradera Plattform" till de webbplatser, tjänster och applikationer som Tradera tillhandahåller via t.ex. www.tradera.com. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är "Säljare" enligt betalningsvillkoren?
+ANSWER: Enligt betalningsvillkoren på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ så säger "Säljare(n)" hänvisar till en fysisk eller juridisk person som säljer varor eller tjänster på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka betalningsmetoder kan säljaren använda på Traderas plattform?
+ANSWER: Informationen på https://info.tradera.com/sakerhetscenter/betalningsvillkor/ nämner inte specifikt vilka betalningsmetoder säljaren kan använda på Traderas plattform. Däremot finns det information om köparens betalningsalternativ på plattformen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

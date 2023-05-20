@@ -1,0 +1,39 @@
+QUESTION: What are the circumstances under which Tradera has the right to withhold payment to the seller and require them to pay the refundable amount to Tradera?
+ANSWER: Tradera has the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera in various cases, such as within Tradera's dispute settlement system when Tradera considers the buyer is right or if transactions are reasonably suspected to violate laws and regulations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can the buyer acquire cash through transactions on Tradera?
+ANSWER: Yes, transactions through which the buyer acquires cash (e.g., currency exchange, a check, or similar) may result in Tradera withholding payment to the seller or requiring the seller to pay the refundable amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: When is the seller required to fully or partly repay a transaction?
+ANSWER: If a transaction is to be fully or partly repaid by the seller on the basis of an agreement between the seller and the buyer (e.g., if the buyer has been granted a right of return by the seller or the buyer has exercised their statutory right of withdrawal), it is up to the seller to repay part or the full amount to the buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens if the seller violates applicable law in a transaction on Tradera?
+ANSWER: Tradera has the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera if the seller violates applicable law in a transaction on Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is Tradera's prevailing seller protection?
+ANSWER: Tradera's prevailing seller protection refers to the terms and conditions that the seller is required to comply with in order to be protected under Tradera's seller protection policy. If a seller does not comply with these terms and conditions, Tradera may withhold payment to the seller or require the seller to pay the refundable amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What transactions may result in Tradera withholding payment to the seller or requiring the seller to pay the refundable amount to Tradera for violating terms and conditions or rules for sellers?
+ANSWER: Transactions that violate Tradera's terms and conditions, user agreement or rules for sellers, may result in Tradera withholding payment to the seller or requiring the seller to pay the refundable amount to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is the maximum refund amount that a seller is required to promptly settle with the buyer?
+ANSWER: If the seller and buyer agree to a return or price reduction, the seller shall refund the agreed amount to the buyer up to 1000 SEK.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: When can a buyer use their statutory right of withdrawal against a seller who is conducting business activities?
+ANSWER: The buyer may use their statutory right of withdrawal against a seller who is conducting business activities in transactions where the buyer has conducted business as a consumer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How long does it take for transactions to be fully handled by Tradera?
+ANSWER: Tradera handles transactions within a few business days provided that they have accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Who has the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera in transactions resulting in the creation of a claim against a natural or legal person who Tradera can reasonably assume shares a financial interest with the seller?
+ANSWER: Tradera has the right to withhold payment to the seller or require the seller to pay the refundable amount to Tradera in transactions resulting in the creation of a claim against a natural or legal person who Tradera can reasonably assume shares a financial interest with the seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

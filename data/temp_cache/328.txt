@@ -1,0 +1,39 @@
+QUESTION 1: Vilken teknik används för att samla in information om hur jag använder sidan på Tradera?
+ANSWER: Tradera använder cookies, webb-beacons och liknande teknik för att samla in information om hur användare interagerar med sidan.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 2: Varför använder Tradera cookies och liknande teknik?
+ANSWER: Tradera använder cookies och liknande teknik för att samla in information om hur användare använder sidan för att förbättra användarupplevelsen, förbättra affärsbeslutsfattandet och för att visa användare mer relevant annonsering.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 3: Kan jag välja bort cookies på Tradera?
+ANSWER: Ja, du kan välja bort cookies på Tradera genom att ändra inställningarna i din webbläsare. Du kan dock uppleva vissa begränsningar i funktionaliteten på sidan om du väljer att göra detta.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 4: Vilken information samlar Tradera in med hjälp av cookies och liknande teknik?
+ANSWER: Tradera samlar in information om hur användare navigerar och interagerar med sidan, vilket inkluderar information om vilka sidor som besöks och hur länge de besöks. Dessutom samlar Tradera in information om användares enheter och webbläsare för att kunna visa mer relevant annonsering.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 5: Vad är skillnaden mellan cookies och webb-beacons?
+ANSWER: Cookies är små textfiler som sparas på användarens enhet och innehåller information om användarens aktivitet på sidan. Webb-beacons är små grafiska bilder som också används för att samla in information om användarens aktivitet på sidan, men de sparas inte på enheten.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 6: Hur använder Tradera informationen som samlas in via cookies och liknande teknik?
+ANSWER: Tradera använder informationen som samlas in via cookies och liknande teknik för att förbättra användarupplevelsen, förbättra affärsbeslutsfattandet och för att visa användare mer relevant annonsering.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 7: Hur länge sparas informationen som Tradera samlar in via cookies och liknande teknik?
+ANSWER: Information som samlas in via cookies och liknande teknik sparas på Traderas servrar i upp till 365 dagar.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 8: Hur kan jag kontrollera vilka cookies som Tradera använder?
+ANSWER: Du kan se vilka cookies som Tradera använder genom att titta i din webbläsares cookiehanterare, eller genom att besöka Traderas integritetspolicy.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 9: Använder Tradera cookies från tredje part?
+ANSWER: Ja, Tradera använder cookies från tredje part för att visa mer relevant annonsering. Dessa cookies kan komma från annonsörer eller adtech-företag.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 10: Är cookies säkra att använda på Tradera?
+ANSWER: Ja, cookies är säkra att använda på Tradera. De innehåller ingen personlig information och kan inte användas för att identifiera användare personligen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

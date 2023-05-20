@@ -1,0 +1,39 @@
+QUESTION: Hvilke former for elektronisk udstyr er tilladt på Tradera?
+ANSWER: Salg af elektronisk udstyr er generelt tilladt på Tradera, med undtagelse af visse former for udstyr, der er forbudt ved lov.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Hvilke former for elektronisk udstyr er forbudt ved lov at sælge på Tradera?
+ANSWER: Visse former for elektronisk udstyr, såsom politiscannere, radioudstyr og radardetektorer, er forbudt ved lov at sælge på Tradera.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Hvorfor er visse former for elektronisk udstyr forbudt ved lov at sælge og eje?
+ANSWER: Visse former for elektronisk udstyr er forbudt ved lov at både sælge og eje, da de kan udgøre en sikkerhedsrisiko eller anvendes til ulovlige formål.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Hvor kan jeg læse mere om de forskellige restriktioner og tilladelser for visse typer elektronisk udstyr?
+ANSWER: Du kan læse mere om restriktioner og tilladelser for visse typer af elektronisk udstyr på hjemmesiden for Sveriges Post- och telestyrelse.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Hvilke produkter er eksempler på forbudte varer ifølge loven?
+ANSWER: Eksempler på forbudte varer ifølge loven omfatter blandt andet kortsplittere, blokeringsudstyr, DSS-emulatorer, programmerede chipkort, software/hardware til programmering af chipkort og lignende produkter, der har til formål at omgå krypterede udsendelser, samt radar- og laserdetektorer.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Er det tilladt at sælge FM-transmittere på Tradera?
+ANSWER: Det er tilladt at sælge FM-transmittere på Tradera, men kun dem der sender på 87,5 – 108 MHz og har en maksimal sendeeffekt på 50 nW.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Er det tilladt at sælge laserpointere på Tradera?
+ANSWER: Det er tilladt at sælge laserpointere på Tradera, men kun dem med en maksimal effekt på mindre end 1mW, og annoncer med laserpointere skal indeholde visse oplysninger.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Hvilke elektroniske apparater er omfattet af restriktioner og kræver en tilladelse?
+ANSWER: Visse elektroniske apparater er omfattet af restriktioner og kræver en tilladelse for at blive solgt og ejet. Du kan læse mere om dette på hjemmesiden for Sveriges Post- och telestyrelse.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Er det tilladt at sælge spiludvidelser til at spille importerede spil på Tradera?
+ANSWER: Spiludvidelser til at spille importerede spil er generelt omfattet af restriktioner og er derfor ikke tilladt at sælge på Tradera.
+URL: https://info.tradera.com/da/electronic-appliances/
+
+QUESTION: Er det tilladt at sælge mobiltelefonstøjsendere på Tradera?
+ANSWER: Støjsendere, såsom støjsendere beregnet til at blokere mobiltelefoner, er forbudt ved lov at sælge på Tradera.
+URL: https://info.tradera.com/da/electronic-appliances/

@@ -1,0 +1,39 @@
+QUESTION: What personal information is displayed on a user's Tradera profile?
+ANSWER: A user's Tradera profile displays their user-ID, bids, purchases, items for sale, storefronts, feedback, ratings, and associated comments. Other users can also see any information that the user chooses to share in their profile. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can other people see the transactions that take place between Tradera users?
+ANSWER: Yes, other people can see the transactions that take place between Tradera users. Notices sent to other community members about suspicious activity and policy violations on the site refer to user-IDs and specific items. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What should a Tradera user do before entering into a transaction and sharing personal information?
+ANSWER: Before entering into a transaction and sharing personal information, a Tradera user should evaluate the privacy and security policies of their trading partner. They should also provide their trading partner with the option to request to be deleted from their database and a chance to review the information collected about them. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera allow other users to access personal information for marketing purposes?
+ANSWER: No, Tradera does not allow other users to access personal information for marketing purposes. Personal data should be used strictly for Tradera transaction-related purposes, using services offered through Tradera, or specific purposes to which the user has expressly chosen or consented. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera protect the privacy of its users?
+ANSWER: Tradera limits access to other users' contact, shipping, and financial information to facilitate transactions and collects payments. It also encourages users to disclose their privacy practices and respect the privacy of other users. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What information may be visible to other individuals who use a public or shared computer to access Tradera?
+ANSWER: Certain information about a Tradera user may be visible to other individuals who use the same public or shared computer after them. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What personal and financial information can be shared with other Tradera users?
+ANSWER: Tradera enables users to share personal and financial information to complete transactions and collect payments. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is a Tradera user-ID?
+ANSWER: A Tradera user-ID is the unique identifier that is displayed throughout the Tradera platform and is connected to a user's activity on the site. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What happens if a user associates their name with their Tradera user-ID?
+ANSWER: If a user associates their name with their Tradera user-ID, other people to whom they have disclosed their name will be able to identify their Tradera activities. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Is Tradera responsible for the information shared between its users and partners?
+ANSWER: No, Tradera is not responsible for the information that users choose to share with other users and partners. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/

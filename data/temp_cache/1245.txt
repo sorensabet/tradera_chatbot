@@ -1,0 +1,39 @@
+QUESTION: Who is responsible for all actions taken through the use of the Seller's unique login to Tradera?
+ANSWER: The Seller is responsible for all actions taken through the use of their unique login to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens with the payments to the Seller upon termination of these Terms and Conditions?
+ANSWER: Upon termination of these Terms and Conditions, Tradera has the right to withhold all payments to the Seller until Tradera has verified the number of outstanding Transactions and all withdrawal periods have passed, or any suspected abuse of Tradera's checkout solution and payout solution has been investigated.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the events that may cause failure to perform a service or delay?
+ANSWER: The events that could cause failure to perform a service or delay, and for which the Seller, the Buyer, or Tradera are not liable, are lightning, sabotage, government action, power outage, deterioration of the Internet or telecommunications, or any other event outside the party’s reasonable control. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a force majeure event lasts for more than 60 days? 
+ANSWER: If a force majeure event lasts for more than sixty (60) days, each party shall be entitled to terminate the Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's right to amend the Terms and Conditions? 
+ANSWER: Tradera's right to amend the Terms and Conditions is set out in Tradera's User Agreement. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What do the Terms and Conditions fully govern?
+ANSWER: Over and above what is expressly provided in these Terms and Conditions, these Terms and Conditions fully govern the Buyer, the Seller or Tradera's agreement with respect to Tradera's checkout solution and Tradera's payout solution and supersede any prior verbal or written representations and any prior agreements between the Buyer, the Seller or Tradera regarding payment solutions on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the governing law for the Terms and Conditions? 
+ANSWER: The Terms and Conditions shall be governed by and construed in accordance with Swedish law. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if Tradera terminates Tradera's User Agreement?
+ANSWER: These Terms and Conditions shall terminate, without obligation to Tradera for refund, in the event that Tradera terminates Tradera's User Agreement, or denies the Seller the right to sell additional goods on Tradera's Platform under the terms and conditions set forth in Tradera's User Agreement. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What measures must be taken by the party invoking force majeure?
+ANSWER: The party invoking force majeure shall be obliged to take reasonable measures to limit the damage caused by the event. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Who is not liable for failure to perform a service or delay caused by certain events?
+ANSWER: The Seller, the Buyer, or Tradera are not liable for failure to perform a service or delay if the cause is lightning, sabotage, government action, power outage, deterioration of the Internet or telecommunications, or any other event outside the party’s reasonable control. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

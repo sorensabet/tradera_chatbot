@@ -1,0 +1,39 @@
+QUESTION: Hvad er køberbeskyttelse på Tradera?
+ANSWER: Køberbeskyttelse er en tjeneste på Tradera, der giver køberen mulighed for at få en refusion, hvis der opstår problemer med en transaktion. Hvis varen ikke kommer, eller der er noget galt med varen, kan køberen starte en tvist og muligvis få en refusion.
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvordan kan jeg starte en tvist på Tradera?
+ANSWER: Hvis der opstår problemer med en transaktion på Tradera, kan køberen starte en tvist ved at kontakte Traderas kundeservice.
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvordan kontakter jeg Traderas kundeservice?
+ANSWER: Du kan kontakte Traderas kundeservice ved at gå til deres kontakt- og hjælpeside på Traderas hjemmeside. Der vil du finde forskellige muligheder for at kontakte dem, herunder e-mail og telefon.
+URL: https://info.tradera.com/da/kontakt-och-hjalp/
+
+QUESTION: Hvad er de populære varemærker på Tradera?
+ANSWER: Der er mange populære varemærker på Tradera, og du kan finde nogle af de mest populære ved at gå til Traderas kategoriside og kigge efter varemærkerne i de forskellige kategorier.
+URL: https://www.tradera.com/
+
+QUESTION: Hvordan kan jeg sælge som en privatperson på Tradera?
+ANSWER: Du kan sælge som en privatperson på Tradera ved at oprette en gratis konto og derefter oprette en salgsannonce for din vare. Når en køber køber din vare, skal du sende den til køberen og modtage betalingen fra Tradera.
+URL: https://info.tradera.com/da/salj/bli-en-saljare-pa-tradera/
+
+QUESTION: Hvordan kan jeg beregne fragt på Tradera?
+ANSWER: Du kan beregne fragt på Tradera ved at bruge Traderas fragtberegner. Du skal blot indtaste oplysningerne om din vare og dens vægt og størrelse for at få en oversigt over de forskellige muligheder og omkostninger.
+URL: https://www.tradera.com/
+
+QUESTION: Hvilke kategorier af varer kan jeg finde på Tradera?
+ANSWER: Du kan finde mange forskellige kategorier af varer på Tradera, herunder tøj, sko, elektronik, møbler, legetøj og mange flere.
+URL: https://www.tradera.com/
+
+QUESTION: Hvad er Traderas brugeraftale?
+ANSWER: Traderas brugeraftale er en aftale mellem Tradera og deres brugere, der indeholder regler og retningslinjer for brugen af Traderas tjenester.
+URL: https://info.tradera.com/da/information/tradera-anvandaravtal/
+
+QUESTION: Hvad er Traderas fortrolighedspolitik?
+ANSWER: Traderas fortrolighedspolitik beskriver, hvordan Tradera beskytter brugernes personlige oplysninger og data.
+URL: https://info.tradera.com/da/information/om-tradera/
+
+QUESTION: Hvad er formålet med cookies på Tradera?
+ANSWER: Formålet med cookies på Tradera er at tilpasse indhold, annoncer og funktioner til brugerne, analysere trafikken på Traderas websted og dele oplysninger om brugen af Tradera med deres partnere til sociale medier, annoncering og analyse.
+URL: https://info.tradera.com/da/information/om-tradera/

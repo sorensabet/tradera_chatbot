@@ -1,0 +1,39 @@
+QUESTION: What are the categories available on Tradera?
+ANSWER: The text mentions "Categories" multiple times. It is safe to assume that this section of the website contains the available categories for users to choose from.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION: How can I create an ad on Tradera?
+ANSWER: The text mentions "Create an ad" in the first section. This indicates that there is a way to create ads on Tradera, with further instructions most likely found on the website.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION: How can I contact Tradera?
+ANSWER: The text mentions "Contact us" multiple times, and at the bottom of the page, there is a section specifically titled "Contact & Help." It's safe to assume that there are multiple ways to contact Tradera available on their website.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION: How does the shipping calculator on Tradera work?
+ANSWER: The text mentions "Shipping calculator" and provides a guide specifically for sellers in regards to this feature. It's safe to assume that the shipping calculator is a tool for both buyers and sellers to estimate shipping costs.
+URL: https://info.tradera.com/en/kom-igang/salja-pa-tradera/salj-pa-tradera
+
+QUESTION: What is the price list on Tradera?
+ANSWER: The text mentions "Price list" in the section for sellers specifically. It's safe to assume that this is a list of fees or prices for certain seller actions on the website.
+URL: https://info.tradera.com/en/kom-igang/salja-pa-tradera/salj-pa-tradera
+
+QUESTION: What is "Know your payee verification" on Tradera?
+ANSWER: The text specifically lists "Know your payee verification" as a guide for sellers, so it seems to be a feature or a process for sellers on the website.
+URL: https://info.tradera.com/en/kom-igang/salja-pa-tradera/salj-pa-tradera
+
+QUESTION: What is Tradera Pay?
+ANSWER: The text mentions "Tradera Pay" in the section for buyers. It's likely a payment system or method specific to the Tradera website.
+URL: https://info.tradera.com/en/kom-igang/kop-och-salj-pa-tradera/kop-pa-tradera
+
+QUESTION: What is Tradera Pay Invoice/Installments?
+ANSWER: The text mentions "Tradera Pay Invoice/Installments" in the section for buyers. It's likely a payment plan option available through the Tradera Pay system.
+URL: https://info.tradera.com/en/kom-igang/kop-och-salj-pa-tradera/kop-pa-tradera
+
+QUESTION: How does bidding work on Tradera?
+ANSWER: The text specifically mentions "How does bidding work?" in the section for buyers. It seems to be an explanation or guide for the bidding process on the website.
+URL: https://info.tradera.com/en/kom-igang/kop-och-salj-pa-tradera/kop-pa-tradera
+
+QUESTION: What is the Tradera Pay buyer protection?
+ANSWER: The text mentions "Buyer protection" in the section for buyers, specifically in regards to the Tradera Pay system. It's likely a function to protect buyers when using the payment system.
+URL: https://info.tradera.com/en/kom-igang/kop-och-salj-pa-tradera/kop-pa-tradera

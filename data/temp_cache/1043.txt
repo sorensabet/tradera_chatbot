@@ -1,0 +1,39 @@
+QUESTION: Vad finns det för syfte med att Tradera delar information om användning av webbplatsen med sina partners?
+ANSWER: Syftet med att Tradera delar information om användningen av sin webbplats med sina partners är för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och analysera trafiken.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Vilka är Traderas nödvändiga inställningar för att deras webbplats ska fungera?
+ANSWER: Traderas nödvändiga inställningar är de som krävs för att deras webbplats ska fungera och kan inte stängas av.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Vilket syfte har de prestanda-relaterade inställningarna på Traderas webbplats?
+ANSWER: De prestanda-relaterade inställningarna på Traderas webbplats används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Vad är de funktionella inställningarna på Traderas webbplats till för?
+ANSWER: De funktionella inställningarna på Traderas webbplats är till för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Vad är marknadsföringsinställningarna på Traderas webbplats till för?
+ANSWER: Marknadsföringsinställningarna på Traderas webbplats används av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Kan användare ändra inställningarna för cookies på Traderas webbplats?
+ANSWER: Ja, användare kan ändra inställningarna för cookies på Traderas webbplats.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Vad exakt händer om man stänger av nödvändiga cookies på Traderas webbplats?
+ANSWER: Om man stänger av nödvändiga cookies på Traderas webbplats kommer webbplatsen inte att fungera som den ska.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Finns det några cookies som Tradera inte använder på sin webbplats?
+ANSWER: Informationen som ges i det givna contextet nämner inte att det finns några cookies som Tradera inte använder på sin webbplats.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Varför krävs det cookies för att Tradera ska fungera korrekt?
+ANSWER: Cookies krävs för att Tradera ska fungera korrekt eftersom de sparar inställningar och information om användaren, vilket gör det möjligt för webbplatsen att fungera på ett smidigare sätt.
+URL: https://info.tradera.com/en/security-center/
+
+QUESTION: Är det möjligt att läsa mer om vad cookies är och hur de fungerar på Traderas webbplats?
+ANSWER: Ja, det är möjligt att läsa mer om vad cookies är och hur de fungerar på Traderas webbplats.
+URL: https://info.tradera.com/en/security-center/

@@ -1,0 +1,39 @@
+QUESTION: Vad är BankID och SMS-koder? 
+\ANSWER: BankID och SMS-koder är två olika sätt att verifiera din identitet när du loggar in på Tradera. BankID är en digital legitimation som kopplas till ditt personnummer och används av många svenska banker och myndigheter. SMS-koder är engångskoder som skickas till ditt registrerade mobilnummer och används för att verifiera din identitet.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Hur använder jag SMS-koder? 
+\ANSWER: För att använda SMS-koder behöver du registrera ditt mobilnummer på Tradera och aktivera tjänsten under dina kontoinställningar. När du loggar in på Tradera och behöver verifiera din identitet kommer en sexsiffrig kod att skickas till ditt mobilnummer via SMS, som du sedan anger på Traderas inloggningsida.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Är användning av SMS-koder och BankID säkert? 
+\ANSWER: Ja, användning av SMS-koder och BankID på Tradera är säkert. Det är två olika sätt att verifiera din identitet och garantera säkerheten för ditt konto och dina transaktioner på Tradera.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Vad behöver jag för att använda BankID på Tradera? 
+\ANSWER: För att använda BankID på Tradera behöver du ha ett BankID-avtal med din svenska bank och en BankID-app installerad på din dator eller mobiltelefon. Du behöver också ha ett aktivt konto på Tradera och ha registrerat din bankanslutning på Tradera.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Varför rekommenderas användning av BankID på Tradera? 
+\ANSWER: Användning av BankID på Tradera rekommenderas för att garantera säkerheten för ditt konto och dina transaktioner på Tradera. BankID är en digital legitimation som är mycket säker och används av många svenska banker och myndigheter.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Finns det några avgifter för att använda BankID på Tradera? 
+\ANSWER: Nej, det finns inga avgifter för att använda BankID på Tradera. Det är en kostnadsfri tjänst som erbjuds av din svenska bank.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Vad händer om SMS-koden inte fungerar? 
+\ANSWER: Om SMS-koden inte fungerar rekommenderas det att kontrollera att du har angivit rätt mobilnummer och att din mobiltelefon har tillräckligt med täckning. Om problemet kvarstår kan du kontakta Traderas kundtjänst för att få hjälp.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Hur kan jag ändra mitt registrerade mobilnummer på Tradera? 
+\ANSWER: För att ändra ditt registrerade mobilnummer på Tradera behöver du logga in på Tradera och gå till dina kontoinställningar. Där kan du ändra ditt mobilnummer och spara ändringarna.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Kan jag använda BankID från en annan bank än min svenska bank? 
+\ANSWER: Nej, du kan endast använda BankID från den svenska bank som du har avtal med. Det är för att garantera säkerheten för din identitet och dina transaktioner på Tradera.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Behöver jag aktivera både SMS-koder och BankID på Tradera? 
+\ANSWER: Nej, det är upp till dig vilket av de två alternativen du väljer att aktivera på Tradera för att verifiera din identitet. Det rekommenderas dock att ha båda alternativen tillgängliga för att garantera säkerheten för ditt konto och dina transaktioner på Tradera.
+URL: https://info.tradera.com/en/sms-codes-and-bankid/

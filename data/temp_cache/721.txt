@@ -1,0 +1,39 @@
+QUESTION: Vad händer när jag vinner en auktion eller köper en vara direkt via butiksannons?
+ANSWER: När du vinner en auktion eller köper en vara direkt via butiksannons så kommer du få ett vinnarmail från Tradera med betalningsuppgifter till säljare och du kan betala för varan inne på Mitt Tradera. Du kan också kontakta säljaren genom att trycka på knappen Kontakta inne på Mina köp eller direkt i vinnarmailet.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vilka betalsätt kan jag använda för att betala för köpet?
+ANSWER: Du kan välja mellan att betala för varan med Swish, Kort, Google Pay, Apple Pay, Paynova eller PayPal inne på Mitt Tradera - Mina köp/vunna. För Paynova och PayPal har du alltid köparskydd som kostar 5% av totalpriset, minst 5 kr och max 750kr. För övriga betalsätt får du välja köparskyddet i samband med betalningen, förutom vid Swish direkt till säljaren.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad händer om mitt autobud är högre än reservationspriset?
+ANSWER: Om reservationspriset är lägre än ditt autobud så kommer ditt bud automatiskt höjas till reservationspriset eller till ditt högsta belopp om reservationspriset är högre än autobudet.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan jag ändra leveransadress och ombud i samband med betalningen?
+ANSWER: Ja, när du betalar kan du ändra leveransadress och ombud om du behöver göra det.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vilka betalsätt har köparskydd och vad kostar det?
+ANSWER: Paynova och PayPal har alltid köparskydd som kostar 5% av totalpriset, minst 5 kr och max 750kr. För övriga betalsätt kan man välja till köparskyddet i samband med betalningen, förutom vid Swish direkt till säljaren.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Hur bokas frakten när jag köper en vara?
+ANSWER: Säljaren får dina leveransuppgifter automatiskt via Tradera och kommer boka frakt utifrån vad som är angivet i annonsen.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan jag få samfrakt om jag köper flera varor från samma säljare?
+ANSWER: Ja, om du köpt flera varor från samma säljare är det värt att kontakta säljaren och kolla om de har möjlighet att samfrakta varorna då det kan kosta mindre för dig.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Hur kan jag kontakta säljaren efter att jag köpt en vara?
+ANSWER: Du kan kontakta säljaren genom att trycka på knappen Kontakta inne på Mina köp eller direkt i vinnarmailet från Tradera.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vilka betalningsuppgifter ingår i vinnarmailet från Tradera?
+ANSWER: I vinnarmailet från Tradera ingår betalningsuppgifter till säljaren som du kan använda för att betala för varan du vunnit eller köpt direkt via butiksannons.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Tradera?
+ANSWER: På Tradera kan du betala med Swish, Kort, Google Pay, Apple Pay, Paynova eller PayPal.
+URL: https://info.tradera.com/shoppa/

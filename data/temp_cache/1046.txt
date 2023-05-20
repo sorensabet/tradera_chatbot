@@ -1,0 +1,44 @@
+QUESTION: Hur bokar jag frakten för en retur hos Tradera?
+ANSWER: Tradera bokar frakten till dig om du har vunnit en auktion och vill skicka tillbaka varan. Du behöver skicka varan spårbart och använda den fraktsedel som Tradera skickar till dig för att fullgöra returen.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad händer om jag lämnar in varan efter 5 dagar från att jag fått fraktsedeln?
+ANSWER: Om du inte lämnar in varan hos ombud senast 5 dagar efter att du fått fraktsedeln kan du riskera att beslutet om att returnera varan upphävs. Varan behöver dock inte ha kommit fram till mottagaren inom 5 dagar utan det räcker om den är i tid hos ombudet.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad ska jag tänka på om jag vill skicka tillbaka en ömtålig vara till Tradera?
+ANSWER: Om du vill skicka tillbaka en ömtålig vara till Tradera ska du se till att använda emballage som garanterar att varan kommer fram i samma skick som när du fick den.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vilka är de vanligaste frågorna som säljare ställer när det gäller Klarna?
+ANSWER: En vanlig fråga som säljare ställer gällande Klarna är om de behöver göra något för att erbjuda sina köpare Klarna och om deras uppgifter registreras hos Klarna om köparen väljer att betala med Klarna. Klarna läggs automatiskt till som betalsätt på alla aktiva annonser och som säljare behöver man inte registrera sig eller göra något särskilt för att köparna ska kunna betala med Klarna. Dina uppgifter registreras endast hos Klarna om du själv väljer att betala med Klarna.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vilken typ av varor kan jag köpa på Tradera?
+ANSWER: På Tradera kan du köpa det meste, men varorna måste vara begagnade eller antika. Det går inte att sälja varor som är nytillverkade eller direktimporterade.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera innebär att man säljare står för en större del av fraktkostnaden och att man använder återanvänt eller förnybart material när man packar och skickar ut varorna, för att minska miljöpåverkan.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Kan jag sälja på Tradera som privatperson och som företag?
+ANSWER: Ja, det går både att sälja som privatperson och som företag på Tradera. Som privatpersonen kan man sälja saker som man inte längre använder eller vill ha kvar och som företag kan man sälja varor man vill rensa ut ur lagret eller sälja över lagerantalet.
+URL: https://info.tradera.com/salj/
+
+QUESTION: Hur säljer man på Tradera som privatsäljare?
+ANSWER: Som privatsäljare på Tradera följer du nedanstående steg:
+1. Skapa ett konto på Tradera.
+2. Skapa och publicera en annons för den vara du vill sälja.
+3. Vänta tills auktionen är avslutad.
+4. Om du får en köpare, skicka varan och betalningsuppgifterna till köparen.
+5. Markera auktionen som slutförd på Tradera och låt köparen betygsätta dig som säljare.
+URL: https://info.tradera.com/salj/salj-som-privatperson/
+
+QUESTION: Vilka är de populäraste varumärkena på Tradera?
+ANSWER: Det finns många populära varumärken på Tradera, men några exempel på de mest sökta varumärkena är Acne Studios, Filippa K, Odd Molly, Lexington, Lindex och Gant.
+URL: https://info.tradera.com/kop/
+
+QUESTION: Vad är Klarna?
+ANSWER: Klarna är ett betalningssystem som gör det möjligt för kunderna att betala för sina köp i efterhand eller dela upp betalningen, beroende på vad säljaren väljer att erbjuda. Klarna är ett vanligt betalsätt på Tradera.
+URL: https://info.tradera.com/klarna/

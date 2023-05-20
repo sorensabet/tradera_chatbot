@@ -1,0 +1,39 @@
+QUESTION: Vad är köparskyddet på Tradera?
+ANSWER: Köparskyddet på Tradera är en funktion som gör att köpare kan få pengarna tillbaka om varan inte motsvarar beskrivningen eller om varan inte dyker upp. Det skyddar köpare i fall där en säljare inte fullgör sin del av köpet.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vad ska jag göra om jag behöver använda köparskyddet?
+ANSWER: Om du behöver använda köparskyddet ska du följa dessa steg: 1. Kontakta säljaren för att lösa problemet 2. Eskalera tvisten till Tradera 3. Du får en bekräftelse inom 48 timmar 4. Vi granskar tvisten 5. Tvisten avgörs inom 14 dagar.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vilka villkor gäller för köparskyddet på Tradera?
+ANSWER: För att använda Traderas köparskydd måste köparen ha betalat via Traderas betalningssytem. Köparen måste också ha kontaktat säljaren för att försöka lösa problemet innan man går vidare med en tvist.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Hur lång tid tar det för en tvist att avgöras på Tradera?
+ANSWER: En tvist på Tradera avgörs vanligtvis inom 14 dagar.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vad innebär faktura och delbetalning på Tradera?
+ANSWER: Faktura och delbetalning är betalningsalternativ som erbjuds på Tradera. Med faktura kan köparen betala efter leveransen av varan medan delbetalning innebär att köparen betalar i delar.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION: Vad gör jag om jag vill starta en tvist på Tradera?
+ANSWER: Om du vill starta en tvist på Tradera ska du följa dessa steg: 1. Kontakta säljaren för att lösa problemet 2. Eskalera tvisten till Tradera 3. Du får en bekräftelse inom 48 timmar 4. Vi granskar tvisten 5. Tvisten avgörs inom 14 dagar.
+URL: https://info.tradera.com/traderabetalning/kopskydd/sa-funkar-en-tvist/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: På Tradera finns det många olika kategorier som varierar från mode, skönhet, hem och trädgård till sport, djur och antikviteter.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är ett initiativ som Tradera har tagit för att minska klimatpåverkan från frakt. Det innebär att konsumenter kan välja fraktalternativ som är mer miljövänliga, såsom klimatkompenserad frakt eller återvunna material.
+URL: https://www.tradera.com/
+
+QUESTION: Hur kan jag kontakta Traderas kundservice?
+ANSWER: Du kan kontakta Traderas kundservice genom att klicka på "Kontakt och hjälp" längst ner på Traderas hemsida.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är viktigt att tänka på när jag säljer som privatperson på Tradera?
+ANSWER: När du säljer som privatperson på Tradera är det viktigt att komma ihåg att du som säljare är ansvarig för att beskriva produkten korrekt och att den ska motsvara det som beskrivs i annonsen. Det är också viktigt att lämna tydlig information om betalning, frakt och leverans.
+URL: https://www.tradera.com/

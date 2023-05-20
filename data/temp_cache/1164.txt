@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsalternativ erbjuder Traderas kassalösning vid köp?
+\ANSWER: Traderas kassalösning erbjuder flera betalningsalternativ som Swish, kortbetalning, ApplePay, Google Pay, PayPal, betalning mot faktura och kredit. Dessa betalningsalternativ tillhandahålls av tredje parter, som står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan säljaren kräva betalning på annat sätt än genom Traderas kassalösning?
+\ANSWER: Nej, en säljare får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas kassalösning. Säljaren åtar sig att följa dessa Villkor och att använda Traderas betallösning vid försäljning på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Finns det några som helst avgifter eller kostnader för köparen vid användning av Traderas kassalösning?
+\ANSWER: Det kan finnas avgifter eller kostnader för vissa betalningssätt som tillhandahålls av tredje parter, och dessa kostnader kan även variera beroende på Köparens bank eller kortleverantör. Dock tar Tradera inte ut några avgifter eller kostnader för Köparens användning av Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan säljaren ta betalt för köparens möjlighet att använda Traderas kassalösning?
+\ANSWER: Nej, en säljare har inte rätt att ta betalt för köparens möjlighet att använda Traderas kassalösning. En säljare får endast ta betalt för föremålet och Traderas avgift för försäljning via Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka ansvarar för att följa villkoren vid användning av Traderas kassalösning?
+\ANSWER: Både köparen och säljaren åtar sig att följa Traderas villkor vid användning av kassalösningen. Köparen åtar sig att följa villkoren samt de villkor som gäller för det valda betalsättet och som har förmedlats av tredje part, medan säljaren åtar sig att använda Traderas betallösning vid försäljning på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Finns det några begränsningar för användning av Traderas kassalösning?
+\ANSWER: Det finns inga angivna begränsningar för användning av Traderas kassalösning, men säljaren åtar sig att följa dessa Villkor och att använda Traderas betallösning vid försäljning på Traderas Plattform. Säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är de tredje parter som tillhandahåller betalningssätten i Traderas kassalösning?
+\ANSWER: De betalningssätt som tillhandahålls i Traderas kassalösning tillhandahålls av tredje parter som står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter. Vilka exakta tredje parter som tillhandahåller varje betalningssätt anges inte i texten.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Om en köpare använder sig av Traderas kassalösning, går betalningen då direkt till säljaren?
+\ANSWER: Ja, om en köpare använder sig av Traderas kassalösning går betalningen direkt till säljaren genom Traderas betaltjänst vid försäljning på Traderas plattform. Därmed kan säljaren omedelbart se att betalningen har skett och skicka föremålet till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Om det uppstår problem vid användning av Traderas kassalösning, vem ska kontaktas?
+\ANSWER: Om det uppstår problem vid användning av Traderas kassalösning ska Traderas kundtjänst kontaktas. Kundtjänsten kan hjälpa både köpare och säljare med eventuella problem som uppstår i samband med betalning och leverans.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Tar Tradera ut några avgifter för användning av kassalösningen?
+\ANSWER: Tradera tar inte ut några avgifter eller kostnader för Köparens användning av Traderas kassalösning. Dock kan det finnas avgifter eller kostnader för vissa betalningssätt som tillhandahålls av tredje parter, och dessa kostnader kan även variera beroende på Köparens bank eller kortleverantör.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

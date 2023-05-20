@@ -1,0 +1,39 @@
+QUESTION 1: Which payment methods does Tradera support?
+ANSWER: Tradera supports various payment methods such as Swish, credit cards, PayPal and other payment methods that they may add in the future.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 2: Who provides the payment services on Tradera's payment solution?
+ANSWER: The payment services on Tradera's payment solution is provided by third parties who are contracted by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 3: What is a "Transaction" on Tradera's platform?
+ANSWER: A "Transaction" on Tradera's platform refers to the payment made for goods or services bought on the platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 4: What is a "Refundable amount"?
+ANSWER: A "Refundable amount" is the amount that a Seller will refund to Tradera in the event of a refund of an amount already paid to the Seller due to a purchase being canceled. The amount includes the Transaction, fees charged to Tradera in connection with the Transaction, shipping charges for returning a product, and charges imposed on Tradera for a transaction with its partners such as PayPal, Klarna, Paynova, VISA or Mastercard.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 5: What does Tradera undertake with regards to the Seller's payment?
+ANSWER: Tradera undertakes, subject to the Terms and Conditions, to allow the Seller to be paid through Tradera's payment solution in the event of a sale on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 6: What is the Seller's obligation when using Tradera's payment solution?
+ANSWER: Sellers are obligated to comply with Tradera's Terms and Conditions and use Tradera's payment solution when selling on their platform. Sellers cannot claim payment in any way other than through the options available through Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 7: Will the method of payment chosen by the Buyer affect when the Seller is paid?
+ANSWER: The method of payment chosen by the Buyer will not have any impact on when the Seller is paid, except for Swish, as the Seller is paid directly.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 8: When will a Seller typically be paid after completing a Transaction on Tradera?
+ANSWER: As a general rule, the Seller will be paid within one (1) to two (2) business days following the completion of a Transaction, provided that they have provided accurate payment details to Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 9: Can Tradera change the payment rate for Sellers?
+ANSWER: Yes, Tradera can change the payment rate for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 10: What is the Seller's responsibility regarding the payment rate set by Tradera?
+ANSWER: It is up to the Seller to keep up with any changes to the payment rate set by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

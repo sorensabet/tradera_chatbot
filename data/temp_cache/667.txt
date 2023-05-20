@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med inställningar för cookies på Tradera?
+ANSWER: Syftet med inställningar för cookies på Tradera är att ge användaren kontroll över hur deras upplevelse på webbplatsen skräddarsys genom att välja vilka cookies som ska tillåtas, vilket kontrollerar vilken information som Tradera samlar in om användaren och vilka annonser som visas.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Kan nödvändiga cookies stängas av från Tradera-webbplatsen?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av från Tradera-webbplatsen eftersom webbplatsen inte skulle fungera korrekt utan dessa cookies.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Vad används prestandacookies till på Tradera?
+ANSWER: Prestandacookies används för att mäta hur Tradera-webbplatsen används anonymt så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Kan användaren anpassa sin upplevelse på Tradera-webbplatsen?
+ANSWER: Ja, användaren kan anpassa sin upplevelse på Tradera-webbplatsen genom att tillåta funktionella cookies, vilket ger utökad funktionalitet och användaranpassning på Tradera, som till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Hur hjälper marknadsföringscookies Traderas annonseringspartners att skapa relevanta annonser?
+ANSWER: Marknadsföringscookies på Tradera-webbplatsen hjälper Traderas annonseringspartners att skapa relevanta annonser genom att spåra användares webbplatsvanor och presentera annonser som är relevanta för dem.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Varför är det viktigt att godkänna cookies på Traderas webbplats?
+ANSWER: Det är viktigt att godkänna cookies på Tradera-webbplatsen eftersom webbplatsen behöver tillåtas samla in information om användaren för att kunna anpassa användarens upplevelse och visa relevanta annonser.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Vilka typer av cookies finns det på Tradera-webbplatsen?
+ANSWER: Det finns fyra olika typer av cookies på Tradera-webbplatsen: nödvändiga cookies, prestandacookies, funktionella cookies och marknadsföringscookies.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Hur kan användaren ändra sina inställningar för cookies på Tradera-webbplatsen?
+ANSWER: Användaren kan ändra sina inställningar för cookies på Tradera-webbplatsen genom att använda alternativet "Vad är det här?" bredvid "Inställningar för cookies" längst ner på webbplatsen.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Vad händer om användaren inte godkänner användningen av cookies på Tradera-webbplatsen?
+ANSWER: Om användaren inte godkänner användningen av cookies på Tradera-webbplatsen kan användarens upplevelse på webbplatsen vara begränsad och vissa funktioner kan bli otillgängliga.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att förbättra användarupplevelsen genom att skräddarsy webbplatsens funktioner och annonser baserat på användarnas beteenden på webbplatsen.
+URL: https://info.tradera.com/en/rules-at-tradera/

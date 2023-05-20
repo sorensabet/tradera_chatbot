@@ -1,0 +1,39 @@
+QUESTION: What is the commission fee for store listings in the "Minimum Price Store"?
+ANSWER: According to the text, the commission fee for store listings in the "Minimum Price Store" is only applicable to Store listings in the category "Handmade & Crafts".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the commission fee for store listings that are not in the "Handmade & Crafts" category?
+ANSWER: As stated in the text, the sales commission fee for store listings with goods that are not in the "Handmade & Crafts" category is 18% in the "Handmade & Crafts Store".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the commission fee for store listings in the "Vehicle Store"?
+ANSWER: According to the text, the sales commission fee for store listings in the "Vehicle Store" is 18% and is only applicable to store listings in the category "Vehicles, Boats & Parts".
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How much notice period should be given to close a store?
+ANSWER: The text states that all stores have a notice period of one month.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: Is there any additional fee for a store aside the monthly fee?
+ANSWER: Yes, the text mentions that in addition to the monthly fee for the store, there are fees in accordance with the regular price list.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the duration of an auction listing?
+ANSWER: As per the text, the duration of an auction listing can be chosen by the seller and must be a minimum of 3 days and a maximum of 14 days.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: Can multiple products be added to an auction listing?
+ANSWER: No, the text states that only one product can be added to an auction listing.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the duration of a fixed price listing?
+ANSWER: According to the text, a fixed price listing is always active for 30 days.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How long are store listings active for?
+ANSWER: Store listings are active until the seller chooses to delete them himself or herself or if the stock balance runs out, as stated in the text.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: Can stock be added to a store listing?
+ANSWER: Yes, according to the text, stock can be added to a store listing.
+URL: https://info.tradera.com/en/foretag/

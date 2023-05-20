@@ -1,0 +1,39 @@
+QUESTION: How is geolocation information used by Tradera?
+ANSWER: Geolocation information is used by Tradera to enhance the security of the websites and services and provide location-based services such as advertising, search results, and other personalized content.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera suggest connections between users?
+ANSWER: Tradera suggests connections between users by associating information learned about users through their use of the services and information provided by others to suggest people that users may know or want to transact with through their services.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What types of social networking services and features are available through Tradera?
+ANSWER: The types of social networking services and features available through Tradera vary depending on the type of service.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Why does Tradera ask for consent before using personal data for marketing purposes?
+ANSWER: Tradera asks for consent before using personal data for marketing purposes to ensure that users are aware of how their data will be used and have the opportunity to opt out if they do not want to receive marketing and promotional communications.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera sell or rent personal data to third parties for their marketing purposes?
+ANSWER: No, Tradera does not sell or rent personal data to third parties for their marketing purposes without the explicit consent of the user.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How can users indicate their communications preferences to Tradera?
+ANSWER: Users can indicate their communications preferences to Tradera in their My Tradera-page or within the direct communication received from the company.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the purpose of processing personal data based on legitimate interest?
+ANSWER: The purpose of processing personal data based on legitimate interest is to enforce the terms of Tradera's user agreement, manage the company's everyday business needs and for monitoring and analytics purposes.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What kind of information do users need to share with Tradera to connect with other users?
+ANSWER: Users do not need to share any specific information with Tradera to connect with other users. The company may use the information shared with the service to suggest connections between users and people they may know.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera use personal data to respond to user requests?
+ANSWER: Yes, Tradera may use personal data to respond to user requests, such as contacting them about a question they submitted to the customer service team.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Why does Tradera use personal data to personalize their services?
+ANSWER: Tradera uses personal data to personalize their services in order to improve user experience and measure and improve their advertising based on the user's ad customization preferences.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

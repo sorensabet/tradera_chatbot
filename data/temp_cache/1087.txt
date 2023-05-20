@@ -1,0 +1,39 @@
+QUESTION 1: Vilken information om mig kan Tradera behandla?
+ANSWER: Dessa är några av de personuppgifter som Tradera kan behandla: personnummer, namn, adress, telefonnummer, e-postadress, genomförda affärer, chatt- eller samtalshistorik vid kontakt med kundservice och kontonummer för utbetalningar.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 2: Var kan jag hitta en mer detaljerad information om Traderas hantering av personuppgifter?
+ANSWER: Om du vill fördjupa dig i Traderas hantering av personuppgifter kan du läsa deras integritetspolicy.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 3: Vad använder Tradera mina personuppgifter till?
+ANSWER: Tradera använder dina personuppgifter för att erbjuda sina tjänster, möjliggöra affärer mellan köpare och säljare, kontosäkerhet, utbetalningar, hjälpa dig med ärenden via kundservice och marknadsföring (om de har ditt samtycke).
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 4: Vad gör Tradera för att säkra mitt konto?
+ANSWER: Tradera arbetar för att säkra ditt konto genom att använda säkerhetsåtgärder som lösenordshantering, tvåfaktorsautentisering och övervakning av aktiviteter på ditt konto.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 5: Kan jag kontakta Tradera om jag har frågor om mina personuppgifter?
+ANSWER: Ja, om du har frågor som rör dina personuppgifter kan du kontakta Tradera på privacy@tradera.com eller genom att kontakta deras kundservice.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 6: Vilken information kan jag få om mina personuppgifter från Tradera?
+ANSWER: Du kan få information om vilken personlig information som Tradera har om dig samt varför de har den och hur den används.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 7: Vilket samtycke krävs för att Tradera ska kunna använda mina personuppgifter för marknadsföring?
+ANSWER: Tradera behöver ditt samtycke för att använda dina personuppgifter för marknadsföring.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 8: Kan jag neka Tradera att använda mina personuppgifter för marknadsföring?
+ANSWER: Ja, om du inte vill att Tradera ska använda dina personuppgifter för marknadsföring kan du neka till detta och de kommer sluta använda dina personuppgifter i sådana syften.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 9: Vilken e-postadress ska jag använda för att kontakta Tradera rörande mina personuppgifter?
+ANSWER: Du kan kontakta Tradera rörande dina personuppgifter på e-postadressen privacy@tradera.com.
+URL: https://info.tradera.com/dataskydd/
+
+QUESTION 10: Kan jag kontakta Traderas kundservice angående frågor om mina personuppgifter?
+ANSWER: Ja, du kan även kontakta Traderas kundservice angående frågor om dina personuppgifter.
+URL: https://info.tradera.com/dataskydd/

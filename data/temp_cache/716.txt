@@ -1,0 +1,39 @@
+QUESTION: Hvad er automatiske bud på Tradera?
+ANSWER: Automatiske bud betyder, at Tradera byder på dine vegne op til dit maksimum bud, når du deltager i en auktion. Hvis sælgeren har en reservationspris, vil dit bud automatisk blive øget indtil reservationsprisen eller din nuværende grænse for automatisk bud nås.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad sker der, når jeg vinder en auktion på Tradera?
+ANSWER: Når du vinder en auktion, køber en butiksvare eller en vare til fast pris, vil Tradera sende dig en vinder-e-mail med betalingsoplysningerne. Du kan også betale direkte på “Mit Tradera”. Alternativt kan du kontakte sælgeren direkte ved at klikke på “kontakt”-knappen i vinder-e-mailen.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvor kan jeg betale for en annonce på Tradera?
+ANSWER: Du kan betale for annoncen under ”Mit Tradera” – “Køb” – “Vundet/købt”, hvis sælgeren tilbyder Tradera-betaling. Hvis sælgeren har andre betalingsmuligheder, vil du få betalingsoplysningerne i vinder-e-mailen.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvordan bliver forsendelsen booket, når jeg køber noget på Tradera?
+ANSWER: Sælgeren modtager automatisk dine leveringsoplysninger fra Tradera og vil sørge for at booke forsendelse i overensstemmelse med det, der står angivet i annoncen. Hvis du har booket flere varer fra den samme sælger, kan du altid kontakte vedkommende for at tjekke, om varerne kan leveres samlet – en mulighed, der er billigere for dig og bedre for miljøet.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Har jeg fortrydelsesret, når jeg køber på Tradera?
+ANSWER: Du har kun fortrydelsesret, hvis det er en erhvervssælger. De fleste køb på Tradera er mellem private personer, så det er vigtigt at læse sælgerens beskrivelse grundigt og stille spørgsmål, hvis du er i tvivl om noget, inden du køber.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Kan jeg kontakte sælgeren direkte efter at have vundet en auktion på Tradera?
+ANSWER: Ja, du kan kontakte sælgeren direkte ved at klikke på “kontakt”-knappen i vinder-e-mailen, som du modtager fra Tradera, når du vinder en auktion.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Kan jeg betale direkte på Tradera, når jeg vinder en auktion?
+ANSWER: Ja, du kan betale direkte på “Mit Tradera”, når du har vundet en auktion, køber en butiksvare eller en vare til fast pris. Du vil få betalingsoplysningerne i vinder-e-mailen fra Tradera.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvordan ved jeg, om sælgeren på Tradera tilbyder Tradera-betaling?
+ANSWER: Du kan se, om sælgeren på Tradera tilbyder Tradera-betaling, under ”Mit Tradera” – “Køb” – “Vundet/købt”.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad er en reservationspris på Tradera?
+ANSWER: En reservationspris er det laveste bud, som sælgeren på Tradera vil acceptere for varen i auktionen. Hvis dit bud bliver øget automatisk af Tradera, vil det blive øget, indtil reservationsprisen eller din nuværende grænse for automatisk bud nås, alt efter hvilken der kommer først.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Kan jeg bestille flere varer fra en sælger på Tradera og få dem leveret samlet?
+ANSWER: Ja, hvis du har booket flere varer fra den samme sælger på Tradera, kan du altid kontakte vedkommende for at tjekke, om varerne kan leveres samlet – en mulighed, der er billigere for dig og bedre for miljøet.
+URL: https://info.tradera.com/da/shoppa-2/

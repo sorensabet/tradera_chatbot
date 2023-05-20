@@ -1,0 +1,39 @@
+QUESTION: Vad avgör annonsens längd på Tradera?
+ANSWER: Användaren kan ange antalet dagar att annonsen ska läggas upp på sajten genom att fylla i siffran mellan 3-14 för en auktion. Om fältet lämnas tomt för fast pris annons, kommer det automatiskt in 30 dagar. Om inget värde anges för auktion, kommer det automatiskt att vara 7 dagar.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken information ger "Annonstyp" för en Tradera-annons?
+ANSWER: "Annonstyp" anger om en annons är för auktion eller fast pris. Om användaren lämnar fältet tomt, kommer det automatiskt att bli en auktion.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad står det i "Fraktsätt #1" och "Fraktsätt #2" och hur påverkar det fraktkostnaden?
+ANSWER: "Fraktsätt #1" och "Fraktsätt #2" anger det valda fraktsättet för en annons på Tradera. En användare kan välja mellan följande siffror: 1 = PostNord Övrigt, 2 = DHL, 7 = DB Schenker, 8 = Avhämtning, 12 = PostNord Paket, 13 = PostNord Frimärke. Detta val av fraktsätt påverkar sedan fraktkostnaden såsom definierat i "Fraktkostnad #1" och "Fraktkostnad #2".
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad är "Fraktkostnad #1" och "Fraktkostnad #2" på Tradera?
+ANSWER: "Fraktkostnad #1" och "Fraktkostnad #2" avser kostnaden för de valda fraktsätten i "Fraktsätt #1" och "Fraktsätt #2". Kostnaden anges i heltal utan decimaler. Notera att det krävs att det finns ett Fraktsätt# 1 och / eller Fraktsätt # 2 för att kostnaden ska kunna importeras.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilka är de olika siffrorna som kan användas för att välja "Fraktsätt #1" och "Fraktsätt #2" på Tradera?
+ANSWER: Vid val av fraktsätt #1 och #2 kan användaren välja mellan följande siffror: 1 = PostNord Övrigt, 2 = DHL, 7 = DB Schenker, 8 = Avhämtning, 12 = PostNord Paket, 13 = PostNord Frimärke.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad innebär "Fraktsätt #2" på Tradera?
+ANSWER: "Fraktsätt #2" på Tradera är det andra alternativa fraktsättet som användaren kan välja för en annons. Om användaren bara vill ha ett fraktsätt, kan detta fält lämnas tomt. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilka är alternativen för "Fraktsätt #1" på Tradera?
+ANSWER: Användare kan välja följande alternativ för "Fraktsätt #1" när du lägger ut en annons på Tradera: 1 = PostNord Övrigt, 2 = DHL, 7 = DB Schenker, 8 = Avhämtning, 12 = PostNord Paket, 13 = PostNord Frimärke.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad händer om användaren inte anges något val för "Fraktsätt #1" på Tradera?
+ANSWER: Om en användare inte anger någon siffra för "Fraktsätt #1" på Tradera, kommer ingen fraktsätt att valideras för annonsen och därmed kommer inte fraktkostnaderna att kunna beräknas.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad innebär "Fraktkostnad #2" på Tradera?
+ANSWER: "Fraktkostnad #2" avser kostnaden för det andra alternativa fraktsättet användaren kan välja för en annons på Tradera. Kostnaden anges i heltal utan decimaler. Notera att det krävs att det finns ett Fraktsätt #2 att ha en giltig fraktkostnad för det fraktsättet.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilka fraktsätt är tillgängliga på Tradera?
+ANSWER: På Tradera är följande fraktsätt tillgängliga: PostNord Övrigt, DHL, DB Schenker, Avhämtning, PostNord Paket, och PostNord Frimärke. 
+URL: https://info.tradera.com/prolister/csv/

@@ -1,0 +1,39 @@
+QUESTION: What is Tradera Pay, and how do I activate it?
+ANSWER: Tradera Pay is a payment method that allows users to buy and sell goods on Tradera. To activate it, users need to add their payment information (either a bank account or a PayPal account) by clicking on payouts in My Tradera (https://www.tradera.com/my/Payments), selecting their country/region and account type, and adding the required details.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: What payment options are available for receiving payouts on Tradera?
+ANSWER: Users can add their bank account or PayPal account as payment options for receiving payouts on Tradera.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Is it possible to receive payouts in a currency other than EUR, GBP, SEK, or USD using PayPal on Tradera?
+ANSWER: No, only EUR, GBP, SEK, and USD are supported for PayPal payouts on Tradera. If a user chooses another currency, they won't be able to add a PayPal account for their payouts.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Can a user have both a bank account and a PayPal account registered for payouts on Tradera?
+ANSWER: No, a user can only have one bank account or PayPal account registered at a time for payouts on Tradera.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: How can I add my BIC/Swift and IBAN number for receiving payouts on Tradera?
+ANSWER: Users can add their BIC/Swift and IBAN number for receiving payouts on Tradera by clicking on payouts in My Tradera (https://www.tradera.com/my/Payments), selecting their country/region and account type, and adding the required details.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: What should I do if I can't choose PayPal as a payout option on Tradera?
+ANSWER: If a user can't choose PayPal as a payout option on Tradera, they should make sure that they have the currency option set to either EUR, GBP, SEK or USD.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: What happens to a user's payout if they haven't added their account details before the buyer pays for the listing on Tradera?
+ANSWER: If a user hasn't added their account details before the buyer pays for the listing on Tradera, their payout will be waiting to be processed until they add their account details.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Can I sell goods on Tradera without adding my payment information for payouts?
+ANSWER: No, users need to add their payment information (either a bank account or a PayPal account) for receiving payouts on Tradera before they can sell goods on the platform.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: How do I choose the country of my IBAN account for receiving payouts on Tradera?
+ANSWER: Users can choose the country of their IBAN account for receiving payouts on Tradera by clicking on payouts in My Tradera (https://www.tradera.com/my/Payments), selecting their country/region and account type, and adding the required details.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: What currencies are supported for PayPal payouts on Tradera?
+ANSWER: Only EUR, GBP, SEK, and USD are supported for PayPal payouts on Tradera.
+URL: https://info.tradera.com/en/traderabetalning/aktivera-traderabetalning/

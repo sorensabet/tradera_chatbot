@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter kan användare ha åtkomst till under en transaktion på Tradera?
+ANSWER: Användare som är involverade i en transaktion på Tradera kan ha åtkomst till varandras namn, användarnamn, e-postadress och annan kontakt- och leveransinformation enligt integritetspolicyn. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka ändamål åtar sig användare att endast använda andras personuppgifter för på Tradera?
+ANSWER: Användare på Tradera åtar sig att endast använda andra användares personuppgifter för transaktionsrelaterade ändamål på Tradera och inte för oönskade marknadsföringsmeddelanden, att använda tjänster som erbjuds via Tradera eller för särskilda ändamål som användaren uttryckligen väljer eller lämnar sitt samtycke till.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka tekniker använder Tradera för att lagra information och förbättra användarupplevelsen?
+ANSWER: Tradera och dess tjänsteleverantörer kan använda cookies, webb-beacons och liknande teknik för att lagra information i syfte att ge användarna en bättre, snabbare och säkrare upplevelse samt för annonseringsändamål enligt integritetspolicyn. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Var kan man läsa om Traderas detaljerade information om cookies och liknande teknik?
+ANSWER: För mer detaljerad information om cookies, webb-beacons och liknande tekniker kan man se Traderas Cookie-policy enligt integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka uppgifter måste användare ge andra användare möjlighet att få raderade från sin databas?
+ANSWER: Användare på Tradera måste ge andra användare möjlighet att begära att de raderas från deras databas och att de ges möjlighet att få information om vilka uppgifter som har samlats in om dem enligt integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka tjänster erbjuder Tradera via deras plattform?
+ANSWER: Tradera erbjuder tjänster som betalning, frakt, leverans och klagomål om bedrägerier via deras plattform enligt integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad är förbjudet på Tradera?
+ANSWER: Skräppost, spionprogram och identitetsstöld är förbjudet enligt integritetspolicyn på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan Tradera lagra om sina användare?
+ANSWER: Tradera kan samla in och lagra personlig information, såsom namn, adress, e-postadress, telefonnummer och information om transaktioner, för att utföra tjänster som tillhandahålls på plattformen och för att uppfylla juridiska krav enligt integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka rättigheter har användare när det gäller deras personuppgifter på Tradera?
+ANSWER: Användare har rätt att begära att deras personuppgifter raderas från en annan användares databas och att få information om vilka uppgifter som har samlats in om dem enligt Traderas integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad kan användare använda andra användares personuppgifter för på Tradera?
+ANSWER: Användare på Tradera kan endast använda andra användares personuppgifter för transaktionsrelaterade ändamål på Tradera och inte för oönskade marknadsföringsmeddelanden, att använda tjänster som erbjuds via Tradera eller för särskilda ändamål som användaren uttryckligen väljer eller lämnar sitt samtycke till enligt integritetspolicyn. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

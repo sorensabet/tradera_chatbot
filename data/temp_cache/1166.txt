@@ -1,0 +1,39 @@
+QUESTION: Hur ska jag betala för ett föremål jag köpt på Tradera?
+ANSWER: Du bör erlägga betalning för köpt föremål till Klarna, inte till Tradera eller Säljare. Köparen accepterar vidare att, vid köp via Klarna, skyldighet att betala för ett köpt föremål endast uppfylls genom betalning till Klarna, inte genom betalning till Tradera eller Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka uttag görs av belopp som ska betalas till Säljaren?
+ANSWER: Innan utbetalning sker, kommer eventuella belopp som Säljaren är skyldig att betala till Tradera att dras av och mellanskillnaden kommer att betalas ut till Säljaren. De belopp som Tradera kommer dra av kan avse försäljningskostnader, återbetalningsskyldigt belopp och avgifter till Tradera enligt separat avtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur lång tid tar det innan Säljaren får betalt efter en genomförd Transaktion?
+ANSWER: Som huvudregel erhåller Säljaren betalt inom en (1) till två (2) bankdagar efter att en Transaktion har genomförts, förutsatt att Säljaren har uppgett korrekta inbetalningsuppgifter till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem betalar ut belopp till Säljaren efter en genomförd Transaktion?
+ANSWER: När en Transaktion har blivit godkänd av Tradera kommer Tradera se till att utbetalning till Säljaren sker genom Traderas betaltjänst, antingen för en separat Transaktion eller som ett sammanslaget belopp som omfattar flera Transaktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan utbetalningstakten för Säljare komma att ändras?
+ANSWER: Ja, utbetalningstakten kan komma att ändras av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Transaktion enligt betalningsvillkoren?
+ANSWER: Transaktion i detta sammanhang är när en köpare köper ett föremål från en säljare på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: När betalar jag för ett köpt föremål på Tradera om jag använder Klarna?
+ANSWER: Du betalar för ett köpt föremål på Tradera vid betalning till Klarna, inte genom betalning till Tradera eller Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka belopp dras av från belopp som ska betalas ut till Säljaren?
+ANSWER: Eventuella belopp som Säljaren är skyldig att betala till Tradera kommer att dras av innan Tradera betalar ut beloppet till Säljaren. De belopp som Tradera kommer dra av kan avse försäljningskostnader, återbetalningsskyldigt belopp och avgifter till Tradera enligt separat avtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Säljaren få betalt för flera Transaktioner som ett sammanslaget belopp?
+ANSWER: Ja, Tradera kan se till att Säljaren får betalt för flera Transaktioner som ett sammanslaget belopp genom Traderas betaltjänst.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Är Säljaren skyldig att hålla sig uppdaterad på utbetalningstakt från Tradera?
+ANSWER: Ja, det ankommer på Säljaren att hålla sig uppdaterad på eventuella ändringar i utbetalningstakten som kan komma från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

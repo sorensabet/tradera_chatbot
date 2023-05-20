@@ -1,0 +1,39 @@
+QUESTION: Vilka säkerhetsåtgärder använder Tradera för att skydda användarnas uppgifter?
+ANSWER: Tradera använder tekniska och administrativa säkerhetsåtgärder, som brandväggar, kryptering av data, inpasseringskontroll vid datacenters och behörighetskontroller, för att minska risken för förlust, missbruk, obehörig åtkomst, utlämnande och ändring av användarnas uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur ser Tradera till att de insamlade personuppgifterna är aktuella?
+ANSWER: Tradera vidtar åtgärder för att försöka säkerställa att de personuppgifter som de samlar in är riktiga och aktuella, och ger sina användare möjlighet att uppdatera sina uppgifter genom deras kontoinställningar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur behandlar Tradera ett konto som inte används eller som används i strid med deras Användaravtal?
+ANSWER: Tradera kan stänga eller inaktivera konton som inte används eller konton som används i strid med deras Användaravtal. Vanligtvis kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas eller anonymiseras så snart som möjligt efter det att kontot har stängts eller inaktiverats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur raderar Tradera uppgifterna från ett konto som avslutas?
+ANSWER: På användarens begäran och i enlighet med bestämmelserna i integritetspolicyn kommer Tradera att avsluta användarens konto och radera användarens personuppgifter så att de inte visas för andra användare. Radering av uppgifter kommer att ske baserat på användarens kontostatus och i enlighet med tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka personuppgifter samlar Tradera in från sina användare?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress, telefonnummer, person-/organisationsnummer och bankuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: På vilket sätt kan användare uppdatera sina personuppgifter på Tradera?
+ANSWER: Användare kan uppdatera sina personuppgifter genom kontoinställningarna på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka bestämmelser följer Tradera när de hanterar personuppgifter?
+ANSWER: Tradera följer bestämmelserna i integritetspolicyn när de hanterar personuppgifter. De vidtar även åtgärder för att försöka säkerställa att de personuppgifter som de samlar in är riktiga och aktuella.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Hur skyddar Tradera användarnas personuppgifter från obehörig åtkomst?
+ANSWER: Tradera använder säkerhetsåtgärder som brandväggar, kryptering av data, inpasseringskontroll vid sina datacenters och behörighetskontroller för att skydda användarnas personuppgifter från obehörig åtkomst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas eller anonymiseras av Tradera?
+ANSWER: Vanligtvis kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas eller anonymiseras så snart som möjligt efter det att kontot har stängts eller inaktiverats av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Under vilka omständigheter kan Tradera bevara personuppgifter hänförliga till stängda eller inaktiva konton?
+ANSWER: Under vissa omständigheter kan Tradera bevara personuppgifter hänförliga till stängda eller inaktiva konton enligt tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningssätt finns tillgängliga på Tradera?
+ANSWER: På Tradera finns det flera betalningssätt tillgängliga då Tradera samarbetar med betallösningsleverantörer som erbjuder olika betalningssätt. Vilka betalningssätt leverantörerna erbjuder kan ändras från tid till annan.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka regler gäller kring betalningen på Tradera?
+ANSWER: Du måste ingå ett separat avtal med leverantören av betallösningen och godkänna de villkor som gäller för det betalningssätt du väljer att använda. Eventuella problem med betalning ska hanteras mellan dig och betallösningsleverantören enligt deras villkor.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Ansvarar Tradera för problem som kan uppstå vid betalning?
+ANSWER: Nej, Tradera ansvarar inte för förseningar, fel, skador eller annat som har att göra med betalning eller utebliven betalning av föremål som köps eller säljs på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är Traderas policy kring behandling och delning av personuppgifter?
+ANSWER: Traderas behandling och delning av personuppgifter anges i deras Integritetspolicy. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad innebär det att köpa ett föremål på Tradera?
+ANSWER: När du köper ett föremål på Tradera kan du välja mellan flera betalningssätt som tillhandahålls av betallösningsleverantörer som Tradera samarbetar med.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Är det gratis att ta del av informationen på Traderas webbplats?
+ANSWER: Ja, informationen är fritt tillgänglig på Traderas webbplats.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan betalningssätten på Tradera ändras?
+ANSWER: Ja, betalningssätt på Tradera kan ändras från tid till annan beroende på samarbete med betallösningsleverantörer. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilket ansvar har Tradera för säkerheten på sin plattform?
+ANSWER: Tradera strävar efter att upprätthålla god säkerhet och tillgång till sin plattform och tjänster.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka villkor gäller för Traderas betallösning för säljare?
+ANSWER: Villkoren för Traderas betallösning för säljare måste godkännas vid försäljning av ett föremål på plattformen.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om det blir problem med en betalning på Tradera?
+ANSWER: Eventuella problem med betalning ska hanteras mellan köpare och betallösningsleverantören enligt deras villkor.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

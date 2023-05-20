@@ -1,0 +1,39 @@
+QUESTION: Vilka direktiv måste säljare följa när de säljer smycken?
+ANSWER: Säljare måste följa EU-direktiv när de säljer smycken eller smyckestillbehör som innehåller nickel, kadium eller bly.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Vad är tillåtet att sälja på Tradera?
+ANSWER: Motorolja är ett exempel på vad som är tillåtet att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/explosiva-objekt-och-kemikalier/
+
+QUESTION: Hur handlar man på Tradera?
+ANSWER: Informationen om hur man handlar på Tradera finns på deras hemsida.
+URL: https://info.tradera.com/sa-handlar-du-pa-tradera/
+
+QUESTION: Vilka kategorier finns det på Tradera?
+ANSWER: Information om de olika kategorierna som finns på Tradera kan hittas på deras hemsida.
+URL: https://www.tradera.com/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Information om populära varumärken på Tradera kan hittas på deras hemsida.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Det finns information om vad Grön frakt är på Traderas hemsida.
+URL: https://www.tradera.com/
+
+QUESTION: Hur säljer man på Tradera som privatperson?
+ANSWER: Det finns information om hur man säljer på Tradera som privatperson på deras hemsida.
+URL: https://info.tradera.com/salj-som-privatperson/
+
+QUESTION: Hur säljer man på Tradera som företag?
+ANSWER: Det finns information om hur man säljer på Tradera som företag på deras hemsida.
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+ANSWER: Det finns information om hur fraktkalkylatorn fungerar på Traderas hemsida.
+URL: https://www.tradera.com/
+
+QUESTION: Var hittar man information om säkerhet och regler på Tradera?
+ANSWER: Information om säkerhet och regler på Tradera kan hittas på deras hemsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/

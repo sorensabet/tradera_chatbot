@@ -1,0 +1,39 @@
+QUESTION: Vad är en möjlig orsak till att en transaktion ska återbetalas av Säljaren?
+ANSWER: En möjlig orsak till att en transaktion ska återbetalas av Säljaren är om Säljaren och Köparen har kommit överens om det, t.ex. om Köparen har beviljats returrätt av Säljaren eller om Köparen utnyttjat sin lagstadgade ångerrätt och Säljaren är näringsidkare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om Säljaren och Köparen kommer överens om en retur eller prisreducering?
+ANSWER: Om Säljaren och Köparen kommer överens om en retur eller prisreducering ska Säljaren reglera avtalet och återbetala överenskommet belopp upp till 1000 SEK till Köparen, via Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken betalningsmetod måste Säljaren använda vid återbetalning via Traderas betallösning?
+ANSWER: Säljaren måste använda Traderas betallösning vid återbetalning och får inte använda andra betalningsmetoder.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Varför är möjligheten till återbetalning begränsad?
+ANSWER: Möjligheten till återbetalning är begränsad på grund av risken för bedrägerier, därför får Säljaren inte återbetala transaktioner som överstiger 1000 SEK utan Traderas instruktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Säljarens åtaganden i förhållande till köparskydd?
+ANSWER: En Köpare har under vissa förutsättningar ett köparskydd som innebär att Köpare kan få tvister hanterade och få återbetalat det belopp som de har betalat vid en Transaktion. Säljaren har åtaganden gentemot detta köparskydd när hen accepterar Traderas Villkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är köparskydd?
+ANSWER: Köparskydd är ett skydd som innebär att Köpare kan få tvister hanterade och få återbetalat det belopp som de har betalat vid en Transaktion under vissa förutsättningar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket belopp kan Säljaren återbetala till Köparen utan Traderas instruktioner?
+ANSWER: Säljaren kan återbetala avtalat belopp upp till 1000 SEK till Köparen utan Traderas instruktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken betallösning krävs vid återbetalning från Säljaren till Köparen av Tradera?
+ANSWER: Återbetalningen måste ske via Traderas betallösning och inte via andra betalningsmetoder.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Under vilka förutsättningar kan en köpare få tvister hanterade och få återbetalat det betalda beloppet?
+ANSWER: En Köpare kan få tvister hanterade och få återbetalat det betalda beloppet under vissa förutsättningar, när det gäller Köparskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad bör en säljare göra om hen vill återbetala en transaktion som överstiger 1000 SEK?
+ANSWER: Om Säljaren vill återbetala en transaktion som överstiger 1000 SEK, ska hen först kontakta Traderas kundtjänst och följa deras instruktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

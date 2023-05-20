@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av frågor kan en säljare ha kontakt med Tradera angående en transaktion?
+ANSWER: En säljare kan ha kontakt med Tradera för olika frågor som kan uppstå i samband med en Transaktion, oavsett vilket betalsätt en Köpare väljer.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Hur ser Tradera till att utbetalning till en säljare sker?
+ANSWER: När en transaktion har blivit godkänd av Tradera så kommer de att se till att utbetalning till Säljaren sker. Innan utbetalning sker kommer dock eventuella belopp som Säljaren är skyldig att betala till Tradera att dras av och mellanskillnaden kommer att betalas ut till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om en säljare inte har försett Tradera med korrekta betalningsuppgifter?
+ANSWER: Om en säljare inte har försett Tradera med korrekta betalningsuppgifter kan Tradera inte betala Säljaren. I sådant fall kommer Tradera att kontakta Säljaren för att begära den utestående informationen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är en transaktion när det gäller Tradera?
+ANSWER: En transaktion avser en försäljning, köp eller förmedling av varor eller tjänster på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan nya parter läggas till i Traderas betallösning?
+ANSWER: Ja, fler parter kan tillkomma om Tradera väljer att ändra eller vidareutveckla Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka belopp kan Tradera dra av från en säljare och vad kan dessa belopp avse?
+ANSWER: Tradera kan dra av belopp som avser försäljningskostnader, återbetalningsskyldiga belopp och avgifter till Tradera enligt separat avtal mellan säljaren och Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om en transaktion inte godkänns av Tradera?
+ANSWER: Om en transaktion inte godkänns av Tradera kommer inga pengar att dras från köparens konto, ingen betalning kommer att ske och varan kommer att returneras till säljaren om det är möjligt. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av betaltjänster tillhandahåller inte Tradera?
+ANSWER: Betaltjänsterna i sig tillhandahålls inte av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av belopp dras inte av när en utbetalning sker till säljaren?
+ANSWER: Tradera kommer inte dra av eventuella belopp som inte är kopplade till försäljningen av varor eller tjänster, såsom skatt, moms eller andra offentliga avgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket ansvar har en säljare när det gäller att förse Tradera med korrekta betalningsuppgifter? 
+ANSWER: Det är säljarens eget ansvar att förse Tradera med korrekta betalningsuppgifter så att Tradera kan genomföra betalningen till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

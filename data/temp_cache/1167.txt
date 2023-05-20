@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att Tradera granskar Transaktionerna?
+ANSWER: Syftet med att Tradera granskar Transaktionerna är att upptäcka oegentligheter i enlighet med deras Villkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka oegentligheter kollar Tradera efter när de granskar Transaktionerna?
+ANSWER: Tradera kollar efter oegentligheter som penningtvätt, finansiering av terrorism, bedrägeri eller Säljare som agerat i strid mot deras Villkor, Användaravtal eller andra Regler för Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Tradera misstänker att det förekommer oegentligheter i en Transaktion?
+ANSWER: Om Tradera misstänker att det förekommer oegentligheter i en Transaktion, förbehåller de sig rätten att tillse att betalningen inte kommer Säljaren tillhanda utan istället återbetala denna till Köparen eller avvakta med utbetalningen i väntan på att ytterligare åtgärder vidtas.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Säljaren inte har försett Tradera med korrekta betalningsuppgifter?
+ANSWER: Om Säljaren inte har försett Tradera med korrekta betalningsuppgifter kan Tradera inte betala Säljaren. I sådant fall kommer Tradera att kontakta Säljaren för att begära den utestående informationen. När Tradera väl har fått den information som krävs för att genomföra betalning kommer Säljaren som huvudregel att få betalt inom två (2) bankdagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Säljaren har agerat i strid mot Traderas Villkor eller Användaravtal?
+ANSWER: Om Säljaren har agerat i strid mot Traderas Villkor eller Användaravtal, och det upptäcks i en Transaktion, kan Tradera återbetala betalningen till Köparen istället för att låta den gå till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Köparen har erlagt betalning men Säljaren inte har skickat varan?
+ANSWER: Om Köparen har erlagt betalning men Säljaren inte har skickat varan finns det möjlighet att Köparen kan kräva återbetalning av betalningen.
+URL: https://info.tradera.com/sakerhetscenter/kopskyddstradera/
+
+QUESTION: Vad är Köpskyddet som Tradera erbjuder?
+ANSWER: Köpskyddet som Tradera erbjuder ger Köparen möjlighet att få tillbaka pengarna om varan inte motsvarar beskrivningen, om den inte levereras eller om det föreligger något annat problem i samband med köpet.
+URL: https://info.tradera.com/sakerhetscenter/kopskyddstradera/
+
+QUESTION: Vilka varor är inte tillåtna att sälja på Tradera?
+ANSWER: Varor som inte är tillåtna att sälja på Tradera inkluderar bland annat droger, vapen, efterapningar, och varor som bryter mot immaterialrätt.
+URL: https://info.tradera.com/sakerhetscenter/regler-for-saljare/
+
+QUESTION: Hur kan man rapportera en säljare på Tradera?
+ANSWER: Man kan rapportera en säljare på Tradera genom att kontakta Tradera kundtjänst eller genom att klicka på "Anmäl" knappen på säljarens profil.
+URL: https://info.tradera.com/sakerhetscenter/regler-for-saljare/
+
+QUESTION: Måste säljare betala en avgift för att sälja på Tradera?
+ANSWER: Ja, säljare måste betala en avgift för att sälja på Tradera. Avgiften kan variera beroende på vilken typ av annons det gäller.
+URL: https://www.tradera.com/bli-saljare

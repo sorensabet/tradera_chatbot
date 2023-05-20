@@ -1,0 +1,39 @@
+QUESTION: Hur betalar jag för frakt?
+ANSWER: Du betalar för frakten direkt till Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka villkor gäller för frakttjänsten?
+ANSWER: Nordiskt Speditörförbunds Allmänna Bestämmelser och DHL's vid var tid gällande Transportvillkor tillämpas för frakttjänsten. För DHL’s produkter tillämpas därutöver DHL’s vid varje tidpunkt gällande produktspecifika villkor.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad händer om verkliga fraktavgiften överstiger den beräknade fraktavgiften?
+ANSWER: Om den verkliga fraktavgiften överstiger den beräknade fraktavgiften kommer mellanskillnaden att faktureras i efterhand, t.ex. genom att adderas till din nästkommande faktura från Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka betalningsvillkor gäller för frakten?
+ANSWER: Betalning av frakten ska ske i enlighet med betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad innebär det att ingå avtal med Tradera gällande Traderas administration av beställning och information om frakt?
+ANSWER: Genom att beställa frakt för ditt föremål via Traderas webbplats ingår du avtal med Tradera gällande Traderas administration av bl.a. din beställning och information om frakten till köpare av ditt föremål på Traderas webbplats.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka bestämmelser gäller för Traderas administration av frakten?
+ANSWER: För Traderas administration av frakten gäller villkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Använder Tradera DB Schenker som frakttjänst?
+ANSWER: Tradera har en FAQ-sektion för DB Schenker, men informationen i detta stycke gäller DHL. Tradera kan erbjuda flera olika fraktalternativ.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Hur påverkas fraktavgiften om jag fyller i felaktig information om mitt föremål?
+ANSWER: Om du fyller i felaktig information om ditt föremål, t.ex. mått eller vikt, kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad innebär Nordiskt Speditörförbunds Allmänna Bestämmelser?
+ANSWER: Nordiskt Speditörförbunds Allmänna Bestämmelser är villkor som tillämpas för frakttjänster.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Var kan jag hitta mer information om fraktvillkor för DHL?
+ANSWER: DHL har vid var tidpunkt gällande transportvillkor som du godkänner i samband med din beställning av frakttjänsten.
+URL: https://info.tradera.com/fraktvillkor/

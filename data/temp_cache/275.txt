@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's policy on deleting personal data from closed or inactive accounts?
+ANSWER: Personal Data from closed or inactive accounts will be deleted or anonymised as soon as reasonably possibly after the account is closed or deactivated. They may retain Personal Data from closed or inactive accounts if necessary.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How does Tradera determine the duration of keeping Personal Data?
+ANSWER: The duration of keeping Personal Data depends on whether it's in their legitimate business interests and not prohibited by law, or if they're obliged to retain it to meet legal obligations such as compliance with member state legislation, particularly fraud and money laundering prevention, or to otherwise take actions permitted by law.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What are the terms under which Personal Data is retained from closed or inactive accounts?
+ANSWER: Personal Data will be retained from closed or inactive accounts if it is in Tradera's legitimate business interests and not prohibited by law, or if they are obliged to retain the Personal data to meet legal obligations such as compliance with member state legislation, particularly fraud and money laundering prevention, or to otherwise take actions permitted by law.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What are some of the reasons for which Tradera may retain Personal Data from closed or inactive accounts?
+ANSWER: Tradera may retain Personal Data from closed or inactive accounts in order to collect fees owed, resolution of disputes or to enforce the User Agreement, if it is in their legitimate business interests and not prohibited by law, or if they are obliged to retain the Personal data to meet legal obligations such as compliance with member state legislation, particularly fraud and money laundering prevention, or to otherwise take actions permitted by law.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What are the rights that EEA data protection laws provide to users in respect to their Personal Data?
+ANSWER: EEA data protection laws provide users with certain rights in respect of their Personal Data, including the right of access, rectification, restriction, opposition, erasure, and data portability.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What should a user do if they wish to exercise their rights in respect of their Personal Data?
+ANSWER: If a user wishes to exercise their rights in respect of their Personal Data, they should contact Tradera. A photo identity will be required to prove their identity if they wish to complete an access request to all personal data that Tradera holds on them.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How can a user contact Tradera?
+ANSWER: Users may contact Tradera online at any time. If their questions are not answered online, they may write to Tradera at: Tradera Sweden AB, Box 45026 104 30 Stockholm, Sweden. Alternatively, they may reach Tradera's Data Protection Officer at PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What is the right of access in relation to Personal Data?
+ANSWER: The right of access is one of the rights provided by EEA data protection laws. It gives users the right to obtain from Tradera confirmation as to whether or not Personal Data concerning them is being processed, and, where that is the case, access to the Personal Data and certain information about how it is being processed.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What is the right of rectification in relation to Personal Data?
+ANSWER: The right of rectification is one of the rights provided by EEA data protection laws. It gives users the right to obtain from Tradera, the rectification of inaccurate Personal Data concerning them without undue delay.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What is the right of erasure in relation to Personal Data?
+ANSWER: The right of erasure is one of the rights provided by EEA data protection laws. It gives users the right to obtain from Tradera, the erasure of Personal Data concerning them without undue delay, and Tradera will be required to erase the Personal Data without undue delay where one of the grounds specified in EEA data protection laws applies.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

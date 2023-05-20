@@ -1,0 +1,39 @@
+QUESTION: Vad krävs av köparen om det uppstår en tvist kring varan eller transaktionen?
+ANSWER: Köparen är ansvarig för att påvisa att det föreligger fel i den tjänst Säljaren utfört eller den vara som Säljaren har sålt, t.ex. med underlag bevisa att varan skiljer sig från Säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka ytterligare dokument kan Tradera be både köpare och säljare om vid en tvist?
+ANSWER: Tradera kan be bägge parter om underlag, så som ytterligare dokumentation kring varan eller transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur kommer Tradera avsluta en tvist om köpet inte omfattas av Traderas köparskydd?
+ANSWER: Om köparen inleder ett tvistlösningsförfarande där köpet avser en produkt som inte omfattas av Traderas köparskydd så kommer Tradera att avsluta tvisten utan vidare undersökning och köparen kommer inte ha rätt till någon återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad har köparen rätt till om ett tvistlösningsförfarande avslutas till deras fördel?
+ANSWER: Om ett tvistlösningsförfarande avslutas till köparens fördel har köparen rätt till återbetalning av, delar av eller hela, det belopp som köparen har betalat för en vara. Tradera kommer då att tillse att beloppet återbetalas till köparen och förbehåller sig rätten att fakturera säljaren återbetalningsskyldigt belopp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur hanteras en faktura för återbetalningsskyldiga belopp i samband med ett tvistlösningsförfarande?
+ANSWER: Tradera förbehåller sig rätten att fakturera säljaren återbetalningsskyldigt belopp i händelse av ett tvistlösningsförfarande avslutat till köparens fördel. Fakturan skickas till säljaren på samma sätt som Tradera fakturerar för försäljningsprovision och andra kostnader som kan uppkomma i samband med en försäljning på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad kan hända om köparen inleder ett tvistlösningsförfarande för en produkt som inte omfattas av Traderas köparskydd?
+ANSWER: Om köparen inleder ett tvistlösningsförfarande för en produkt som inte omfattas av Traderas köparskydd så avslutar Tradera tvisten utan vidare undersökning och köparen har inte rätt till någon återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken typ av produkter omfattas av Traderas köparskydd?
+ANSWER: Det framgår inte av texten vilken typ av produkter som omfattas av Traderas köparskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är ett tvistlösningsförfarande?
+ANSWER: Texten ger ingen heltäckande förklaring på vad ett tvistlösningsförfarande är, men det är en process som sätts igång när två parter i en affär inte kan enas och söker hjälp från en tredje part (i detta fall, Tradera) för att lösa tvisten.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Har köparen rätt till återbetalning om tvistlösningsförfarandet avslutas till säljarens fördel?
+ANSWER: Om ett tvistlösningsförfarande avslutas till säljarens fördel har köparen inte rätt till återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är säljarens ansvar vid en tvist på Tradera-plattformen?
+ANSWER: Informationen som tillhandahålls ger inte någon information om säljarens specifika ansvar vid en tvist på Tradera-plattformen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

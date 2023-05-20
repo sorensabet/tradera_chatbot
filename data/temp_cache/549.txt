@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftet med Traderas användning av cookies?
+ANSWER: Syftet med Traderas användning av cookies är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats. De delar också information om användning med sina partners.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Kan användarna stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de behövs för att Tradera ska fungera korrekt.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Vilken typ av cookies används för att mäta Traderas prestanda?
+ANSWER: Anonyma cookies används för att mäta Traderas prestanda så att det blir möjligt att förbättra användarupplevelsen.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge användarna utökad funktionalitet och anpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Använder Tradera cookies för marknadsföring?
+ANSWER: Ja, Tradera använder cookies för marknadsföring. Dessa cookies används av deras annonseringspartners för att Visa annonser som är relevanta för användaren.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Vilken typ av inställning kan sparas med funktionella cookies på Tradera?
+ANSWER: Funktionella cookies kan användas för att spara vissa inställningar på Tradera som exempelvis inloggning med Facebook, i syfte att ge en bättre användarupplevelse.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Kan man ändra inställningarna för Traderas cookies?
+ANSWER: Ja, det är möjligt att ändra inställningarna för Traderas cookies. Informationen om att ändra inställningarna finns på deras webbsida.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Varför behöver Tradera information om användning av deras webbplats?
+ANSWER: Information om användningsmönster på Traderas webbplats analyseras av Tradera och deras partners för att förbättra webbplatsens användarupplevelse.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Vad händer om man inte godkänner cookies på Tradera?
+ANSWER: Om man inte godkänner cookies på Tradera så kan det hända att man inte får tillgång till alla funktioner på deras webbsida.
+URL: https://info.tradera.com/en/offensive-items/
+
+QUESTION: Vilken typ av data delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/offensive-items/

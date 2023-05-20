@@ -1,0 +1,39 @@
+QUESTION 1: Which information is shared by Tradera with their partners?
+ANSWER: Tradera shares information about the usage of their website with their partners for social media, advertising, and analysis purposes.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 2: Why does Tradera use cookies?
+ANSWER: Tradera uses cookies to personalize content, advertisements, provide features for social media, and analyze their traffic.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 3: What are necessary cookies used for?
+ANSWER: Necessary cookies are used to ensure that Tradera functions properly and cannot be turned off.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 4: How are performance cookies used by Tradera?
+ANSWER: Performance cookies are used for anonymous measurement of how Tradera is used, allowing for improvements in user experience.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 5: In what ways can Tradera user functionalities be extended?
+ANSWER: Functional cookies can be used to provide extended functionalities and user customization on Tradera, such as saved settings or logging in with Facebook.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 6: What is the purpose of marketing cookies used by Tradera's advertising partners?
+ANSWER: Marketing cookies are used by Tradera's advertising partners to provide targeted ads relevant to the user.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 7: Can necessary cookies be turned off?
+ANSWER: Necessary cookies cannot be turned off as they are essential for Tradera to function properly.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 8: How are cookies used by Tradera for social media functions?
+ANSWER: Cookies are used by Tradera for social media functions such as personalizing content and providing features for social media sharing.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 9: What happens if Tradera's functional cookies are turned off?
+ANSWER: If functional cookies are turned off, some Tradera functionalities, such as saved settings or logging in with Facebook, might not be available.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION 10: What information is analyzed by Tradera using cookies?
+ANSWER: Tradera analyzes their website traffic using cookies to improve the user experience.
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/

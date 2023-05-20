@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Tradera?
+ANSWER: Swish, VISA, Mastercard, Maestro, Apple Pay, Google Pay, PayPal, Paynova eller Klarna är några av de tillgängliga betalningsalternativen på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad händer om en annons inte betalas inom utsatt tid?
+ANSWER: Tradera förbehåller sig rätten att häva köp om en annons inte betalas inom utsatt tid.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka fraktbolag använder Tradera?
+ANSWER: Tradera använder sig av XX och/eller XX (fraktbolag) för spårbart och försäkrat paketskick inom EU.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka möjligheter finns att köpa flera varor på Tradera?
+ANSWER: Tradera erbjuder samfrakt vid köp av flera varor.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur lång tid har man på sig att hämta avhämtade varor? 
+ANSWER: Avhämtning sker senast inom XX dagar enligt överenskommelse på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken typ av betalning accepteras för avhämtning på Tradera? 
+ANSWER: Betalning för avhämtning på Tradera sker via Traderabetalning innan avhämtning.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är Traderas returpolicy? 
+ANSWER: Traderas returpolicy säger att köpare kan återbetala varor inom 14 dagar enligt distansavtalslagen (SFS 2005:59) och att prislapp och andra märkningar ska kvarstå på varan. Returfrakt bekostas av köparen och köpet återbetalas inom 30 dagar.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad ska man göra vid skadade föremål vid leverans på Tradera?
+ANSWER: Om en vara blir skadad vid leverans på Tradera, ska en bild på den skadade varan och emballaget skickas in för att påbörja en reklamation hos speditören.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur kan man nå kundtjänst på Tradera? 
+ANSWER: För att nå kundservice på Tradera kan man kontakta dem via meddelandefunktionen på plattformen. 
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är Onboarding för företag på Tradera?
+ANSWER: Traderas onboarding för företag hjälper till att sälja varor på plattformen, lista stora mängder av objekt och hantera lagerfil, ordern och annan administration.
+URL: https://info.tradera.com/foretag/

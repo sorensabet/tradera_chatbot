@@ -1,0 +1,39 @@
+QUESTION 1: What happens when the Tradera User Agreement is terminated?
+ANSWER: When the Tradera User Agreement is terminated, Tradera has the right to withhold all payments to the Seller until outstanding Transactions have been verified and any suspected abuse of Tradera's payment solution has been investigated.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 2: What happens if a force majeure event prevents the Seller or Buyer from performing their obligations?
+ANSWER: If a force majeure event such as lightning, sabotage, government action, power outage, deterioration of the internet, or other events outside of the respective parties' control prevents the Seller or Buyer from performing their obligations, neither the Buyer, the Seller, nor Tradera shall be liable for the failure to perform a service or delays caused by such events. If the force majeure event lasts for more than 60 days, each party shall be entitled to terminate the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 3: Can Tradera be held liable for failure to perform a service?
+ANSWER: Tradera cannot be held liable for failure to perform a service if the cause is a force majeure event or any other event outside their reasonable control.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 4: Who is responsible for taking measures to limit the damage caused by a force majeure event?
+ANSWER: The party invoking force majeure is obliged to take reasonable measures to limit the damage caused by the event.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 5: What is the Stockholm District Court's role in the settlement of disputes relating to the Terms and Conditions?
+ANSWER: The Stockholm District Court shall be the first instance to settle disputes relating to the Terms and Conditions, in accordance with Swedish law.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 6: How are disputes relating to the Terms and Conditions settled?
+ANSWER: Disputes relating to the Terms and Conditions are settled by the Swedish General Court, where the Stockholm District Court shall be the first instance.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 7: Is there any prior verbal or written representation that governs the Buyer's, the Seller's, or Tradera's agreement with respect to Tradera's payment solution?
+ANSWER: These Terms and Conditions fully govern the Buyer's, the Seller's, or Tradera's agreement with respect to Tradera's payment solution and supersede any prior verbal or written representations and agreements between the parties regarding payment solutions on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 8: Can Tradera's User Agreement be amended?
+ANSWER: Yes, Tradera's User Agreement can be amended, and Tradera's right to do so is set out in Tradera's User Agreement.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 9: Does using Tradera's payment solution require accepting PayPal's Hyperwallet solution?
+ANSWER: Yes, by using Tradera's payment solution, the Seller also accepts the terms and conditions of Tradera's partner PayPal's Hyperwallet solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 10: What factors determine whether Sellers can sell additional goods on Tradera's Platform?
+ANSWER: Sellers' right to sell additional goods on Tradera's Platform is determined by the terms and conditions set forth in Tradera's User Agreement, which Sellers must abide by.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

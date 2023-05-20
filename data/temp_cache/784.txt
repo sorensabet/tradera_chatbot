@@ -1,0 +1,39 @@
+QUESTION: Vilken rekommendation ger Tradera för att skydda säljarens säljarskydd om köparen vill ha produkten levererad till en annan adress än den som anges på Tradera?
+ANSWER: För att säljaren ska ha kvar säljarskyddet behöver hen skicka produkten till den adress som köparen anger på Tradera. Tradera rekommenderar att köparen uppdaterar sin adress på Mitt Tradera innan frakten bokas. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Var kan man hitta tips på hur man packar försändelser?
+ANSWER: På de olika speditörernas hemsidor finns det en mängd tips om hur man packar specifika varor. Det går även att kolla in Traders guide om hur man bäst packar en vara.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilken rekommendation ger Tradera när det gäller att checka vilken speditör som ska användas?
+ANSWER: Tradera rekommenderar att man går in på speditörens webbplats för att vara på den säkra sidan eftersom speditörernas hantering kan skilja sig åt.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad innebär Grön frakt och vad krävs för att en frakt ska anses vara grön enligt Tradera?
+ANSWER: Grön frakt är ett program som syftar till att minska klimatpåverkan från frakter i samarbete med PostNord. För att bli en grön frakt måste fraktföretaget använda ett fordon med låga utsläpp eller på annat sätt bidra till minskad klimatpåverkan.
+URL: https://info.tradera.com/gronfrakt/
+
+QUESTION: Vad är fördelarna med att sälja som företag på Tradera?
+ANSWER: Företagssäljare på Tradera kan skapa en butik med möjlighet att marknadsföra varumärket och produkterna samt använda avancerade verktyg för att öka sin försäljning. Säljaren kan även sälja flera identiska produkter genom att använda sig av bulkhantering.
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Vad är fördelarna med att donera pengarna som man tjänar på försäljning genom Tradera?
+ANSWER: Genom att donera pengarna som man tjänar på försäljning genom Tradera, kan man stödja välgörenhetsorganisationer och hjälpa till att göra en positiv skillnad i samhället. Tradera tar inte ut några avgifter för donationer.
+URL: https://www.tradera.com/donera/#/
+
+QUESTION: Vilka olika kategorier finns det på Tradera?
+ANSWER: Det finns många olika kategorier på Tradera, inklusive kläder och accessoarer, elektronik, sport och fritid, hem och trädgård, samt böcker och tidningar. 
+URL: https://www.tradera.com/
+
+QUESTION: Vad är Mitt Tradera och vad kan man göra med det?
+ANSWER: Mitt Tradera är en personlig sida där användaren kan se sina köp och försäljningar, spara sökningar, skapa listor, följa butiker, och hantera inställningar för meddelanden och bevakningar. 
+URL: https://www.tradera.com/info/mittradera/
+
+QUESTION: Vad är reglerna för att sälja på Tradera som privatperson?
+ANSWER: Som privatperson kan man sälja på Tradera under vissa förutsättningar. Man kan endast sälja egna ägodelar eller varor som man har köpt utan avsikt att sälja vidare. Varorna måste också uppfylla vissa krav och det finns en gräns för hur många annonser som får publiceras per år.
+URL: https://info.tradera.com/salj-sa-saljer-du-som-privatperson/
+
+QUESTION: Vilka olika sociala mediekanaler finns Tradera på?
+ANSWER: Tradera finns på flera olika sociala mediekanaler, inklusive Facebook, Twitter, Instagram och LinkedIn. Genom att följa Tradera på dessa kanaler kan man hålla sig uppdaterad om nyheter och erbjudanden. 
+URL: https://www.tradera.com/info/kontakt/

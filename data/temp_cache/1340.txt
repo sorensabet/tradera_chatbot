@@ -1,0 +1,39 @@
+QUESTION: Under what circumstances can Tradera terminate a business user's use of the Services?
+ANSWER: Tradera can terminate a business user's use of the Services if the termination is caused by a legal or regulatory obligation which requires Tradera to terminate the provision of the whole of its Services to a given business user in a manner which does not allow Tradera to respect that notice period; Tradera exercises a right of termination under an imperative reason pursuant to national law which is in compliance with EU law; or Tradera can demonstrate that the business user concerned has repeatedly infringed the applicable terms and conditions, resulting in the termination of the provision of the whole of the Services in question.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does Tradera provide a statement of reasons if a user's notice period does not apply and their use of the service is terminated?
+ANSWER: Yes, Tradera will provide the business user concerned, without undue delay, with a statement of reasons for their decision to terminate the user's use of the Services if the notice period does not apply.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Is Tradera obligated to provide reasons for a decision to suspend, restrict or terminate a business user's use of the Services?
+ANSWER: Tradera is not obligated to provide reasons for a decision to suspend, restrict or terminate a business user's use of the Services, where Tradera is subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds, or where Tradera can demonstrate that the business user has repeatedly infringed the applicable terms and conditions.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: How does Tradera determine its fees?
+ANSWER: Tradera lists the fees it charges for using its Services on its price list for individuals and business users. Tradera may change its fees from time to time by posting the changes on the Tradera site or send the information by e-mail 30 days in advance.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What happens if a user continues to use Tradera's Services after new fees are implemented?
+ANSWER: If a user continues to use Tradera's Services after new fees take effect, they accept the new fees.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Are users required to follow Tradera's invoicing procedures and payment terms?
+ANSWER: Yes, by using Tradera's Services, users accept Tradera's invoicing procedures and payment terms, which are set out in their Invoicing & Payment Policy.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: How does Tradera make invoices available to users?
+ANSWER: Tradera makes invoices available to users through their Services, and they may send electronic invoices to users by e-mail.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What conditions must be met when listing an item on Tradera?
+ANSWER: Conditions for listing an item on Tradera are not provided in the context.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are Tradera's terms and conditions for payments?
+ANSWER: Tradera's terms and conditions for payments depend on whether the customers reside in Sweden or are companies and customers residing abroad.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the purpose of Tradera's User Agreement?
+ANSWER: The purpose of Tradera's User Agreement is not provided in the context.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

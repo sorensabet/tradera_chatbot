@@ -1,0 +1,39 @@
+QUESTION 1: What is the maximum number of identical listings that sellers are allowed to have on Tradera?
+ANSWER: Sellers are allowed to have a maximum of five identical listings active, except for store listings which are limited to one identical listing since they have an inventory.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 2: How does the restriction on the number of identical items help maintain fair competition and a good buyer experience?
+ANSWER: The rule for limiting the number of identical items helps to prohibit one seller from monopolizing a category and spamming similar listings, therefore, maintaining fair competition and a good buyer experience.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 3: Does the limit for identical items apply to all types of items?
+ANSWER: The limit for identical items only applies to identical items. If you have several sizes of the same t-shirt, they can be listed as individual listings. 
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 4: What is the advantage of having a store if you plan on selling many similar items?
+ANSWER: If you plan on selling many similar items, having a store might be the right choice for you. That way, you can have one listing with several items.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 5: Are there any exceptions to the rule of limiting the number of identical items?
+ANSWER: During charity campaigns, some exceptions to the rule might be allowed, but only when approved by Tradera.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 6: What are some examples of prohibited listings under the rule for limiting the number of identical items?
+ANSWER: Examples of prohibited listings include 10 listings with identical cellphone cases, 10 identical iPhone cases as auctions or fixed-price listings, or five identical iPhone cases as auctions and five more listed as fixed-price listings.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 7: What are some examples of allowed listings under the rule for limiting the number of identical items?
+ANSWER: Examples of allowed listings include five white cellphone cases as auction or fixed-price listings and five green cellphone cases as auction or fixed-price listings.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 8: What is the difference between allowed and prohibited store listings under the rule for limiting the number of identical items?
+ANSWER: Allowed store listings include one listing each for a green shirt size S, M, and L, while prohibited store listings include two identical cellphone cases.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 9: What is the reason behind the rule to limit the number of identical items on Tradera?
+ANSWER: The main reason for the rule is to prohibit one seller from monopolizing a category by spamming similar listings, which helps maintain fair competition and a good buyer experience.
+URL: https://info.tradera.com/en/limit-for-identical-items/
+
+QUESTION 10: Can a seller list an unlimited number of items on Tradera?
+ANSWER: There is no mention of an unlimited number of items in the context. However, sellers are allowed to have a maximum of five identical listings active, except for store listings which are limited to one identical listing since they have an inventory.
+URL: https://info.tradera.com/en/limit-for-identical-items/

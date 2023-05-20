@@ -1,0 +1,39 @@
+QUESTION: What is the Tradera VeRO Program?
+ANSWER: The Tradera VeRO Program is a program that allows law enforcement or intellectual property rights owners to report potentially infringing content on Tradera. If Tradera confirms that the content in question violates intellectual property rights, the content becomes blocked or deleted. Tradera VeRO Program participants may be given information such as name, personal identification number, street address, city, state, provincial postal code, country, phone number, email address, and company name.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Will late payments or missed payments be reflected on a user's credit report?
+ANSWER: Yes, if you have late payments, missed payments, or any defaults on your account, this information may be reflected in your credit report, as allowed by applicable law.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What happens to a user's Personal Data if Tradera merges with another business entity?
+ANSWER: If Tradera merges with or is acquired by another business entity, the new entity will be required to follow the same Privacy Statement with respect to the user's Personal Data. 
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What information is associated with a user's Tradera User ID?
+ANSWER: A user's Tradera User ID is associated with all of their activity on Tradera, including bids, purchases, items for sale, storefronts, feedback, ratings, and associated comments.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What is included in the Personal Data that may be disclosed if a user engages in activity that may expose them to legal liability?
+ANSWER: If a user engages in activity that may expose them, Tradera, or any other Tradera user to legal liability, information relevant and necessary to the investigation or inquiry may be disclosed. This information may include name, personal identification number, city, state or province, provincial postal code, telephone number, email address, User ID history, IP address, fraud complaints, bidding and listing history. 
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What is the purpose of disclosing Personal Data during an investigation or inquiry?
+ANSWER: Personal Data may be disclosed during an investigation or inquiry to enable the investigation or inquiry to take place and comply with applicable laws.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Who can see a user's profile information on Tradera?
+ANSWER: Other users on Tradera can see any information a user chose to share in their profile.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What personal information may be disclosed if Tradera receives fraudulent complaints?
+ANSWER: If Tradera receives fraudulent complaints, they may disclose information such as name, personal identification number, city, state or province, provincial postal code, telephone number, email address, User ID history, IP address, fraud complaints, bidding and listing history.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Will a user receive notification if their Personal Data is going to be used or disclosed for new purposes not stated in the Privacy Statement?
+ANSWER: Yes, if a user's Personal Data is going to be used or disclosed for any new purposes not stated in the Privacy Statement, they will receive prior notification. If applicable, Tradera will also request the user's consent.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What information may be disclosed to credit bureaus by Tradera?
+ANSWER: If a user has information on late payments, missed payments, or other defaults on their account, Tradera may report this information to credit bureaus, as allowed by applicable law.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

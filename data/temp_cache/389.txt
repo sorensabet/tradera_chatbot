@@ -1,0 +1,39 @@
+QUESTION: Hvordan håndterer Tradera overtrædelser af reglerne? 
+ANSWER: Tradera fjerner annoncer, der overtræder reglerne, og sender kun en advarsel til brugere, der overtræder reglerne for første gang. Konti bliver kun suspenderet, hvis reglerne gentagne gange er blevet overtrådt. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvorfor er det forbudt at sælge forfalskede varer? 
+ANSWER: Salg af forfalskede varer er ulovligt i Sverige og er derfor forbudt på Tradera. Dette inkluderer kopier af software, film, tøjmærker, tasker og tilbehør. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvad kan jeg gøre for at bevise, at min vare er ægte? 
+ANSWER: Det anbefales at tilføje et billede af enten kvitteringen eller mærket for at bevise, at varen er ægte. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvorfor forbyder Tradera salg af eksplosive og brændbare varer? 
+ANSWER: Forsendelsesleverandørerne tillader ikke forsendelse af eksplosive og brændbare varer. Der er specifikke tilladelser og forsendelsesforhold, der kræves, for at sende disse varer. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Er det tilladt at sende tændstikæsker som samleobjekter? 
+ANSWER: Ja, men det er vigtigt at tydeliggøre, at selve tændstikkerne ikke er inkluderet i æsken. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvorfor er betalings- og forsendelsesmetoder vigtige? 
+ANSWER: Betalings- og forsendelsesmetoder er vigtige for at sikre en smidig transaktion mellem køber og sælger. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Er der nogen restriktioner på betalings- og forsendelsesmetoder på Tradera? 
+ANSWER: Der er ingen restriktioner på betalings- og forsendelsesmetoder på Tradera, men det anbefales at bruge sikre og pålidelige metoder. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvilke varer er tilladt at sælge på Tradera? 
+ANSWER: De fleste varer er tilladt at sælge på Tradera, undtagen forfalskede varer og eksplosive og brændbare varer. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Kan jeg sælge kopier af bøger og musik på Tradera? 
+ANSWER: Nej, det er forbudt at sælge piratkopier af bøger og musik på Tradera. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvorfor kan billederne i en annonce ikke altid verificere, om det er en ægte vare? 
+ANSWER: Billederne i en annonce viser ikke altid alle detaljer, der kan bekræfte autenticiteten af varen, som f.eks. kvittering eller mærke. 
+URL: https://info.tradera.com/da/nedstangd-annons/

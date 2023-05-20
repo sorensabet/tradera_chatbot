@@ -1,0 +1,39 @@
+QUESTION 1: What is the responsibility of Tradera regarding the privacy statements of third-party websites?
+\ANSWER: Tradera is not responsible for the operations and information practices of third-party websites, including their privacy statements. Users submitting information to or through these third-party websites should review their privacy statements before providing them with Personal Data.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 2: What is the duration of notice given before amending the Privacy Statement by Tradera?
+\ANSWER: Tradera provides existing users with 30 days advance notice before amending the Privacy Statement.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 3: What is considered Personal Data by Tradera?
+\ANSWER: Personal Data includes the information that is collected by Tradera in order to provide access and use of its sites, tools, applications, services for advertising purposes, which is agreed to be shared by users when registered with Tradera.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 4: Who is responsible for the processing of Personal Data and service delivery as per the User Agreement of Tradera?
+\ANSWER: Tradera Sweden AB, located at Sankt Eriksgatan 117, 113 43 Stockholm, Sweden is the data controller responsible for the processing of Personal Data and service delivery as per the User Agreement of Tradera.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 5: Can Tradera make changes to its Privacy Statement?
+\ANSWER: Yes, Tradera has the right to make changes to its Privacy Statement, and it will provide existing users with advance notice of 30 days before making any amendments. Any changes will be posted on the Tradera website, and material changes will be notified via email to users.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 6: What type of information does Tradera automatically collect?
+\ANSWER: Tradera automatically collects information sent by a user's computer, mobile device or any other access device when they visit the Tradera website, use its applications services and tools or interact with advertising and content. This information is associated with the user's personal ID and includes device ID, geo-location, device type, computer, and connection information along with statistics on page views and traffic to the site.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 7: What does Personal Data include?
+\ANSWER: Personal Data includes the information that is collected by Tradera in order to provide users with the use of and access to its sites, applications, services and tools. This information is used to provide personalized and improved experiences to users along with advertising purposes.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 8: How is the Personal Data of the registered users on Tradera used?
+\ANSWER: The Personal Data of the registered users on Tradera is used to provide access and use of its sites, tools, applications, services for advertising purposes, which is agreed to be shared by users. Tradera also collects this information to help provide personalized and improved experiences to users.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 9: Where is the Personal Data of users stored by Tradera?
+\ANSWER: The Personal Data of the users that is shared and agreed to by them when registered with Tradera is stored on the servers of Tradera located in Sweden or elsewhere in the world, such as in the United States.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 10: What is the purpose of collecting Personal Data by Tradera?
+\ANSWER: The purpose of collecting Personal Data by Tradera is to provide users with access and use of its sites, tools, applications, services for advertising purposes, and to help provide personalized and improved experiences to users.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

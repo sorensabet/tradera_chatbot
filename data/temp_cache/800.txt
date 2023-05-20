@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats.
+URL: https://info.tradera.com/en/
+
+QUESTION 2: Vilka är de olika kategorierna av cookies som används på Tradera?
+ANSWER: Det finns fyra olika kategorier av cookies som används på Tradera: nödvändiga, prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/en/
+
+QUESTION 3: Är det möjligt att stänga av de nödvändiga cookies som används på Tradera?
+ANSWER: Nej, det är inte möjligt att stänga av de nödvändiga cookies som används på Tradera eftersom de är nödvändiga för att Tradera ska fungera.
+URL: https://info.tradera.com/en/
+
+QUESTION 4: Vad används prestandacookies för på Tradera?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/
+
+QUESTION 5: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används på Tradera för utökad funktionalitet och användaranpassning, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/
+
+QUESTION 6: Vilka cookies används för marknadsföring på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/en/
+
+QUESTION 7: Kan man ändra inställningarna för cookies på Tradera?
+ANSWER: Ja, man kan ändra inställningarna för cookies på Tradera. Genom att klicka på "Ändra inställningar" kan användaren välja vilka cookies som ska tillåtas.
+URL: https://info.tradera.com/en/
+
+QUESTION 8: Vad händer om man inte godkänner cookies på Tradera?
+ANSWER: Om man inte godkänner cookies på Tradera kan viss funktionalitet på webbplatsen vara begränsad och vissa tjänster kanske inte fungerar.
+URL: https://info.tradera.com/en/
+
+QUESTION 9: Vilka information delar Tradera med sina partners genom användningen av cookies?
+ANSWER: Tradera delar information om användarens användning av webbplatsen med sina partners för sociala medier, annonsering och analys genom användningen av cookies.
+URL: https://info.tradera.com/en/
+
+QUESTION 10: Var kan man lära sig mer om cookies på Tradera?
+ANSWER: Man kan lära sig mer om cookies på Tradera genom att klicka på länken "Läs mer" under rubriken "Vad är detta?" på Traderas cookie-informationssida.
+URL: https://info.tradera.com/en/

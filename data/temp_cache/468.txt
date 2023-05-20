@@ -1,0 +1,39 @@
+QUESTION: Where can I find a list of DHL vendors?
+ANSWER: You can find a list of DHL vendors on the information page for DHL on the Tradera website.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How can I track my parcel?
+ANSWER: You can track your parcel through My Tradera and you don't need to save your tracking number as the tracking is already saved.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How long does it usually take for a package to be delivered?
+ANSWER: Packages are usually delivered within 2-3 work days. However, factors such as the time the parcel was sent and the location of both the buyer and the seller can affect the delivery time by 1-2 days.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How can I contact Tradera about shipping through DHL?
+ANSWER: You can navigate to the "Contact us" page on the Tradera website to get in touch with their customer service team regarding shipping through DHL.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Does DHL offer any other shipping options besides their standard delivery service?
+ANSWER: The information page for DHL on the Tradera website does not mention any other shipping options besides their standard delivery service.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How can I see an overview of items that I have sold using DHL shipping on Tradera?
+ANSWER: You can see an overview of your sold items on My Tradera as well as tracking information for any items that were shipped using DHL.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Are there any additional fees or charges when using DHL shipping through Tradera?
+ANSWER: The information page on the Tradera website does not mention any additional fees or charges when using DHL shipping.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Does DHL offer international shipping?
+ANSWER: There is no information on the Tradera website's DHL information page that specifically mentions international shipping.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Can packages shipped through DHL be delivered on weekends?
+ANSWER: There is no information on the Tradera website's DHL information page that mentions weekend deliveries.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Can I use DHL shipping if I live outside of the Nordic region?
+ANSWER: The information page on the Tradera website's DHL information page does not specify any restrictions on the use of DHL shipping based on location.
+URL: https://info.tradera.com/en/dhl/

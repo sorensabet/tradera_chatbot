@@ -1,0 +1,39 @@
+QUESTION: Vilka föremål är tillåtna att sälja på Tradera?
+ANSWER: According to the given information, GPS devices and pagers are allowed to be sold on Tradera. Additionally, electronic appliances such as USB-memory and memory cards as long as the capacity is specified and correct; iPhones as long as they are not iCloud locked; and laser-pointers with a maximum effect of less than 1mW, are also allowed. 
+URL: https://info.tradera.com/en/electronic-appliances/
+
+QUESTION: Vilken information måste finnas i listor som innehåller laserpekare? 
+ANSWER: According to the given information, listings of laser-pointers must contain the strength/effect and laser classification.
+URL: https://info.tradera.com/en/electronic-appliances/
+
+QUESTION: Vilken frekvens används av sändare som tillåts säljas på Tradera? 
+ANSWER: The given information specifies that the allowed transmitters must have a frequency between 87.5-108 MHz and a maximum broadcast effect of 50 nW. 
+URL: https://info.tradera.com/en/electronic-appliances/
+
+QUESTION: Vilken information behöver anges i en lista för att sälja en iPhone på Tradera? 
+ANSWER: According to the given information, an iPhone can be sold on Tradera as long as it is not iCloud locked, which must be apparent in the listing.
+URL: https://info.tradera.com/en/electronic-appliances/
+
+QUESTION: Kan man sälja USB-minnen eller minneskort på Tradera? 
+ANSWER: Yes, USB-memory and memory cards are allowed to be sold on Tradera according to the given information, as long as the capacity is specified and correct.
+URL: https://info.tradera.com/en/electronic-appliances/
+
+QUESTION: Vad är tillåtna märken att sälja på Tradera? 
+ANSWER: The given information does not provide a specific list of allowed brands to sell on Tradera. However, the website offers popular brand categories to explore, suggesting that there might not be any specific restrictions on the brands to be sold on the platform.
+URL: https://info.tradera.com/en/electronic-appliances/
+
+QUESTION: Kan man sälja varor på Tradera som privat säljare?
+ANSWER: Yes, according to the given information, it is possible to sell items as a private seller on Tradera. 
+URL: https://info.tradera.com/en/how-to-sell-on-tradera/
+
+QUESTION: Kan man sälja varor på Tradera som företagare? 
+ANSWER: Yes, according to the given information, business owners can sell items on Tradera. The platform offers two seller account types to choose from: private seller or business seller. 
+URL: https://info.tradera.com/en/how-to-sell-on-tradera/
+
+QUESTION: Finns det en funktion på Tradera som hjälper till att beräkna fraktkostnader? 
+ANSWER: According to the given information, there is a shipping calculator available on Tradera to help sellers calculate shipping costs for their items. 
+URL: https://info.tradera.com/en/how-to-sell-on-tradera/
+
+QUESTION: Var kan man hitta svar på frågor om Tradera?
+ANSWER: According to the given information, there is an FAQ section and a contact page on Tradera's website where users can find answers to their questions or contact customer support for assistance. 
+URL: https://info.tradera.com/en/contact-help/

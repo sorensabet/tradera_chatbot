@@ -1,0 +1,39 @@
+QUESTION: Vilka ansvarar för åtgärder som vidtas genom användning av säljarens unika inloggning till Tradera?
+ANSWER: Enligt punkt 13a i villkoren ansvarar säljaren för alla åtgärder som vidtas genom användning av dennes unika inloggning till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om misstänkt missbruk av Traderas kassalösning eller utbetalningslösning har utretts vid avslutande av villkoren?
+ANSWER: Enligt punkt 13b i villkoren har Tradera vid avslutande av villkoren rätt att innehålla all utbetalning till säljaren tills Tradera har verifierat antalet utestående transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas kassalösning eller Traderas utbetalningslösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur länge gäller force majeure-händelser enligt villkoren?
+ANSWER: Force majeure-händelser gäller enligt punkt 13c i villkoren så länge sådana händelser varar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är skyldiga att följa Traderas Användaravtal?
+ANSWER: Enligt punkt 13b i villkoren är det säljaren som är skyldig att följa Traderas Användaravtal och om denne inte följer avtalet kan villkoren upphöra att gälla för säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om Tradera säger upp Traderas Användaravtal eller förvägrar säljaren att sälja ytterligare varor på Traderas plattform enligt de villkor som framgår av Traderas Användaravtal?
+ANSWER: Om Tradera säger upp Traderas användaravtal eller förvägrar säljaren att sälja ytterligare varor på Traderas plattform enligt de villkor som framgår av Traderas Användaravtal, upphör villkoren att gälla för säljaren, utan skyldighet för Tradera till återbetalning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem ansvarar självständigt för personuppgifter inom ramen för tjänsten Hyperwallet?
+ANSWER: Enligt texten ansvarar PayPal självständigt för personuppgifter inom ramen för tjänsten Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad gäller Integritetspolicy för personuppgifter som Tradera hanterar i samband med dessa Villkor?
+ANSWER: Integritetspolicyn som Tradera tillämpar gäller även för personuppgifter som Tradera hanterar i samband med dessa villkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka händelser kan leda till försenad prestation som ett rimligt hinder?
+ANSWER: Enligt punkt 13c i villkoren kan ett rimligt hinder för prestation vara blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation, eller någon annan händelse utom partens rimliga kontroll.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem hålls ansvarig vid en force majeure-händelse?
+ANSWER: Enligt punkt 13c i villkoren ska varken köpare, säljare eller Tradera hållas ansvarig för utebliven eller försenad prestation som en följd av en force majeure-händelse, om händelsen ligger utanför partens rimliga kontroll.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Var ska personuppgifter som Tradera hanterar i dessa Villkor också hanteras?
+ANSWER: Enligt texten kommer personuppgifter som Tradera hanterar i dessa Villkor också hanteras självständigt av PayPal inom ramen för tjänsten Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

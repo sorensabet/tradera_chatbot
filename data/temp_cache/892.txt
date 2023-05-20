@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika fallen när Tradera har rätt att hålla eller återkräva betalning från en säljare?
+ANSWER: Tradera har rätt att hålla eller återkräva betalning från en säljare i följande fall: a) tvistlösningssystem där Tradera anser att köparen har rätt, b) transaktioner som resulterar i en fordran mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med säljaren, c) misstänksamma transaktioner, d) transaktioner som bryter mot gällande lag, e) transaktioner där köparen förvärvar kontanter, f) transaktioner där säljaren inte har följt villkor för Traderas vid var tid gällande säljarskydd, g) transaktioner som strider mot villkoren, Traderas Användaravtal eller Regler för säljare, och h) transaktioner där köparen använder sin lagstadgade ångerrätt gentemot en säljare som bedriver näringsverksamhet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket system använder Tradera för att lösa tvister där köparen har rätt?
+ANSWER: Tradera använder sitt eget tvistlösningssystem för att lösa tvister där köparen har rätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka är några misstänksamma transaktioner som Tradera bryr sig om?
+ANSWER: Tradera bryr sig om transaktioner som skäligen kan misstänkas utgöra penningtvätt eller på annat sätt vara i strid med tillämpliga lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: När kan Tradera kräva att en säljare återbetalar Tradera för en transaktion?
+ANSWER: Tradera kan kräva att säljaren betalar tillbaka återbetalningsskyldigt belopp till Tradera om säljaren bryter mot gällande lagar, om säljaren inte har följt villkor för Traderas vid var tid gällande säljarskydd, eller om transaktionen strider mot villkoren, Traderas Användaravtal eller Regler för säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken sorts transaktioner resulterar i en fordran mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med säljaren?
+ANSWER: Transaktioner som resulterar i en fordran mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med säljaren kan resultera i att Tradera håller eller återkräver betalning från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om en säljare inte följer villkor för Traderas vid var tid gällande säljarskydd?
+ANSWER: Om en säljare inte följer villkor för Traderas vid var tid gällande säljarskydd så kan Tradera kräva att säljaren betalar återbetalningsskyldigt belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad inkluderar trasactioner som strider mot villkoren för Tradera?
+ANSWER: Transaktioner som strider mot villkoren för Tradera inkluderar även de som strider mot användaravtalet eller reglerna för säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan en köpare ångra en transaktion gentemot en säljare som bedriver näringsverksamhet?
+ANSWER: En köpare kan ångra en transaktion gentemot en säljare som bedriver näringsverksamhet och i så fall kan Tradera kräva att säljaren betalar återbetalningsskyldigt belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan en köpare förvärva kontanter genom en transaktion på Tradera?
+ANSWER: Ja, en köpare kan förvärva kontanter (t.ex. valutaväxling, en check eller liknande) genom en transaktion på Tradera, och därför kan Tradera hålla eller återkräva betalning från säljaren i sådana transaktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om en säljare bryter mot gällande lag?
+ANSWER: Om en säljare bryter mot gällande lag så kan Tradera kräva att säljaren betalar återbetalningsskyldigt belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

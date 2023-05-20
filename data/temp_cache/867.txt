@@ -1,0 +1,39 @@
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är en nordisk e-handelsplats som säljer allt från dekorationer till samlarobjekt.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: På Tradera finns kategorierna dekorationer, presentkorgar med oöppnade förpackningar, samlarobjekt som gamla Pez-dispensers även om bäst före-datumet har passerat, populära varumärken och mer.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Kan jag sälja som privatperson på Tradera?
+ANSWER: Ja, du kan sälja både som privatperson och som företag på Tradera.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Populära varumärken på Tradera inkluderar bland annat H&M, Ikea, Marimekko, och Fjällräven.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Kan jag sälja varor för välgörenhet på Tradera?
+ANSWER: Ja, du kan sälja varor för välgörenhet på Tradera.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Vilka säkerhetsregler finns det på Tradera?
+ANSWER: På Tradera finns det säkerhetsregler som inkluderar verifiering av identitet, bedömning av utfärdarens betyg och hantering av betalningar via Traderas plattform.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Vad är Traderas sekretesspolicy?
+ANSWER: Traderas sekretesspolicy beskriver hur Tradera samlar in, använder och skyddar din personliga information som användare på deras plattform.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Vilka betalningsalternativ finns på Tradera?
+ANSWER: På Tradera finns det flera betalningsalternativ, inklusive kortbetalning, direktbetalning via bank, fakturering och Paypal.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Kan jag sälja som företag på Tradera?
+ANSWER: Ja, företag kan sälja på Tradera.
+URL: https://info.tradera.com/en/food/
+
+QUESTION: Hur kan jag få hjälp om jag har problem med min order på Tradera?
+ANSWER: Du kan kontakta Traderas kundtjänst om du har problem med en order på Tradera.
+URL: https://info.tradera.com/en/food/

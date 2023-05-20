@@ -1,0 +1,49 @@
+QUESTION 1:
+Vilken information kan jag hitta på Traderas sida om Vanliga frågor och svar?
+ANSWER: På Traderas sida om Vanliga frågor och svar kan du hitta information om allt från att skapa ett konto till leveranser och betalningar.
+URL: https://info.tradera.com/vanliga-fragor-och-svar/
+
+QUESTION 2:
+Vilka försändelsealternativ erbjuder Tradera för frakt?
+ANSWER: Tradera erbjuder flera olika försändelsealternativ för frakt, bland annat DHL, Postnord och Schenker.
+URL: https://info.tradera.com/frakt/
+
+QUESTION 3:
+Kan jag sälja som företag på Tradera?
+ANSWER: Ja, du kan sälja som företag på Tradera. Tradera har en speciell sida för att sälja som företag där de beskriver vad som krävs för att sälja som företag på deras plattform.
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION 4:
+Hur kan jag kontakta Traderas kundtjänst?
+ANSWER: Du kan kontakta Traderas kundtjänst genom att fylla i ett formulär på deras Kontakt & Hjälp sida eller genom att ringa deras kundtjänstnummer.
+URL: https://www.tradera.com/help
+
+QUESTION 5:
+Vad är ärken Inspiration och vad kan jag hitta där?
+ANSWER: Ärken Inspiration är en sida på Tradera som visar olika inredningsstilar och ger inspiration för att hitta rätt inredning. På sidan kan du hitta tips och råd om hur du kan inreda ditt hem på ett modernt och personligt sätt.
+URL: https://www.tradera.com/arcken-inspiration
+
+QUESTION 6:
+Vilka betalningsmetoder kan jag använda för att betala på Tradera?
+ANSWER: Du kan betala på Tradera med hjälp av flera olika betalningsmetoder, bland annat Klarna, Swish och kortbetalning.
+URL: https://info.tradera.com/betala/
+
+QUESTION 7:
+Vad är Traderas Fraktkalkylatorn och hur fungerar den?
+ANSWER: Traderas Fraktkalkylatorn är en funktion som hjälper dig att beräkna fraktkostnader för dina försändelser. Genom att ange vikt och mått på paketet kan du få en uppskattning av fraktkostnaderna från olika leverantörer.
+URL: https://frakt.tradera.com/
+
+QUESTION 8:
+Kan jag donera pengar till välgörenhet genom Tradera?
+ANSWER: Ja, du kan donera pengar till välgörenhet genom Traderas sida för Donationer. Du kan välja vilken organisation du vill stödja och donera en del av ditt köpbelopp till den valda organisationen.
+URL: https://www.tradera.com/shop/donationer
+
+QUESTION 9:
+Vad är Traderas Integritetspolicy och var kan jag hitta den?
+ANSWER: Traderas Integritetspolicy beskriver hur de samlar in och använder din personliga information, samt dina rättigheter vad gäller din personliga information. Du kan hitta Traderas Integritetspolicy på deras sida om Information.
+URL: https://www.tradera.com/help/privacy-policy
+
+QUESTION 10:
+Hur kan jag söka efter produkter på Tradera?
+ANSWER: Du kan söka efter produkter på Tradera genom att använda sökfältet på deras hemsida. Du kan också använda olika filter för att specificera din sökning, till exempel efter kategori eller pris.
+URL: https://www.tradera.com/

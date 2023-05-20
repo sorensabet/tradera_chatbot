@@ -1,0 +1,39 @@
+QUESTION: Vad innebär Traderas köparskydd?
+ANSWER: Traderas köparskydd skyddar köparen vid transaktioner genom att ge möjlighet till tvistlösning och maximalt återbetalningsbart belopp på 50 000 SEK under vissa förutsättningar. Det inkluderar betalningen genom Paynovas, PayPals eller Klarnas försorg och genom extra avgift vid betalning med kort, Google Pay, Apple Pay eller Swish. Säljaren är förpliktigad att uppfylla kraven som följer av köparskyddet oavsett betalsättet som valts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka betalningsmöjligheter finns på Traderas plattform?
+ANSWER: På Traderas plattform kan man betala genom Paynovas, PayPals eller Klarnas försorg, med kort, Google Pay, Apple Pay, Swish eller genom Traderas köparskydd mot extra avgift.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket är det högsta återbetalningsbara beloppet inom ramen för köparskyddet?
+ANSWER: Det högsta återbetalningsbara beloppet inom ramen för Traderas köparskydd är 50 000 SEK.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka typer av köp omfattas aldrig av Traderas köparskydd?
+ANSWER: Vissa typer av köp omfattas aldrig av Traderas köparskydd, såsom köp av fastigheter, fordon (utom privata bärbara, lätta fordon som används i rekreationssyfte) och anbud.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Ingår köparskyddet vid betalning med Swish?
+ANSWER: Vid betalning med Swish kan köparen köpa Traderas köparskydd mot extra avgift.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad gör man om det uppstår tvist efter en transaktion?
+ANSWER: Om det uppstår en tvist efter en transaktion ska säljaren kontaktas först. Om säljaren inte svarar eller om man inte kan komma överens, kan man kontakta Traderas kundtjänst för att få hjälp med att lösa tvisten.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Gäller Traderas köparskydd alla köp på plattformen?
+ANSWER: Nej, Traderas köparskydd gäller inte alla köp på plattformen. Vissa typer av köp, såsom köp av fastigheter och fordon, omfattas aldrig av köparskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan man använda Traderas köparskydd vid betalning med Apple Pay?
+ANSWER: Ja, köparen kan välja att använda Traderas köparskydd mot extra avgift vid betalning med Apple Pay.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kommer extra avgift vid betalning med Traderas köparskydd att presenteras för köparen innan betalning?
+ANSWER: Ja, om extra avgift vid betalning med Traderas köparskydd finns kommer det att presenteras för köparen innan betalning görs.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad förpliktigar säljaren att göra i förhållande till köparskyddet?
+ANSWER: Säljaren är förpliktigad att uppfylla köparskyddets krav oavsett vilket betalsätt som köparen valt att använda.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

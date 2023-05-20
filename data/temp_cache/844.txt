@@ -1,0 +1,39 @@
+QUESTION: Vilken rätt ska gälla för alla krav och tvister enligt Användaravtalet?
+ANSWER: Enligt Användaravtalet ska svensk rätt gälla för alla krav, tvister eller andra frågor som uppkommer.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är Traderas interna system för hantering av klagomål?
+ANSWER: Användaravtalet säger att eventuella klagomål ska lösas genom Traderas interna system för hantering av klagomål.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilken allmän domstol ska avgöra tvister, och vad är första instansen för kunder som inte är konsumenter?
+ANSWER: Enligt Användaravtalet ska svensk allmän domstol avgöra tvister, och för kunder som inte är konsumenter är Stockholms tingsrätt första instans.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om en bestämmelse i Användaravtalet anses ogiltig?
+ANSWER: Om någon bestämmelse i Användaravtalet (eller del därav) är ogiltig, så ska den anses struken och övriga bestämmelser i Användaravtalet ska fortsätta att gälla.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Har Tradera rätt att överlåta sina rättigheter och skyldigheter enligt Användaravtalet?
+ANSWER: Enligt Användaravtalet har Tradera rätt att överlåta sina rättigheter och skyldigheter enligt avtalet utan att i förväg inhämta användarens uttryckliga samtycke, förutsatt att Tradera överlåter avtalet på samma villkor eller villkor som inte är mindre förmånliga för användaren.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Påverkar rubrikerna i Användaravtalet innehållet i respektive bestämmelse?
+ANSWER: Rubrikerna i Användaravtalet är införda enbart i redaktionellt syfte och ska inte påverka eller begränsa innehållet i respektive bestämmelse.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om Tradera avstår från att vidta åtgärder vid ett avtalsbrott?
+ANSWER: Om Tradera avstår från att vidta åtgärder vid ett avtalsbrott ska det inte innebära att Tradera avstår från sina rättigheter att vidta åtgärder med anledning av andra eller liknande avtalsbrott.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilken typ av frågor omfattas av Användaravtalet?
+ANSWER: Användaravtalet gäller för alla krav, tvister eller andra frågor som uppkommer med anledning av Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Gäller Användaravtalet även för kunder som inte är konsumenter?
+ANSWER: Ja, Användaravtalet gäller för alla kunder, även de som inte är konsumenter.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om en kund begår avtalsbrott enligt Användaravtalet?
+ANSWER: Om en kund begår avtalsbrott enligt Användaravtalet kan Tradera vidta åtgärder med anledning av detta, även om Tradera avstår från att vidta åtgärder om andra eller liknande avtalsbrott begås.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

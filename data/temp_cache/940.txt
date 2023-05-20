@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 2: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på webbplatsen.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 3: Kan man stänga av nödvändiga cookies på Traderas webbplats?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av för att Traderas webbplats ska fungera.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 4: Vad är syftet med prestandacookies på Tradera?
+ANSWER: Prestandacookies används för att mäta anonymt hur Traderas webbplats används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 5: Kan användare anpassa inställningar på Tradera?
+ANSWER: Ja, användare kan anpassa inställningar för funktionella cookies på Tradera för utökad funktionalitet och användaranpassning, såsom vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 6: Vilken typ av cookies används för marknadsföring på Tradera?
+ANSWER: Cookies för marknadsföring används av Traderas annonseringspartners för att skapa riktade annonser som är relevanta för användarna.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 7: Är inställningar för cookies obligatoriska på Tradera?
+ANSWER: Nej, inställningar för cookies på Tradera är inte obligatoriska, men det kan påverka användarupplevelsen att inte acceptera nödvändiga cookies.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 8: Går det att läsa mer om cookies på Tradera?
+ANSWER: Ja, det går att läsa mer om cookies på Tradera genom att klicka på länken "Läs mer" under "Vad är det här?" i inställningarna för cookies.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 9: Vilken typ av cookies anses vara nödvändiga på Tradera?
+ANSWER: Cookies som anses vara nödvändiga för att Traderas webbplats ska fungera kan inte stängas av.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION 10: Varför delar Tradera information om användningen av deras webbplats med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys för att kunna ge användarna bättre anpassade annonser och förbättra webbplatsens användarupplevelse.
+URL: https://info.tradera.com/traderabetalning/

@@ -1,0 +1,39 @@
+QUESTION: Vilka ändringar kan Tradera meddela företagsanvändare om via e-post?
+ANSWER: Tradera kan meddela företagsanvändare om alla ändringar av deras Användarvillkor, inklusive Villkor för Traderas betallösning via e-post.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: När träder ändringarna i kraft efter att Tradera har meddelat företagsanvändare om dem?
+ANSWER: Ändringarna träder i kraft 15 dagar från det datum då e-postmeddelandet med de föreslagna ändringarna skickades.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera bevilja en längre varselperiod om de föreslagna ändringarna kräver vissa anpassningar?
+ANSWER: Ja, Tradera kan bevilja en längre varselperiod om de föreslagna ändringarna kräver nödvändiga tekniska eller kommersiella anpassningar hos den berörda företagsanvändaren.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om en företagsanvändare säger upp användarvillkoren innan varselperiodens utgång?
+ANSWER: Företagsanvändare ska ha rätt att säga upp användarvillkoren, inklusive villkor för Traderas betallösning, före varselperiodens utgång. En sådan uppsägning ska få verkan inom 15 dagar efter mottagandet av meddelandet.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan varselperioden frångås av företagsanvändaren?
+ANSWER: Ja, varselperioden kan frångås av företagsanvändaren genom ett skriftligt meddelande eller genom en tydlig bekräftelse.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om en företagsanvändare saluför nya varor i Tjänsterna?
+ANSWER: Företagsanvändare som saluför nya varor i Tjänsterna ska anses ha bekräftat att avstå från varselperioden, såvida inte en längre uppsägningstid än 15 dagar gäller i enlighet med ovan, i vilket fall varselperioden inte kan frångås.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilken är den minsta varselperioden som Tradera tillämpar?
+ANSWER: Varselperioden är minst 15 dagar efter det att e-postmeddelandet med de föreslagna ändringarna skickades.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan företagsanvändare välja att inte acceptera de föreslagna ändringarna?
+ANSWER: Ja, företagsanvändare har rätt att säga upp användarvillkoren, inklusive villkor för Traderas betallösning, före varselperiodens utgång. Detta innebär att de inte accepterar de föreslagna ändringarna.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilken är anledningen till att Tradera kan bevilja en längre varselperiod för vissa ändringar?
+ANSWER: Tradera kan bevilja en längre varselperiod om de föreslagna ändringarna kräver nödvändiga tekniska eller kommersiella anpassningar hos den berörda företagsanvändaren.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Gäller de föreslagna ändringarna för både Användarvillkor och Villkor för Traderas betallösning?
+ANSWER: Ja, Tradera kan meddela företagsanvändare om alla ändringar av deras Användarvillkor, inklusive Villkor för Traderas betallösning, via e-post.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

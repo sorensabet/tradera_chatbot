@@ -1,0 +1,39 @@
+QUESTION 1: Hur använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på sin webbplats.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 2: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll och annonsering efter användaren, för att tillhandahålla funktioner för sociala medier och för att analysera trafiken på sin webbplats för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 3: Kan jag stänga av Traderas nödvändiga cookies?
+ANSWER: Nej, nödvändiga cookies används för att Traderas webbplats ska fungera och kan inte stängas av.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 4: Vad är prestandacookies på Tradera?
+ANSWER: Prestandacookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 5: Behöver jag tillåta funktionella cookies på Tradera?
+ANSWER: Nej, du behöver inte tillåta funktionella cookies på Tradera, men om du tillåter dem kan du använda utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 6: Kan jag blockera Traderas marknadsföringscookies?
+ANSWER: Ja, du kan blockera Traderas marknadsföringscookies genom att ändra dina inställningar för cookies.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 7: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Syftet med marknadsföringscookies på Tradera är att Traderas annonseringspartners ska kunna visa riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 8: Vad händer om jag inte godkänner cookies på Tradera?
+ANSWER: Om du inte godkänner cookies på Tradera kan viss funktionalitet vara begränsad och vissa tjänster kanske inte fungerar.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 9: Kan Tradera använda min information från cookies för att sälja produkter?
+ANSWER: Nej, Tradera använder information från cookies för att anpassa innehåll och annonser efter användaren, för att tillhandahålla funktioner för sociala medier och för att analysera trafiken på sin webbplats. Tradera säljer inte användares personliga information.
+URL: https://info.tradera.com/annonsguide/
+
+QUESTION 10: Kan jag ändra mina inställningar för cookies på Tradera?
+ANSWER: Ja, du kan ändra dina inställningar för cookies på Tradera genom att klicka på "Ändra inställningar" längst ner på webbplatsen.
+URL: https://info.tradera.com/annonsguide/

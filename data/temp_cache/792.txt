@@ -1,0 +1,39 @@
+QUESTION: Vilka villkor gäller för frakttjänsten via Tradera?
+ANSWER: För frakttjänsten via Tradera gäller PostNord's vid var tid gällande produktspecifika villkor som du godkänner i samband med din beställning av frakttjänsten. För PostNord's produkter tillämpas därutöver PostNord's vid varje tidpunkt gällande allmänna kundvilkor ("PAKN"). För Traderas administration av frakten gäller villkoren i deras användaravtal.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Hur betalar man för frakttjänsten via Tradera?
+ANSWER: Du betalar för beställd frakt direkt till Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad händer om jag fyller i felaktig information om mitt föremål vid beställning av frakt via Tradera?
+ANSWER: Om du fyller i felaktig information gällande exempelvis mått eller vikt kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Innefattar Traderas frakttjänst också administration av beställning och information om frakten till köpare?
+ANSWER: Ja, genom att beställa frakt för ditt föremål via Traderas webbplats ingår du avtal med Tradera gällande Traderas administration av bland annat din beställning och information om frakten till köpare av ditt föremål på Traderas webbplats.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka allmänna kundvillkor tillämpas för PostNord's produkter vid frakt via Tradera?
+ANSWER: För PostNord's produkter tillämpas PostNord's vid varje tidpunkt gällande allmänna kundvilkor ("PAKN").
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Är fraktavgiften fast vid beställning av frakt via Tradera?
+ANSWER: Nej, fraktavgiften beräknas utifrån den information du fyller i om ditt föremål på Traderas webbplats och den verkliga fraktavgiften kan skilja sig om du fyller i felaktig information om exempelvis mått eller vikt.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad måste jag göra för att beställa frakt via Tradera?
+ANSWER: För att beställa frakt via Tradera måste du gå till Traderas webbplats och fylla i korrekt information om ditt föremål för att få en beräkning av fraktkostnaden. Därefter kan du betala för fraktkostnaden direkt till Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Kan jag använda eget fraktbolag när jag säljer på Tradera?
+ANSWER: Ja, du kan använda eget fraktbolag när du säljer på Tradera. Du behöver då inte använda Traderas frakttjänst.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Är frakttjänsten via Tradera tillgänglig för föremål som ska skickas internationellt?
+ANSWER: Det framgår inte av texten om Traderas frakttjänst är tillgänglig för föremål som ska skickas internationellt eller om den gäller endast inom Sverige.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Kan jag spåra min försändelse om jag beställer frakt via Tradera?
+ANSWER: Det framgår inte av texten om du kan spåra din försändelse när du beställer frakt via Tradera, men det kan vara möjligt med PostNord's fraktprodukter.
+URL: https://info.tradera.com/fraktvillkor/

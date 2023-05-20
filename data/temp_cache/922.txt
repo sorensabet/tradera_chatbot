@@ -1,0 +1,39 @@
+QUESTION: Vad ansvarar Tradera för när det gäller betalningar?
+ANSWER: Tradera ansvarar för meddelanden kring betalning, t.ex. betalinstruktion till köpare och bekräftelse av utförd betalning, och att Traderas villkor lever upp till lagstadgade krav. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka åtaganden har säljaren enligt Villkoren?
+ANSWER: Säljaren åtar sig särskilt att följa Punkt 2 ovan i sin användning av Traderas betallösning. Om Säljaren och Köparen kommer överens om en retur eller prisreducering ska detta omgående regleras av Säljaren som återbetalar överenskommet belopp till Köparen. Säljaren får inte ta ut någon särskild avgift för att betalningar sker med Traderas betallösning. Säljaren får inte kringgå Traderas regler genom att utanför Traderas säljfunktioner komma överens med Köparen om andra betalsätt, t.ex. genom att istället erbjuda betalning direkt till Säljarens bankkonto.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Får säljaren ta ut en extra avgift för att betalning sker via Traderas betalningslösning?
+ANSWER: Nej, säljaren får inte ta ut någon särskild avgift för att betalningar sker med Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om köpet enligt Villkoren ska återgå?
+ANSWER: Om köp enligt dessa Villkor ska återgå är det upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Får säljaren komma överens med köparen om andra betalsätt utanför Traderas säljfunktioner?
+ANSWER: Nej, säljaren får inte kringgå Traderas regler genom att utanför Traderas säljfunktioner komma överens med köparen om andra betalsätt, t.ex. genom att istället erbjuda betalning direkt till Säljarens bankkonto.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka krav följer Traderas hantering av kortdata?
+ANSWER: Traderas hantering av kortdata (kortnummer, giltighetsdatum och CVV2-nummer) följer de s.k. Payment Card Industry Data Security Standards (PCI).
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad ansvarar säljaren för när det gäller betalningar?
+ANSWER: Säljaren ansvarar för att följa Punk 2 i sin användning av Traderas betallösning, återbetala överenskommet belopp till köparen när säljare och köpare kommer överens om en retur eller prisreducering.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilket åtagande har Tradera gentemot sina kunder?
+ANSWER: Tradera åtar sig att tillse att hantering av kortdata alltid följer de s.k. Payment Card Industry Data Security Standards (PCI).
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Under vilka omständigheter ansvarar säljaren för att betala tillbaka del av eller fullständigt belopp till köparen?
+ANSWER: Om köp enligt dessa Villkor ska återgå är det upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad ska säljaren göra om köparen och säljaren kommer överens om en retur eller prisreducering?
+ANSWER: Om säljaren och köparen kommer överens om en retur eller prisreducering ska detta omgående regleras av Säljaren som återbetalar överenskommet belopp till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

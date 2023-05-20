@@ -1,0 +1,39 @@
+QUESTION: Vad ansvarar Tradera för om användaren blir skadad på grund av föremål som annonseras på deras webbplats?
+ANSWER: Tradera ansvarar inte för skador som användare lider på grund av produkter som köps eller säljs på deras webbplats. Om Tradera skulle anses ansvariga så är deras ansvar begränsat till det högre av priset för det föremål som sålts på Tradera inklusive den första fraktkostnaden, de avgifter som användaren har betalat till Tradera under de tolv månaderna närmast föregående den händelse som orsakade skadan eller SEK 1000.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilket ansvar har användaren när det gäller att följa lagar och regler på Tradera?
+ANSWER: Användaren ansvarar självständigt för att de åtgärder som vidtas följer de lagar och regler som gäller för dem och att de föremål som annonseras, säljs eller köps på Traderas webbplats är lagliga.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Använder Tradera några tekniska lösningar för att kontrollera informationen som användare tillhandahåller på deras webbplats?
+ANSWER: Ja, Tradera använder tekniska lösningar för att försöka kontrollera att den information som deras användare lämnar på deras webbplats är korrekt.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilket ansvar har Tradera om en användare blir lurad på deras webbplats?
+ANSWER: Om en användare blir lurad på Traderas webbplats är Traderas ansvar begränsat till det högre av priset för det föremål som sålts på Tradera inklusive den första fraktkostnaden, de avgifter som användaren har betalat till Tradera under de tolv månaderna närmast föregående den händelse som orsakade skadan eller SEK 1000.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad händer om Tradera ändrar användaravtalet?
+ANSWER: Om Tradera ändrar användaravtalet eller sina policys kan det innebära begränsningar av användarens verksamhet på Traderas webbplats.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Gäller användaravtalet endast för användare i Sverige?
+ANSWER: Det anges inte i texten om användaravtalet endast gäller för användare i Sverige. Därför är det troligt att användaravtalet gäller oavsett var användaren befinner sig geografiskt.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilket ansvar har Tradera gentemot en tredje part om något händer på deras webbplats?
+ANSWER: Om Tradera skulle anses ansvariga gentemot en tredje man är deras ansvar begränsat till det högre av priset för det föremål som sålts på Tradera inklusive den första fraktkostnaden, de avgifter som användaren har betalat till Tradera under de tolv månaderna närmast föregående den händelse som orsakade skadan eller SEK 1000.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kanske använder Tradera endast kontroll på internet för att säkerställa att användarnas information är korrekt?
+ANSWER: I texten anges att "även om vi använder tekniska lösningar för att försöka kontrollera att den information som våra användare tillhandahåller är korrekt, så är kontroll på Internet svårt." Därför använder Tradera inte endast kontroll på internet, utan också tekniska lösningar.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Om användaren vill sälja något som inte är lagligt, får de sälja det på Traderas webbplats?
+ANSWER: Nej, användaren ansvarar själv för att de föremål som annonseras, säljs eller köps på Traderas webbplats är lagliga. Därför kan inte användaren sälja något som inte är lagligt.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vilket ansvar har Tradera om de anses vara uppsåtliga eller visa grov vårdslöshet?
+ANSWER: Bestämmelserna i Traderas användaravtal begränsar inte deras ansvar vid uppsåt eller grov vårdslöshet.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/

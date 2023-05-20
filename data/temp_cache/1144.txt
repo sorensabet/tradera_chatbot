@@ -1,0 +1,39 @@
+QUESTION: Vilken betallösning får säljaren använda vid försäljning på Traderas plattform?
+ANSWER: Säljaren får använda Traderas betallösning vid försäljning på Traderas plattform och får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan köparen välja vilket betalsätt hen föredrar på Tradera?
+ANSWER: Ja, köparen kan välja vilket betalsätt hen vill använda på Tradera. Däremot kommer det betalsätt som köparen väljer inte att ha någon betydelse för när säljaren får betalt, förutom vid betalningar med Swish då säljaren får betalt direkt. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: När får säljaren som huvudregel betalt efter att en transaktion har genomförts?
+ANSWER: Säljaren får som huvudregel betalt inom en till två bankdagar efter att en transaktion har genomförts, förutsatt att säljaren har uppgett korrekta inbetalningsuppgifter till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kommer utbetalningstakten att ändras och ansvarar säljaren för att hålla sig uppdaterad på detta?
+ANSWER: Ja, utbetalningstakten kan komma att ändras av Tradera och säljaren är ansvarig för att hålla sig uppdaterad på information som kommer från Tradera angående detta.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Granskar Tradera transaktionerna för att upptäcka oegentligheter?
+ANSWER: Ja, Tradera granskar transaktionerna för att upptäcka oegentligheter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om Tradera misstänker att det förekommer oegentligheter vid en viss transaktion?
+ANSWER: Om Tradera misstänker att det förekommer oegentligheter vid en viss transaktion, såsom bedrägeri, eller att säljaren vid tidigare tillfällen har agerat i strid mot Villkoren, Traderas Användaravtal eller andra Regler för säljare, så förbehåller sig Tradera rätten att tillse detta.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan säljaren kräva betalning på något annat sätt än genom Traderas betallösning?
+ANSWER: Nej, säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka alternativa betalsätt finns tillgängliga genom Traderas betallösning?
+ANSWER: Det framgår inte vilka alternativa betalsätt som finns tillgängliga genom Traderas betallösning i denna korta text.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Måste säljaren uppge inbetalningsuppgifter till Tradera?
+ANSWER: Ja, säljaren måste uppge korrekta inbetalningsuppgifter till Tradera för att få betalt efter en transaktion.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Är det möjligt för säljaren att få betalt direkt vid Swish-betalningar?
+ANSWER: Ja, säljaren får betalt direkt vid Swish-betalningar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

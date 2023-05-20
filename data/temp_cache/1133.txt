@@ -1,0 +1,39 @@
+QUESTION: Vilka försäljningar är förbjudna enligt Traderas Regler för Säljare?
+ANSWER: Enligt texten är försäljning av följande förbjudet enligt Traderas Regler för Säljare: försäljning av föremål där det är osäkert att varan inte kommer att anlända till köparen, försäljning av objekt som motsvarar kontanter (såsom presentkort), försäljning av biljetter till evenemang såsom sport- eller konsertbiljetter, samt försäljning av varor och tjänster som är förbjudna enligt Traderas regler för säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka villkor behöver vara uppfyllda för att en säljare ska kunna använda Traderas säljarskydd?
+ANSWER: För att en säljare ska kunna utnyttja Traderas säljarskydd måste säljaren skicka varorna till den leveransadress som godkänts av Tradera vid betalningstillfället. Om köparens leveransadress har ändrats efter köpet måste säljaren skicka varan till den adress som Tradera senast informerat säljaren om. För varor vars pris överstiger 200 kr måste säljaren kunna påvisa att försändelsen skickats med spårbarhet, till exempel genom att uppge ett spårningsnummer från speditören. Om köparen uppger att leveransen inte har mottagits kommer Tradera att be säljaren om bevis på att varan har lämnats över till speditören.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är Traderas säljarskydd?
+ANSWER: Traderas säljarskydd är ett skydd för säljare som använder Tradera som plattform för försäljning. För att säljaren ska omfattas av säljarskyddet måste säljaren skicka varorna till den adress som godkänts av Tradera vid betalningstillfället och kunna påvisa att försändelsen skickats med spårbarhet för varor vars pris överstiger 200 kr. Om köparen uppger att varan inte har levererats kommer Tradera be säljaren att bevisa att varan har lämnats över till speditören. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om köparens leveransadress ändras efter köpet?
+ANSWER: Om köparens leveransadress ändras efter att köpet har genomförts kommer Tradera meddela säljaren om detta via e-postbekräftelsen som skickas när köparen har betalt för varan. Informationen om den ändrade leveransadressen kommer också att finnas tillgänglig i Mitt Tradera. Säljaren måste skicka varan till den adress som Tradera senast informerat säljaren om för att säljaren ska omfattas av säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket belopp måste varor uppfylla för att säljaren ska kunna utnyttja säljarskyddet?
+ANSWER: För varor vars pris överstiger 200 kr måste säljaren kunna påvisa att försändelsen skickats med spårbarhet för att säljaren ska omfattas av säljarskyddet. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av information kommer att finnas tillgänglig i Mitt Tradera om en köpares leveransadress ändras?
+ANSWER: Om köparens leveransadress har ändrats efter köpet, kommer informationen om den ändrade leveransadressen att finnas tillgänglig i Mitt Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Var kan säljaren få hjälp om köparen säger att varan inte har levererats?
+ANSWER: Om köparen uppger att varan inte har levererats kommer Tradera be säljaren att bevisa att varan har lämnats över till speditören. Säljaren kan hitta mer information här: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om försändelsen inte kommer fram till köparen?
+ANSWER: Om försändelsen inte kommer fram till köparen kan säljaren tvingas betala tillbaka köpesumman till köparen. Säljaren omfattas dock av säljarskyddet om denne kan påvisa att försändelsen skickats med spårbarhet för varor vars pris överstiger 200 kr. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av försäljning är osäker enligt Traderas Regler för Säljare?
+ANSWER: Enligt texten är försäljning av föremål där det är osäkert att varan inte kommer att anlända till köparen förbjudet enligt Traderas Regler för Säljare. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken information kräver Tradera från säljaren för att denne ska omfattas av säljarskyddet?
+ANSWER: För varor vars pris överstiger 200 kr måste säljaren kunna påvisa att försändelsen skickats med spårbarhet till exempel genom att uppge ett spårningsnummer från speditören, för att säljaren ska omfattas av säljarskyddet. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

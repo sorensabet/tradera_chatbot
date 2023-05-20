@@ -1,0 +1,39 @@
+QUESTION: Vad innebär Traderas etiska policy?
+ANSWER: Traderas etiska policy styr regler för varor och tjänster som erbjuds på e-handelsplattformen. Detta inkluderar både försäljare och köpare. Policyn anger vilka varor och tjänster som är godkända och vilka som är förbjudna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan säljare som erbjuder varor som bryter mot Traderas etiska policy komma att stängas av från tjänsten?
+ANSWER: Ja, Tradera har rätt att stänga av säljare som erbjuder varor som bryter mot Traderas etiska policy. Tradera har också rätt att få tillgång till information från säljarna för att undersöka om de bryter mot användarvillkoren och etiska policyn.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka information har Tradera rätt att begära av säljare?
+ANSWER: Tradera har rätt att begära information från säljare för att kunna utvärdera om de följer användarvillkoren. Beroende på vilka betalningsvillkor som gäller för säljarna kan Tradera också begära information om betalningar.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om en företagsanvändare bryter mot användarvillkoren på Tradera?
+ANSWER: Om en företagsanvändare bryter mot användarvillkoren på Tradera kan Tradera välja att helt eller delvis avbryta eller begränsa företagsanvändarens användning av Tjänsterna. Om brottet är allvarligt kan Tradera också välja att avsluta företagsanvändarens användning av Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken information kommer en företagsanvändare att få om beslutet att begränsa eller avbryta deras användning av Tjänsterna?
+ANSWER: En företagsanvändare som får sin användning av Tjänsterna begränsad eller avbruten kommer att meddelas senast när beslutet träder i kraft. De kommer också att få en redogörelse för skälen till beslutet.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka är de tillämpliga betaltjänstvillkoren som gäller för Tradera?
+ANSWER: Tillämpliga betaltjänstvillkor för Tradera kan variera beroende på land och företagsstatus för säljarna. Det är viktigt att alla säljare förstår och följer betaltjänstvillkoren för att undvika överträdelse och avstängning från Tradera-tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka är de gällande användarvillkoren för betalningar för kunder bosatta i Sverige?
+ANSWER: Användarvillkoren för betalningar för kunder bosatta i Sverige är en uppsättning regler som styr användningen av betaltjänster på Tradera. Dessa villkor innehåller information om betalningsmetoder, återköp och återbetalningar.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka är de gällande användarvillkoren för betalningar för företag och kunder bosatta utomlands?
+ANSWER: Användarvillkoren för betalningar för företag och kunder bosatta utomlands är en uppsättning regler som styr användningen av betaltjänster på Tradera. Dessa villkor innehåller information om betalningsmetoder, återköp och återbetalningar för företag och kunder bosatta utomlands.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad innebär det att erbjuda varor som står i strid med Traderas etiska policy?
+ANSWER: Att erbjuda varor som står i strid med Traderas etiska policy innebär att erbjuda varor som är olagliga, farliga, skadliga eller på annat sätt oetiska. Detta inkluderar till exempel stulna varor, varor som kränker upphovsrätten, varor som är skadliga för miljön och varor som promoverar diskriminering eller hat.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka åtgärder kan Tradera vidta om någon förser dem med felaktig eller missledande information?
+ANSWER: Om någon förser Tradera med felaktig eller missledande information kan Tradera vidta lämpliga åtgärder, såsom att rapportera händelsen till myndigheterna eller till kortföretagen. Personer som förser Tradera med felaktig eller missledande information kan också bli uteslutna från användningen av tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/

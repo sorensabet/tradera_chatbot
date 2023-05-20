@@ -1,0 +1,39 @@
+QUESTION: Vilka är definitionerna för Svensk Köpare, Säljare, Tradera, Traderas Plattform, Traderas Användaravtal, Traderas kassalösning och Traderas utbetalningslösning enligt betalningsvillkoren som finns på Traderas Säkerhetscenter?
+ANSWER: Enligt betalningsvillkoren som finns på Traderas Säkerhetscenter, definieras Svensk Köpare som en fysisk person bosatt i Sverige som har gjort ett köp av Säljare på Traderas Plattform. Säljare avser en fysisk person bosatt i annan jurisdiktion än Sverige samt en juridisk person som säljer varor eller tjänster på Traderas Plattform. Tradera definieras som Tradera Marketplace AB, org. nr. 556569–4642. Traderas Plattform definieras som webbplatser, marknadsplatstjänster och applikationer som Tradera tillhandahåller via t.ex. www.tradera.com. Traderas Användaravtal definieras som Traderas vid var tid gällande villkor för användande av Traderas Plattform och övriga tjänster. Traderas kassalösning definieras som den webbplats med olika betallösningar som Köparen från tid till annan kan erbjudas på Traderas Plattform såsom kort, PayPal och andra betalmetoder som Tradera lägger till efter hand. Betaltjänsterna i Traderas kassalösning tillhandahålls av tredje parter som Tradera har avtal med. Traderas utbetalningslösning definieras som den betaltjänst som Hyperwallet tillhandahåller Tradera och som innebär att utbetalningar görs till Säljare via Hyperwallets plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket företag tillhandahåller betaltjänster åt Tradera?
+ANSWER: Enligt texten på Traderas Säkerhetscenter, tillhandahåller Hyperwallet betaltjänsten åt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Var kan Svensk Köpare hitta information om Traderas Användaravtal?
+ANSWER: Enligt texten på Traderas Säkerhetscenter, kan Svensk Köpare hitta information om Traderas Användaravtal via följande länk: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är Traderas utbetalningslösning och vem tillhandahåller den?
+ANSWER: Enligt betalningsvillkoren som finns på Traderas Säkerhetscenter, är Traderas utbetalningslösning den betaltjänst som tillhandahålls av Hyperwallet och som innebär att utbetalningar görs till Säljare via Hyperwallets plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är Traderas kassalösning?
+ANSWER: Enligt betalningsvillkoren som finns på Traderas Säkerhetscenter, är Traderas kassalösning den webbplats med olika betallösningar, såsom kort, PayPal och andra betalmetoder som Tradera lägger till efter hand, som Köparen från tid till annan kan erbjudas på Traderas Plattform. Betaltjänsterna i Traderas kassalösning tillhandahålls av tredje parter som Tradera har avtal med.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad ingår i Traderas Plattform?
+ANSWER: Enligt betalningsvillkoren som finns på Traderas Säkerhetscenter, ingår webbplatser, marknadsplatstjänster och applikationer som Tradera tillhandahåller via t.ex. www.tradera.com i Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är Tradera Marketplace AB?
+ANSWER: Enligt betalningsvillkoren som finns på Traderas Säkerhetscenter, så är Tradera Marketplace AB, org. nr. 556569–4642, företaget som definieras som Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är betalningsvillkoren på Traderas Plattform?
+ANSWER: Betalningsvillkoren på Traderas Plattform är reglerna som Svensk Köpare och Säljare alltid måste följa vid försäljning och som finns i sin senaste version tillgängliga på följande länk: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem kan räknas som en Säljare enligt betalningsvillkoren på Traderas Plattform?
+ANSWER: Enligt betalningsvillkoren på Traderas Säkerhetscenter, kan en Säljare räknas som en fysisk person bosatt i annan jurisdiktion än Sverige samt en juridisk person som säljer varor eller tjänster på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad definieras som en Svensk Köpare enligt betalningsvillkoren på Traderas Plattform?
+ANSWER: Enligt betalningsvillkoren på Traderas Säkerhetscenter, definieras Svensk Köpare som en fysisk person bosatt i Sverige som har gjort ett köp av Säljare på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

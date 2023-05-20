@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av cookies används på Tradera?
+ANSWER: På Tradera används nödvändiga, prestanda, funktionella och marknadsföringscookies.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Vad är syftet med Traderas prestandacookies?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de är nödvändiga för att Tradera ska fungera.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Vilka funktionella cookies används på Tradera?
+ANSWER: På Tradera används funktionella cookies för utökad funktionalitet och användaranpassning, t.ex. vissa sparade inställningar eller att logga in med Facebook.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Varför används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Varför behöver Tradera använda cookies?
+ANSWER: Tradera behöver använda cookies för att säkerställa att webbplatsen fungerar ordentligt, förbättra användarupplevelsen, och för att erbjuda riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Kan användare på Tradera själva välja vilka cookies de vill använda?
+ANSWER: Användare kan välja att acceptera eller avvisa de olika typerna av cookies som används på Tradera genom inställningar för cookies.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Vad gör funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera ger utökad funktionalitet och användaranpassning, t.ex. att spara inställningar eller att logga in med Facebook.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Hur används Traderas marknadsföringscookies?
+ANSWER: Traderas marknadsföringscookies används av annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/
+
+QUESTION: Kan användare själva styra användningen av cookies på Tradera?
+ANSWER: Ja, användare kan själva välja vilka cookies de vill använda genom inställningar för cookies på Tradera.
+URL: https://info.tradera.com/da/foretagskonto-pa-tradera/

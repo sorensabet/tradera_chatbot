@@ -1,0 +1,39 @@
+QUESTION: Vad ansvarar Tradera för och vad ansvarar de inte för när det gäller skador?
+ANSWER: Tradera ansvarar inte för indirekta skador som en användare kan ha lidit till följd av användning av deras tjänst. De ansvarar inte för förlust i näringsverksamhet, förlust av data, utebliven vinst, uteblivna affärstillfällen, förlorat anseende eller avbrott i näringsverksamhet eller för andra skador som de inte rimligen kunnat förutse. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera hållas ansvariga för virus eller annan skadlig mjukvara som sprider sig genom koppling till deras tjänster?
+ANSWER: Enligt texten på sidan är Tradera inte ansvariga för virus eller annan skadlig mjukvara som sprids genom att användaren kopplar upp sig mot eller länkar till deras tjänster. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilket ansvar har Tradera när det gäller någon tredje parts handlingar eller inaktivitet som påverkar användaren?
+ANSWER: Tradera friskriver sig från allt ansvar som kan orsakas av tredje part, inklusive skador som orsakas av föremål som annonseras via deras tjänster. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka typer av skador kan orsakas av en annons som Tradera har publicerat på deras tjänster?
+ANSWER: Texten på sidan nämner inte exakt vilka typer av skador som kan orsakas av annonser som publicerats genom Traderas tjänster. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka skador kan anses förutsebara för Tradera?
+ANSWER: Texten nämner inte exakt vilka skador Tradera kan rimligen förutse. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken information ger Tradera om prissättning och frakt på deras tjänster?
+ANSWER: Tradera tillhandahåller vägledning om prissättning och frakt. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera stänga av eller vidta andra åtgärder som påverkar ens konto?
+ANSWER: Tradera kan vidta åtgärder som rör användarens konto, inklusive avstängning, om användaren bryter mot avsnittet "Missbruk av Tradera" på sidan. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka är begränsningarna för när ens annons syns i sökresultat på Traderas tjänster?
+ANSWER: Begränsningarna för när ens annons kan synas i sökresultaten för Traderas tjänster är beroende av villkoren som beskrivs i avsnittet "Villkor för annonsering" på sidan. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka anses som närstående bolag till Tradera?
+ANSWER: Texten på sidan nämner "dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda" som Tradera friskriver sig från ansvar gentemot användaren. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka personer eller enheter ansvarar Tradera gentemot?
+ANSWER: Tradera ansvarar gentemot deras användare. 
+URL: https://info.tradera.com/anvandaravtal/

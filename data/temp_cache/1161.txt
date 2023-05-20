@@ -1,0 +1,39 @@
+QUESTION: Vilka är definitionerna som används i dessa villkor?
+ANSWER: Definitionerna som används i dessa villkor inkluderar bland annat ”Köpare”, ”Säljare”, ”Kassalösning” och ”Klarna”. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad innebär det att enbart kunna betala med Traderas kassalösning som köpare?
+ANSWER: Som köpare måste man acceptera att man enbart kan betala för köp av säljaren med Traderas kassalösning. Detta innebär att man inte kan använda andra betalningslösningar, utan måste följa Traderas betalningsvillkor. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Köparens åtaganden enligt dessa Villkor?
+ANSWER: Köparens åtaganden enligt dessa villkor inkluderar att använda Traderas kassalösning för att betala för köp från säljarna, att följa eventuella instruktioner gällande betalning som ges av Tradera eller säljaren, att se till att man har tillräckligt med pengar på sitt konto för att genomföra köpet samt att se till att uppgifterna man anger vid betalning är korrekta. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad krävs av säljaren när det kommer till betalning på Traderas Plattform?
+ANSWER: Säljaren måste acceptera att köparen betalar med hjälp av Traderas kassalösning, att säljaren ska ta betalt genom Traderas kassalösning och att säljaren får utbetalning genom Traderas betaltjänst när säljaren säljer något på Traderas Plattform. Det innebär att säljaren inte får ta betalt på annat sätt än genom Traderas kassalösning, och att utbetalningen sker via Traderas betaltjänst. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är Säljarens åtaganden enligt dessa Villkor?
+ANSWER: Säljarens åtaganden enligt dessa villkor inkluderar att ta betalt genom Traderas kassalösning när man säljer något på Traderas Plattform, att följa eventuella instruktioner gällande betalning som ges av Tradera eller köparen, samt att se till att de uppgifter man anger vid utbetalning är korrekta. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Gäller dessa Villkor för kunder bosatta utomlands eller juridiska personer?
+ANSWER: Dessa Villkor gäller endast för köpare och säljare som är bosatta i Sverige. För kunder bosatta utomlands eller juridiska personer gäller istället andra Villkor betalningar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Villkor betalningar för företag och kunder bosatta utomlands?
+ANSWER: Villkor betalningar är Traderas betalningsvillkor som gäller för kunder bosatta utomlands eller juridiska personer. Dessa villkor reglerar betalningar på Traderas Plattform för denna kundgrupp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilket företag avser "Klarna" i dessa villkor?
+ANSWER: "Klarna" i dessa villkor avser Klarna Bank AB, ett svenskt bankföretag. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem ansvarar för eventuella problem med betalning på Traderas Plattform?
+ANSWER: Både köparen och säljaren ansvarar för att följa Traderas betalningsvillkor och åtaganden när det kommer till betalning på Traderas Plattform. Om det uppstår några problem är det bäst att kontakta Traderas kundsupport för hjälp och råd. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan säljaren ta betalt på något annat sätt än genom Traderas kassalösning?
+ANSWER: Nej, enligt dessa Villkor måste säljaren ta betalt genom Traderas kassalösning när man säljer något på Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

@@ -1,0 +1,39 @@
+QUESTION: Vad säger reglerna om vilseledande rubriker och objektsbeskrivningar på Tradera?
+ANSWER: Dem reglerna förbjuder vilseledande rubriker och objektsbeskrivningar på Tradera. Det betyder att objektet som beskrivs ska överensstämma med annonsens rubrik och beskrivning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vad innebär budtrissning enligt Traders regler?
+ANSWER: Traders regler säger att en budtrissning inte är tillåten på plattformen.  
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vad innebär det att bud är bindande på Tradera?
+ANSWER: Bud som lämnas på Tradera är bindande. Det betyder att om en köpare vinner en budgivning är denne skyldig att köpa objektet till det pris som vann budgivningen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Kan jag sälja objekt utanför Sverige på Tradera?
+ANSWER: Det är tillåtet att sälja objekt utanför Sverige på Tradera. Men det är viktigt att överenskomma tydligt om frakt och betalningsvillkor vid försäljning till utlandet. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vad säger reglerna om omdömen på Tradera?
+ANSWER: För att skydda kunderna och säkerställa en god användarupplevelse, kräver reglerna tydliga och rättvisa omdömen. Det är inte tillåtet att köpa eller sälja omdömen på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vad är reklamationsrätten på Tradera?
+ANSWER: Reklamationsrätten på Tradera är när en kund får ersättning från säljaren för en vara som har ett fel som säljaren bär ansvar för. Reklamationsrätten gäller i 3 år från det att köparen tog emot varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vad är ångerrätten på Tradera?
+ANSWER: Ångerrätten på Tradera är en frivillig rättighet som köpare har att häva ett köp inom 14 dagar från det att varan levererades. Säljaren är skyldig att betala tillbaka varans pris och frakt. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vad är fria val av objekt regeln på Tradera?
+ANSWER: Fria val av objekt regeln på Tradera säger att det ska framgå tydligt vad för objekt som säljs i en annons. Objektet behöver vara förutbestämt och eventuell färg och storlek ska vara specificerat.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Finns det några undantag från Traderas regel om fria val av objekt?
+ANSWER: Ja, det är tillåtet att sälja objekt som efter köpet modifieras utifrån köparens önskemål så länge objektet avser en specifik färg, storlek och/eller modell. Att skräddarsy, ändra eller göra tillägg till objektet ska då ingå i priset. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/
+
+QUESTION: Vilka osakliga annonsupplägg är otillåtna på Tradera?
+ANSWER: Otillåtna annonsupplägg på Tradera inkluderar: att sälja ett par skor där köparen får välja storlek efter köpet är gjort, att sälja ett mobilskal där köparen får välja färg efter köpet är gjort, att ha individuella priser på flera olika objekt som ingår i samma annons. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/fria-val-av-objekt/

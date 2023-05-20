@@ -1,0 +1,39 @@
+QUESTION: Vilka annonser på Tradera har i dagsläget inte tillgång till prisförslag?
+ANSWER: Annonserna som publicerats från Prolister och Sello samt auktioner med köp nu pris har i dagsläget inte tillgång till prisförslag på Tradera.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Hur får jag veta om mitt prisförslag inte accepterades av säljaren?
+ANSWER: Om säljaren nekar ditt prisförslag på Tradera får du ett meddelande i meddelandefunktionen.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag föreslå ett nytt pris om mitt förslag inte accepterades av säljaren på Tradera?
+ANSWER: Ja, om ditt prisförslag inte accepteras av säljaren på Tradera har du möjlighet att föreslå ett nytt pris upp till 3 gånger per annons.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Hur mycket lägre än utropspriset kan jag lämna mitt prisförslag på Tradera?
+ANSWER: Det lägsta prisförslag du kan lämna på Tradera är 30% under fastpriset. Det rekommenderas att man håller sig mellan 5-20% lägre pris för att öka chansen att säljaren accepterar erbjudandet.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Hur kan jag som säljare svara på ett prisförslag på Tradera?
+ANSWER: Som säljare på Tradera kan du enkelt välja att acceptera eller neka ett prisförslag genom att svara på meddelandet om det.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Vad händer om jag som säljare inte svarar på ett prisförslag på Tradera?
+ANSWER: Om du som säljare på Tradera inte besvarar prisförslaget, kommer det att löpa ut automatiskt efter 24 timmar. Efter det kan du inte längre acceptera prisförslaget.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag som säljare stänga av möjligheten till prisförslag på Tradera?
+ANSWER: I dagsläget går det inte att stänga av möjligheten till prisförslag på Tradera.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Vilken typ av annonser har tillgång till prisförslag på Tradera?
+ANSWER: På Tradera har annonser som har fastpris tillgång till prisförslag.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag lämna flera prisförslag på samma annons på Tradera?
+ANSWER: Ja, på Tradera kan du lämna upp till tre prisförslag per annons om ditt tidigare förslag inte accepterats av säljaren.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Var kan jag hitta vanliga frågor om prisförslag på Tradera?
+ANSWER: Vanliga frågor om prisförslag på Tradera hittar du på följande sida: https://info.tradera.com/prisforslag/
+URL: https://info.tradera.com/prisforslag/

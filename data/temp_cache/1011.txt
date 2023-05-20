@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas Integritetspolicy?
+ANSWER: Traderas Integritetspolicy beskriver hur Tradera behandlar personuppgifter. Det inkluderar information om hur personuppgifter samlas in, används och delas.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av information samlar Tradera in från användare?
+ANSWER: Tradera samlar in personuppgifter från användare som registrerar ett konto. Det inkluderar information som namn, e-postadress, telefonnummer och postadress, samt information om köp och försäljning på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Varför samlar Tradera in personuppgifter?
+ANSWER: Tradera samlar in personuppgifter för att kunna erbjuda och förbättra Traderas tjänster. Personuppgifter används även för att kommunicera med användare och för att följa lagstadgade krav.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Var lagrar Tradera personuppgifterna?
+ANSWER: Personuppgifter som samlas in av Tradera lagras på servrar i Sverige eller på annat håll i världen, såsom i USA.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka är Traderas integritetsprinciper?
+ANSWER: Traderas integritetsprinciper inkluderar transparens, ändamålsbegränsning, dataminimering, korrekthet, lagringsbegränsning, integritet och konfidentialitet samt ansvar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information kan länkade webbplatser från tredje part samla in om användare?
+ANSWER: Länkade webbplatser från tredje part kan samla in personuppgifter från användare, men deras informationsrutiner är inte Traderas ansvar. Användare som skickar information till eller genom dessa tredjepartswebbplatser bör granska integritetspolicyerna för webbplatserna innan några personuppgifter skickas till dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är Tradera Marketplace AB:s adress?
+ANSWER: Tradera Marketplace AB:s adress är Sankt Eriksgatan 117, 113 43 Stockholm, Sverige.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad menas med personuppgiftsansvarig?
+ANSWER: Personuppgiftsansvarig är den som är ansvarig för behandlingen av personuppgifter och för att tillhandahålla de tjänster som ska tillhandahållas enligt Användaravtalet enligt Traderas Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av information kan användare få tillgång till på Traderas plattform?
+ANSWER: Användare på Traderas plattform kan få tillgång till information om försäljningar, köp och andra transaktioner.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare på Traderas plattform välja att inte dela med sig av sina personuppgifter?
+ANSWER: Användare som inte accepterar Traderas Integritetspolicy kommer inte att kunna använda Traderas plattform och därmed inte kunna köpa eller sälja på plattformen. Det krävs att användare delar viss personuppgiftsinformation för att kunna använda plattformen.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

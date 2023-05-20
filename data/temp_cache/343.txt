@@ -1,0 +1,39 @@
+QUESTION: What is the maximum number of pictures I can add to a listing on Tradera?
+ANSWER: You can add up to five pictures per listing.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: How do I make my listing more inviting?
+ANSWER: Including pictures from different angles and to highlight features makes the listing more inviting.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: Should I include the original receipt when selling an expensive item on Tradera?
+ANSWER: If you sell an expensive item, you might want to include the original receipt.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: How can I check the shipping cost of an item I am selling on Tradera?
+ANSWER: If you are unsure of how much the shipping will cost, you can check out Tradera's shipping guide.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: In which regions can I sell my items on Tradera?
+ANSWER: You can choose to sell in Sweden, the EU, or the entire world.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: When should I choose the auction listing type on Tradera?
+ANSWER: You should choose the auction listing type when you're not certain what the item is worth or the item is a collectible. Auction is also a good choice for used items where the worth is hard to assess.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: When should I choose the fixed price listing type on Tradera?
+ANSWER: You should choose the fixed price listing type when you want a quick deal or when you know how much you want to charge for the item.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: When should I choose the shop item listing type on Tradera?
+ANSWER: You should choose the shop item listing type if you have an inventory with several of the same item or when selling a lot of the same kind of items.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: What are the categories and popular brands available for shopping on Tradera?
+ANSWER: Tradera offers various categories and popular brands for shopping, which are listed on their website.
+URL: https://info.tradera.com/en/buy-and-sell-at-tradera/
+
+QUESTION: How can I contact Tradera for help or information?
+ANSWER: You can contact Tradera for help or information through their Contact & Help page on their website.
+URL: https://info.tradera.com/en/contact-and-help/

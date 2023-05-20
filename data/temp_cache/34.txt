@@ -1,0 +1,39 @@
+QUESTION 1: Vilka ändamål kan användarna använda Tradera för?
+ANSWER: Användare kan använda Tradera för transaktionsrelaterade ändamål och inte för oönskade marknadsföringsmeddelanden; att använda tjänster som erbjuds via Tradera (såsom betalning, frakt, leverans och klagomål om bedrägerier); eller särskilda ändamål som användaren uttryckligen väljer eller lämnar sitt samtycke till.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 2: Vilken typ av teknik använder Tradera för att lagra information från användare i syfte att ge en bättre upplevelse?
+ANSWER: Tradera använder cookies, webb-beacons och liknande teknik för att lagra information och ge användarna en bättre, snabbare och säkrare upplevelse på webbplatser, tjänster, applikationer, kommunikationskanaler (såsom e-post) och verktyg.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 3: Var kan användare hänvisa e-postmeddelanden med förfalskad avsändaradress eller avsändaridentitet?
+ANSWER: Användare kan vidarebefordra e-postmeddelanden med förfalskad avsändaradress eller avsändaridentitet till abuse@tradera.com för att rapportera Tradera-relaterat spam eller e-post.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 4: Sparar Tradera permanent några meddelanden som skickas genom deras verktyg?
+ANSWER: Nej, Tradera sparar inte permanent några meddelanden som skickas genom deras verktyg men kan komma att automatiskt scanna och manuellt filtrera meddelanden för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 5: Vilken teknik använder Tradera för annonseringsändamål?
+ANSWER: Tradera använder cookies, webb-beacons och liknande teknik för annonseringsändamål.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 6: Kan användare använda Tradera för oönskade marknadsföringsmeddelanden?
+ANSWER: Användare kan inte använda Tradera för oönskade marknadsföringsmeddelanden utan endast för transaktionsrelaterade ändamål, användning av tjänster som erbjuds via Tradera eller särskilda ändamål som användaren väljer eller lämnar sitt samtycke till.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 7: Är skräppost, spionprogram och identitetsstöld tillåtet på Tradera?
+ANSWER: Nej, skräppost, spionprogram och identitetsstöld är det inte tillåtet på Tradera.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 8: Vilken typ av meddelanden kan Tradera automatiskt scanna och filtrera manuellt för söka efter skadlig aktivitet?
+ANSWER: Tradera kan automatiskt scanna och filtrera manuellt för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 9: Vilken typ av e-postmeddelanden kan användare vidarebefordra till abuse@tradera.com?
+ANSWER: Användare kan vidarebefordra Tradera-relaterat spam eller e-post med förfalskad avsändaradress eller avsändaridentitet till abuse@tradera.com.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION 10: Vad är syftet med att Tradera använder cookies, webb-beacons och liknande teknik?
+ANSWER: Syftet med att Tradera använder cookies, webb-beacons och liknande teknik är att lagra information i syfte att ge användarna en bättre, snabbare och säkrare upplevelse på webbplatser, tjänster, applikationer, kommunikationskanaler (såsom e-post) och verktyg samt för annonseringsändamål.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

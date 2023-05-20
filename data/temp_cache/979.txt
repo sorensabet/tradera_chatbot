@@ -1,0 +1,39 @@
+QUESTION: What technologies does Tradera use for storing information for advertising purposes?
+ANSWER: Tradera uses cookies, web beacons, and other similar technologies for storing information for advertising purposes.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Do Tradera permanently store messages sent through their tools?
+ANSWER: No, Tradera does not permanently store messages sent through their tools.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What should you do if you lose control of your password and personal data on Tradera?
+ANSWER: If you lose control of your password and personal data on Tradera, you should immediately notify Tradera and change your password.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can you edit your personal data in your account profile settings on Tradera?
+ANSWER: Yes, you can edit your personal data in your account profile settings on Tradera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera honor any statutory right that you may have to correct or erase your personal data?
+ANSWER: Yes, Tradera will honor any statutory right that you may have pursuant to laws to correct or erase your personal data.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How can you report Tradera-related spam or spoof emails?
+ANSWER: To report Tradera-related spam or spoof emails, you can forward the email to abuse@tradera.com.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Where are Tradera's servers located?
+ANSWER: Tradera stores and processes personal data on their servers located in Sweden and elsewhere in the world.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the key to access your account on Tradera?
+ANSWER: Your password is the key to access your account on Tradera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Are you responsible for all activity on your Tradera-account if you share your password or personal data with others?
+ANSWER: Yes, you are responsible for all activity on your Tradera-account if you share your password or personal data with others.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What should you do if your password has been compromised for any reason on Tradera?
+ANSWER: If your password has been compromised for any reason on Tradera, you should immediately notify Tradera and change your password.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

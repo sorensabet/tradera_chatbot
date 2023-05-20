@@ -1,0 +1,39 @@
+QUESTION: Vilken information delar Tradera om min användning av deras webbplats med andra?
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Kan jag stänga av nödvändiga cookies på Tradera Webbplatsen?
+ANSWER: Det går inte att stänga av de nödvändiga cookies på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Kan Tradera hjälpa mig om jag misstänker att någon obehörig har fått tillgång till mitt konto?
+ANSWER: Ja, Tradera kan hjälpa dig om du misstänker att någon obehörig har fått tillgång till ditt konto. Du kan kontakta dem direkt på abuse@tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Var kan jag hitta information om hur man handlar på Tradera?
+ANSWER: Du kan hitta information om hur man handlar på Tradera på deras webbsida "Köp" under menyn "Så handlar du på Tradera".
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Kan jag använda samma lösenord som exempelvis "123456" på Traderas webbplats?
+ANSWER: Nej, du bör av säkerhetsskäl ej använda exempel som "123456" eller andra enkla lösenord på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Finns det några vanliga frågor och svar tillgängliga på Traderas webbplats?
+ANSWER: Ja, Traderas webbplats har en sida med vanliga frågor och svar under menyn "Regler".
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Kan jag sälja varor som privatperson på Traderas webbplats?
+ANSWER: Ja, du kan sälja varor som privatperson på Traderas webbplats. Information om hur du säljer som privatperson hittar du under menyn "Sälj" på deras webbsida.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Kan jag sälja varor som företag på Tradera?
+ANSWER: Ja, du kan sälja varor som företag på Tradera. Information om hur du säljer som företag finns under menyn "Sälj" på deras webbsida.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Har Tradera någon fraktkalkylator på sin webbplats?
+ANSWER: Ja, Tradera har en fraktkalkylator på deras webbsida. Du hittar den under menyn "Fraktkalkylatorn".
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Finns det några inspirationskategorier tillgängliga på Traderas webbplats?
+ANSWER: Ja, på Traderas webbsida finns det inspirationskategorier tillgängliga under menyn "Inspiration".
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/

@@ -1,0 +1,39 @@
+QUESTION: What is the role of Tradera Marketplace AB?
+ANSWER: Tradera Marketplace AB is the data controller responsible for the processing and collection of personal data when registering an account and to provide the services stated in User agreement and according to the principles as laid down in the Privacy statement.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What personal data does Tradera Marketplace AB collect from its users?
+ANSWER: Tradera Marketplace AB collects personal data such as name, e-mail address, telephone number, cell phone number, postal address, payment information, and login credentials. When you visit the websites, use the applications, services and tools, or interact with advertising or content, Tradera automatically collects information such as device ID, geo-location, device type, data and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP-address and standard web log information.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Why does Tradera Marketplace AB need to collect personal data?
+ANSWER: Tradera Marketplace AB needs to collect personal data to verify and identify you as a user, comply with certain requirements according to the User agreement or as required by law, and to improve its services and provide the best possible user experience. Personal data also helps provide access to Tradera's websites, applications, services, and tools so that it can offer a customized and improved experience.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera Marketplace AB use personal data collected from users?
+ANSWER: Tradera Marketplace AB uses personal data to provide access to its websites, applications, services, and tools, to comply with certain legal requirements, and to improve and customize user experiences. Personal data may also be used for marketing purposes and to send newsletters, special offers, and other promotional communications.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What data is automatically collected when interacting with Tradera's advertising or content?
+ANSWER: When interacting with Tradera's advertising or content, information such as device ID or unique identifier, geo-location, device type, data and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP-address and standard web log information is automatically collected.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What personal data is required to register an account with Tradera?
+ANSWER: To register an account with Tradera, personal data such as name, e-mail address, telephone number, and login credentials are required.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can users control what personal data Tradera Marketplace AB collects?
+ANSWER: Yes, users can control what personal data Tradera Marketplace AB collects. Users can manage their privacy settings on their account and can choose to share or not share certain information.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What information is included in Tradera's Privacy statement?
+ANSWER: Tradera's Privacy statement includes information on the collection of personal data, the purpose behind collecting it, how it is used, who it may be shared with, and your rights and responsibilities with regards to your data. It also includes information on how to contact Tradera with questions or concerns about privacy practices.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How can users find out more about cookies and how they are used by Tradera?
+ANSWER: Users can find out more about cookies and how they are used by Tradera by reading the section on cookies further down in Tradera's Privacy statement.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What personal information can be shared with third-party service providers?
+ANSWER: Tradera may share personal information with certain third-party service providers such as payment processors, shipping providers, and customer service providers to provide services on behalf of Tradera. In such cases, only the necessary information to provide such services will be shared.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

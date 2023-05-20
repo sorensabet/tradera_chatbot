@@ -1,0 +1,39 @@
+QUESTION: Under what circumstances can Tradera withhold payments from the seller?
+ANSWER: Tradera has the right to withhold payment to the Seller or require a refundable amount from the Seller in certain cases, such as when a claim is made against the Seller through Tradera's dispute settlement system, when a transaction is suspected to be involved in money laundering or terrorist financing, or when the Seller violates applicable laws or Tradera's Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What are Tradera's transaction monitoring procedures?
+ANSWER: Transactions carried out by the Buyer and the Seller will be subject to Tradera's transaction monitoring. By using Tradera's payment service, the Buyer and the Seller agree to provide all necessary information and understand that failure to comply with requests may result in Tradera refusing to provide its payment service. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if a buyer exercises their statutory right of withdrawal?
+ANSWER: If a buyer exercises their statutory right of withdrawal against a Seller who is conducting business activities, the transaction will be considered in violation of Tradera's Terms and Conditions and may result in the seller losing their right to Tradera's seller protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is Tradera's Seller Protection?
+ANSWER: Tradera's Seller Protection is a program that offers protection to sellers in certain circumstances, such as when a buyer claims to have not received an item or when a buyer claims that an item is not as described. If a seller has not complied with Tradera's Seller Protection terms, they may lose their right to the protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How does Tradera store personal data?
+ANSWER: To comply with applicable regulations, Tradera will store personal data in accordance with Section 13 in its Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if a transaction is suspected of being involved in money laundering?
+ANSWER: In the case of transactions that are reasonably suspected to constitute money laundering, terrorist financing, or otherwise violate applicable laws and regulations, Tradera has the right to withhold payment to the Seller or require a refundable amount from the Seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Tradera refuse to provide its payment service to buyers and sellers?
+ANSWER: Yes, if a buyer or seller fails to comply with Tradera's requests for information or violates Tradera's Terms and Conditions, Tradera may refuse to provide its payment service to them. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is Tradera's User Agreement?
+ANSWER: Tradera's User Agreement is a document that outlines the terms and conditions that users of Tradera must agree to when using the platform. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the purpose of Tradera's dispute settlement system?
+ANSWER: Tradera's dispute settlement system is used to settle disputes between buyers and sellers on the platform. In certain cases, if Tradera considers that the buyer is right, it has the right to withhold payment to the seller or require a refundable amount from them through the system. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What are the consequences of violating Tradera's Terms and Conditions?
+ANSWER: Violating Tradera's Terms and Conditions can result in consequences such as losing the right to Tradera's seller protection or refusal by Tradera to provide its payment service to a user. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

@@ -1,0 +1,39 @@
+QUESTION: Hvad er en privat butik hos Tradera?
+ANSWER: En privat bruger har mulighed for at åbne en butik hos Tradera, hvor butiksannoncer fungerer på samme måde som varer med faste priser.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvad er forskellen mellem en butik med mindstepriser og en butik uden bindingstid?
+ANSWER: Den månedlige gebyr på 245 SEK er for en butik med mindstepriser med en bindingsperiode på 12 måneder, mens den månedlige gebyr på 295 SEK er for en butik uden bindingsperiode.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvor mange butiksannoncer er der tilgængelige på Tradera?
+ANSWER: Der er 10.000 butiksannoncer tilgængelige for samlerobjekter på Tradera.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvad er opsigelsesperioden for Tradera's butikker?
+ANSWER: Alle butikker har en opsigelsesperiode på en måned.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvilken type butiksannonce gælder for priserne, der er opgivet i teksten?
+ANSWER: Priserne gælder kun for butiksannoncer med brugte samlerobjekter, der ikke længere kan købes i detailhandlen, og kun for butiksannoncer med en maks. pris på 30 SEK eller mindre.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvad er minimums-provisionsgebyret for en butiksannonce hos Tradera?
+ANSWER: Minimums-provisionsgebyret er 3 SEK.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvor meget er månedligt gebyr for en butiksannonce med mindstepriser på Tradera uden en bindingsperiode?
+ANSWER: Det månedlige gebyr for en butik med mindstepriser uden bindingsperiode er 245 SEK.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvordan fungerer butiksannoncer hos Tradera?
+ANSWER: Butiksannoncer på Tradera fungerer på samme måde som varer med faste priser.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvor kan jeg finde en oversigt over Tradera's gebyrer og tilføjelser?
+ANSWER: Der er en oversigt over almindelige priser for andre gebyrer og tilføjelser på Tradera's hjemmeside.
+URL: https://info.tradera.com/da/butik-privat/
+
+QUESTION: Hvilket provisionsgebyr ville der være for en butiksannonce med en pris på 31 SEK eller mere?
+ANSWER: Butiksannoncer med en pris på 31 SEK eller mere ville have et provisionsgebyr på 15% ved en butik med mindstepriser.
+URL: https://info.tradera.com/da/butik-privat/

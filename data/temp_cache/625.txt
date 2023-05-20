@@ -1,0 +1,39 @@
+QUESTION: Hvilke er noen forbudte forsendelsesmuligheter på Tradera?
+ANSWER: På Tradera er det forbudt å ikke akseptere de betalingsmulighetene som er oppgitt i annonsen for å omgå kjøperbeskyttelsen. Det er også forbudt å bruke fraktomkostninger eller andre metoder for å unngå å betale Traderas avgifter. En annen forbudt praksis er å ha en annen pris for forsendelse og forsendelsesmaterialer i beskrivelsen enn i annoncens forsendelsesfelt.
+URL: https://info.tradera.com/da/freight-and-shipping-fees/
+
+QUESTION: Hva er tillatte forsendelsesmuligheter på Tradera?
+ANSWER: Tillatte forsendelsesmuligheter på Tradera inkluderer å angi de totale fraktkostnadene i den riktige feltet, og å tydeliggjøre hvis deler av fraktkostnadene er for materialer og administrasjon. Det er tillatt å bruke reservasjonspris som en tilføyelse i annonsen, og også å tydeliggjøre hvilke forsendelsesmaterialer som betales for. Man kan kun bruke integrerte betalingsalternativer.
+URL: https://info.tradera.com/da/freight-and-shipping-fees/
+
+QUESTION: Hva er en påmindelsesavgift på Tradera?
+ANSWER: En påmindelsesavgift på Tradera er en avgift som noen selgere kan legge til for ubetalte varer. Det er imidlertid ikke tillatt å kreve inn slike avgifter hvis du er en selger på Tradera.
+URL: https://info.tradera.com/da/freight-and-shipping-fees/
+
+QUESTION: Kan selgere kreve mer ved PayPal-betaling på Tradera?
+ANSWER: Selgere kan ikke kreve mer ved PayPal-betaling på Tradera. Prisene i annonsen skal være de samme som på PayPal.
+URL: https://info.tradera.com/da/freight-and-shipping-fees/
+
+QUESTION: Kan man ha et minstepris i annonsen på Tradera?
+ANSWER: Det er ikke tillatt å ha et minste beløp i din annonse hvis du ikke har tilføyd "Reservasjonspris". 
+URL: https://info.tradera.com/da/freight-and-shipping-fees/
+
+QUESTION: Hvordan kan jeg handle på Tradera?
+ANSWER: For å handle på Tradera må du først finne varen du ønsker å kjøpe ved å søke på siden eller ved å bla gjennom kategoriene eller populære varemerker. Deretter kan du klikke på "Kjøp nå" eller "Legg i handlekurv" og følge instruksjonene for å fullføre kjøpet.
+URL: https://info.tradera.com/da/how-to-buy/
+
+QUESTION: Hvilke kategorier finnes på Tradera?
+ANSWER: På Tradera finner man en rekke kategorier, inkludert mote, elektronikk, hjem og hage, sport og fritid, samleobjekter, og mye mer. 
+URL: https://www.tradera.com/
+
+QUESTION: Hva er noen populære varemerker på Tradera?
+ANSWER: Populære varemerker på Tradera varierer, men kan inkludere merker som Gucci, Louis Vuitton, Apple, Samsung, Ikea og Marimekko.
+URL: https://www.tradera.com/
+
+QUESTION: Hvordan kan jeg selge på Tradera?
+ANSWER: For å selge på Tradera må du først opprette en konto og deretter opprette en annonse med beskrivelse, bilder og pris på varen du ønsker å selge. Deretter kan du være tilgjengelig for spørsmål fra potensielle kjøpere og fullføre salget hvis noen kjøper varen din. 
+URL: https://info.tradera.com/da/how-to-sell/
+
+QUESTION: Hva er Tradera fragtberegner?
+ANSWER: Tradera fragtberegner er et verktøy for å beregne fraktkostnader for sendelser som selgeren vil sende til kjøperen. 
+URL: https://www.tradera.com/fragt-beregnere/fragt-beregner

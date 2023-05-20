@@ -1,0 +1,39 @@
+QUESTION: Vilka begagnade underkläder är tillåtna att sälja på Tradera?
+ANSWER: Begagnade badkläder, begagnade behåar och begagnade tygblöjor som har tvättats ordentligt får säljas på Tradera. Nya underkläder är också tillåtna att sälja.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begagnade-underklader/
+
+QUESTION: Kan företag sälja på Tradera?
+ANSWER: Ja, företag kan sälja på Tradera. Det finns en egen sida för företag som samtidigt fungerar som en butik.
+URL: https://info.tradera.com/salj/salj-som-foretag/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är ett alternativ till traditionella transportsätt och innebär att paketet levereras till ett ombud som faller inom samma tider som butiken/kontoret/hemmet.
+URL: https://info.tradera.com/salj/sa-saljer-du-som-privatperson/#gron-frakt
+
+QUESTION: Kan jag donera pengar till välgörenhet genom Tradera?
+ANSWER: Ja, du kan donera pengar till välgörenhet genom Tradera. Tradera Donation tillåter säljare att donera en del av eller hela försäljningspriset av en vara till någon av de ca 50 organisationerna som står i samarbete med Tradera Donation.
+URL: https://www.tradera.com/donation
+
+QUESTION: Vad är "Så handlar du på Tradera"?
+ANSWER: "Så handlar du på Tradera" är en sida på Tradera där användare kan lära sig hur man köper på Tradera, från att hitta produkten till att betala för den och ta emot den.
+URL: https://info.tradera.com/kop/sa-handlar-du-pa-tradera/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Det finns många populära varumärken på Tradera, men några exempel är Filippa K, Odd Molly och Gant. 
+URL: https://www.tradera.com/popular_brands
+
+QUESTION: Vilka kontaktalternativ finns tillgängliga om jag har problem med min beställning?
+ANSWER: Om du har problem med din beställning kan du ta kontakt med Traderas kundtjänst genom kontaktformuläret eller via telefon. 
+URL: https://www.tradera.com/kontakt
+
+QUESTION: Vad är Traderas användaravtal?
+ANSWER: Traderas användaravtal är en juridisk överenskommelse mellan Tradera och användarna. Användarna måste godkänna avtalet för att kunna använda sig av Traderas tjänster. 
+URL: https://www.tradera.com/anvandaravtal
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy är en beskrivning av hur Tradera hanterar användarnas personliga data. 
+URL: https://www.tradera.com/integritetspolicy
+
+QUESTION: Vad är Traderas policy när det gäller cookies?
+ANSWER: Tradera använder cookies för att analysera trafik och anpassa innehåll och annonser. Användare kan ändra sina cookie-inställningar eller läsa mer om cookies på Traderas webbplats. 
+URL: https://www.tradera.com/cookies

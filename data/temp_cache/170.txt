@@ -1,0 +1,41 @@
+QUESTION: Vad är fördelarna med att använda Tradera för att hantera betalningar som säljare?
+ANSWER: Fördelen med att använda Tradera för att hantera betalningar som säljare är att det är säkert och bekvämt för både köpare och säljare. Som säljare kan du hantera alla dina betalningar på ett ställe och få hjälp med påminnelser om betalningar om köparen inte betalar inom utsatt tid.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vad är steget för att betala som köpare på Tradera?
+ANSWER: Steget för att betala som köpare på Tradera är att bekräfta köpet och sedan få ett mail med en länk till betalningen.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+
+
+QUESTION: Vad händer om köparen inte betalar inom 3 dagar?
+ANSWER: Om köparen inte betalar inom 3 dagar skickas en påminnelse med automatik ut till köparen.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vilket betalningsalternativ kan inte hanteras automatiskt av Tradera?
+ANSWER: Betalningar direkt till dig via Swish kan inte hanteras automatiskt av Tradera.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vad kan man göra med Fraktkalkylatorn på Tradera?
+ANSWER: Med Fraktkalkylatorn på Tradera kan man räkna ut fraktkostnaden för ett föremål.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vilken typ av säljare kan använda Tradera?
+ANSWER: Både privatpersoner och företag kan sälja på Tradera.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vilka typer av varumärken är populära på Tradera?
+ANSWER: Det finns många populära varumärken på Tradera, men vilka som är mest populära varierar över tid.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vilka typer av fraktalternativ finns på Tradera?
+ANSWER: På Tradera finns det flera olika fraktalternativ, inklusive Grön frakt som är ett miljövänligt alternativ.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Vad kan man göra med Tradera Butik?
+ANSWER: Med Tradera Butik kan säljare skapa en egen butik på Tradera och sälja flera olika produkter.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION: Var kan man hitta vanliga frågor och svar om Tradera?
+ANSWER: Vanliga frågor och svar om Tradera finns på hemsidan under fliken "Vanliga frågor och svar".
+URL: https://info.tradera.com/ny-checkout-kopare/

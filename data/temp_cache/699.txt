@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftet med de olika typerna av cookies på Tradera?
+ANSWER: Syftet med de olika typerna av cookies på Tradera är att göra sidan mer prestandavänlig, användarvänlig och anpassa användarupplevelsen. 
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vilka inställningar kan sparas på Tradera med hjälp av funktionella cookies?
+ANSWER: Vissa sparade inställningar eller inloggning med Facebook kan sparas på Tradera med hjälp av funktionella cookies.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är funktionen av marknadsförings-cookies på Tradera?
+ANSWER: Marknadsförings-cookies på Tradera används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Är det möjligt att stänga av de cookies som används för Tradera?
+ANSWER: De cookies som används för Tradera kan inte stängas av eftersom de är nödvändiga för att sidan ska fungera.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är syftet med prestanda-cookies på Tradera?
+ANSWER: Syftet med prestanda-cookies på Tradera är att samla in anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Kan användare anpassa Tradera med hjälp av cookies?
+ANSWER: Ja, användare kan anpassa Tradera och få utökad funktionalitet med hjälp av funktionella cookies. 
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är den svenska översättningen för cookies?
+ANSWER: Den svenska översättningen för cookies är "kakor".
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Varför används cookies på Tradera?
+ANSWER: Cookies används på Tradera för att göra sidan mer prestandavänlig, användarvänlig och anpassa användarupplevelsen.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Vad är syftet med att använda annonseringspartners på Tradera?
+ANSWER: Syftet med att använda annonseringspartners på Tradera är för riktade annonser relevanta för användare.
+URL: https://info.tradera.com/salja-pa-tradera/
+
+QUESTION: Hur hjälper cookies Tradera att förbättra användarupplevelsen?
+ANSWER: Genom att använda cookies för att samla in anonym mätning av hur Tradera används kan Tradera förbättra användarupplevelsen. 
+URL: https://info.tradera.com/salja-pa-tradera/

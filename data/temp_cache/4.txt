@@ -1,0 +1,39 @@
+QUESTION: Vilka handlingar är förbjudna enligt Traderas användaravtal?
+ANSWER: Enligt informationen i texten är det förbjudet att utföra vissa handlingar som kan skada Traderas användares intressen eller tillgångar, inklusive att distribuera virus eller skada Traderas infrastruktur.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna exportera eller återexportera någon av Traderas applikationer?
+ANSWER: Enligt användaravtalet får användarna exportera eller återexportera Traderas applikationer endast i enlighet med de exportkontrollregler som gäller för jurisdiktionen och i enlighet med de regler och begränsningar som anges på webbplatsen.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna använda automatiserade metoder för att få tillgång till Traderas tjänster?
+ANSWER: Nej, användarna får inte använda automatiserade metoder såsom skrapning, robotar eller spindlar för att få tillgång till Traderas tjänster för något ändamål, enligt användaravtalet.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna lägga en orimligt stor belastning på Traderas infrastruktur?
+ANSWER: Nej, enligt Traderas användaravtal är det förbjudet att hindra eller störa hur deras tjänster fungerar eller att lägga en orimligt stor belastning på deras infrastruktur.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna kopiera Traderas verk, fotografier, varumärken eller annat innehåll?
+ANSWER: Nej, enligt texten får användarna inte kopiera eller tillgängliggöra Traderas verk, fotografier, bilder, varumärken, texter eller annat innehåll, hänförligt till Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna framföra något innehåll från Tradera utan tidigare skriftligt samtycke?
+ANSWER: Nej, enligt användaravtalet får användarna inte kopiera, reproducera, ändra, bearbeta, översätta, överföra, allmänt tillgängliggöra eller framföra något innehåll från Tradera, Traderas tjänster eller tredje part, utan att i förväg inhämta uttryckligt skriftligt samtycke från Tradera eller berörd tredje man.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna distribuera kedjebrev eller pyramidspel på Traderas plattform?
+ANSWER: Nej, enligt texten är det förbjudet att distribuera kedjebrev eller pyramidspel på Traderas plattform.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna använda teknik som kan skada Tradera eller dess användares intressen eller tillgångar?
+ANSWER: Nej, enligt användaravtalet är det förbjudet att använda teknik som kan skada Tradera eller dess användares intressen eller tillgångar.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: I vilka jurisdiktioner gäller reglerna kring export av Traderas applikationer?
+ANSWER: Enligt Traderas användaravtal gäller reglerna kring export av Traderas applikationer enligt exportkontrollreglerna som är relevanta för berörd jurisdiktion.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Får användarna kringgå Traderas skydd mot automatiserade metoder?
+ANSWER: Nej, enligt sin användaravtal är det förbjudet att kringgå Traderas skydd mot automatiserade metoder.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/

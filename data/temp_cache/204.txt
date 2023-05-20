@@ -1,0 +1,39 @@
+QUESTION: Vad är SMS-koder?
+ANSWER: SMS-koder är en extra form av säkerhet som används av Tradera för att säkerställa att det är rätt person som loggar in på sitt konto. När du loggar in på ditt Tradera-konto får du en SMS-kod som du behöver ange för att få tillgång till kontot.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Hur kan jag skydda mig själv på Tradera?
+ANSWER: Du kan skydda dig själv på Tradera genom att vara försiktig med dina personliga koder, lösenord och BankID. Det är också viktigt att inte lämna ut dina personliga uppgifter till någon annan och vara uppmärksam på bedrägeriförsök.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad är fördelarna med Tradera?
+ANSWER: Fördelarna med att använda Tradera är att du kan sälja och köpa en mängd olika produkter till rimliga priser. Tradera ger även säljarna möjlighet att sälja sina produkter på ett tryggt sätt och köpare kan betala säkert med en rad olika betalsätt.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad är Traderabetalning?
+ANSWER: Traderabetalning är ett integrerat betalsätt som används på Tradera. När säljare väljer att använda Traderabetalning behöver de inte göra någonting för att köpare ska kunna betala. Köpare kan betala automatiskt via webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad är Swish-betalningar på Tradera?
+ANSWER: Swish-betalningar på Tradera är ett betalsätt som säljare kan välja att använda. Köparna behöver bara ange säljarens Swish-nummer för att kunna genomföra betalningen utanför Tradera. För vissa Swish-betalningar fyller Tradera automatiskt i betalinformationen åt dig.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vilka betalsätt kan jag använda på Tradera?
+ANSWER: Du kan använda en rad olika betalsätt på Tradera, inklusive Traderabetalning, banköverföring, Swish och PayPal.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Varför är det viktigt att ha säkra lösenord på Tradera?
+ANSWER: Det är viktigt att ha säkra lösenord på Tradera för att skydda ditt konto från obehörig åtkomst. Det är också viktigt att använda olika lösenord för olika konton för att hindra någon från att få tillgång till alla dina konton om ett lösenord skulle bli stulet.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vilka samarbeten har Tradera?
+ANSWER: Tradera har samarbeten med olika företag, inklusive PostNord och Klarna. Dessa samarbeten gör det möjligt för säljare att skicka produkter till köpare och för köpare att betala på ett tryggt sätt.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad händer om jag lämnar ut mina personliga koder, lösenord och BankID på Tradera?
+ANSWER: Om du lämnar ut dina personliga koder, lösenord och BankID på Tradera kan någon annan få tillgång till ditt konto och använda det obehörigt. Det är därför viktigt att inte lämna ut dina personliga uppgifter till någon annan.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vilka avtal och villkor har Tradera?
+ANSWER: Tradera har ett användaravtal, en integritetspolicy och betalningsvillkor som alla användare måste följa. Dessa avtal och villkor är utformade för att skydda både köpare och säljare på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/

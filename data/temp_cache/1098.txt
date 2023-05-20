@@ -1,0 +1,41 @@
+QUESTION: Vad är Köpförfrågan på Tradera?
+ANSWER: Köpförfrågan är en ny funktion som låter köpare skicka en förfrågan till säljaren om att köpa varan även fast annonsen har avslutats utan att ha blivit såld. Detta innebär fler köpbara annonser på Tradera och ger både köpare och säljare en extra chans till affär.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vilken typ av annons har tillgång till Köpförfrågan funktionen på Tradera?
+ANSWER: Köpförfrågan funktionen är i dagslägen endast tillgänglig för auktioner som har ett köp nu-pris. Auktion eller fastpris-annonser har inte tillgång till funktionen än.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Hur kan jag skicka en Köpförfrågan till en säljare på Tradera?
+ANSWER: För att skicka en Köpförfrågan, klicka på annonsen och välj ”skicka Köpförfrågan”-knappen. Då skickas en förfrågan till säljaren om att köpa varan.
+
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Kan jag skicka en Köpförfrågan angående en annons som inte har ett köp nu-pris?
+ANSWER: Nej, i dagsläget är det bara annonser som har både auktion och ett köp nu-pris som är tillgängliga att skicka Köpförfrågan på. Annonsformat som endast är auktion eller fastpris har ännu inte tillgång till funktionen.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vilken är fördelen med att använda Köpförfrågan på Tradera?
+ANSWER: Köpförfrågan ger både köpare och säljare en extra chans till affär, vilket innebär fler köpbara annonser på Tradera och bättre chanser att göra en köpaffär.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vad sker när jag skickar en förfrågan med Köpförfrågan funktionen?
+ANSWER: En förfrågan skickas då till säljaren om att köpa varan via Tradera innan annonsen tar slut. Säljaren kan själv avgöra om den vill sälja varan via köpförfrågan eller inte. Om säljaren accepterar, kommer en köpknapp aktiveras på annonsen och köparen kan genomföra köpet.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Hur många gånger kan jag skicka en köpförfrågan för en specifik annons?
+ANSWER: Det finns ingen begränsning på antalet köpförfrågningar som köparen kan skicka till säljaren för en specifik annons.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Hur fungerar Köpförfrågan för säljare på Tradera?
+ANSWER: Om säljaren får en köpförfrågan från en potentiell köpare och väljer att acceptera den, aktiveras en köplänk på annonsen. Om köparen väljer att köpa varan via köplänken, går säljaren vidare med att skicka varan till köparen samt får betalning från Tradera.
+
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vad händer om säljaren accepterar min köpförfrågan på Tradera?
+ANSWER: Om säljaren accepterar din Köpförfrågan, kommer en köpknapp aktiveras på annonsen och du kan genomföra köpet.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Kan jag använda Köpförfrågan funktionen när jag bor utomlands på Tradera?
+ANSWER: Ja, Köpförfrågan funktionen fungerar oavsett var du befinner dig och var säljaren som du skickar en förfrågan till bor.
+URL: https://info.tradera.com/kopforfragan/

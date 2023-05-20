@@ -1,0 +1,39 @@
+QUESTION 1: Vad är nödvändiga cookies?
+ANSWER: Nödvändiga cookies på Tradera är de som krävs för att sidan ska fungera korrekt och dessa kan inte stängas av.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 2: Vad är syftet med prestanda-cookies på Tradera?
+ANSWER: Prestanda-cookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 3: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 4: Vad är marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av annonspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 5: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de är nödvändiga för att sidan ska fungera korrekt.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 6: Vad är syftet med att godkänna cookies på Tradera?
+ANSWER: Syftet med att godkänna cookies på Tradera är att ge Tradera tillstånd att använda cookies på användarens enhet.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 7: Hur kan prestanda-cookies förbättra användarupplevelsen på Tradera?
+ANSWER: Prestanda-cookies på Tradera mäter anonymt hur Tradera används och därmed kan Tradera förbättra användarupplevelsen baserat på dessa mätningar.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 8: Vilka cookies används för anonym mätning av Tradera?
+ANSWER: Prestanda-cookies på Tradera används för anonym mätning av sidan.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 9: Vilka cookies används för utökad funktionalitet på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION 10: Vad händer om man inte godkänner cookies på Tradera?
+ANSWER: Om man inte godkänner cookies på Tradera kommer Tradera inte att använda cookies på användarens enhet och därmed kommer sidan inte att fungera fullt ut.
+URL: https://info.tradera.com/kopforfragan/

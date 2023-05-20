@@ -1,0 +1,39 @@
+QUESTION: Vad ska jag göra om jag inte kan logga in på mitt konto?
+ANSWER: Om du inte kan logga in på ditt konto, kan du kontakta Traderas kundservice för att få hjälp.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Vad är inloggningstiden på Tradera?
+ANSWER: Om du klickar på ”Fortsätt vara inloggad” förlänger du din inloggningstid med en vecka och behöver inte logga in vid varje besök.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Hur loggar jag in på mitt konto på Tradera?
+ANSWER: Du loggar in på Tradera genom att klicka på länken här och sedan skriver du in din e-postadress och ditt lösenord.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Vad ska jag göra om jag har glömt min e-postadress och inte kan logga in?
+ANSWER: Om du har glömt din e-postadress eller inte längre har tillgång till den e-postadress du angav på ditt konto på Tradera, behöver du kontakta deras kundservice för att komma vidare.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Vad ska jag göra om jag har glömt mitt lösenord till mitt Tradera-konto?
+ANSWER: Du kan beställa ett nytt lösenord genom att klicka här. Du kan där ange din mejladress för att återställa ditt lösenord.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Kan jag använda BankID för att logga in på mitt Tradera-konto?
+ANSWER: Ja, du kan använda BankID för att logga in på ditt konto på Tradera.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Kan jag använda SMS för att logga in på mitt Tradera-konto om jag inte har tillgång till min e-postadress?
+ANSWER: Ja, du kan använda SMS för att logga in på ditt konto på Tradera. Följ instruktionerna här för att få tillgång till ditt konto och uppdatera till din nya e-postadress i Mitt Tradera.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Hur länge är mitt lösenord giltigt på Tradera?
+ANSWER: Det finns ingen information om hur länge ens lösenord på Tradera är giltigt. Det rekommenderas dock att byta lösenord regelbundet av säkerhetsskäl.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Vad händer om jag glömmer bort mina inloggningsuppgifter på Tradera?
+ANSWER: Om du glömmer bort dina inloggningsuppgifter på Tradera kan du beställa nya genom att klicka här. Alternativt kan du kontakta deras kundservice för hjälp.
+URL: https://info.tradera.com/problem-med-inloggning/
+
+QUESTION: Kan jag ha flera olika e-postadresser kopplade till mitt Tradera-konto?
+ANSWER: Det finns ingen information om man kan ha flera olika e-postadresser kopplade till sitt konto på Tradera. Det rekommenderas att du kontaktar deras kundservice om du behöver hjälp med att uppdatera din e-postadress.
+URL: https://info.tradera.com/problem-med-inloggning/

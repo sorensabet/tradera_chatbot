@@ -1,0 +1,39 @@
+QUESTION: Vilka kategorier finns tillgängliga på Tradera? 
+ANSWER: Det finns inga specifika kategorier som anges i texten som länkas, men Tradera har ett brett utbud av varor, inklusive kläder, skor, elektronik, heminredning och mycket mer som användare kan bläddra igenom och söka efter. 
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Hur fungerar betalningen på Tradera?
+ANSWER: Texten nämner att du kan välja att inte betala direkt vid köpet, men ändå förbinder dig att betala för varan senare. Det finns ingen ytterligare information som beskriver hur betalningen faktiskt går till. Användarna kan antingen läsa mer om detta på Traderas webbplats eller kontakta supporten för mer information. 
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Kan man handla varor från populära varumärken på Tradera?
+ANSWER: Ja, enligt texten finns det en sida på Tradera som tillhandahåller en lista över populära varumärken som användare kan bläddra igenom och söka efter varor från. 
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är en funktion som Tradera erbjuder för att skapa en miljövänligare hantering av frakter och paket på Tradera. 
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Hur säljer man varor på Tradera som privatperson?
+ANSWER: Texten nämner att Tradera har en sida som ger information om hur man säljer varor på Tradera som privatperson. Det bästa alternativet vore att besöka den sidan för mer information om processen. 
+URL: https://info.tradera.com/salj-som-privatperson/
+
+QUESTION: Vad är skillnaden mellan att sälja varor som privatperson och som företag på Tradera?
+ANSWER: Denna fråga besvaras direkt i texten, där två olika sidor beskrivs som ger information om att sälja på Tradera som antingen privatperson eller som företag. 
+URL: https://info.tradera.com/salj-som-privatperson/  & https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Finns det någon fraktkalkylator på Tradera som man kan använda för att beräkna fraktkostnaderna?
+ANSWER: Ja, Tradera har en fraktkalkylator på sin webbplats som användare kan använda för att beräkna kostnaden för att skicka varor till olika platser i Sverige. 
+URL: https://info.tradera.com/fraktkalkylatorn/
+
+QUESTION: Kan man starta en butik på Tradera?
+ANSWER: Det nämns inget i texten om att man kan starta en butik på Tradera. Användare kan dock sälja varor på Tradera antingen som privatperson eller som företag. 
+URL: https://info.tradera.com/salj-som-privatperson/  & https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Kan man donera pengar till välgörenhet genom Tradera?
+ANSWER: Det nämns inget i texten om att man kan donera pengar till välgörenhet genom Tradera, men användarna kan kontakta supporten för mer information om detta. 
+URL: https://info.tradera.com/ny-checkout/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy beskriver hur Tradera samlar in, använder och skyddar användarnas personuppgifter på sin webbplats. Mer information om detta är tillgängligt via länken som anges i texten. 
+URL: https://info.tradera.com/integritetspolicy/

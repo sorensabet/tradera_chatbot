@@ -1,0 +1,39 @@
+QUESTION: Vad är autobud?
+\ANSWER: Autobud är en funktion som tillåter dig att sätta ett högsta budbelopp som kommer att höjas automatiskt om någon annan överbudar dig. På Tradera försäkrar autobud att du vinner en auktion, så länge att slutpriset inte överstiger ditt högsta budbelopp.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Hur fungerar budsteg?
+\ANSWER: Budsteget reglerar det minsta ökningssättet för bud under en auktion. Tradera har fastställt budstegen baserat på den aktuella budsumman och kan variera från 1 krona till 500 kronor. En budgivare kan inte lägga ett bud mindre eller mer än budsteget.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad är ett reservationspris?
+\ANSWER: Reservationspriset är det lägsta belopp som en säljare går med på att sälja en vara för. Säljare kan sätta ett dolt reservationspris, vilket innebär att de reserverar att sälja varan för mindre än detta belopp. Om ett bud är lägre än säljarens reservationspris, kommer en notis att visas och reservationen har inte uppnåtts.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan någon se mitt autobud?
+\ANSWER: Nej, ingen annan kan se ditt högsta autobud på en auktion. Detta hjälper till att förhindra att andra budgivare vet hur mycket du är villig att betala för en vara.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan jag öka mitt autobud när som helst under auktionen?
+\ANSWER: Ja, du kan ändra eller höja ditt autobud när som helst under en pågående auktion. Det högsta autobudet som du har satt kommer att vara det nya maxbeloppet för auktionsbudet.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Varför bör jag använda autobud?
+\ANSWER: Att använda autobud kan hjälpa dig att säkra vinsten i en auktion, eftersom det automatiskt höjer ditt budbelopp om någon överträffar ditt nuvarande högsta bud. Detta sparar tid och minimerar risken för att du missar chansen att köpa varan.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad händer om mitt autobud är högst?
+\ANSWER: Om inga andra bjudare överträffar ditt autobud, vinner du auktionen till det lägsta möjliga priset. Ifall det är fler än ett autobud till det högsta priset, så vinner den första autobudgivaren auktionen som bokfördes.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan jag ta tillbaka mitt autobud?
+\ANSWER: Nej, när ett autobud läggs kan det inte återkallas och du kan inte lägga ett lägre bud. Det är viktigt att noga tänka igenom innan man sätter ett högsta autobudbelopp på en auktion eftersom man är bunden till det.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad händer om jag är den högsta budgivaren vid auktionens slut, men mitt bud är lägre än reservationspriset?
+\ANSWER: Om ditt bud är lägre än säljarens reservationspris, kommer meddelande att visas och reservationen har inte uppnåtts. I det här fallet kommer varan inte säljas till dig, även om du är den högsta budgivaren. 
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Hur kan jag öka mina chanser att vinna en auktion?
+\ANSWER: Att lägga ett autobud är det mest effektiva sättet att öka dina chanser att vinna en auktion. Andra sätt att öka dina chanser inkluderar att lägga bud strax före auktionens slut och att vara uppmärksam på andra budgivares beteenden under auktionen.
+URL: https://info.tradera.com/shoppa/

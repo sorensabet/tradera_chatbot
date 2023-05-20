@@ -1,0 +1,39 @@
+QUESTION: Kan Tradera använda mina personuppgifter för att skräddarsy vissa tjänster eller användarupplevelser bättre för mig? 
+\ANSWER: Ja, Tradera kan använda dina personuppgifter för att skräddarsy vissa tjänster eller användarupplevelser för att bättre matcha dina intressen, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Använder Tradera mina personuppgifter för att tillhandahålla anpassade annonser på tredje parts webbplatser?
+\ANSWER: Ja, Tradera kan komma att använda dina personuppgifter och annan information som samlats in enligt deras integritetspolicy för att tillhandahålla anpassade annonser, funktioner eller erbjudanden till dig på tredje parts webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken typ av spårningsteknik skulle Tradera kunna använda för att tillhandahålla online-tjänster?
+\ANSWER: Tradera skulle komma att använda cookies och annan spårningsteknik för att tillhandahålla online-tjänster, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag välja att dela min platsinformation genom Traderas tjänster?
+\ANSWER: Ja, du kan välja att dela din platsinformation genom Traderas tjänster och på så sätt få platsspecifika valmöjligheter, funktioner eller erbjudanden till dig, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur använder Tradera min information för att öka webbplatsernas och tjänsternas säkerhet?
+\ANSWER: Tradera använder din information för att öka webbplatsernas och tjänsternas säkerhet genom att använda denna information till att tillhandahålla platsbaserade tjänster såsom annonsering, sökresultat och annat anpassat innehåll, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera använda min information att föreslå kontakter mellan mig och personer jag kanske känner?
+\ANSWER: Ja, Tradera kan använda din information som du har delat med tjänsten för att föreslå kontakter mellan dig och personer du kanske känner, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka typer av personuppgifter behandlar Tradera?
+\ANSWER: De personuppgifter som Tradera kan behandla inkluderar bland annat namn, adress, e-postadress, telefonnummer, köp- och försäljningshistorik, betalningsinformation och teknisk information som enhets-ID och IP-adress, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur använder Tradera mina personuppgifter för att tillhandahålla personanpassade tjänster som erbjuds av Tradera på tredje parts webbplatser och onlinetjänster?
+\ANSWER: Tradera använder dina personuppgifter för att tillhandahålla personanpassade tjänster som erbjuds av Tradera på tredje parts webbplatser och onlinetjänster genom att skräddarsy vissa tjänster eller användarupplevelser för att bättre matcha dina intressen, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Använder Tradera mina personuppgifter för att dela med sig till andra företag?
+\ANSWER: Ja, Tradera kan behandla dina personuppgifter för att tillhandahålla produkter och tjänster från andra företag, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kommer andra tredje parter att använda min information när jag väljer att dela min platsinformation med Tradera?
+\ANSWER: Andra tredje parter, såsom annons- eller analysföretag, kan komma att använda din information när du väljer att dela din platsinformation med Tradera, enligt deras integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

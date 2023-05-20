@@ -1,0 +1,39 @@
+QUESTION: What is combined shipping on Tradera?
+ANSWER: Combined shipping is a feature on Tradera that allows buyers to purchase multiple items from the same seller and pay for them in one shipment. The seller can also set a combined shipping cost for the items.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: How can a buyer request a combined shipping price on Tradera?
+ANSWER: A buyer can request a combined shipping price on Tradera by clicking on the "Request combined shipping price" button in the checkout or by contacting the seller once they are done shopping.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: What is the benefit of offering combined shipping on Tradera?
+ANSWER: The benefit of offering combined shipping on Tradera is that it encourages buyers to purchase multiple items from the same seller, which can increase sales and save on shipping costs.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: How can a seller set the combined shipping cost on Tradera?
+ANSWER: Once a seller receives a request for a combined shipping cost on Tradera, they can go to the sold items list to enter the shipping cost for the order. This will notify the buyer that the shipping cost is set and that it's time to pay for the order. 
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: How do buyers receive recommendations for other listings when using combined shipping on Tradera?
+ANSWER: When a seller uses combined shipping on Tradera, customers will receive recommendations of other listings that the seller currently has for sale. This will be displayed on the listing pages, in e-mails, and in the checkout.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: How are sold items displayed on Tradera when a buyer has won several listings within the combined shipping period?
+ANSWER: When a buyer has won several listings within the combined shipping period on Tradera, they will be displayed as one order in the updated sold items list, giving a better overview of orders from the same buyer. 
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: What should a seller do if they don't see the orders in the My Tradera sold items list after a buyer has won several listings?
+ANSWER: If a seller doesn't see the orders in the My Tradera sold items list after a buyer has won several listings within the combined shipping period, they should make sure that the display mode is set to normal in the sold items list.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: Can a buyer request a combined shipping price on Tradera after they have already paid for the purchased item(s)?
+ANSWER: A buyer cannot request a combined shipping price on Tradera after they have already paid for the purchased item(s). They must request it before paying for the order.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: How does a seller know when the buyer has requested a combined shipping price or when the time is up on Tradera?
+ANSWER: A seller will receive a notification on Tradera that prompts them to enter a shipping cost for the order when the buyer requests a combined shipping price or when the time is up.
+URL: https://info.tradera.com/en/samfrakt-saljare/
+
+QUESTION: Can a seller change the shipping cost to 0 on Tradera when they agree to a pick up?
+ANSWER: Yes, a seller can change the shipping cost to 0 on Tradera if they agree to a pick up of the order. 
+URL: https://info.tradera.com/en/samfrakt-saljare/

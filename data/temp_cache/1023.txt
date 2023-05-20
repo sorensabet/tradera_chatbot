@@ -1,0 +1,39 @@
+QUESTION: Vad händer om jag delar mitt Tradera-lösenord med någon annan?
+ANSWER: Om du delar ditt Tradera-lösenord med någon annan så är du ansvarig för all aktivitet som sker på ditt konto. Om du förlorar kontrollen över ditt lösenord, så förlorar du också kontrollen över dina personuppgifter. Vid eventuell förlust av kontroll över ditt lösenord bör du omedelbart informera Tradera och ändra ditt lösenord. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur kan jag ändra mina personuppgifter på Tradera?
+ANSWER: Du kan logga in på Tradera och ändra de flesta av dina personuppgifter i dina kontoinställningar. Vid felaktiga eller ändrade uppgifter bör du omedelbart uppdatera dina personuppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan jag i vissa fall inte ha rätt att ändra eller ta bort något som jag publicerat på Tradera?
+ANSWER: Ja, i vissa fall kan du inte ha möjlighet att ändra eller ta bort det du publicerat på Tradera. Dock kommer Tradera att uppfylla de rättigheter som du kan ha enligt lag vad avser möjligheten att begära rättelse eller radering av dina personuppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Var sparar Tradera mina personuppgifter?
+ANSWER: Tradera sparar och behandlar dina personuppgifter på sina servrar i Sverige och på annat håll i världen. De åtar sig också att tillhandahålla lämpligt skydd för dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information kan jag se, granska och ändra hos Tradera?
+ANSWER: Du kan se, granska och ändra de flesta av dina personuppgifter genom att logga in på Tradera. Du kan ändra dina personuppgifter i dina kontoinställningar. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan någon annan agera på mitt konto om jag förlorar kontrollen över mitt lösenord?
+ANSWER: Ja, om du förlorar kontrollen över ditt Tradera-lösenord kan någon annan agera på ditt konto, och du blir ansvarig för all aktivitet som sker på ditt konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad händer om mina personuppgifter är felaktiga?
+ANSWER: Om dina personuppgifter är felaktiga och vid en eventuell förändring bör du omedelbart uppdatera dina personuppgifter för att ha korrekt information om dig själv. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera lämna ut mina personuppgifter till tredje part?
+ANSWER: Ja, Tradera kan lämna ut dina personuppgifter till tredje part. Dock så görs det inte utan ditt förutgående samtycke eller enligt lagkrav. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Behandlas mina personuppgifter på ett säkert sätt av Tradera?
+ANSWER: Ja, Tradera åtar sig att tillhandahålla lämpligt skydd för dina personuppgifter oavsett var i världen dina personuppgifter hanteras och förvaras. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad ska jag göra om jag vill radera mina personuppgifter från Tradera?
+ANSWER: Om du vill radera dina personuppgifter från Tradera kan du begära rättelse eller radering av dina personuppgifter enligt Traderas uppfyllande av lagen. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

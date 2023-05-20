@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av material kan inte säljas på Tradera om det är skyddat av upphovsrätt men säljaren inte själv har skrivit?
+ANSWER: Konserter PDF-filer eller skivor med inskannade sidor ur en bok, tidning, handbok eller annat skrivet material som är skyddat av upphovsrätt men som säljaren inte själv har skrivit, kan inte säljas på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/
+
+QUESTION: Får man sälja en väska märkt med varumärket Chanel på Tradera?
+ANSWER: Ja, det är tillåtet att sälja en väska märkt med varumärket Chanel på Tradera förutsatt att den är producerad av Chanel och därmed äkta.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/
+
+QUESTION: Vad är kraven för att få sälja en utskriven kopia av ett foto på Tradera?
+ANSWER: Kravet för att få sälja en utskriven kopia av ett foto på Tradera är att du äger rättigheterna till att sälja objektet vidare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/
+
+QUESTION: Finns det restriktioner för att sälja en utskriven kopia av ett foto på Tradera?
+ANSWER: Ja, det finns restriktioner för att sälja en utskriven kopia av ett foto på Tradera, men detaljerna om dessa restriktioner anges inte i texten.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/
+
+QUESTION: Erbjuder Tradera gröna fraktkostnader?
+ANSWER: Ja, Tradera erbjuder gröna fraktkostnader.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/
+
+QUESTION: Kan man sälja på Tradera som privatperson?
+ANSWER: Ja, man kan sälja som privatperson på Tradera.
+URL: https://info.tradera.com/salj/salj-som-privatperson/
+
+QUESTION: Kan man sälja på Tradera som företag?
+ANSWER: Ja, det är möjligt att sälja på Tradera som företag.
+URL: https://info.tradera.com/salj/salj-som-foretag/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg där man kan beräkna fraktkostnaden för en försändelse.
+URL: https://info.tradera.com/salj/saljdinvara/fraktkalkylatorn/?gclsrc=aw.ds&&gclid=CjwKCAjw57b3BRBlEiwA1Imytv5lrEJUNKcF29_4AWt6uB1WI4cIArkWS5U-y7pJMn1zKN97WbhjhoCQVIQAvD_BwE
+
+QUESTION: Vad är Donera med Tradera?
+ANSWER: Donera med Tradera är ett initiativ där Tradera, i samarbete med Röda Korset, ger användare möjlighet att donera pengar till Röda Kronans katastroffond genom att sälja saker på Tradera.
+URL: https://www.tradera.com/donera
+
+QUESTION: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/cookies/

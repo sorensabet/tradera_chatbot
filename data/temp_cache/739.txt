@@ -1,0 +1,39 @@
+QUESTION: Who can sell on Tradera through a business account?
+ANSWER: All companies can sell on Tradera through a business account
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the purpose of the store subscription limitations?
+ANSWER: The store subscription limitations are there to limit store subscriptions to businesses that sell used and second-hand products as Tradera is primarily a circular marketplace. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How are the settings that apply to your store and the publication of store listings handled?
+ANSWER: The settings that apply to your store and the publication of store listings are handled through Sello.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What are the benefits of having a store in Tradera? 
+ANSWER: Having a store in Tradera provides benefits such as having your alias be searchable in the search field on Tradera's home page, the opportunity to add more information about you as a seller and your company in the tabs for conditions of sales and contact information, and more control over settings that apply to your store and the publication of store listings via Sello.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the minimum commission fee for all store subscription types?
+ANSWER: The minimum commission fee for all store subscription types is 2.40 SEK.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the monthly fee for XS store subscriptions with no binding period?
+ANSWER: The monthly fee for XS store subscriptions with no binding period is 295 SEK.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the difference between a Collector Store and a Handmade & crafts store?
+ANSWER: A Collector Store is for store listings with second-hand items or unused items of collector’s value that cannot be bought new today, while a Handmade & crafts store is for handmade and craft items. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How many store listings are allowed for a Handmade & crafts store subscription?
+ANSWER: Handmade & crafts store allows up to 10,000 store listings. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the commission fee for store listings with items sold for 30 SEK or below only?
+ANSWER: A commission of 12% applies to store listings with items sold for 30 SEK or below only.
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What is the monthly fee for a Minimum Price Store subscription with a 12-month agreement?
+ANSWER: The monthly fee for a Minimum Price Store subscription with a 12-month agreement is 155 SEK.
+URL: https://info.tradera.com/en/foretag/

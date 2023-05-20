@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med exempelbilderna som visas i texten?
+ANSWER: Syftet med exemplen är att visa hur man kan lägga till flera länkar till bilder som finns online och som ska kopplas till annonser på Tradera.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Hur lång är den här annonsen?
+ANSWER: Annonslängden är 5 dagar enligt exemplet i bilden.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad betyder 'kategori-id' när man fyller i annonser på Tradera?
+ANSWER: Kategori-id är ett unikt identifieringsnummer för varje kategori på Tradera som används för att klassificera produkter i rätt kategori. Detta fält måste fyllas i när man skapar en annons på Tradera.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Var kan man hitta kategori-id för en specifik kategori på Tradera?
+ANSWER: Man kan hitta kategori-id enkelt genom att gå till den önskade kategorin och titta på ID:t som finns i URL-fältet. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken typ av pris anges som heltal utan decimaler i annonserna på Tradera?
+ANSWER: Både utropspris och köp nu-pris anges i heltal utan decimaler på Tradera.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad är en accepterad budgivare när det gäller annonser på Tradera?
+ANSWER: Accepterade budgivare bestämmer vilken region varan ska säljas till och är en siffra som motsvarar ett specifikt geografiskt område. 1 står för Sverige, 3 för hela världen och 4 för EU.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad innebär "auktion" som annonstyp på Tradera?
+ANSWER: Auktion är en annonstyp där köparna kan bjuda på produkten, och den som lägger det högsta budet vinner auktionen när auktionen avslutas.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken typ av bilder kan länkas till annonserna på Tradera?
+ANSWER: Man kan länka till offentligt tillgängliga bilder online, till exempel bilder på andra webbplatser eller i molntjänster. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Kan man ange fler än en bild för samma annons på Tradera?
+ANSWER: Ja, man kan lägga till flera länkar till bilder online, med kommatecken som separerar de olika länkarna.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad betyder "BuyNowPrice" när man fyller i en annons på Tradera?
+ANSWER: BuyNowPrice är det pris som en säljare anger som det pris som köparen kan köpa produkten direkt utan att behöva bjuda i en auktion.
+URL: https://info.tradera.com/prolister/csv/

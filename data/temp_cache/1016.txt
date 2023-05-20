@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av teknik kan vi använda för att leverera anpassade annonser, funktioner eller erbjudanden till användare på tredje parts webbplatser?
+ANSWER: Vi kan använda cookies och andra spårningsteknik för att leverera anpassade annonser, funktioner eller erbjudanden till användare på tredje parts webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad kan vi göra med platsinformation som användare delar med Tradera?
+ANSWER: Om användare väljer att dela sin platsinformation med Tradera kan vi använda den för att leverera platsbaserade tjänster såsom annonsering, sökresultat och annat anpassat innehåll.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av information kan vi använda för att föreslå personer som användare kanske vill handla med genom Tradera?
+ANSWER: Vi kan använda information som vi samlar in om användaren genom deras och deras kontakters användning av Tradera och information som användaren och andra tillhandahåller för att föreslå personer som användaren kanske känner eller vill handla med genom Traderas tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad kan användare förvänta sig när det gäller säkerhet på Tradera?
+ANSWER: Vi använder information som användare delar med tjänsten för att öka webbplatsernas och tjänsternas säkerhet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av information kan vi använda för att föreslå kontakter mellan användare och personer de kanske känner?
+ANSWER: Vi kan använda information som användare delar med tjänsten för att föreslå kontakter mellan användare och personer de kanske känner. Vi kan associera information om användare genom deras och deras kontakters användning av tjänsterna och information som användare och andra tillhandahåller för att föreslå personer som användaren kanske känner eller vill handla med genom Traderas tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradera använda användarnas information för att hjälpa dem att hitta och få kontakt med andra personer?
+ANSWER: Ja, vi kan använda användarnas information för att göra det lättare för dem att hitta och få kontakt med andra personer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av tredje parter kan Tradera samarbeta med för att tillhandahålla onlinetjänster?
+ANSWER: Vi kan samarbeta med andra tredjepartsföretag såsom annons- eller analysföretag för att tillhandahålla onlinetjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare välja att inte dela sin platsinformation med Tradera på tjänsterna?
+ANSWER: Ja, användare kan välja att inte dela sin platsinformation med Tradera på tjänsterna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är syftet med att använda sociala nätverkstjänster och funktioner på Tradera?
+ANSWER: Syftet med sociala nätverkstjänster och funktioner på Tradera är att förenkla användarnas användning av tjänsterna med andra.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare få platsbaserade erbjudanden via Tradera?
+ANSWER: Ja, om användare väljer att dela sin platsinformation med Tradera kan de få platsbaserade erbjudanden via Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

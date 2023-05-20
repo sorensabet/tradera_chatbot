@@ -1,0 +1,39 @@
+QUESTION 1: Vilka personuppgifter används av Tradera för annonseringsändamål?
+ANSWER: Tradera använder information om dina sparade inställningar eller inloggning med Facebook för annonseringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION 2: Varför behöver jag ange personuppgifter på Tradera?
+ANSWER: Du behöver ange personuppgifter på Tradera för att kunna handla, sälja och kommunicera med andra användare på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/personuppgifter-pa-tradera/
+
+QUESTION 3: Kan jag ändra mina personuppgifter på Tradera?
+ANSWER: Ja, du kan enkelt ändra dina personuppgifter på din Tradera-profil.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/personuppgifter-pa-tradera/
+
+QUESTION 4: Vilka regler gäller för vilseledande rubriker och objektsbeskrivningar på Tradera?
+ANSWER: Tradera har regler som förbjuder användare att publicera vilseledande rubriker och objektsbeskrivningar på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION 5: Hur hanterar Tradera bedrägeri på plattformen?
+ANSWER: Tradera har säkerhetsåtgärder och regler på plats för att minska bedrägeririsker på plattformen. Användare uppmanas också att vara vaksamma och rapportera eventuella bedrägeriförsök.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/bedrageri-pa-tradera/
+
+QUESTION 6: Kan jag begära återbetalning om jag köper en vara på Tradera som inte matchar beskrivningen?
+ANSWER: Ja, som köpare har du rätt att begära återbetalning om den vara du köpt från en säljare inte stämmer överens med beskrivningen.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/kop-och-salj-pa-tradera/konsumentratt-pa-tradera/
+
+QUESTION 7: Vad ska jag göra om en säljare inte levererar min beställning på Tradera?
+ANSWER: Om en säljare inte levererar din beställning som utlovat ska du kontakta säljaren först. Om du inte får en tillfredsställande lösning, kan du eskalera ärendet till Tradera-kundtjänst.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/kop-och-salj-pa-tradera/koparens-rattigheter-och-skyldigheter/
+
+QUESTION 8: Kan jag sälja förfalskade varor på Tradera?
+ANSWER: Nej, försäljning av förfalskade varor är förbjudet på Tradera och kan leda till både avstängning och rättsliga åtgärder.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-av-forfalskade-varor/
+
+QUESTION 9: Hur fungerar betalningen på Tradera?
+ANSWER: Betalningen på Tradera sker vanligtvis via Traderas betalningslösning eller genom direktöverföring till säljarens bankkonto.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/kop-och-salj-pa-tradera/betalning-pa-tradera/
+
+QUESTION 10: Vad kan jag göra om jag inte är nöjd med en vara jag köpt på Tradera?
+ANSWER: Om du inte är nöjd med en vara du köpt på Tradera kan du kontakta säljaren för att diskutera en lösning. Om ni inte når en överenskommelse kan du få hjälp av Tradera att lösa tvisten.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-tradera/kop-och-salj-pa-tradera/kundtjanst-och-tvistelosning/

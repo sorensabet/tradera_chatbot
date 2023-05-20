@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med guiden?
+ANSWER: Syftet med guiden är att visa köpare hur flödet ser ut när man handlar på Traderas nya checkout.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 2: Vad är det första steget i Traderas nya checkout?
+ANSWER: Det första steget i Traderas nya checkout är att bekräfta köpet från varukorgen.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 3: När skickas köparen vidare till checkout?
+ANSWER: Köparen skickas vidare till checkout direkt efter att man har klickat på bekräfta köp.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 4: Vad innebär det att bekräfta köpet på Traderas nya checkout?
+ANSWER: Att bekräfta köpet på Traderas nya checkout innebär att man förbinder sig att betala för varan/varorna.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 5: Vilka funktioner kommer att lanseras under våren på Traderas nya samfraktslösning?
+ANSWER: Fler funktioner kommer att lanseras under våren på Traderas nya samfraktslösning, bland annat en ny såldalista, inställningar för samfrakt m.m.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 6: Vilka är målgruppen för guiden om Traderas nya checkout?
+ANSWER: Målgruppen för guiden om Traderas nya checkout är främst riktad till köpare som har en butik på Tradera.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 7: Vad händer efter att man har bekräftat köpet på Traderas nya checkout?
+ANSWER: Direkt efter att man har bekräftat köpet på Traderas nya checkout skickas man vidare till betalningen.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 8: Vad är Traderas nya samfraktslösning?
+ANSWER: Traderas nya samfraktslösning är en kommande funktion som kommer att lanseras under våren och innebär inställningar för samfrakt och en ny såldalista.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 9: Vad är flödet för köparen på Traderas nya checkout?
+ANSWER: Flödet för köparen på Traderas nya checkout är att först bekräfta köpet från varukorgen och sedan skickas vidare till betalningen.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 10: Finns det fler steg än bekräfta köp och betalning på Traderas nya checkout?
+ANSWER: Nej, i dagsläget finns det bara två steg på Traderas nya checkout - bekräfta köp och betalning. Fler funktioner kommer att lanseras under våren.
+URL: https://info.tradera.com/ny-checkout-kopare/

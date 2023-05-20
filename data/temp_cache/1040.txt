@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att använda cookies på Traderas webbplats?
+ANSWER: Syftet med att använda cookies på Traderas webbplats är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Vad är Traderas syfte med att dela information om användning av webbplatsen med sina partners?
+ANSWER: Traderas syfte med att dela information om användning av webbplatsen med dess partners är för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Kan cookies stängas av på Traderas webbplats?
+ANSWER: Nej, cookies som är nödvändiga för att Tradera ska fungera kan inte stängas av.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Vad används prestandacookies för på Traderas webbplats?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Vilken användning har funktionella cookies på Traderas webbplats?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Varför används marknadsföringscookies på Traderas webbplats?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Kan användare ändra inställningar för cookies på Traderas webbplats?
+ANSWER: Ja, användare kan ändra sina inställningar för cookies på Traderas webbplats.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Var kan användare hitta mer information om cookies på Traderas webbplats?
+ANSWER: Användare kan läsa mer om cookies och dess användning på Traderas webbplats genom att klicka på länken "Läs mer" under rubriken "Vad är det här?".
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Varför behöver Tradera använda cookies för att analysera webbplatsens trafik?
+ANSWER: Tradera behöver använda cookies för att analysera webbplatsens trafik för att förbättra användarupplevelsen och säkerställa att besökare får tillgång till önskat innehåll.
+URL: https://info.tradera.com/en/tvist-kopare/
+
+QUESTION: Vilka funktioner kan Facebook-användare få tillgång till på Traderas webbplats?
+ANSWER: Facebook-användare kan logga in på Traderas webbplats med hjälp av sin Facebook-profil för att få tillgång till utökad funktionalitet och användaranpassning, t.ex. vissa sparade inställningar.
+URL: https://info.tradera.com/en/tvist-kopare/

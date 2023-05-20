@@ -1,0 +1,39 @@
+QUESTION: Vad händer om avgiften för frakten är mer än den beräknade fraktavgiften?
+ANSWER: Om avgiften för frakten är mer än den beräknade fraktavgiften, kommer mellanskillnaden att debiteras dig i efterhand, till exempel genom att adderas till din nästkommande faktura från Tradera. 
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilket avtal gäller för fraktens betalning?
+ANSWER: Betalning av frakten ska ske i enlighet med betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Var kan jag hitta mer information om PostNord?
+ANSWER: Om du letar efter mer information om PostNord kan du besöka deras FAQ sektion genom att klicka på länken som finns på denna sida. 
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad ingår i avtalet med Tradera när jag beställer frakt för mitt föremål?
+ANSWER: Genom att beställa frakt för ditt föremål via Traderas webbplats ingår du avtal med Tradera gällande Traderas administration av bland annat din beställning och information om frakten till köpare av ditt föremål på Traderas webbplats. 
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka villkor gäller för Traderas administration av frakten?
+ANSWER: För Traderas administration av frakten gäller villkoren i Traderas Användaravtal. 
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka produktspecifika villkor tillämpas för frakttjänsten hos PostNord?
+ANSWER: För frakttjänsten tillämpas PostNord's vid var tid gällande produktspecifika villkor som du godkänner i samband med din beställning av frakttjänsten.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka allmänna kundvillkor tillämpas för PostNords produkter?
+ANSWER: För PostNords produkter tillämpas PostNords vid varje tidpunkt gällande allmänna kundvilkor ("PAKN").
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Hur betalar jag för beställd frakt?
+ANSWER: Du betalar för beställd frakt direkt till Tradera. 
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilken betydelse har informationen jag fyller i om mitt föremål på Traderas webbplats för beräkning av fraktavgiften?
+ANSWER: Informationen du fyller i om ditt föremål på Traderas webbplats utgör underlag för beräkning av fraktavgiften. Ifall du fyller i felaktig information gällande till exempel mått eller vikt, kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften. 
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilket ansvar har jag om jag fyller i felaktig information om mitt föremål på Traderas webbplats?
+ANSWER: Om du fyller i felaktig information gällande exempelvis mått eller vikt kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften. Det är ditt ansvar att se till att informationen du fyller i är korrekt. 
+URL: https://info.tradera.com/fraktvillkor/

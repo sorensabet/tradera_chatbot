@@ -1,0 +1,39 @@
+QUESTION: Kan Köparen begära återbetalning inom ramen för Traderas tvistlösningsförfarande?
+ANSWER: Nej, enligt texten har Köparen inte rätt till återbetalning inom ramen för Traderas tvistlösningsförfarande.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan beslutet som tas i en tvist mellan säljare och köpare överklagas till Tradera?
+ANSWER: Nej, Traderas beslut i ett ärende kan inte överklagas till Tradera, men det står Säljare och Köpare fritt att nå en annan lösning på en tvist i ett annat forum.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad åtar sig säljaren när denne accepterar Traderas villkor?
+ANSWER: När säljaren accepterar Traderas villkor åtar denne sig att acceptera villkoren för Traderas köparskydd och tvistlösningsförfarande enligt vid var tid gällande villkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om säljaren inte besvarar köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera?
+ANSWER: Om säljaren inte besvarar köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera kan Tradera komma fram till att köparen ska ha rätt till återbetalning för en vara utan att säljaren har yttrat sig. Om säljaren redan har fått betalt kan Tradera sedan skicka faktura till säljaren på återbetalningsskyldigt belopp, och säljaren är då skyldig att betala detta belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka åtaganden måste säljaren uppfylla i förhållande till Traderas köparskydd oavsett vilket betalsätt som köparen har valt att betala genom?
+ANSWER: Enligt texten måste säljaren uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som köparen har valt att betala genom.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan Tradera komma att skicka faktura till säljaren på återbetalningsskyldigt belopp?
+ANSWER: Ja, om säljaren inte har besvarat köparens klagomål kan Tradera komma att skicka faktura till säljaren på återbetalningsskyldigt belopp, och säljaren är då skyldig att betala detta belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur ska säljaren besvara köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera?
+ANSWER: Enligt texten ska säljaren besvara köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera utan dröjsmål, och säljaren måste även delge Tradera de svar och underlag som Tradera efterfrågar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka villkor och procedurer måste säljaren acceptera enligt Traderas köparskydd och tvistlösningsförfarande?
+ANSWER: Enligt texten måste säljaren acceptera villkoren för Traderas köparskydd och tvistlösningsförfarande enligt vid var tid gällande villkor, och åtar sig att besvara köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är säljarens åtaganden i förhållande till köparskydd enligt Tradera?
+ANSWER: Enligt texten ska säljaren besvara köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera utan dröjsmål, och säljaren måste även delge Tradera de svar och underlag som Tradera efterfrågar. Säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som köparen har valt att betala genom.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka lösningar står säljare och köpare fritt att nå på en tvist enligt Tradera?
+ANSWER: Enligt texten står säljare och köpare fritt att nå en annan lösning på en tvist i ett annat forum om de inte är överens med Traderas beslut i ett ärende.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

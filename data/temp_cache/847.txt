@@ -1,0 +1,39 @@
+QUESTION: Vad är varselperioden som Tradera talar om i texten?
+ANSWER: Varselperioden som Tradera talar om i texten är den tidsperiod under vilken Tradera måste informera användarna om ändringar i användaravtalet.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Gäller varselperioden om Tradera har en rättslig skyldighet som kräver en ändring av villkoren på ett visst sätt?
+ANSWER: Nej, varselperioden gäller inte om Tradera omfattas av en rättslig skyldighet som kräver en ändring av villkoren på ett sätt som inte respekterar varselperioden.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om Tradera måste hantera en oförutsedd och överhängande fara?
+ANSWER: Om Tradera måste ändra sina villkor för att hantera en oförutsedd och överhängande fara i syfte att skydda Tjänsterna, konsumenter eller företagsanvändare från bedrägeri, sabotageprogram, skräppost, dataintrång eller andra it-säkerhetsrisker, gäller inte varselperioden.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Om jag vill rapportera intrång i mina immateriella rättigheter på Tradera, vad ska jag göra?
+ANSWER: Om du vill rapportera intrång i dina immateriella rättigheter på Tradera ska du meddela deras team via Verified Right Owner (VeRO) Program.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilket är syftet med Verified Right Owner (VeRO) Program på Tradera?
+ANSWER: Syftet med Verified Right Owner (VeRO) Program på Tradera är att säkerställa att föremål som erbjuds till försäljning inte gör intrång in upphovsrätt, varumärkesrätt eller andra immateriella rättigheter som tillhör tredje man.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan en person som inte är part till Användaravtalet framställa några krav enligt bestämmelserna i avtalet?
+ANSWER: Nej, en person som inte är part till Användaravtalet har inte rätt att framställa några krav enligt bestämmelserna i Användaravtalet, även om det inte begränsar någon av tredje mans rättigheter som framgår av detta Användaravtal.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Innebär detta Användaravtal ett partnerskap mellan parterna?
+ANSWER: Nej, detta Användaravtal innebär inte och ingår inte något agentavtal, partnerskap, anställningsförhållande eller franchiseavtal mellan parterna.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Är Tradera bunden av några rättsliga skyldigheter som ska följas enligt Användaravtalet?
+ANSWER: Ja, Tradera är bunden av rättsliga skyldigheter som ska följas enligt Användaravtalet.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Syftar Traderas samarbete med rättighetsinnehavare till att undvika intrång i upphovsrätt?
+ANSWER: Ja, Traderas samarbete med rättighetsinnehavare, Verified Right Owner (VeRO) Program, syftar till att säkerställa att föremål som erbjuds till försäljning inte gör intrång in upphovsrätt, varumärkesrätt eller andra immateriella rättigheter som tillhör tredje man.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilket är syftet med att Tradera hanterar en oförutsedd och överhängande fara?
+ANSWER: Tradera hanterar en oförutsedd och överhängande fara i syfte att skydda Tjänsterna, konsumenter eller företagsanvändare från bedrägeri, sabotageprogram, skräppost, dataintrång eller andra it-säkerhetsrisker.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION: What are the available payment methods when buying an item at Tradera?
+ANSWER: The available payment methods when buying an item at Tradera are card payment, PayPal, ApplePay, and Google Pay. These payment methods are provided by third parties with whom Tradera cooperates for this purpose and are under the supervision of the Swedish Financial Supervisory Authority or its foreign counterparts. The payment methods are offered by these payment solution providers and they decide which payment methods they want to offer you.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the payout solution offered by Tradera?
+ANSWER: Tradera offers a payout solution for sellers, which allows the seller to be paid through Tradera's payout solution in the event of a sale on Tradera's platform. However, the seller must comply with Tradera's terms and conditions and use its checkout solution when selling on Tradera's platform. The seller cannot claim payment in any way other than through the options available through Tradera's checkout solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can the seller receive payment for the buyer's option of using Tradera's checkout solution?
+ANSWER: No, the seller is not entitled to receive payment for the buyer's option of using Tradera's checkout solution. The seller can only claim payment through the options available through Tradera's checkout solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What payment methods are presented in Tradera’s checkout solution?
+ANSWER: The payment methods presented in Tradera’s checkout solution include card payment, PayPal, ApplePay, and Google Pay. The buyer must comply with the terms and conditions applicable to the chosen payment method, which have been provided by a third party.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can the seller be paid through any means other than Tradera's payout solution?
+ANSWER: No, the seller cannot claim payment in any way other than through the options available through Tradera's checkout solution when selling on Tradera's platform. The seller must use Tradera's checkout solution to be paid through its payout solution in the event of a sale on Tradera's platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Who decides which payment methods are available through Tradera's checkout solution?
+ANSWER: The payment solution providers offered by Tradera decide which payment methods they want to offer to buyers, which include card payment, PayPal, ApplePay, and Google Pay. These payment methods are under the supervision of the Swedish Financial Supervisory Authority or its foreign counterparts.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What fees can be refunded to a buyer when a purchase is cancelled on Tradera's platform?
+ANSWER: In the event of a purchase being cancelled, an amount may be refunded to the buyer, which consists of part or all of the transaction, any fees charged to Tradera in connection with the transaction, including shipping charges for the return of a product, and charges imposed on Tradera for a transaction in relation to its partners such as PayPal, Klarna, Paynova, VISA, or MasterCard.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the buyer's responsibility when using a payment method offered by a third party in Tradera's checkout solution?
+ANSWER: The buyer must comply with the terms and conditions applicable to the chosen payment method offered by a third party, which have been provided by the third party offering the payment method. The buyer must also comply with the terms and conditions set forth by Tradera for its checkout solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Do sellers have to comply with Tradera's terms and conditions to use its payout solution?
+ANSWER: Yes, sellers must comply with Tradera's terms and conditions and use its checkout solution when selling on Tradera's platform to use its payout solution. The seller cannot claim payment in any way other than through the options available through Tradera's checkout solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Which financial authority supervises the payment methods offered by Tradera?
+ANSWER: The payment methods offered by Tradera are under the supervision of the Swedish Financial Supervisory Authority or its foreign counterparts. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

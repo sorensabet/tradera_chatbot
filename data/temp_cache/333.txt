@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies och liknande teknik på Tradera?
+ANSWER: Syftet med cookies och liknande teknik på Tradera är att lagra relevant information i din webbläsare eller enhet och senare använda den informationen för att identifiera dig i deras servrar eller interna system.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad händer om jag inte godkänner cookies eller liknande teknik på Tradera?
+ANSWER: Om du inte godkänner cookies eller liknande teknik på Tradera kan det innebära att du inte kan nyttja vissa funktioner, tjänster, program eller verktyg på webbplatsen. Du kan också behöva skriva in ditt lösenord upprepade gånger under ditt besök.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan jag blockera, ta bort eller inaktivera cookies eller liknande teknik på Tradera?
+ANSWER: Ja, du har alltid möjlighet att blockera, ta bort eller inaktivera cookies eller liknande teknik på Tradera om din webbläsare, dina applikationer eller din enhet så tillåter. För mer information om hur du blockerar, tar bort eller inaktiverar denna teknik hänvisas till din webbläsare eller enhetsinställningar.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Lagrar Tradera personuppgifter i sina cookies eller annan liknande teknik?
+ANSWER: Nej, Tradera lagrar inga personuppgifter i någon av sina cookies eller annan liknande teknik. Personuppgifter som samlas in och lagras när de använder denna teknik erhålls först efter information och samtycke.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur skyddar Tradera sina cookies och liknande teknik?
+ANSWER: Där det är möjligt skyddar Tradera sina cookies och liknande teknik för att se till att endast de och/eller de tjänsteleverantörer som de har godkänt kan tolka dem genom att tilldela dem en unik identifierare som gäller endast för dem.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken typ av information lagrar Tradera i min webbläsare eller enhet med hjälp av cookies och liknande teknik?
+ANSWER: Tradera lagrar relevant information i din webbläsare eller enhet med hjälp av cookies och liknande teknik. Denna information kan användas för att identifiera dig i deras servrar eller interna system.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur samlar Tradera in personuppgifter med hjälp av cookies och liknande teknik?
+ANSWER: Personuppgifter som Tradera samlar in och lagrar när de använder denna teknik erhålls först efter information och samtycke. Tradera får ditt samtycke genom att förse dig med tydlig information om användandet av denna teknik och genom att ge dig möjlighet att välja att inaktivera denna teknik.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Var kan jag hitta mer information om hur man blockerar, tar bort eller inaktiverar cookies eller liknande teknik?
+ANSWER: För mer information om hur du blockerar, tar bort eller inaktiverar cookies eller liknande teknik hänvisas till din webbläsare eller enhetsinställningar.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken konsekvens kan det ha om jag inte tillåter cookies eller liknande teknik på Tradera?
+ANSWER: Om du inte tillåter cookies eller liknande teknik på Tradera kan det innebära att du inte kan nyttja vissa funktioner, tjänster, program eller verktyg på webbplatsen och du kan behöva skriva in ditt lösenord upprepade gånger under ditt besök.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Spara Tradera personuppgifter med hjälp av cookies och liknande teknik?
+ANSWER: Nej, Tradera lagrar inga personuppgifter i någon av sina cookies eller annan liknande teknik. Personuppgifter som samlas in och lagras när de använder denna teknik erhålls först efter information och samtycke.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

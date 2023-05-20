@@ -1,0 +1,39 @@
+QUESTION: Vad handlar denna text om?
+ANSWER: Texten handlar om Traderas integritetspolicy och vilken personlig information de kan samla in från användare genom sociala medier och tredje part logins.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av personuppgifter kan Tradera samla in från tredje part webbplatser?
+ANSWER: Personuppgifterna som Tradera kan få tillgång till varierar beroende på webbplats och styrs av dina inställningar på den webbplatsen och ditt samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Varför samlar Tradera in personuppgifter?
+ANSWER: Tradera samlar in personuppgifter för att användarna ska få tillgång till webbplatserna, kunna använda deras tjänster, applikationer och verktyg, få kundservice och relevant information om kontot och tjänsterna, samt ge användarna en säker, problemfri, effektiv och anpassad upplevelse.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är en inloggningstjänst hos Tradera?
+ANSWER: En inloggningstjänst hos Tradera innebär att du kan använda tredje mans loginuppgifter för att få åtkomst till www.tradera.com och därtill anknutna webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare välja om de vill ge Tradera tillgång till personuppgifter från tredje mans webbplatser?
+ANSWER: Ja, användare kan välja att ge Tradera tillgång till vissa personuppgifter som lagras av webbplatser som drivs av tredje man. Dessa personuppgifter styrs av användarens inställningar på den aktuella webbplatsen och deras samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Samtycker en användare till att Tradera samlar in deras personuppgifter om de kopplar ett tredje parts konto till sitt Tradera-konto?
+ANSWER: Ja, om en användare kopplar ett konto som administreras av tredje man med sitt Tradera-konto och tillåter att Tradera får åtkomst till denna information, så samtycker användaren till att Tradera samlar in, använder och sparar information från dessa webbplatser i enlighet med denna Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken är syftet med att använda personuppgifter enligt Tradera?
+ANSWER: Syftet med att använda personuppgifter enligt Tradera är att erbjuda användarna en säker, problemfri, effektiv och anpassad upplevelse. De vill ge tillgång till webbplatserna och/eller tjänsterna, ge kundservice och relevant information om ditt konto och tjänsterna samt att kunna använda deras tjänster, applikationer och verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare insistera på att Tradera inte samlar in personuppgifter från tredje part webbplatser?
+ANSWER: Ja, användare kan välja att inte ge Tradera åtkomst till personuppgifter som lagras av tredje part webbplatser genom att inte ge sitt samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken typ av personuppgifter samlar Tradera in, om samtycke ges?
+ANSWER: Personuppgifterna som Tradera kan få åtkomst till varierar beroende på vilken webbplats användaren har gett samtycke till.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare själva välja vilka personuppgifter de vill ge Tradera åtkomst till?
+ANSWER: Ja, användare kan själva välja att ge Tradera åtkomst till vissa personuppgifter som lagras av webbplatser som drivs av tredje man. Personen styr detta genom inställningar på den aktuella webbplatsen och vilket samtycke användaren ger.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

@@ -1,0 +1,39 @@
+QUESTION: What are the conditions under which a buyer has buyer protection?
+ANSWER: A buyer has buyer protection under certain conditions which allows them to have disputes handled, and to have the amount they have paid in a transaction refunded.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What are the voluntary repayments that a seller can make to a buyer?
+ANSWER: If a transaction needs to be fully or partly repaid by the Seller due to an agreement between Seller and Buyer (e.g., the Buyer has been granted a right of return by the Seller), it is up to the Seller to pay back part or full amount to the Buyer up to 1000 SEK. The Seller must make refunds only through Tradera's payment solution, and not through other payment methods.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Is there a limit to the extent of refunds that a seller can make?
+ANSWER: Yes, the extent of refunds is limited, and the Seller may not refund transactions exceeding 1000 SEK. If the Seller needs to refund transactions in excess of 1000 SEK, they must first contact Tradera's customer service to receive instructions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Can the seller refund the agreed amount to the buyer through other payment methods?
+ANSWER: No, the Seller must make refunds only through Tradera's payment solution, and not through other payment methods.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is Tradera's prevailing Seller Protection?
+ANSWER: Tradera's prevailing Seller Protection is a policy that protects sellers by offering them reimbursement for certain losses they encounter such as unauthorized charges, credit card fraud, and other chargebacks.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Under what circumstances will transactions not be eligible for Seller Protection?
+ANSWER: Transactions that are not eligible for Seller Protection include transactions where the seller has not complied with the Terms and Conditions of Tradera's prevailing Seller Protection, if and when available, or transactions that are in violation of the Terms and Conditions, Tradera's User Agreement or Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Can a buyer use their statutory right of withdrawal against a seller who is conducting business activities?
+ANSWER: Yes, a buyer who is also a consumer can use their statutory right of withdrawal against a seller who is conducting business activities.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: How should disputes between a buyer and seller be handled?
+ANSWER: Under certain conditions, buyers have buyer protection which allows them to have disputes handled, and to have the amount they have paid in a transaction refunded. The seller undertakes to cooperate with Tradera in such matters and to respond to any inquiries and requests for information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is the maximum amount a seller can refund without contacting Tradera's customer service?
+ANSWER: The maximum amount a seller can refund without contacting Tradera's customer service is 1000 SEK.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Must a seller agree to the terms and conditions of Tradera's buyer protection and dispute settlement procedures?
+ANSWER: Yes, by accepting the Terms and Conditions of Tradera, the seller agrees to the terms and conditions of Tradera's buyer protection and dispute settlement procedures in accordance with the prevailing terms and conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

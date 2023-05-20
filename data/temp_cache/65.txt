@@ -1,0 +1,39 @@
+QUESTION: Vilken information samlar Tradera in från användare via sociala medier?
+ANSWER: Tradera samlar in information som lämnas till dem via sociala medier, såsom transaktionsrelaterad information baserat på aktiviteter på webbplatserna, leveransinformation, faktureringsinformation, betalningsinformation och annan information som användarna lämnar för köp eller leverans av en produkt. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan Tradera begära från användare för att verifiera deras identitet?
+ANSWER: Om Tradera behöver verifiera användarens identitet eller om de tror att användaren bryter mot deras regler kan de begära att användaren skickar ett identitetsbevis eller annan handling för att bekräfta sin identitet eller adress, eller besvara andra frågor för att bekräfta sin identitet eller att de äger en produkt som de säljer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan Tradera samla in från användare som använder deras mobilapplikation?
+ANSWER: Om en användare laddar ner eller använder Traderas mobilapplikationer eller besöker en av deras mobilanpassade webbplatser, kan Tradera samla in information om användaren och deras mobila enhet, som geolokaliseringsinformation.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av transaktionsrelaterad information samlar Tradera in från användare?
+ANSWER: Tradera samlar in transaktionsrelaterad information baserat på användarens aktiviteter på webbplatserna, såsom budgivning, köp, försäljning, annonsinformation och innehåll som användaren skapar eller som kan hänföras till deras konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information om leveranser samlar Tradera in från användare?
+ANSWER: Tradera samlar in leveransinformation, faktureringsinformation, betalningsinformation och annan information som användaren lämnar för köp eller leverans av en produkt samt, om leveranstjänster tillhandahålls genom ett av deras integrerade system, annan relevant leveransinformation (leveransstatus) som sparas av den valda leveransparten.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan användare lämna i samband med diskussioner i forum på Tradera?
+ANSWER: Användare kan lämna information i samband med diskussioner i forum, såsom korrespondens genom Traderas webbplatser eller korrespondens som skickas till dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan Tradera efterfråga för att verifiera användarnas identitet?
+ANSWER: Tradera kan begära information för att verifiera användarnas identitet, såsom att skicka ett identitetsbevis eller annan handling för att bekräfta identitet eller adress, eller besvara andra frågor för att bekräfta identitet eller att användaren äger en produkt som de säljer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken information kan Tradera begära om användaren bryter mot deras regler?
+ANSWER: Om Tradera tror att användaren bryter mot deras regler kan de begära ytterligare information för att verifiera användarens identitet eller egenarskap av en produkt som de säljer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information samlar Tradera inte in från användare?
+ANSWER: Det nämns inget i texten om vilken typ av information Tradera inte samlar in från användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken information kan Tradera samla in från användare om de laddar ner mobilapplikationen?
+ANSWER: Om en användare laddar ner eller använder Traderas mobilapplikationer eller besöker en av deras mobilanpassade webbplatser, kan Tradera samla in information om användaren och deras mobila enhet, som geolokaliseringsinformation.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

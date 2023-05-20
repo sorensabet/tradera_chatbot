@@ -1,0 +1,39 @@
+QUESTION: Vilka möjligheter finns det för Tradera att avsluta hela Tjänsten för en företagsanvändare utan varsel?
+ANSWER: Om avslutningen orsakas av en rättslig skyldighet som kräver att Tradera avslutar tillhandahållandet av hela sin Tjänst till en viss företagsanvändare på ett sätt som inte tillåter Tradera att respektera varseltiden eller Tradera utövar en rätt till avslutande av tvingande skäl enligt nationell lagstiftning som överensstämmer med EU-lagstiftningen, så gäller inte varseltiden på 30 dagar.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om en företagsanvändare vid upprepade tillfällen överträder de tillämpliga villkoren för användning av Tjänsterna?
+ANSWER: Om Tradera kan visa att den berörda företagsanvändaren vid upprepade tillfällen har överträtt de tillämpliga villkoren, vilket lett till att tillhandahållandet av hela Tjänsten i fråga avslutats, kan Tradera avsluta användningen av Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Är Tradera skyldig att förklara skälen för beslutet att avbryta, begränsa eller avsluta en företagsanvändares användning av Tjänsterna?
+ANSWER: Tradera är inte skyldig att tillhandahålla skälen för beslutet att avbryta, begränsa eller avsluta en företagsanvändares användning av Tjänsterna om Tradera har en rättslig skyldighet att inte tillhandahålla specifika fakta eller omständigheter eller hänvisningen till det eller de tillämpliga skälen, eller om Tradera kan visa att företagsanvändaren vid upprepade tillfällen har överträtt de tillämpliga villkoren.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är varseltiden för Tradera att avsluta en företagsanvändares användning av Tjänsterna?
+ANSWER: Varseltiden för Tradera att avsluta en företagsanvändares användning av Tjänsterna är normalt 30 dagar, men det finns undantag till detta om avslutningen orsakas av en rättslig skyldighet eller om Tradera utövar en rätt till avslutande av tvingande skäl enligt nationell lagstiftning som överensstämmer med EU-lagstiftningen.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är en företagsanvändare enligt Traderas användarvillkor?
+ANSWER: En företagsanvändare enligt Traderas användarvillkor är en användare som använder Tjänsterna i sitt yrkesmässiga eller affärsmässiga syfte.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Är det tillåtet för en företagsanvändare att använda Tjänsterna för privat bruk?
+ANSWER: Nej, en företagsanvändare får endast använda Tjänsterna i sitt yrkesmässiga eller affärsmässiga syfte.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan en företagsanvändare överlåta användningen av Tjänsterna till en annan person?
+ANSWER: Nej, en företagsanvändare får inte överlåta användningen av Tjänsterna till en annan person utan Traderas skriftliga samtycke.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Hur länge är en användares konto hos Tradera aktivt?
+ANSWER: En användares konto hos Tradera är aktivt tills det avslutas genom avregistrering eller avslutning av Tradera på grund av överträdelse av villkoren eller andra orsaker.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får en företagsanvändare använda Tradera för att sälja varor som är olagliga?
+ANSWER: Nej, en företagsanvändare får inte använda Tradera för att sälja varor som är olagliga eller bryter mot immateriella rättigheter.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka krav ställer Tradera på företagsanvändare för att de ska få använda Tjänsterna?
+ANSWER: Tradera ställer krav på företagsanvändare för att de ska få använda Tjänsterna, till exempel att de måste ha en giltig e-postadress och att använda Tjänsterna i sitt yrkesmässiga eller affärsmässiga syfte.
+URL: https://info.tradera.com/anvandaravtal/

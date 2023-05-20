@@ -1,0 +1,39 @@
+QUESTION: Varför är det otillåtet att använda varumärken eller namn som inte är kopplade till det sålda objektet på Tradera?
+ANSWER: Det är otillåtet att använda varumärken eller namn som inte är kopplade till det sålda objektet på Tradera för att undvika att skapa ett missvisande sökresultat och en försämrad sökupplevelse för köparen. Det kan också skapa problem för säljaren eftersom köparen kan förvänta sig att få ett annat objekt än det som faktiskt säljs.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Varför är det otillåtet att använda bilder utan tillstånd på Tradera?
+ANSWER: Det är otillåtet att använda bilder utan tillstånd på Tradera eftersom säljaren i sådana fall gör intrång i annans upphovsrätt. Det kan också leda till konsekvenser för säljaren, se mer information i avsnittet om märkeskopior, förfalskningar och andra kopior. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Vad är konsekvenserna av att använda bilder utan tillstånd eller att göra intrång i annans upphovsrätt på Tradera?
+ANSWER: Konsekvenserna av att använda bilder utan tillstånd eller att göra intrång i annans upphovsrätt på Tradera kan variera beroende på omfattningen av intrånget och eventuell återkommande överträdelse. Vid upprepade överträdelser kan det leda till att säljarens konto stängs av från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Vad händer om man bjuder på ett objekt på Tradera och senare ångrar sig?
+ANSWER: Bud på Tradera är bindande och om man bjuder på ett objekt och sedan ångrar sig kan det leda till att säljaren tar ut en obetalningsavgift eller att ens konto kan spärras. Det är därför viktigt att noga överväga sitt bud innan man lägger det.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan man sälja objekt utanför Tradera på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja objekt utanför Tradera på Tradera. Alla försäljningar måste ske inom Traderas regler och ramverk för att undvika eventuella bedrägerier eller problem för både köpare och säljare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vad är dropshipping på Tradera?
+ANSWER: Dropshipping på Tradera innebär att säljaren säljer produkter som de inte har på lager och som skickas direkt från producenten till köparen. Detta är inte förbjudet på Tradera, men säljaren måste vara tydlig med att det rör sig om dropshipping, eftersom det kan påverka leveranstiderna för köparen och skapa kundserviceproblem om det är otydligt vilken part som är ansvarig för eventuella problem.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är försäljning utanför Tradera?
+ANSWER: Försäljning utanför Tradera innebär att säljaren kommunicerar med köparen utanför Traderas plattform för att slutföra en försäljning. Detta är förbjudet på Tradera, eftersom det kan leda till bedrägerier eller problem för både köpare och säljare. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vad är ångerrätt på Tradera?
+ANSWER: Ångerrätt på Tradera innebär att köparen har rätt att ångra sitt köp och säljaren måste acceptera återbetalning av varan. Detta gäller om objektet inte är som beskrivet eller om det finns en defekt eller skada som inte har angivits i beskrivningen. Ångerrätten gäller även för försäljning av nya varor från företag, men inte för privatpersoner.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilka är följderna av att överträda reglerna om vilseledande rubriker och objektsbeskrivningar på Tradera?
+ANSWER: Följderna av att överträda reglerna om vilseledande rubriker och objektsbeskrivningar på Tradera kan variera beroende på omfattningen av överträdelsen och eventuell återkommande överträdelse. Vid upprepade överträdelser kan det leda till att säljarens konto stängs av från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Vad händer om man vägrar att sälja en vara till högsta budgivare på Tradera?
+ANSWER: Om man vägrar att sälja en vara till högsta budgivare på Tradera kan det leda till att konto spärras och eventuell obetalningsavgift. Bud på Tradera är bindande och det är viktigt att säljaren håller sig till detta för att undvika problem för köpare och säljare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/

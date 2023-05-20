@@ -1,0 +1,39 @@
+QUESTION: Vad händer när en tvist eskaleras till Tradera?
+ANSWER: När en tvist eskaleras till Tradera, kommer Tradera kontakta både köparen och säljaren för att skaffa sig en uppfattning om vad som har hänt. Tradera kan sedan komma att be båda parterna om underlag.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är köparen ansvarig för vid tvist?
+ANSWER: Köparen är ansvarig för att påvisa att det föreligger fel i den tjänst säljaren utfört eller den vara som säljaren har sålt, t.ex. med underlag bevisa att varan skiljer sig från säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om ett tvistlösningsförfarande inleds där köpet inte omfattas av Traderas köparskydd?
+ANSWER: Om köparen inleder ett tvistlösningsförfarande där köpet avser en produkt som inte omfattas av Traderas köparskydd, kommer Tradera att avsluta tvisten utan vidare undersökning och köparen har inte rätt till någon återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om ett tvistlösningsförfarande avslutas till köparens fördel?
+ANSWER: Om ett tvistlösningsförfarande avslutas till köparens fördel, har köparen rätt till återbetalning av, delar av eller hela, det belopp som köparen har betalat för en vara. Tradera kommer då att tillse att beloppet återbetalas till köparen och förbehåller sig rätten att fakturera säljaren återbetalningsskyldigt belopp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken information kan Tradera be om när en tvist eskaleras till dem?
+ANSWER: Tradera kan komma att be både köparen och säljaren om underlag, så som ytterligare dokumentation kring varan eller transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Hur agerar Tradera vid tvist om en produkt som inte omfattas av köparskyddet?
+ANSWER: Vid tvist om en produkt som inte omfattas av köparskyddet avslutar Tradera tvisten utan vidare undersökning och köparen har inte rätt till någon återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av produkter omfattas inte av Traderas köparskydd?
+ANSWER: Det framgår inte direkt i den givna texten vilken typ av produkter som inte omfattas av Traderas köparskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad innebär Traderas tvistlösningsförfarande?
+ANSWER: Traderas tvistlösningsförfarande innebär att Tradera kommer kontakta både köpare och säljare för att skaffa sig en uppfattning om vad som har hänt, och kan därefter be båda parter om underlag.  Om ett tvistlösningsförfarande avslutas till köparens fördel, har köparen rätt till återbetalning av, delar av eller hela, det belopp som köparen har betalat för en vara.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer vid tvistlösning om det krävs att belopp återbetalas till köparen?
+ANSWER: Vid tvistlösning kommer Tradera att tillse att beloppet återbetalas till köparen och förbehåller sig rätten att fakturera säljaren återbetalningsskyldigt belopp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan köparen få någon återbetalning om tvisten avslutas till köparens fördel?
+ANSWER: Ja, om ett tvistlösningsförfarande avslutas till köparens fördel har köparen rätt till återbetalning av, delar av eller hela, det belopp som köparen har betalat för en vara.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

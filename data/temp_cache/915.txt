@@ -1,0 +1,39 @@
+QUESTION: What is the transaction cost for payments made with Tradera's payment solution?
+ANSWER: The transaction cost for payments made with Tradera's payment solution is zero (0) SEK, provided that the Seller acts in accordance with the Terms and Conditions specified by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Will there be any additional fees payable to Tradera for the use of the payment solution besides the transaction cost?
+ANSWER: No, there will be no start-up, monthly, or annual fee payable to Tradera for the use of the payment solution, provided the Seller acts in accordance with these Terms and Conditions specified by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can Tradera invoice the Seller for a recoverable amount if the Seller does not act in accordance with these Terms and Conditions?
+ANSWER: Yes, if the Seller acts in a way that results in Tradera refunding Transactions to the Buyer according to these Terms and Conditions, Tradera may invoice the Seller for a recoverable amount.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera reserve the right to ownership of all intellectual property rights developed by Tradera?
+ANSWER: Yes, Tradera reserves the right to ownership of all intellectual property rights in everything developed by Tradera to which the Seller has access under the Terms and Conditions and on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can the Seller use anything that could be confused with Tradera's trademark?
+ANSWER: No, the Seller is not allowed to use any characters, logos, symbols, or anything else that could be confused with Tradera's trademark.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: To whom does Tradera's Privacy Policy apply to?
+ANSWER: Tradera's Privacy Policy applies to personal information handled by Tradera in connection with these Terms and Conditions. Personal data will also be handled independently by PayPal within the framework of the Hyperwallet service.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What will happen in the event that Tradera terminates Tradera's User Agreement or denies the Seller the right to sell additional goods on Tradera's Platform?
+ANSWER: These Terms and Conditions shall terminate, without obligation to Tradera for refund, in the event that Tradera terminates Tradera's User Agreement or denies the Seller the right to sell additional goods on Tradera's Platform under the terms and conditions set forth in Tradera's User Agreement. Upon termination of these Terms and Conditions, Tradera has the right to withhold all payments to the Seller until Tradera has verified the number of outstanding Transactions and all withdrawal periods have passed, or any suspected abuse of Tradera's payment solution has been investigated.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the responsibility of the Seller in regards to actions taken through the use of the Seller's unique login to Tradera?
+ANSWER: The Seller shall be responsible for all actions taken through the use of the Seller's unique login to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Will there be any liability from either party under the Terms and Conditions?
+ANSWER: The text does not provide an answer to this question.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What are the miscellaneous provisions listed under the Terms and Conditions?
+ANSWER: The miscellaneous provisions listed under the Terms and Conditions are specified under Section 11 of the text and include the Seller's responsibility for actions taken through the use of the Seller's unique login to Tradera, termination of these Terms and Conditions, and no liability of either party under the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

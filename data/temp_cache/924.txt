@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika transaktionerna som kan bryta mot Traderas villkor?
+ANSWER: De olika transaktionerna som kan bryta mot Traderas villkor inkluderar, men är inte begränsade till, transaktioner som kan misstänkas utgöra penningtvätt eller på annat sätt inte är affärsmässiga, transaktioner genom vilka säljaren bryter mot den lag som gäller vid leveransadressen, transaktioner som inte hanteras i enlighet med Traderas betalningsvillkor, och transaktioner som inte är tillåtna på Tradera. Andra transaktioner som kan bryta mot villkoren inkluderar transaktioner där säljaren inte följer Villkor för Traderas vid var tid gällande Säljarskydd, transaktioner där säljaren på något sätt bryter mot villkoren, transaktioner där köparen har använt sin lagstadgade ångerrätt gentemot en säljare som bedriver näringsverksamhet, transaktioner där säljaren i relation till köparen har använt sig av villkor som inte överensstämmer med de som tillhandahålls av Traderas betallösning, transaktioner som strider mot Traderas etiska policy och transaktioner som strider mot vid var tid gällande riktlinjer från samarbetspartners.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om en säljare inte följer villkoren för Traderas vid var tid gällande säljarskydd?
+ANSWER: Om en säljare inte följer Villkor för Traderas vid var tid gällande säljarskydd, om och när det finns tillgängligt, kan transaktioner som görs av säljaren anses bryta mot villkoren och vara ogiltiga. Detta betyder i praktiken att köpare kan ha rätt att få tillbaka sina pengar från säljaren eller att Tradera kan vidta andra åtgärder för att se till att köpare får fullständig kompensation för varor eller tjänster som de har betalat för men inte mottagit.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka transaktioner är inte tillåtna på Tradera?
+ANSWER: Transaktioner som inte är tillåtna på Tradera kan inkludera försäljning av produkter eller tjänster som är olagliga eller i strid med Traderas etiska policy. Detta inkluderar till exempel försäljning av alkohol, narkotika, vapen, pornografi och stulna varor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är ett beskrivningsfel som kan göra en säljare skyldig att ge köparen återbetalning?
+ANSWER: Ett beskrivningsfel kan omfatta en felaktig beskrivning av en produkt eller en ofullständig beskrivning av en produkt som leder till att köparen inte får vad denne förväntade sig när köpet gjordes. Om detta leder till att köparen returnerar produkten kan säljaren vara skyldig att ge köparen återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/saljarskydd/
+
+QUESTION: Vad ska man göra om man misstänker att en transaktion på Tradera kan utgöra penningtvätt?
+ANSWER: Om man misstänker att en transaktion på Tradera kan utgöra penningtvätt bör man rapportera detta till Tradera-teamet. Tradera följer internationella standarder för bekämpning av penningtvätt och finansiering av terrorism och arbetar nära myndigheter för att bekämpa dessa problem. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Är det säkert att köpa på Tradera?
+ANSWER: Företaget arbetar ständigt för att göra köp på Tradera så säkra som möjligt. De följer alltid internationella standarder för säkerhet och privatliv. Dessutom erbjuder de olika säkerhetsfunktioner, som exempelvis betalning via Tradera Checkout och möjligheter att lämna omdömen om säljarna. 
+URL: https://www.tradera.com/help/works
+
+QUESTION: Vad är "Traderas etiska policy"?
+ANSWER: Traderas etiska policy är en policy som anger vilka typer av varor som inte är tillåtna att sälja på Tradera. Dessa inkluderar bland annat försäljning av alkohol, narkotika, vapen, pornografi och stulna varor. Policytiden varierar beroende på vilket land och vilken kategori varor som omfattas.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Finns det något försäkringsskydd för köpare på Tradera?
+ANSWER: Ja, Tradera erbjuder ett särskilt säljarskydd som täcker ett antal olika situationer där köpare kan behöva skydd, till exempel om varan inte motsvarar produktbeskrivningen eller om den inte levereras till köparen. 
+URL: https://www.tradera.com/help/works
+
+QUESTION: Vad händer om köparen inte är nöjd med en produkt som de har köpt på Tradera?
+ANSWER: Om köparen inte är nöjd med en produkt som de har köpt på Tradera, kan de i vissa fall kontakta säljaren för att diskutera en lösning. Om detta inte fungerar kan köparen välja att öppna ett ärende hos Tradera och begära att få tillbaka pengarna. I sådana fall kan säljaren behöva bevisa att produkten levererades och motsvarade produktbeskrivningen.
+URL: https://www.tradera.com/help/works
+
+QUESTION: Vilka olika betalningsalternativ erbjuder Tradera?
+ANSWER: Tradera erbjuder flera olika betalningsalternativ, inklusive betalning via Tradera Checkout, Swish och banköverföring. Köpare och säljare uppmanas att använda Traderas betalningslösning för att ha tillgång till säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

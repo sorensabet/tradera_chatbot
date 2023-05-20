@@ -1,0 +1,39 @@
+QUESTION 1: Vilka sparade inställningar erbjuder Tradera?
+ANSWER: Tradera erbjuder vissa sparade inställningar som till exempel inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/
+
+QUESTION 2: Vad används marknadsföring för på Tradera?
+ANSWER: Marknadsföring används på Tradera för att skapa riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/
+
+QUESTION 3: Vilka är Traderas annonseringspartners?
+ANSWER: Traderas annonseringspartners är de som hjälper till att skapa riktade annonser på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/
+
+QUESTION 4: Har Tradera en tabell för avgifter?
+ANSWER: Ja, Tradera har en tabell för avgifter som är tillgänglig på deras hemsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/avgifter/
+
+QUESTION 5: Vad påverkas av momsen på Tradera?
+ANSWER: På Tradera påverkas endast Traderas säljaravgift av momsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/avgifter/
+
+QUESTION 6: Hur fungerar Traderas köp- och säljgaranti?
+ANSWER: Traderas köp- och säljgaranti innebär att köparen kan vara säker på att de får sin vara och att säljaren får betalt för varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/kop--och-saljgarantin/
+
+QUESTION 7: Vilka betalningsmetoder accepterar Tradera?
+ANSWER: Tradera accepterar betalningsmetoder som Swish, Banköverföring och Kortbetalning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/betalning/
+
+QUESTION 8: Kan man använda en presentkortskod på Tradera?
+ANSWER: Ja, man kan använda en presentkortskod på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/tjanster-och-presentkort/
+
+QUESTION 9: Hur lång tid tar det för Tradera att betala ut pengarna till säljaren?
+ANSWER: Tradera betalat ut pengarna till säljaren inom 5 bankdagar efter att varan har mottagits av köparen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/kop--och-saljgarantin/
+
+QUESTION 10: Vad ska man göra om man mottar en felaktig eller defekt vara på Tradera?
+ANSWER: Om man mottar en felaktig eller defekt vara på Tradera ska man ta kontakt med säljaren för att lösa problemet. Om man inte lyckas kan man öppna en reklamation för att få hjälp av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/kop-saljflowen-i-detalj/

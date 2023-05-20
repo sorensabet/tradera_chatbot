@@ -1,0 +1,39 @@
+QUESTION: What are the reasons that can lead Tradera to terminate a user's access to the service?
+ANSWER: Tradera can terminate a user's access to the service in whole or in part if the user is insolvent, in breach of the terms of the User Agreement, and Tradera's terms and conditions for payments or if the goods or services offered by the user are against Tradera's ethical guidelines.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: How will a business user know if their use of the Services has been suspended or restricted?   
+ANSWER: A decision to suspend or restrict a business user's use of the Services, in whole or in part, will be communicated to the concerned business user at the latest when the decision takes effect with a statement of the reasons for the decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the notice period for the termination of a business user's use of the Services by Tradera?
+ANSWER: Tradera will provide a notice period of 30 days to the concerned business user prior to the effective date of the termination with a statement of the reasons for the decision, except for certain cases explicitly mentioned in the User Agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What can a user do if they disagree with the decision to suspend or restrict their use of the Services?
+ANSWER: It is not mentioned in the context, but the user can appeal the decision in accordance with Tradera's complaint and appeal procedures as specified in the User Agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does Tradera provide any guidelines for ethical business practices?
+ANSWER: Yes, Tradera provides country-specific ethical guidelines that the user must follow while offering goods or services on its platform.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can Tradera withhold a user's right to sell further goods on the platform if they fail to follow the ethical guidelines?
+ANSWER: Yes, if the user offers goods or services contrary to Tradera's ethical guidelines or acts in a manner that goes against payment service terms that are relevant to Tradera, Tradera can withhold the user's right to sell further goods on the platform.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What information can Tradera obtain from the seller to determine a breach of the User Agreement?
+ANSWER: Tradera can obtain access information from the seller to determine whether the seller is in breach of the User Agreement, including Tradera's terms and conditions for payments depending on which terms and conditions for payments that apply.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can a business user request Tradera's ethical guidelines?
+ANSWER: Yes, Tradera's ethical guidelines can be provided upon request by the business user.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What actions can result in the termination of a user's access to Tradera's services?
+ANSWER: A user's access to Tradera's services can be terminated if they are insolvent, breach the terms of the User Agreement and Tradera's terms and conditions for payments, provide misleading or incomplete information, or act in a way that goes against credit/debit card companies' rules or any other applicable payment service terms that are relevant to Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What happens if a business user's access to the Services is terminated by Tradera?
+ANSWER: If a business user's access to the Services is terminated by Tradera, they will be notified at least 30 days prior to the effective date of the termination with a statement of the reasons for the decision. Unless certain specific cases apply, the notice period will not be applicable.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

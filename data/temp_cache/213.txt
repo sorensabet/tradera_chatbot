@@ -1,0 +1,39 @@
+QUESTION: Why is having a secure password important for a Tradera account?
+ANSWER: Having a secure password is important for a Tradera account as it protects the user from unauthorized access to their account.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: What are the tips for choosing a secure password for Tradera account?
+ANSWER: The tips for choosing a secure password for Tradera account are that the password should consist of at least 8-12 characters and contain both numbers, uppercase and lowercase letters and preferably characters such a s%, &, # and ?, never use any personal information such as your name or date of birth, avoid using the same or similar passwords as on other sites, and not to use your alias as a password.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: Can we use simple and easy to remember password for a Tradera account?
+ANSWER: Yes, we can use a simple method to generate a password that is both secure and easy to remember for a Tradera account.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: What is the simple method to generate a password for Tradera account?
+ANSWER: A simple method to generate a password for Tradera account is to use a phrase and then take the first character of each word in the phrase, followed by any numbers, uppercase and lowercase letters, and special characters to make it secure.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: Is it okay to use personal information such as name or date of birth as a password for a Tradera account?
+ANSWER: No, it is not okay to use personal information such as name or date of birth as a password for a Tradera account, as it can easily be guessed.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: Should I use the same password for Tradera and other websites?
+ANSWER: No, one should avoid using the same or similar passwords as on other sites, as fraudsters can have an easier access to many of your password-protected accounts.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: What should I do if I suspect unauthorized access to my Tradera account?
+ANSWER: If you suspect unauthorized access to your Tradera account, then you should contact Tradera immediately at abuse@tradera.com.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: What is the preferred length for a secure password of a Tradera account?
+ANSWER: A secure password must consist of at least 8-12 characters for a Tradera account.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: What characters should a secure password for Tradera account contain?
+ANSWER: A secure password for Tradera account should contain both numbers, uppercase and lowercase letters and preferably characters such as %, &, # and ?.
+URL: https://info.tradera.com/en/secure-passwords/
+
+QUESTION: Can we use our alias as a password for Tradera account?
+ANSWER: No, we should not use our alias as a password for Tradera account to make it secure and harder to guess.
+URL: https://info.tradera.com/en/secure-passwords/

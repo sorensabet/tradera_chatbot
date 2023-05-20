@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av information kan andra personer se om min aktivitet på Tradera?
+ANSWER: Andra personer kan se dina bud, köp, annonserade föremål, butiksfasad, omdömen och meddelanden.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan andra användare se all information i min profil?
+ANSWER: Andra användare kan se sådan information som du väljer att visa i din profil.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken information inkluderar meddelanden angående misstänkta aktiviteter och överträdelser av policys på Tradera?
+ANSWER: Meddelanden som skickas till andra medlemmar om misstänkta aktiviteter och överträdelser av policys på Tradera anger användarnamn och specifika produkter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan andra personer identifiera mig och mina aktiviteter på Tradera om jag kopplar mitt namn till mitt användarnamn?
+ANSWER: Ja, om du kopplar ditt namn till ditt användarnamn så kommer de som har fått reda på ditt namn att kunna identifiera dig och dina aktiviteter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer om jag besöker Traderas webbplatser från en publik eller delad dator eller från en dator på ett Internet-café?
+ANSWER: Om du besöker våra webbplatser genom en publik eller delad dator eller från en dator på ett Internet-café, så kan viss information om dig vara synlig för andra personer som använder datorn efter dig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag lämna ut personliga och ekonomiska uppgifter för att slutföra en transaktion på Tradera?
+ANSWER: Ja, Tradera ger dig möjlighet att lämna ut personliga och ekonomiska uppgifter för att slutföra en transaktion och erhålla betalning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Rekommenderar Tradera att jag beskriver mina rutiner för behandling av personuppgifter?
+ANSWER: Ja, Tradera rekommenderar att du beskriver dina rutiner för behandling av personuppgifter och respekterar andra användares personliga integritet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Ansvarar Tradera för vilken information jag väljer att dela med andra användare?
+ANSWER: Nej, Tradera ansvarar inte för information som du väljer att dela med andra användare och partners.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad rekommenderar Tradera om jag vill lämna ut mina personuppgifter till en annan användare på Tradera?
+ANSWER: Tradera rekommenderar att du utvärderar din, i förekommande fall, motparts integritetspolicy innan du genomför en transaktion och väljer att lämna ut dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Tillåter Tradera obegränsad tillgång till min information av andra användare?
+ANSWER: Nej, för att försöka skydda din integritet så tillåter Tradera endast begränsad tillgång till andra användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

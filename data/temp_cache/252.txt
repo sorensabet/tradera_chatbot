@@ -1,0 +1,37 @@
+QUESTION: What payment methods are available on Tradera?
+ANSWER: Payment for your sales on Tradera are paid either to your bank account, PayPal account or directly to your Swish account depending on how the buyer chooses to pay.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Do I need to add my bank or PayPal account to receive payment for my first sale on Tradera?
+ANSWER: Yes, you need to add your bank or PayPal account and Swish number (Swish is optional) during the first time you sell on Tradera to receive payment for your sale.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: What is Swish and can I receive payment through it on Tradera?
+ANSWER: Swish is an optional payment method on Tradera and payments made through it go directly to your Swish account without any delay.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: What is Tradera Pay and where can I learn more about it?
+ANSWER: You can learn more about Tradera Pay by visiting the page provided by Tradera on their website.
+URL: https://info.tradera.com/en/tradera-pay/
+
+QUESTION: How soon will I receive payment for my sale if the buyer pays through Swish?
+ANSWER: If the buyer pays through Swish, the payment goes directly to your Swish account without any delay.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Can I see if the buyer paid through Swish on Tradera?
+ANSWER: The text does not provide enough information if you can see whether the buyer paid through Swish on Tradera.
+
+QUESTION: Can I choose how I want to receive payment on Tradera?
+ANSWER: No, you cannot choose as it depends on how the buyer chooses to pay for their purchase.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Does Tradera release payments immediately or is there a delay?
+ANSWER: If the buyer pays through Swish, the payment goes directly to your Swish account without any delay. It's not mentioned in the text how long it takes for other payment methods.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Do I need to provide my Swish number if I want to receive payment through it on Tradera?
+ANSWER: Yes, you need to provide your Swish number during the first time you sell on Tradera to receive payment through Swish.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Are there any fees associated with receiving payment on Tradera?
+ANSWER: The text does not provide any information regarding fees associated with receiving payments on Tradera.

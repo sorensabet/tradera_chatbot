@@ -1,0 +1,39 @@
+QUESTION 1: Vad för information samlar Tradera in från användarna?
+ANSWER: Tradera samlar in och sparar den information som användaren ger på deras webbplats eller i samband med användning av deras tjänster, inklusive personlig information som e-postadress, telefonnummer, personnummer och kontaktinformation samt köp- och leveransrelaterad information.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 2: Vilken ekonomisk information kan Tradera begära av sina användare?
+ANSWER: Beroende på vilken tjänst som används kan Tradera (i förekommande fall) be om ekonomisk information från användaren, såsom bankkontonummer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 3: Där Tradera använder integrerade system för leveranstjänster, vilken annan information samlas och sparas av leveranspartnern?
+ANSWER: Om Tradera använder integrerade system för leveranstjänster, kan leveranspartnern också spara relevant leveransinformation (leveransstatus) som är kopplad till användarens köp.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 4: Kan användare lämna ytterligare dokument för att verifiera sin identitet?
+ANSWER: För att verifiera användarens identitet eller om Tradera tror att användaren bryter mot deras regler, kan Tradera be om ytterligare dokument från användaren.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 5: Vilken typ av information kan användare lämna i diskussioner och korrespondens via Traderas webbplatser?
+ANSWER: Användare kan lämna information i diskussioner i forum, chattar, tvistlösning, korrespondens genom Traderas webbplatser eller korrespondens som skickas till dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 6: Hur länge sparar Tradera en användares personliga information?
+ANSWER: Tradera sparar en användares personliga information så länge som behövs för de ändamål som informationen samlades in och för att Tradera uppfyller sina rättsliga förpliktelser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 7: Kan användare begära att Tradera raderar deras personliga information?
+ANSWER: Användare kan begära att Tradera raderar deras personliga information, men Tradera kan behöva behålla viss information för att uppfylla sina rättsliga förpliktelser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 8: Vilka typer av verktyg kan användare använda på Traderas webbplatser?
+ANSWER: Användare kan använda diverse verktyg på Traderas webbplatser, men den personliga information som lämnas när dessa verktyg används samlas in och sparas av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 9: Kan Tradera lämna ut användares personliga information till tredje part?
+ANSWER: I vissa fall kan Tradera lämna ut användares personliga information till tredje part, men bara om det är nödvändigt för att Tradera ska kunna tillhandahålla sina tjänster och uppfylla sina rättsliga förpliktelser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION 10: Vilka rättigheter har användarna när det gäller sin personliga information?
+ANSWER: Användare har rätt att få tillgång till sin personliga information som Tradera har samlat in, begära att felaktig information korrigeras, begära radering av personlig information samt begränsning av användning och hantering av personlig information.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

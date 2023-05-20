@@ -1,0 +1,39 @@
+QUESTION: Vilken information samlar Tradera automatiskt in när jag använder deras webbplats?
+ANSWER: Tradera samlar automatiskt in information som skickas till dem från din dator, mobila enhet eller annan enhet som används för åtkomst. Denna information kan endast knytas till dig personligen om du loggar in som en registrerad användare. Informationen inkluderar enhetens ID eller unika identifierare, geografisk plats, vilken sorts enhet som används, data och anslutningsinformation, statistik om sidvisningar, trafik till och från webbplatserna, hänvisande URL, annonsdata, IP-adress, med mera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan jag använda Traderas tjänster utan att lämna ut mina personuppgifter?
+ANSWER: Nej, om du vill använda Traderas tjänster måste du registrera ett konto och då accepterar du att dela med dig av dina personuppgifter. Tradera behöver dina personuppgifter för att ge dig möjlighet att använda deras webbplatser, applikationer, tjänster och verktyg, för att ge dig en personligt anpassad och bättre upplevelse samt för marknadsföringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Var sparas mina personuppgifter om jag registrerar ett konto hos Tradera?
+ANSWER: Om du registrerar ett konto hos Tradera så accepterar du att dela med dig av dina personuppgifter och samtycker till att den informationen kommer att överföras och lagras på Traderas servrar i Sverige eller på annat håll i världen, såsom i USA.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan andra personer se mina personuppgifter när jag köper eller säljer varor på Tradera?
+ANSWER: När du köper eller säljer varor på Tradera kan andra användare se viss information om dig, som ditt användarnamn och omdömen. Däremot lämnas aldrig dina personuppgifter ut till andra användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilket syfte har Tradera med att samla in personuppgifter?
+ANSWER: Tradera samlar in personuppgifter för att ge dig möjlighet att använda och få tillgång till deras webbplatser, applikationer, tjänster och verktyg, för att ge dig en personligt anpassad och bättre upplevelse samt för marknadsföringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera lämna ut mina personuppgifter till tredje part?
+ANSWER: Tradera kan lämna ut dina personuppgifter till tredje part, exempelvis till sina samarbetspartners, i syfte att kunna erbjuda dig relevanta erbjudanden och information. Dock lämnas dina personuppgifter aldrig ut till annonsörer eller andra tredje parter för marknadsföringsändamål utan ditt samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur kan jag få tillgång till mina personuppgifter som Tradera har samlat in?
+ANSWER: Du kan begära att få tillgång till dina personuppgifter som Tradera har samlat in genom att skicka in en skriftlig begäran till Traderas kundtjänst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur länge sparar Tradera mina personuppgifter?
+ANSWER: Tradera sparar dina personuppgifter så länge som det behövs för de syften som beskrivs i deras integritetspolicy eller så länge som det krävs enligt lag. Efter det kommer dina personuppgifter att raderas.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan jag begära att Tradera raderar mina personuppgifter?
+ANSWER: Ja, du kan begära att Tradera raderar dina personuppgifter genom att skicka in en skriftlig begäran till Traderas kundtjänst. Dock kan Tradera behöva behålla viss information för att kunna fullgöra sina åtaganden gentemot dig eller enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Är mina personuppgifter säkra hos Tradera?
+ANSWER: Ja, Tradera tar säkerheten för dina personuppgifter på största allvar och vidtar lämpliga tekniska och organisatoriska åtgärder för att skydda dina personuppgifter från obehörig åtkomst, ändring, spridning eller radering.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

@@ -1,0 +1,39 @@
+QUESTION: What does Tradera do if they suspect irregularities or violations from a seller in a transaction?
+ANSWER: If Tradera suspects that there are irregularities such as fraud or that the seller has violated their terms and conditions or user agreement, Tradera reserves the right to ensure that payment is not made to the seller and instead refunded to the buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Which payment methods are available for buyers to use on Tradera?
+ANSWER: Buyers can choose between different payment methods such as Swish, card payment, PayPal, payment by invoice, and credit. Each payment method is provided by third parties who cooperate with Tradera for this purpose and are supervised by the Swedish Financial Supervisory Authority or its foreign counterparts.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Who are the third-party payment service providers that cooperate with Tradera?
+ANSWER: Swish, Klarna, PayPal with its services Hyperwallet, and Paynova are the third-party payment service providers that cooperate with Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Can a seller receive payment for the buyer's option of using Tradera's payment solution?
+ANSWER: No, a seller is not entitled to receive payment for the buyer's option of using Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is deducted from the payment made to the seller?
+ANSWER: Any amount that the seller is obligated to pay to Tradera, such as selling expenses, refundable amounts, and fees agreed upon between the seller and Tradera under separate agreement, will be deducted from the payment made to the seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Are the payment services provided by Tradera?
+ANSWER: No, even though the payment services are not provided by Tradera, a seller needs to contact Tradera for various matters that may arise in connection with a transaction, irrespective of the payment method the buyer chooses.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Does Tradera check the transactions for irregularities?
+ANSWER: Yes, Tradera checks the transactions to detect irregularities.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Under what circumstances can Tradera refund payment to the buyer instead of making payment to the seller?
+ANSWER: Tradera can refund payment to the buyer instead of making payment to the seller if they suspect irregularities such as fraud or if the seller has violated their terms and conditions or user agreement.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Does the seller need to provide Tradera with accurate payment information?
+ANSWER: Yes, if the seller has not provided Tradera with accurate payment information, it may result in the seller not receiving payment for their transaction.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Can Tradera modify or further develop its payment solution with additional parties?
+ANSWER: Yes, Tradera can modify or further develop its payment solution with more parties than the ones currently provided if they choose to do so.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

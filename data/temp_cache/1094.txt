@@ -1,0 +1,39 @@
+QUESTION: Vad behöver jag för att komma igång med ProLister?
+ANSWER: För att komma igång med ProLister behöver du en mailadress och lösenord. Du använder samma mailadress och lösenord för ProLister som du har på Tradera. Om du använder en annan inloggningsmetod på Tradera så behöver du först skapa ett lösenord.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kostar det något att använda ProLister?
+ANSWER: Det kostar inget att använda ProLister då det är ett gratisverktyg som är tänkt att underlätta för dig som säljer mycket. Det tillkommer alltså inga extra avgifter för ProLister.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Var kan jag hitta korta guider för funktionerna i ProLister?
+ANSWER: På sidan kan du hitta korta guider för funktionerna i ProLister. För att komma igång med att skapa och döpa din första lista hittar du instruktionerna under rubriken "Skapa och döp din första lista". För att ändra annons direkt i listan hittar du en kort instruktion under rubriken "Snabbändra annons direkt i listan" och för att ändra uppladdningsordning på annonser hittar du en kort instruktion under "Ändra uppladdningsordning på annonser".
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur skapar jag min första lista i ProLister?
+ANSWER: För att skapa din första lista i ProLister klickar du på knappen "Ny lista" i headern och sedan "Skapa ny". Därefter behöver du döpa din lista till något passande, exempelvis "Garderobsrensning".
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag ändra en annons direkt i listan i ProLister?
+ANSWER: Ja, i din lista med annonser kan du klicka på de flesta fälten för att ändra direkt, utan att behöva gå in på varje specifik annons. Alla fält som går att ändra öppnas med ett enkelklick.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur ändrar jag uppladdningsordning på annonser i ProLister?
+ANSWER: Det finns flera sätt att ändra uppladdningsordning på annonser i ProLister. Ett sätt är att markera den eller de annonser du vill flytta på, hålla sedan ned musen på ikonen längst ut till vänster - då aktiveras drag n´ drop. Du kan även markera och sedan klicka på Flytta ett steg upp/ner från.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Finns det fler funktioner i ProLister utöver att skapa listor och ändra annonser?
+ANSWER: Texten nämner inte om det finns fler funktioner i ProLister utöver att skapa listor och ändra annonser.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Var kan jag hitta prislistan för annonser på Tradera?
+ANSWER: För att hitta prislistan för annonser på Tradera kan du klicka på länken "Se prislista för annonser" som finns i texten.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag använda en annan inloggningsmetod på Tradera för att logga in på ProLister?
+ANSWER: Om du använder en annan inloggningsmetod på Tradera än en mailadress och lösenord, behöver du först skapa ett lösenord för att kunna använda samma mailadress och lösenord på ProLister.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Varför är ProLister ett gratisverktyg?
+ANSWER: ProLister är tänkt att underlätta för säljare som säljer mycket på Tradera och därför är verktyget gratis att använda. Det tillkommer alltså inga extra avgifter för ProLister.
+URL: https://info.tradera.com/prolister/

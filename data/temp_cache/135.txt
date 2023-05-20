@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med nödvändiga cookies?
+ANSWER: Nödvändiga cookies är viktiga för att Tradera ska fungera och kan inte stängas av. De används för att säkerställa att webbplatsen fungerar korrekt, som till exempel att lagra varukorgens innehåll eller hålla dig inloggad på ditt konto.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 2: Varför används prestanda cookies av Tradera?
+ANSWER: Prestanda cookies används av Tradera för anonym mätning av hur webbplatsen används, så att användarupplevelsen kan förbättras. Informationen som samlas in med hjälp av prestanda cookies används för att optimera webbplatsens funktionalitet och prestanda.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 3: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook. Funktionella cookies är inte nödvändiga för att sidan ska fungera, men de bidrar till en bättre och mer personlig användarupplevelse.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 4: Varför används marknadsföringscookies av Traderas annonseringspartners?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa dig riktade annonser som är relevanta för dig. Informationen som samlas in med hjälp av marknadsföringscookies används för att skapa en profil av dina intressen och ditt beteende på Tradera och andra webbplatser.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 5: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies är viktiga för att Tradera ska fungera och kan inte stängas av.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 6: Hur använder Tradera information insamlad med hjälp av prestandacookies?
+ANSWER: Informationen som samlas in med hjälp av prestandacookies används för att optimera webbplatsens funktionalitet och prestanda, vilket i sin tur bidrar till en bättre användarupplevelse på Tradera.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 7: Kan man använda Tradera utan att tillåta marknadsföringscookies?
+ANSWER: Ja, man kan använda Tradera utan att tillåta marknadsföringscookies. Dock kan det innebära att man inte ser relevanta annonser baserat på ens intressen och beteenden.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 8: Hur hjälper funktionella cookies Tradera att skapa en bättre användarupplevelse?
+ANSWER: Funktionella cookies bidrar till en bättre användarupplevelse på Tradera genom att erbjuda användaranpassning och utökad funktionalitet, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 9: Vad är syftet med att Traderas annonseringspartners visar riktade annonser för mig?
+ANSWER: Syftet med riktade annonser är att visa dig annonser som är relevanta för dina intressen och beteenden på Tradera och andra webbplatser.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION 10: Är cookies ett viktigt verktyg för att skapa en bättre användarupplevelse på Tradera?
+ANSWER: Ja, cookies är ett viktigt verktyg för att skapa en bättre användarupplevelse på Tradera. Genom att använda cookies kan Tradera erbjuda användaranpassning och utökad funktionalitet, samt mäta och optimera webbplatsens prestanda.
+URL: https://info.tradera.com/en/hur-betalar-jag-for-annonsen-till-tradera/

@@ -1,0 +1,39 @@
+QUESTION 1: Vilka typer av funktionella cookies använder Tradera?
+ANSWER: Tradera använder funktionella cookies för att skapa en bättre användarupplevelse genom att tillhandahålla utökad funktionalitet och användaranpassning, som att spara vissa inställningar eller erbjuda inloggning med Facebook.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 2: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av Traderas annonseringspartners för att leverera riktade annonser till användare, som är mest relevanta för dem.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 3: Vilka typer av cookies används Tradera för att förbättra användarupplevelsen?
+ANSWER: Tradera använder både funktionella och marknadsföringscookies för att förbättra användarupplevelsen. Funktionella cookies används för att tillhandahålla utökad funktionalitet och marknadsföringscookies används för att rikta in annonser efter användarens intressen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 4: Varför är funktionella cookies viktiga på Tradera?
+ANSWER: Funktionella cookies på Tradera är viktiga eftersom de bidrar till ökad funktionalitet och skapar en mer användaranpassad upplevelse. Funktionerna inkluderar bland annat att spara inställningar och logga in med Facebook för att göra det lättare för användaren att återkomma till sidan.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 5: Kan användare välja att inte ha cookies på Tradera?
+ANSWER: Ja, användare kan välja att inte ha cookies på Tradera. Under fliken "Cookieinställningar" finns alternativ att välja vilka typer av cookies som användaren vill tillåta på sidan.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 6: Vad är syftet med marknadsföringscookies för Traderas annonseringspartners?
+ANSWER: Syftet med marknadsföringscookies för Traderas annonseringspartners är att leverera riktade annonser till användare som är mest relevanta för dem, baserat på deras intressen och beteenden på sidan.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 7: Vilken typ av information samlas in med hjälp av marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera samlar in information om användarens beteende och intressen på sidan, som tar hänsyn till deras köpvanor och sökningar. Denna information används sedan för att rikta in annonser till användaren baserat på deras intressen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 8: Vad är skillnaden mellan funktionella cookies och marknadsföringscookies på Tradera?
+ANSWER: Skillnaden mellan funktionella cookies och marknadsföringscookies på Tradera är att funktionella cookies används för att öka funktionaliteten på sidan och anpassa användarupplevelsen medan marknadsföringscookies används för att rikta annonser efter användarnas intressen och beteenden på sidan.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 9: Finns det några risker med att använda cookies på Tradera?
+ANSWER: Riskerna med att använda cookies på Tradera är relativt små. Användaren kan välja vilka cookies som ska tillåtas på sidan, och den information som samlas in är vanligtvis anonym och används endast för att rikta annonser.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION 10: Vilka alternativ har användare för att hantera cookies på Tradera?
+ANSWER: Användare kan välja att tillåta eller blockera vissa typer av cookies på Tradera genom att gå till fliken "Cookieinställningar". De kan också ställa in webbläsaren så att den automatiskt blockerar cookies eller meddelar användaren när en cookie försöker placeras på enheten.
+URL: https://info.tradera.com/da/koebsanmodning/

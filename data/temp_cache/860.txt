@@ -1,0 +1,39 @@
+QUESTION: Hur fungerar det om köparen inte svarar på en förfrågan om att häva köpet?
+ANSWER: Om köparen inte svarar eller förfrågan om att häva köpet nekas, kommer inte köpet att räknas som hävt. Det rekommenderas att man enbart använder denna funktion när man har kommit överens med den andra parten. 
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Vilka åtgärder vidtas om köparen inte betalar?
+ANSWER: Om köparen inte betalar, kan säljaren öppna ett ärende där Traderas kundtjänst kommer att kontakta köparen för att påminna om betalningen. Om betalningen inte sker inom 6 dagar kan säljaren välja att fullfölja försäljningen. 
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Vilken åtgärd kan vidtas om köparens konto stängs av på grund av upprepade problem?
+ANSWER: Om köparens konto stängs av på grund av upprepade problem, kan kontot endast öppnas igen genom att kontakta Traderas kundtjänst och genom att uppvisa en förbättring av beteendet. 
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Hur fungerar det om båda parterna kommer överens om att häva köpet?
+ANSWER: Om båda parterna kommer överens om att häva köpet kan säljaren välja att inte rapportera köparen för att vederbörande ska bekräfta hävandet. När köparen har accepterat hävandet krediteras provisionsavgiften automatiskt till säljarens konto. 
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Finns det några sanktioner för köpare som upprepat bryter mot Traderas regler?
+ANSWER: Om köparen upprepade gånger bryter mot Traderas regler får hen en prick i systemet, och köparens konto kan stängas av. 
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Kan man som privatperson sälja på Tradera?
+ANSWER: Ja, det går att sälja på Tradera både som privatperson och som företag. 
+URL: https://info.tradera.com/salj/
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Grön frakt är Traderas samarbete med PostNord där frakten sker med trepartslösningar vilket minskar utsläpp av koldioxid samt ökar återvinning av emballage.
+URL: https://info.tradera.com/gron-frakt/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Populära varumärken på Tradera inkluderar bland annat Filippa K, Odd Molly, Acne Studios och Gant. 
+URL: https://www.tradera.com/
+
+QUESTION: Finns det någon fraktkalkylator på Tradera?
+ANSWER: Ja, det finns en fraktkalkylator på Tradera som hjälper köpare och säljare att räkna ut fraktkostnaden för en försändelse. 
+URL: https://info.tradera.com/salj/
+
+QUESTION: Hur tar man kontakt med Tradera om man har frågor eller problem?
+ANSWER: Om man har frågor eller problem kan man kontakta Traderas kundtjänst via e-post eller telefon. Kontaktuppgifterna finns på Traderas hemsida under fliken "Kontakt & hjälp". 
+URL: https://info.tradera.com/kontakt-och-hjalp/

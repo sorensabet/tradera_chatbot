@@ -1,0 +1,39 @@
+QUESTION: Vilka åtaganden åtar sig parterna enligt Villkoren som anges i texten?
+ANSWER: Parterna åtar sig vissa åtaganden enligt Villkoren som anges i texten. Det inkluderar åtaganden som rör rättigheter till allt som utvecklats av Tradera, konfidentialitet, personuppgifter och annat.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är syftet med Konfidentiell Information enligt texten?
+ANSWER: Syftet med Konfidentiell Information enligt texten är att den inte får yppas eller delas till tredje part. Parterna har dock rätt att avslöja Konfidentiell Information i nödvändig omfattning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka åtgärder har Säljaren ansvar för enligt texten?
+ANSWER: Säljaren ansvarar för alla åtgärder som vidtas genom användning av Säljarens unika inloggning till Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Gäller Traderas ordinarie Integritetspolicy för all användning av Traderas betallösning enligt texten?
+ANSWER: Ja, Traderas ordinarie Integritetspolicy gäller även för uppgifter som hanteras i samband med användning av Traderas betallösning enligt texten. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad innebär det att Säljaren åtar sig särskilt att aldrig använda tecken, knappar eller varumärken som skulle kunna förväxlas med Traderas varumärken enligt texten?
+ANSWER: Enligt texten innebär det att Säljaren inte får använda tecken, knappar eller varumärken som skulle kunna förväxlas med Traderas varumärken. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka undantag finns för avslöjande av Konfidentiell Information enligt texten?
+ANSWER: Enligt texten finns två undantag för avslöjande av Konfidentiell Information. Det är om avslöjandet följer av börsavtal, tvingande lagstiftning eller behörig myndighets eller domstols begäran, eller om det avslöjas till sina rådgivare så länge de själva är bundna av konfidentialitet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Villkoren enligt texten?
+ANSWER: Villkoren enligt texten är ett avtal mellan Tradera och Säljaren som reglerar användningen av Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka är de vanligaste kraven för avslöjande av Konfidentiell Information enligt texten?
+ANSWER: De vanligaste kraven för avslöjande av Konfidentiell Information enligt texten är om avslöjandet följer av börsavtal, tvingande lagstiftning eller behörig myndighets eller domstols begäran.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Gäller den fullständiga tystnadsplikten hela tiden enligt texten?
+ANSWER: Ja, parterna åtar sig full tystnadsplikt under Villkoren enligt texten. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad omfattas av Traderas rättigheter enligt texten?
+ANSWER: Enligt texten omfattas allt som utvecklats av Tradera och som Säljaren har åtkomst till under Villkoren av Traderas rättigheter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

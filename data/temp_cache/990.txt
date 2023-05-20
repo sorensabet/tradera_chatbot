@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter kan Tradera få åtkomst till från tredje parts webbplatser?
+ANSWER: Tradera kan få åtkomst till personuppgifter som varierar beroende på webbplats och styrs av dina inställningar på den webbplatsen och ditt samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är syftet med insamling av personuppgifter enligt Integritetspolicyn?
+ANSWER: Syftet med insamling av personuppgifter enligt Integritetspolicyn är att ge användare en säker, effektiv och anpassad upplevelse, ge kundservice, administrera konton, ge åtkomst till webbplatsen och tjänster samt förhindra, upptäcka och utreda bedrägeri.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad behöver användare acceptera för att Tradera ska få använda deras personuppgifter?
+ANSWER: Användare behöver acceptera Integritetspolicyn för att Tradera ska få använda deras personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är syftet med att koppla ett konto som administreras av tredje part med Tradera-konto?
+ANSWER: Syftet med att koppla ett konto som administreras av tredje part med Tradera-konto är att göra det möjligt för Tradera att samla in, använda och spara information från de webbplatser som hanteras av tredje part i enlighet med Integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka tjänster kan användare använda genom Tradera?
+ANSWER: Användare kan använda Traderas tjänster, applikationer och verktyg genom deras plattform.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är integritetspolicyn för Tradera?
+ANSWER: Integritetspolicyn för Tradera är en reglering som beskriver hur Tradera samlar in, använder och skyddar personuppgifterna för dess användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur använder Tradera personuppgifterna som de samlar in från användare?
+ANSWER: Tradera använder personuppgifterna som de samlar in från användare för att ge dem en säker, effektiv och anpassad upplevelse, ge kundservice, administrera konton, ge åtkomst till webbplatsen och tjänster samt förhindra, upptäcka och utreda bedrägeri.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är syftet med att ge Tradera åtkomst till personuppgifter från tredje parts webbplatser?
+ANSWER: Syftet med att ge Tradera åtkomst till personuppgifter från tredje parts webbplatser är att göra det möjligt för dem att samla in, använda och spara information från dessa webbplatser i enlighet med Integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför behöver Tradera tillstånd för att samla in, använda och spara information från tredje parts webbplatser?
+ANSWER: Tradera behöver tillstånd för att samla in, använda och spara information från tredje parts webbplatser eftersom personuppgifterna som de kan få åtkomst till varierar beroende på webbplats och styrs av användarnas inställningar på den webbplatsen och deras samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är skillnaden mellan en sociala media-tjänst och en tredjepartstjänst?
+ANSWER: En sociala media-tjänst är en webbplats eller en applikation som gör det möjligt att dela information med andra personer som du har valt att ansluta till, medan en tredjepartstjänst är en webbplats eller en applikation som drivs av ett företag eller organisation som inte är Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

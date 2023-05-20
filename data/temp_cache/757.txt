@@ -1,0 +1,39 @@
+QUESTION: Varför har Tradera en sådan regel om identiska objekt?
+ANSWER: Tradera har denna regel för att ge alla säljare samma möjlighet att synas i alla kategorier. När en säljare lägger ut många identiska objekt i en kategori minskar det synligheten för andras annonser, och ett varierat utbud gör det mer attraktivt för köpare att surfa runt bland annonserna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Hur definierar Tradera identiska objekt?
+ANSWER: Två objekt räknas som identiska när det handlar om exakt likadana objekt (detta avser inte objekt som markerats som “Begagnad”).
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Vad händer om en säljare lägger ut flera identiska objekt i en butiksannons?
+ANSWER: För butiksannonser har Tradera begränsat antal identiska objekt till en annons, eftersom butiker har en lagerfunktion. Om en säljare lägger ut flera identiska objekt i en butiksannons räknas det inte som en varierad annons, vilket minskar synligheten för andra annonser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Kan säljare lägga ut varianter av liknande varor i separata annonser?
+ANSWER: Ja, om säljare har olika varianter av liknande varor är det tillåtet att lägga ut dem i separata annonser. Varje butiksannons behöver dock vara unik.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Vilka är följderna av att lägga ut flera identiska objekt i samma annons?
+ANSWER: Om en säljare lägger ut flera identiska objekt i samma annons räknas det inte som en varierad annons, vilket minskar synligheten för andra annonser. Detta kan minska möjligheterna för andra säljare att synas i samma kategori och gör det mindre attraktivt för köpare att surfa runt bland annonserna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Kan säljare göra undantag från regeln om identiska objekt vid stora kampanjer?
+ANSWER: Under större kampanjer kan vissa undantag från regeln om identiska objekt göras, men detta sker alltid i samförstånd med Tradera och är inte tillåtet utan Traderas godkännande.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Vad är syftet med regeln om identiska objekt på Tradera?
+ANSWER: Syftet med regeln om identiska objekt på Tradera är främst att ge alla säljare samma möjlighet att synas i alla kategorier, vilket gör Tradera till en bättre marknadsplats. När en säljare lägger ut många identiska objekt i en kategori minskar det synligheten för andra annonser. Ett varierat utbud gör det också mer attraktivt för köpare att surfa runt bland annonserna, och det blir lättare att hitta det man söker.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Är det tillåtet att lägga ut identiska objekt i samma annons om det är olika färger?
+ANSWER: Om objekt är identiska men skiljer sig åt i färger eller liknande egenskaper anses de fortfarande vara identiska objekt. Säljare kan dock lägga ut varianter av liknande varor i separata annonser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Gynnar regeln om identiska objekt bara Traderas köpare eller även säljare?
+ANSWER: Regeln om identiska objekt på Tradera gynnar både säljare och köpare. När en säljare lägger ut många identiska objekt i en kategori minskar det synligheten för andra annonser, vilket minskar möjligheterna för andra säljare att synas och gör det lite mindre attraktivt för köpare att surfa runt bland annonserna. Ett varierat utbud gör det mer attraktivt för köpare att surfa runt bland annonserna, och köparna har större chans att hitta det de söker.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Vad räknas som identiska objekt på Tradera?
+ANSWER: Två objekt räknas som identiska när de är exakt likadana objekt, med undantag för objekt som är markerade som "begagnade". Objekt som skiljer sig åt i färger eller liknande egenskaper anses fortfarande vara identiska objekt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/

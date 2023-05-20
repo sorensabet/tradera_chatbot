@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas sekretesspolicy?
+ANSWER: Tradera har en sekretesspolicy som beskriver hur de samlar in, använder och skyddar de personuppgifter som användare lämnar till dem. Denna policy kan hittas genom att klicka på länken "Privacy statement" längst ner på Traderas webbplats.
+URL: https://info.tradera.com/en/terms-of-service-privacy/
+ 
+QUESTION: Kan man använda Facebook för att logga in på Tradera?
+ANSWER: Ja, Tradera tillåter användare att logga in med Facebook-konton för en mer personlig upplevelse. Detta alternativ finns på inloggningssidan för Tradera.
+URL: https://info.tradera.com/en/sell-private-seller/
+ 
+QUESTION: Finns det några kända varumärken som säljs på Tradera?
+ANSWER: Ja, Tradera har kända varumärken till försäljning. Dessa inkluderar populära varumärken som Adidas, Nike och Levi's, bland andra. En fullständig lista över varumärken som säljs kan hittas i fliken "Popular brands" på Traderas webbplats.
+URL: https://www.tradera.com/popular-brands
+ 
+QUESTION: Hur kan jag kontakta supportteamet på Tradera?
+ANSWER: Tradera har en sida för support och kontakt, där användarna kan hitta svar på vanliga frågor. Om användare inte hittar svaret på sin fråga kan de skicka ett meddelande genom att använda kontaktformuläret på sidan. Användare kan också hitta hjälp på Traderas Facebook-sida.
+URL: https://info.tradera.com/en/contact-help/
+ 
+QUESTION: Kan jag sälja varor på Tradera som ett företag?
+ANSWER: Ja, företag kan sälja varor på Tradera genom att registrera sig som en företagssäljare. Mer information om hur man registrerar sig finns på Traderas webbplats under fliken "Sell as business".
+URL: https://info.tradera.com/en/sell-as-business/
+ 
+QUESTION: Finns det någon möjlighet att skänka pengar till välgörenhet via Tradera?
+ANSWER: Ja, Tradera erbjuder användare möjligheten att skänka pengar till välgörenhetsorganisationer via sidan "Charity causes". Användare kan välja att skänka en del av försäljningspriset på en vara till en organisation eller skänka pengar direkt till organisationerna.
+URL: https://www.tradera.com/charity-causes
+ 
+QUESTION: Vilka betalningsalternativ erbjuder Tradera?
+ANSWER: Tradera erbjuder flera betalningsalternativ, inklusive Swish, banköverföring, faktura, kreditkort och PayPal. Den specifika typen av betalningsalternativ som är tillgängliga kan variera beroende på vilket land användaren befinner sig i.
+URL: https://info.tradera.com/en/payment-methods/
+ 
+QUESTION: Finns det någon möjlighet för användare att räkna ut fraktkostnaderna för en försändelse på förhand?
+ANSWER: Ja, Tradera har en fraktberäknare som hjälper användare att räkna ut den förväntade kostnaden för att skicka en försändelse. Denna funktion finns på sidan "Shipping calculator".
+URL: https://www.tradera.com/shipping-calculator
+ 
+QUESTION: Finns det några regler för att sälja varor på Tradera?
+ANSWER: Ja, Tradera har vissa regler för säljare, som syftar till att säkerställa en rättvis och säker handel på plattformen. Dessa regler kan hittas på Traderas sida "Rules".
+URL: https://info.tradera.com/en/rules/
+ 
+QUESTION: Hur kan jag rapportera en säljare på Tradera?
+ANSWER: Om en användare upptäcker en säljare som bryter mot Traderas regler eller bedriver bedrägeri kan de rapportera säljaren till Traderas supportteam. Användare kan använda funktionen "Report for review" på den aktuella försäljningssidan för att rapportera säljaren. 
+URL: https://info.tradera.com/en/how-to-buy/

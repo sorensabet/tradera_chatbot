@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med den här informationssidan?
+ANSWER: Syftet med denna sida är att förklara hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 2: Vilka typer av funktioner kan användarna hitta på Tradera?
+ANSWER: Användarna kan hitta utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 3: Hur används användarens data av Tradera?
+ANSWER: Användarens data används av Tradera för att förbättra användarupplevelsen, till exempel för att ge användarna relevanta annonser baserat på deras tidigare sökningar.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 4: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att ge användarna utökad funktionalitet och bättre användaranpassning, till exempel sparade inställningar och enklare inloggning med Facebook.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 5: Varför använder Tradera marknadsföringscookies?
+ANSWER: Tradera använder marknadsföringscookies för att göra reklam mer relevant för användarna.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 6: Hur kan användare undvika att få riktade annonser på Tradera?
+ANSWER: Användare kan undvika att få riktade annonser på Tradera genom att inte tillåta Traderas annonspartners att använda deras data för riktade annonser.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 7: Varför är det viktigt att användare kan konfigurera sina cookie-inställningar på Tradera?
+ANSWER: Det är viktigt att användare kan konfigurera sina cookie-inställningar på Tradera eftersom det påverkar deras upplevelse av webbplatsen och vilken typ av annonser de ser.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 8: Påverkar cookie-inställningarna Traderas säkerhet på något sätt?
+ANSWER: Nej, cookie-inställningarna påverkar inte Traderas säkerhet på något sätt.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 9: Kan användare välja bort alla cookies på Tradera?
+ANSWER: Ja, användare kan välja bort alla cookies på Tradera genom att ändra sina cookie-inställningar.
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION 10: Var kan användare hitta mer information om Traderas cookie-policy?
+ANSWER: Användare kan hitta mer information om Traderas cookie-policy på webbplatsens integritetspolicy-sida.
+URL: https://info.tradera.com/butik-privat/

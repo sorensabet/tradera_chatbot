@@ -1,0 +1,39 @@
+QUESTION: Hvad er en butiksannonce, og hvordan fungerer den?
+ANSWER: En butiksannonce er en annonce, hvor du kan tilføje dit lagerbeholdning og sælge dine varer til en fast pris. Annoncen er aktiv, så længe du har varen på lager eller vælger at slette den.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvilken forsendelsesløsning har Tradera?
+ANSWER: På det danske marked har Tradera en integreret forsendelsesløsning med Bring, som gør det nemt for dig at bestille forsendelser direkte gennem Tradera til en nedsat pris uden eksterne forsendelsesaftaler.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er Sello, og hvem har adgang til det?
+ANSWER: Sello er et salgsværktøj, der giver alle Tradera-medlemmer gratis adgang til at publicere annoncer og administrere ordrer og salgsdokumentation. Det er et salgsværktøj, der er specielt for erhvervssælgere.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan kommer jeg i gang med Sello?
+ANSWER: Du kan registrere din konto ved at klikke på linket og angive de samme login-oplysninger, som du bruger på Tradera. Din konto vil automatisk blive oprettet hos Sello og blive tilknyttet til din Tradera-konto. Alle dine aktive auktioner, annoncer med faste priser og butiksvarer vil blive importeret, når du logger på Sello for første gang.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Kan man importere afsluttede annoncer fra Tradera til Sello?
+ANSWER: Ja, du kan vælge at importere afsluttede annoncer fra op til 60 dage siden til din Sello-konto. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Kan jeg administrere mine ordrer på Sello?
+ANSWER: Ja, på Sello kan du administrere ordrerne i dine annoncer, herunder salgsdokumentation til dit regnskab. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Kan jeg tilknytte min Tradera-konto til min Sello-konto?
+ANSWER: Ja, når du registrerer din Sello-konto, vil den automatisk blive tilknyttet til din Tradera-konto. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvor lang tid vil mine butiksannoncer være aktive?
+ANSWER: Dine butiksannoncer vil være aktive, indtil du vælger at slette dem, eller indtil du ikke har mere lagerbeholdning til rådighed.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan kan jeg publicere en butiksannonce?
+ANSWER: Du kan publicere en butiksannonce via Sello, hvor du administrerer dine butiksindstillinger og din lagerbeholdning. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Kan jeg tilføje min lagerbeholdning til en butiksannonce?
+ANSWER: Ja, i en butiksannonce kan du tilføje din lagerbeholdning, så kunder kan se, om varen er på lager, når de besøger din butiksannonce.
+URL: https://info.tradera.com/da/virksomhedskonto/

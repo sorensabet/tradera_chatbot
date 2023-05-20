@@ -1,0 +1,39 @@
+QUESTION: Vad gör Tradera för att skapa en trygg handelsmiljö för sina användare?
+ANSWER: Tradera fokuserar på flera områden för att göra sina användare känna sig säkra på deras plattform. De arbetar med personuppgifter, annonser, transaktioner och har ett användaravtal som följer svensk lag.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Varför är personuppgifter så viktiga för användarna på Tradera?
+ANSWER: På Tradera har varje användare sitt personnummer kopplat till sitt medlemskap vilket gör att man inte är anonym när man gör affärer. Detta ökar säkerheten på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: När använder Tradera BankID och varför?
+ANSWER: Tradera använder sig av BankID i särskilda tillfällen för att verifiera identiteten på sina användare. Detta är ett enkelt och smidigt sätt för användarna att verifiera sin identitet.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Kan användarna på Tradera rapportera annonser som inte följer reglerna?
+ANSWER: Ja, alla användare på Tradera har möjlighet att anmäla en annons som inte följer Traderas regler till granskning. Tradera arbetar även proaktivt med att hitta annonser som inte följer deras regler.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vilka regler måste annonser på Tradera följa?
+ANSWER: Annonserna på Tradera måste följa Traderas egna regler och svensk lag.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Var kan man läsa mer om Traderas regler för annonser?
+ANSWER: Du kan läsa mer om Traderas regler för annonser på deras hemsida under "Läs mer om våra regler här."
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Hur granskar Tradera sina användare för att skapa en trygg plattform?
+ANSWER: Tradera granskar kontinuerligt sina användare som andra har haft dåliga upplevelser med för att skapa en trygg plattform.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Varför använder Tradera BankID för att verifiera identiteten på sina användare?
+ANSWER: Tradera använder BankID för att verifiera identiteten på sina användare i särskilda tillfällen eftersom det är ett enkelt och smidigt sätt för användarna att verifiera sin identitet.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Vilka områden fokuserar Tradera på för att skapa en säker marknadsplats?
+ANSWER: Tradera fokuserar på flera områden för att skapa en säker marknadsplats, inklusive personuppgifter, annonser, transaktioner och ett användaravtal som följer svensk lag.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/
+
+QUESTION: Varför kopplar Tradera varje medlems personnummer till deras medlemskap?
+ANSWER: Tradera kopplar varje medlems personnummer till deras medlemskap för att öka säkerheten på deras plattform och för att deras användare inte är anonyma när de gör affärer på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/traderas-arbete/

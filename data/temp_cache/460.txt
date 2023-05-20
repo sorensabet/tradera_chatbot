@@ -1,0 +1,39 @@
+QUESTION: Vad är etikettslösa försändelser?
+ANSWER: Etikettslösa försändelser är försändelser som är förpackade och hanterade så att de inte behöver förses med en etikett. Detta kan till exempel innebära att avsändarens och mottagarens adress står direkt på paketet. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vilka åtgärder behöver vidtas om försändelsen har tappats bort eller skadats under frakten?
+ANSWER: Om en försändelse har tappats bort eller skadats under frakten behöver du kontakta Brings kundservice för att starta en reklamation. Alla Bring-försändelser som bokats via Tradera är försäkrade. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vem ansvarar för att paketera varan korrekt för transporten?
+ANSWER: Avsändaren ansvarar för att paketera varan så att den klarar transporten. Paketen hanteras delvis maskinellt och samlas i paketburar under transport. Innehållet behöver alltså ha så mycket emballage som möjligt i kartongen så att det ligger stabilt och inte rör sig.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Var kan jag hitta spårningsnumret för min försändelse om jag är köparen?
+ANSWER: Du hittar spårningsnumret för din försändelse i Mitt Tradera - köpta listan.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Var kan jag hitta spårningsnumret för min försändelse om jag är säljaren?
+ANSWER: Du hittar spårningsnumret för din försändelse i Mitt Tradera - sålda listan.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Hur lång tid tar det för en försändelse att levereras?
+ANSWER: Försändelser levereras inom 2-6 vardagar. Internationell frakt kan ta längre tid.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vilka är Bring ombud?
+ANSWER: Du kan hitta alla Bring ombud på Tradera's Bring-informationssida. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Är alla försändelser som bokats via Tradera försäkrade?
+ANSWER: Ja, Alla Bring försändelser som bokats via Tradera är försäkrade. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Hur kan jag undvika skador på mina försändelser under transporten?
+ANSWER: Avsändaren ansvarar för att paketera varan så att den klarar transporten. Det är viktigt att varor packas så att de inte rör sig under frakten. Innehållet behöver alltså ha så mycket emballage som möjligt i kartongen så att det ligger stabilt och inte rör sig. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vilken typ av skydd ger text med AKTAS, GLAS och liknande på paketet?
+ANSWER: Lappar eller text med AKTAS, GLAS och liknande ger inte ytterligare skydd eftersom paketen hanteras maskinellt.
+URL: https://info.tradera.com/bring/

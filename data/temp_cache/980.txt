@@ -1,0 +1,39 @@
+QUESTION: What security measures do Tradera take when transferring personal data outside the EU/EEA?
+ANSWER: Tradera takes appropriate security measures such as the European Commission's standard contractual clauses when sharing information with an IT provider located outside the EU/EEA. They use physical, technical, and organizational security measures to prevent unauthorized processing, including firewalls, data encryption, physical access controls to their data centers, and information access authorization controls.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can a user request to close their account and erase their personal data?
+ANSWER: Yes, upon a user's request, and subject to the provisions in the section, Tradera will close the user's account and erase their personal data so that it cannot be viewed by other users. Erasure of personal data will be based on the user's account status and in accordance with applicable law.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera decide how long to store personal data?
+ANSWER: Tradera never stores personal data for a longer period than necessary to comply with the purpose for which it was collected. They store certain information for a longer period of time if required by applicable law, such as accounting- and tax regulations. In general, personal data from terminated or inactive accounts will be deleted or anonymized as soon as reasonably possible after the account is terminated or deactivated.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Under what circumstances would Tradera retain personal data from terminated or inactive accounts?
+ANSWER: Tradera may retain personal data from terminated or inactive accounts if it is in their legitimate business interests and not prohibited by law, such as collection of fees owed, resolution of disputes, or to enforce their User agreement; they need to be able to defend themselves against legal claims or otherwise take legal action in the event of, for example, a dispute; or if they are obliged to retain the personal data by law.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What are the reasons for termination or deactivation of a Tradera account?
+ANSWER: Tradera may terminate or deactivate inactive accounts, or accounts that are used in violation with the terms of their User agreement. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera maintain the security of user's personal data?
+ANSWER: Tradera uses physical, technical, and organizational security measures to prevent unauthorized processing, including firewalls, data encryption, physical access controls to their data centers, and information access authorization controls.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Is Tradera bound by any regulations when it comes to personal data retention?
+ANSWER: Yes, Tradera is bound by applicable law, such as accounting- and tax regulations, when it comes to personal data retention. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the purpose of the European Commission's standard contractual clauses?
+ANSWER: The purpose of the European Commission's standard contractual clauses is to ensure appropriate security measures are taken when sharing information with, for example, an IT provider located outside the EU/EEA.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera use data encryption to protect personal data?
+ANSWER: Yes, Tradera uses data encryption as part of their physical, technical, and organizational security measures to prevent unauthorized processing of personal data.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How soon after the termination or deactivation of an account does Tradera delete or anonymize personal data?
+ANSWER: In general, personal data from terminated or inactive accounts will be deleted or anonymized as soon as reasonably possible after the account is terminated or deactivated. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/

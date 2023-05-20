@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information måste ingå i beskrivningen av uppstoppade djur som säljs på Tradera?
+ANSWER: Uppgifter om intyg eller andra dokument som styrker djurets art och ursprung måste finnas med i beskrivningen av uppstoppade djur som säljs på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilken organisation kan ge information om skyddade arter och CITES-relaterade frågor?
+ANSWER: CITES-organisationen och Jordbruksverkets hemsida kan ge mer information om CITES-relaterade frågor och skyddade arter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilka är exempel på djurdelar som kommer ifrån icke-skyddade arter och som får säljas på Tradera?
+ANSWER: Exempel på djurdelar som får säljas på Tradera är pälsar, uppstoppade djur och andra produkter gjorda av djurdelar som inte kommer ifrån skyddade arter. Exempelvis är det tillåtet att sälja bisam, fjällräv, prärievarg och andra icke-skyddade arter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilka är några av de tillåtna produkterna som säljs på Tradera?
+ANSWER: Pälsar, uppstoppade djur och andra produkter gjorda av djurdelar som inte kommer ifrån skyddade arter är några exempel på tillåtna produkter som säljs på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad är CITES?
+ANSWER: CITES är en internationell överenskommelse mellan länder som syftar till att skydda hotade djur- och växtarter genom att reglera handeln med dem.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilken typ av dokumentation måste finnas med för att sälja uppstoppade djur på Tradera?
+ANSWER: Uppgifter om eventuella intyg eller andra tillgängliga dokument måste ingå i beskrivningen av uppstoppade djur som säljs på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilka djurarter får inte säljas på Tradera?
+ANSWER: Djurarter som är skyddade enligt CITES eller svenska lagar på grund av hotad artstatus får inte säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilken organisation samarbetar med Jordbruksverket för att skydda hotade djur- och växtarter?
+ANSWER: CITES-organisationen samarbetar med Jordbruksverket för att skydda hotade djur- och växtarter genom att reglera handeln med dem.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad är det för information som beskrivningen av uppstoppade djur måste innehålla?
+ANSWER: Beskrivningen av uppstoppade djur på Tradera måste innehålla exakta uppgifter om det uppstoppade djurets art och ursprung, för att bevisa att objektet inte är skyddat.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad är CITES-organisationens syfte?
+ANSWER: CITES-organisationens syfte är att skydda hotade djur- och växtarter genom att reglera handeln med dem.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/

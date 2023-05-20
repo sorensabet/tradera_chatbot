@@ -1,0 +1,39 @@
+QUESTION 1: Vilka regler gäller för omdömen på Tradera?
+ANSWER: Regler för omdömen på Tradera finns beskrivna på denna sida. Bland annat regler för vad som kan anses som korrekt och relevant samt krav på giltiga transaktioner och korrekt betalning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION 2: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera innebär att köpare har möjlighet att välja en miljövänligare leveransalternativ vid köp av varor. Detta kan exempelvis innebära att använda cykel eller elbil för leveransen.
+URL: https://info.tradera.com/inspiration/gron-frakt/
+
+QUESTION 3: Hur säljer man på Tradera som privatperson?
+ANSWER: För att sälja på Tradera som privatperson behöver man skapa ett konto och lägga upp en annons med korrekt produktinformation och pris. När någon har köpt en produkt skickar man den till köparen och får betalt av Tradera.
+URL: https://info.tradera.com/salj/sa-saljer-du-som-privatperson/
+
+QUESTION 4: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg som hjälper säljare att beräkna fraktkostnaden för produkter som ska skickas till köpare. Verktyget tar hänsyn till faktorer som vikt, storlek och destination.
+URL: https://www.tradera.com/fraktkalkylator
+
+QUESTION 5: Hur fungerar Tradera Butik?
+ANSWER: Tradera Butik är en funktion som gör det möjligt för säljare att skapa en personlig sida på Tradera där de kan visa upp och sälja sina produkter. Säljare kan även anpassa sidan med logotyp och färger.
+URL: https://info.tradera.com/salj/salj-som-foretag-eller-privat/tradera-butik/
+
+QUESTION 6: Vad är vanliga frågor och svar på Tradera?
+ANSWER: Vanliga frågor och svar på Tradera är en sektion där användare kan läsa svar på populära frågor som rör användning av Tradera. Det kan exempelvis röra sig om frågor som gäller betalning, leverans, returer och regler.
+URL: https://www.tradera.com/help
+
+QUESTION 7: Vilka regler gäller på Tradera?
+ANSWER: Regler som gäller på Tradera finns beskrivna på denna sida. Bland annat regler som gäller för betalning, leverans, omdömen och produkter som får säljas.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION 8: Vad är grön inspiration på Tradera?
+ANSWER: Grön inspiration på Tradera är en sektion där användare kan hitta inspiration till att handla mer miljövänligt. Här finns produkter samlat som exempelvis är återvunna eller tillverkade under schyssta arbetsvillkor.
+URL: https://www.tradera.com/inspiration/gron-frakt
+
+QUESTION 9: Vad är den vanliga tiden för leverans av en vara på Tradera?
+ANSWER: Tradera är en plattform för försäljning av varor, därför kan leveranstiden variera beroende på vilken säljare man handlar av och varifrån varan skickas. Köpare kan se uppskattad leveranstid i annonserna och även kommunicera med säljaren för mer exakta uppgifter.
+URL: https://info.tradera.com/inspiration/gron-frakt/
+
+QUESTION 10: Vilka funktionella cookies använder Tradera?
+ANSWER: Funktionella cookies som Tradera använder inkluderar sparade inställningar, inloggning med Facebook eller andra sociala medier, och andra förbättringar av användarupplevelsen på plattformen.
+URL: https://www.tradera.com/cookies-och-integritet/cookies-informationskapslar

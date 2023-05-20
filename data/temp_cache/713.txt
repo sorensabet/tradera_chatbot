@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med inställningarna för cookies på Tradera?
+ANSWER: Syftet med inställningarna för cookies på Tradera är att hjälpa användare att anpassa och styra Traderas cookie-inställningar på deras webbläsare.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Kan Traderas nödvändiga cookies stängas av?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de är viktiga för att Tradera ska fungera korrekt.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Vad är syftet med prestandacookies på Tradera?
+ANSWER: Syftet med prestandacookies på Tradera är att mäta hur Tradera används anonymt, så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera ger användare utökad funktionalitet och anpassning på Tradera, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Vilket syfte har marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av Traderas annonspartners för att publicera relevanta annonser för användare. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Kan användare anpassa sina cookie-inställningar på Tradera?
+ANSWER: Ja, Tradera ger användare möjligheten att anpassa aspekterna av cookie-inställningarna på Tradera.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Vilka cookies är nödvändiga för Tradera för att fungera korrekt?
+ANSWER: Nödvändiga cookies på Tradera kan inte stängas av och är viktiga för att Tradera ska fungera korrekt.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Hur används Traderas prestandacookies?
+ANSWER: Prestandacookies på Tradera används för anonym mätning av hur Tradera används, vilket hjälper till att förbättra användarupplevelsen.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Vilka funktioner ger funktionella cookies till användare på Tradera?
+ANSWER: Funktionella cookies förbättrar funktionaliteten och användaranpassningen på Tradera, till exempel sparade inställningar och inloggning med Facebook.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Vilka annonspartners använder Tradera för riktad annonsering?
+ANSWER: Tradera använder sina annonspartners för riktad annonsering för att visa annonser som är relevanta för användare.
+URL: https://info.tradera.com/en/shoppa-2/

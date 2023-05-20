@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med Nödvändiga cookies?
+ANSWER: Syftet med Nödvändiga cookies är att de är nödvändiga för att Tradera ska fungera.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 2: Vad är syftet med Prestanda cookies?
+ANSWER: Syftet med Prestanda cookies är att de används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 3: Vilken funktion har Funktionscookies på Tradera?
+ANSWER: Funktionscookies har funktionen att ge utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 4: Används Marknadsföringscookies på Tradera?
+ANSWER: Ja, Marknadsföringscookies används på Tradera, de används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 5: Vad är skillnaden mellan Nödvändiga cookies och Funktionscookies?
+ANSWER: Skillnaden mellan Nödvändiga cookies och Funktionscookies är att Nödvändiga cookies är nödvändiga för att Tradera ska fungera medan Funktionscookies ger utökad funktionalitet och användaranpassning på Tradera.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 6: Hur används Prestandacookies för att förbättra användarupplevelsen på Tradera?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används, vilket hjälper till att förbättra användarupplevelsen på sajten.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 7: Vilka cookies kan inte stängas av på Tradera?
+ANSWER: Nödvändiga cookies kan inte stängas av på Tradera, då de är nödvändiga för att sajten ska fungera.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 8: Hur påverkar Funktionscookies användaranpassningen på Tradera?
+ANSWER: Funktionscookies ger användaranpassning på Tradera genom att de ger tillgång till utökad funktionalitet, som exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 9: Vilken typ av annonser riktas med Marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används för riktade annonser relevanta för dig, av Traderas annonseringspartners.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION 10: Kan användare välja att stänga av Prestandacookies på Tradera?
+ANSWER: Nej, det är inte möjligt att stänga av Prestandacookies på Tradera.
+URL: https://info.tradera.com/klocksnack/

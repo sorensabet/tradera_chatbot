@@ -1,0 +1,39 @@
+QUESTION 1: What is Tradera's dispute settlement procedure?
+ANSWER: If a dispute occurs between a Buyer and Seller on Tradera, the platform offers a dispute settlement procedure to resolve the conflict. In case of a dispute, the Buyer is not entitled to a refund. Tradera's decision on a case cannot be appealed within the forum, but the parties can seek other means to solve their problem.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 2: Can a Seller retain payment under Tradera's seller protection?
+ANSWER: Yes, a Seller can retain payment under Tradera's seller protection, provided they comply with the terms and conditions set by the platform. Even if the Buyer claims they never received the item or it does not match the description, the Seller can keep the payment they have received.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 3: What products are not covered under Tradera's seller protection?
+ANSWER: Tradera's seller protection does not apply to the following products: Sale of properties, Sale of vehicles, Sale of customized items (unless the recipient claims they did not arrive), Sale of items equivalent to cash, Sale of tickets for events, and Sale of goods and services prohibited by Tradera's Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 4: How can a Seller qualify for Tradera's seller protection?
+ANSWER: In order for a Seller to be eligible for Tradera's seller protection, they must meet the following conditions: send the goods to the delivery address approved by Tradera at the time of payment; send the goods to the address of which Tradera has last informed the Seller; and for goods that cost more than 200 SEK, they must provide a tracking number.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 5: What happens if the Buyer changes their delivery address after the purchase?
+ANSWER: If the Buyer changes their delivery address after the purchase has been completed, Tradera will notify the Seller of the change by means of the confirmation email sent when the Buyer paid for the goods. The information will also be available in My Tradera. The Seller must send the goods to the new address provided for the Seller to be covered under the seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 6: Can a Seller claim seller protection for goods that cost less than 200 SEK?
+ANSWER: Yes, a Seller can claim seller protection for goods that cost less than 200 SEK. However, they must still comply with the terms and conditions specified by Tradera to qualify for it.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 7: Is there any appeal process after Tradera's decision on a dispute?
+ANSWER: No, there is no appeal process after Tradera's decision on a dispute. However, the parties involved are free to seek other alternatives to settle their dispute.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 8: Can a Buyer get a refund if there is a dispute?
+ANSWER: No, a Buyer is not entitled to a refund within Tradera's dispute settlement procedure. However, the Buyer and Seller can find another way to settle their dispute outside of the platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 9: What is the role of Tradera in a dispute between Buyers and Sellers?
+ANSWER: Tradera offers a dispute settlement procedure to help resolve conflicts between Buyers and Sellers. However, the decision made on a case cannot be appealed within the platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 10: What happens if a Seller sells a prohibited item on Tradera?
+ANSWER: If a Seller sells a prohibited item on Tradera, they will not be eligible for Tradera's seller protection, and the platform reserves the right to remove the item. It is important for Sellers to follow Tradera's Rules for Sellers and only sell acceptable items on the platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med denna integritetspolicy?
+ANSWER: Syftet med denna integritetspolicy är att informera användarna om hur Tradera samlar in, använder och skyddar deras personliga data.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 2: Vilka användare påverkas av denna integritetspolicy?
+ANSWER: Alla användare på Tradera, både befintliga och nya, påverkas av denna integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 3: Vilken version av integritetspolicyn gäller för användare som registrerade sig före den 24 februari 2023?
+ANSWER: Användare som registrerade sig före den 24 februari 2023 är fortfarande reglerade av de tidigare versionerna av integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 4: Vad händer om en användare inte godkänner integritetspolicyn?
+ANSWER: Användare som inte godkänner integritetspolicyn kommer inte kunna använda Tradera och måste avsluta sitt konto.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 5: Vad är personlig data enligt Traderas integritetspolicy?
+ANSWER: Personlig data enligt Traderas integritetspolicy är all information som kan kopplas till en individ, som namn, adress, e-postadress och IP-adress.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 6: Vilka inställningar finns tillgängliga för att hantera användares personliga data på Tradera?
+ANSWER: Användare kan hantera sin personliga data genom att ändra sina kontoinställningar och välja vilken information de delar med andra användare eller Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 7: Hur kan en användare kontakta Traderas dataskyddsombud?
+ANSWER: Användare kan kontakta Traderas dataskyddsombud genom att skicka ett e-postmeddelande till privacy@tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 8: Kan Tradera lämna ut användares personliga data till tredje part?
+ANSWER: Tradera kan lämna ut användares personliga data till tredje part om det krävs enligt lag eller om användaren har gett sitt medgivande. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 9: Hur länge lagras användares personliga data enligt integritetspolicyn?
+ANSWER: Användares personliga data lagras så länge som det är nödvändigt för att uppfylla Traderas åtaganden gentemot användaren och enligt lagstadgade krav. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION 10: Kan användare begära att Tradera raderar deras personliga data?
+ANSWER: Ja, användare har rätt att begära att deras personliga data raderas från Traderas system. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

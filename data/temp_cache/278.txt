@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Traderas Integritetspolicy?
+ANSWER: Syftet med Traderas integritetspolicy är att beskriva hur de samlar in, använder, sparar, lämnar ut, och skyddar dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vem är ansvarig för personuppgifter hos Tradera?
+ANSWER: Personuppgiftsansvarig hos Tradera är Tradera AB.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur samlar Tradera in personuppgifter?
+ANSWER: Tradera samlar in personuppgifter från användare när de registrerar sig på webbplatsen eller skapar en annons. De samlar även in information från cookies och liknande teknik som används på deras hemsida.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken information räknas som personuppgifter enligt Traderas Integritetspolicy?
+ANSWER: Personuppgifter enligt Traderas integritetspolicy är information som direkt eller indirekt kan identifiera en fysisk person.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur använder Tradera personuppgifter?
+ANSWER: Tradera använder personuppgifter för att kunna erbjuda sina tjänster, behandla betalningar, hantera annonser och kommunicera med användare. De kan även använda personuppgifter för marknadsföringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan användare avbryta Traderas användning av personuppgifter för marknadsföring?
+ANSWER: Ja, användare kan när som helst avsluta Traderas användning av personuppgifter för marknadsföring genom att ändra sina inställningar på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka personuppgifter lämnar användare ut till andra användare på Tradera?
+ANSWER: Användare kan lämna ut personuppgifter som namn, adress, och telefonnummer till andra användare på Tradera när de genomför en affärstransaktion.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad är Tradera-användar-ID?
+ANSWER: Tradera-användar-ID är en unik identifierare som alla användare får när de registrerar sig på Traderas webbplats. Det används för att hantera och identifiera användare på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan användare få tillgång till och ändra sin personliga information på Tradera?
+ANSWER: Ja, användare kan när som helst få tillgång till, granska och ändra sin personliga information genom att logga in på Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad händer med personuppgifter när ett Tradera-konto avslutas?
+ANSWER: När ett Tradera-konto avslutas raderas användarens personuppgifter inom 12 månader. Dock kan vissa personuppgifter sparas i upp till 36 månader för att följa lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

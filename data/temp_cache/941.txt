@@ -1,0 +1,39 @@
+QUESTION 1: What is Klarna?
+ANSWER: Klarna is a payment option that can be used by Swedish users when buying items on Tradera. It allows buyers to choose between paying instantly or on credit.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 2: How does paying with Klarna work?
+ANSWER: When paying with Klarna, Swedish users can choose between paying instantly or on credit. Klarna will automatically be added to all listings if the buyer is from Sweden.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 3: Who can use Klarna as a payment option on Tradera?
+ANSWER: Only Swedish users can use Klarna as a payment option on Tradera.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 4: What should I do if I have questions about disputes or refunds?
+ANSWER: If you have questions about disputes or refunds, you should contact Tradera.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 5: As a seller, who should I contact if I have questions about Klarna?
+ANSWER: If you are a seller and have questions about Klarna, you should contact Klarna.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 6: What should I do if I have questions about credit checks or the Klarna invoice?
+ANSWER: If you have questions about credit checks or the Klarna invoice, you should contact Klarna.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 7: Can I pay in installments when using Klarna?
+ANSWER: Yes, Swedish users can pay in installments when using Klarna.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 8: How can I see my Klarna invoices?
+ANSWER: You can check your Klarna invoices on Klarna's website or in the Klarna app. If you don't have a Klarna account, one will be created for you.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 9: What should I do if I want to change an invoice to installments?
+ANSWER: To change an invoice to installments, log into your Klarna account.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION 10: Are there any frequently asked questions for buyers when using Klarna?
+ANSWER: Yes, there is a section dedicated to frequently asked questions for buyers on the Klarna website. 
+URL: https://info.tradera.com/en/klarna/

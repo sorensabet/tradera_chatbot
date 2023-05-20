@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information om användning av webbplatsen delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av webbplatsen med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Varför använder Tradera cookies på sin webbplats?
+ANSWER: Tradera använder cookies på sin webbplats för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera deras trafik.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Traderas nödvändiga cookies stängas av?
+ANSWER: Nej, Traderas nödvändiga cookies kan inte stängas av eftersom de är nödvändiga för att deras webbplats ska fungera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är syftet med Traderas prestanda-cookies?
+ANSWER: Syftet med Traderas prestanda-cookies är att använda anonym mätning för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken typ av funktionalitet tillhandahåller Traderas funktionella cookies?
+ANSWER: Traderas funktionella cookies tillhandahåller utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken typ av annonser visas med hjälp av Traderas marknadsförings-cookies?
+ANSWER: Traderas marknadsförings-cookies används av deras annonseringspartners för att visa riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka sociala medier-plattformar kan man hitta Tradera på?
+ANSWER: Tradera finns på Facebook, Twitter, Pinterest och Instagram.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilken typ av information kan man hitta på Traderas sida om vanliga frågor och svar?
+ANSWER: På Traderas sida om vanliga frågor och svar kan man hitta information om betalningar, leverans, returpolicy, konto och säkerhet.
+URL: https://info.tradera.com/vanliga-fragor-och-svar/
+
+QUESTION: Vilken typ av information kan man hitta på Traderas sida om regler?
+ANSWER: På Traderas sida om regler kan man hitta information om regler för användning av deras webbplats, köp och försäljning, allmänna villkor och integritetspolicy.
+URL: https://info.tradera.com/regler/
+
+QUESTION: Var kan man hitta kontaktinformation för Tradera?
+ANSWER: Ett kontaktformulär eller andra kontaktalternativ finns på Traderas sida om Kontakt och Hjälp.
+URL: https://www.tradera.com/help/contact_us

@@ -1,0 +1,39 @@
+QUESTION: Hur vet jag när Tradera har gjort en utbetalning till mig?
+ANSWER: Tradera påbörjar en utbetalning för en användares positiva saldo antingen varje vardag, varje torsdag eller den 25:e varje månad, beroende på hur användaren har valt det i sina utbetalningsinställningar. Det tar 1-2 bankdagar för utbetalningen att synas på användarens konto.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kan jag själv välja hur ofta jag vill få mina utbetalningar?
+ANSWER: Ja, användare kan välja mellan utbetalning varje vardag, varje torsdag eller den 25:e varje månad genom att justera sina utbetalningsinställningar.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad är utbetalningsintervallet för utbetalningar som görs varje vecka?
+ANSWER: Om användare väljer utbetalning varje vecka kontrollerar Tradera varje torsdag om användarens saldo är positivt och påbörjar sedan en utbetalning. Därefter tar det 1-2 bankdagar innan utbetalningen syns på användarens konto.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vilket datum görs utbetalningar för användare som har valt månatliga utbetalningar?
+ANSWER: Användare som valt månatliga utbetalningar får sin utbetalning kontrollerad den 25:e varje månad, förutsatt att deras saldo är positivt. Det tar 1-2 bankdagar för utbetalningen att visas på användarens konto. Om den 25:e infaller på en helgdag, påbörjar Tradera fortfarande utbetalningen men det kan ta något längre tid att hantera den.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad händer om jag har avgifter kvar att betala när månaden slutar och det inte finns en utbetalning att täcka dem?
+ANSWER: Om användaren har avgifter kvar att betala den sista dagen på månaden, men ingen kommande utbetalning, skapas en faktura för dessa avgifter. Samma sak gäller om den innestående utbetalningen inte täcker beloppet för avgifterna.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kan jag skjuta upp en avgift till nästa månad?
+ANSWER: Nej, Tradera har inte stöd för att skjuta upp avgifter.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Hur lång tid tar det för utbetalningar att synas på mitt konto?
+ANSWER: Det tar 1-2 bankdagar för Traderas utbetalningar att synas på användarens konto.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Om jag har felaktigheter i mina utbetalningar, vem ska jag kontakta?
+ANSWER: Om användaren upptäcker felaktigheter i sina utbetalningar bör de kontakta Traderas kundtjänst för att få hjälp.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kan jag ändra mina utbetalningsinställningar när som helst?
+ANSWER: Ja, användare kan ändra sina utbetalningsinställningar när som helst genom att gå till sina kontoinställningar på Tradera.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vilken dag i veckan gör Tradera utbetalningar om jag inte har valt ett specifikt interval?
+ANSWER: Om användare inte har valt en specifik utbetalningsinställning gör Tradera en kontroll av användarens saldo varje vardag och påbörjar en utbetalning om saldot är positivt. Därefter tar det 1-2 bankdagar för utbetalningen att synas på användarens konto.
+URL: https://info.tradera.com/nettoutbetalning/

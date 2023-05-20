@@ -1,0 +1,39 @@
+QUESTION: Vad är skillnaden mellan nödvändiga cookies och prestanda cookies? 
+ANSWER: Nödvändiga cookies är grunden för att hemsidan ska kunna fungera medan prestanda cookies används för att mäta hur Tradera användas så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Vilka partners tar del av informationen Tradera samlar in med cookies? 
+ANSWER: Tradera delar information om användarens användning av deras hemsida med deras partners för sociala medier, annonsering och analys. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Utöver de nödvändiga cookies, vilka andra typer av cookies används av Tradera och varför? 
+ANSWER: Tradera använder prestanda cookies för att mäta hur deras hemsida används samt funktionella cookies för utökad funktionalitet på hemsidan och marknadsföring cookies för att visa relevanta annonser. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Kan jag välja att inte tillåta användning av cookies på Tradera? 
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de utgör grunden till att hemsidan överhuvudtaget fungerar. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Vad är syftet med att använda cookies på Tradera? 
+ANSWER: Syftet med att använda cookies på Tradera är att anpassa innehåll och annonser, tillhandahålla funktioner för sociala medier och för att analysera deras trafik. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Vilken information delas med Traderas annonseringspartners genom marknadsföringscookies? 
+ANSWER: Traderas annonseringspartners använder marknadsföringscookies för att visa användare riktade annonser som är relevanta för dem. Information som delas med annonseringspartners är användning av Traderas hemsida. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Kan funktionella cookies användas utan att jag är inloggad med Facebook på Tradera? 
+ANSWER: Ja, funktionella cookies kan användas utan att man är inloggad med Facebook på Tradera då de används för utökad funktionalitet och användaranpassning på Tradera. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Vad händer om jag blockerar funktionella cookies på Tradera? 
+ANSWER: Om man blockerar funktionella cookies så kommer man inte kunna använda vissa sparade inställningar eller få utökad funktionalitet på hemsidan. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Varför samlar Tradera in användarinformation om deras trafik på hemsidan? 
+ANSWER: Tradera samlar in användarinformation om deras trafik på hemsidan för att kunna analysera hur deras hemsida används så att de kan förbättra användarupplevelsen. 
+URL: https://info.tradera.com/da/drug-related-items/
+
+QUESTION: Hur kan jag ändra mina inställningar för cookies på Tradera? 
+ANSWER: Man kan ändra sina inställningar för cookies på Tradera genom att klicka på "ändra inställningar" och sedan välja vilka typer av cookies man vill tillåta. 
+URL: https://info.tradera.com/da/drug-related-items/

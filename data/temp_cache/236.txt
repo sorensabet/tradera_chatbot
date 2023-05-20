@@ -1,0 +1,39 @@
+QUESTION: Hur fungerar Traderas samfrakt?
+ANSWER: Traderas samfrakt automatiserar hanteringen av flera objekt från samma säljare, vilket gör det möjligt för köparen att kombinera frakten till ett paket och göra sin köpupplevelse mer effektiv. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Hur ser det ut när säljaren erbjuder samfrakt?
+ANSWER: Säljaren indikerar på varje annons på Tradera om denne erbjuder samfrakt genom att sätta en samfraktsikon. Ikonen visar också hur länge du har på dig att handla fler objekt hos samma säljare för att räkna dem in i samfrakten.
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Hur länge har du på dig att handla fler objekt hos samma säljare för att räkna dem in i samfrakten?
+ANSWER: Varje säljare på Tradera sätter en tidsbegränsning för samfrakt när de lägger ut en annons. Om en objekt säljs på fredag och säljaren har angett tre dagar för samfrakt, då måste köparen köpa fler objekt från samma säljare under lördagen och söndagen för att räkna dem in i samfrakten. Annars kommer de nya objekten att hamna i en egen order. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Vilken funktion har samfrakten för köparen?
+ANSWER: Samfrakten på Tradera gör det enkelt för köparen att slå ihop flera objekt från samma säljare till ett paket. Detta minskar behovet av att ställa frågor till säljaren om samfrakt och effektiviserar köpupplevelsen. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Hur minskar samfrakt på Tradera behovet av att ställa frågor till säljaren om samfrakt?
+ANSWER: Samfraktsfunktionen på Tradera gör det överflödigt att ställa frågor till säljaren om samfrakt, eftersom säljarens policy för samfrakt är tydligt specificerad på annonsen och köparen kan handla inom tidsramen för att räkna samfrakten från flera objekt. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Var kan köpare hitta annonser med samma säljare utan att behöva fråga om samfrakt?
+ANSWER: Köpare kan använda funktionen samfrakt på Tradera för att hitta flera annonser av samma säljare och skapa en sammanfattad order med den totala fraktkostnaden. På så sätt kan köpare undvika att behöva fråga säljaren om samfrakt. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Vad händer om tiden går ut för samfrakt och köparen köper ytterligare objekt från samma säljare?
+ANSWER: Om tiden för samfrakt går ut och köparen köper fler objekt från samma säljare kommer de nya objekten att hamna i en egen order och inte räknas in i samfrakten. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Kan köparen sammanfatta flera objekt från olika säljare i en samfraktorder?
+ANSWER: Det är enbart möjligt att sammanfatta flera objekt från samma säljare i en samfraktorder på Tradera. För att sammanfatta objekt från olika säljare behöver köparen göra separata ordrar. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Hur lång tid har köparen att betala för samfraktade objekt på Tradera?
+ANSWER: När köparen har gjort en sammanfattad order genom samfrakt på Tradera har denne fem dagar på sig att betala. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Kan köparen ändra sin fraktadress efter att ha gjort en samfraktorder på Tradera?
+ANSWER: På Tradera har köparen möjlighet att ändra sin fraktadress så länge som säljaren inte har skickat ut objekten. Om säljaren redan skickat ut varan måste köparen själv kontakta transportbolaget för att ändra fraktadressen. 
+URL: https://info.tradera.com/samfrakt-kopare/

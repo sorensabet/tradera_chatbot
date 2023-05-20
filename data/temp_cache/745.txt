@@ -1,0 +1,39 @@
+QUESTION: Hur kan jag följa mitt paket och få min spårningsnummer?
+ANSWER: Du kan enkelt följa ditt paket från Mitt Tradera. För att hitta spårningsnumret kan du gå till menyn "Mer -> Orderinformation".
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka är maxmått för en försändelse?
+ANSWER: Maxmåttet för en försändelse är 140 cm i längd, minst 2 cm i höjd, max 300 cm total omkrets och max 20 kg.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vad är leveranstiden på min beställning?
+ANSWER: Leveranstiden för din beställning är normalt 2-3 arbetsdagar. Det kan dock ta 1-2 dagar extra beroende på inlämningstid och var i landet avsändaren och mottagaren befinner sig.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: När sker leveranser till och från ombud?
+ANSWER: Leveranser till och från ombud sker på helgfria vardagar, måndag till fredag. Det är möjligt att avgångstiderna för inlämnade paket kan variera för olika ombud, så det är alltid bra att fråga ditt ombud vilka avgångstider som gäller.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vad gör jag om leveranstiden överstiger 30 dagar?
+ANSWER: Om leveranstiden överstiger 30 dagar kan du göra en reklamation.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilket bolag ansvarar för min leverans när jag bokar via Tradera?
+ANSWER: Paket som skickats med DB Schenker och som bokats via Tradera ansvarar för leveransen.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur ser jag aviseringar och påminnelser som skickats till min köpare?
+ANSWER: Du kan se aviseringar och påminnelser som skickats till din köpare genom Mitt Tradera under menyn "Mer -> Orderinformation".
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Är min försändelse försäkrad när jag bokar via Tradera?
+ANSWER: Ja, försändelser som skickats med DB Schenker och som bokats via Tradera är alltid försäkrade. Vid förlust eller skada betalas ersättning för varan upp till 5000 kr.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka är de tillåtna måtten för en försändelse?
+ANSWER: Maxmåttet för en försändelse är 140 cm i längd, minst 2 cm i höjd, max 300 cm total omkrets och max 20 kg.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Var kan jag hitta mitt närmaste ombud?
+ANSWER: Du kan hitta ditt närmaste ombud på Traderas webbplats i avsnittet "Hitta ombud".
+URL: https://info.tradera.com/dbschenker/

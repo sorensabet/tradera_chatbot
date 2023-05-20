@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med "Nödvändigt" kakan på Tradera?
+ANSWER: "Nödvändigt" kakan används för att Tradera ska fungera korrekt. Den kan inte stängas av eftersom Tradera inte skulle fungera utan den.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 2: Vilket syfte har "Prestanda" kakorna på Tradera?
+ANSWER: "Prestanda" kakorna på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 3: Vad innebär "Funktionell" kakor på Tradera?
+ANSWER: Funktionella kakor ger tillgång till utökad funktionalitet och användaranpassning på Tradera, såsom vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 4: Vad är syftet med "Marknadsförings" kakor på Tradera?
+ANSWER: Marknadsföringskakor på Tradera används av annonseringspartners för att rikta annonser relevanta för användaren.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 5: Varför kan inte "Nödvändig" kakan stängas av på Tradera?
+ANSWER: "Nödvändig" kakan på Tradera behövs för att Tradera ska fungera korrekt. Därför kan den inte stängas av.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 6: Hur används "Prestanda" kakorna på Tradera för att förbättra användarupplevelsen?
+ANSWER: "Prestanda" kakorna på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras genom att hitta och åtgärda problem.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 7: Vilken typ av funktionalitet ger "Funktionell" kakor på Tradera?
+ANSWER: Funktionella kakor ger tillgång till utökad funktionalitet och användaranpassning på Tradera, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 8: Vilket syfte har "Marknadsförings" kakorna på Tradera?
+ANSWER: Marknadsföringskakor på Tradera används av annonseringspartners för att rikta annonser specifikt till användaren.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 9: Varför använder Tradera kakor?
+ANSWER: Tradera använder kakor för att säkerställa att webbplatsen fungerar korrekt, för att förbättra användarupplevelsen, för utökad funktionalitet och användaranpassning, och för att rikta annonser.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION 10: Kan användarna stänga av kakor på Tradera?
+ANSWER: Användare kan stänga av alla kakor på Tradera i webbläsarens inställningar, men detta kan påverka funktionen av webbplatsen. 
+URL: https://info.tradera.com/postnord/my-pack-collect/

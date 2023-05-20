@@ -1,0 +1,39 @@
+QUESTION: Hvilke typer af genstande er tilladt til salg på Tradera?
+ANSWER: Autentiske objekter fra Anden Verdenskrig, frimærker, brev, postkort, konvolutter og penge fra 2. Verdenskrig er eksempel på nogle af de tilladte varetyper.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Er det tilladt at sælge uniformer eller personlige ejendele fra koncentrationslejre på Tradera?
+ANSWER: Nej, det er forbudt at sælge uniformer eller personlige ejendele fra koncentrationslejre, selvom de er autentiske.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Er det tilladt at sælge musik eller film, der tilskynder til had eller racisme på Tradera?
+ANSWER: Nej, det er ikke tilladt at sælge musik eller film, hvis intention er at tilskynde til had eller racisme.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Hvilke typer af dokumentarfilm/fotografier er tilladt på Tradera?
+ANSWER: Dokumentarfilm/fotografier, der afbilder krig, krigsofre eller vold, er tilladt på Tradera så længe de ikke overtræder reglerne om racisme, nazisme, sexisme, homofobi eller andre former for diskrimination.
+URL: https://info.tradera.com/da/offensive-items/
+
+QUESTION: Er Tradera en boligportal?
+ANSWER: Nej, Tradera er ikke en boligportal. Det er en e-handelsplatform i Norden.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvordan kan man handle på Tradera?
+ANSWER: Du kan handle på Tradera ved at oprette en brugerkonto, søge efter varekategorier på platformen, vælge de ønskede varer og betale for dem.
+URL: https://info.tradera.com/da/buying/
+
+QUESTION: Hvordan kan man sælge på Tradera som privatperson?
+ANSWER: Du kan sælge på Tradera som privatperson ved at oprette en brugerkonto, oprette en salgsannonce for et produkt, følge de angivne retningslinjer for beskrivelsen af varen og behandle betaling fra købere.
+URL: https://info.tradera.com/da/selling/sell-as-a-private-person
+
+QUESTION: Hvordan fungerer handelsbetingelserne på Tradera?
+ANSWER: Traderas handelsbetingelser fastlægger reglerne for, hvordan både køber og sælger kan bruge platformen, parternes ansvar og eventuelle gebyrer eller sanktioner for overtrædelse af reglerne.
+URL: https://info.tradera.com/da/contact-help/terms-of-trade
+
+QUESTION: Har Tradera en kontakt og hjælp sektion?
+ANSWER: Ja, Tradera har en kontakt og hjælp sektion, hvor brugere kan finde svar på ofte stillede spørgsmål og kontakte supportteamet.
+URL: https://info.tradera.com/da/contact-help/
+
+QUESTION: Er der nogen regler for, hvilke typer af velgørenhedsformål, man kan støtte via Tradera?
+ANSWER: Ja, der er regler for velgørenhedsformål, man kan støtte via Tradera. Tradera tager kun imod velgørenhedsorganisationer, der er registreret og godkendt af relevant myndighed, og som overholder reglerne for at modtage donationsmidler.
+URL: https://info.tradera.com/da/charity/

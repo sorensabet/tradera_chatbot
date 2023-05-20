@@ -1,0 +1,39 @@
+QUESTION: Var kan jag beställa BankID ifrån?
+ANSWER: Du kan beställa BankID direkt hos din Internetbank. De flesta banker erbjuder möjligheten att logga in på din Internetbank och beställa ditt BankID direkt. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad krävs för att beställa BankID?
+ANSWER: När du beställer BankID behöver du också installera BankID säkerhetsprogram om du inte redan har det installerat. För att ta reda på vad som gäller för dig, kontakta den bank du använder dig av.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Varför behöver jag verifiera mig med BankID på Tradera?
+ANSWER: För att säkerställa högsta möjliga nivå av säkerhet på Tradera, måste du verifiera dig med BankID. Detta är ett enkelt och smidigt sätt för oss att kontrollera att det är du som kopplar upp dig mot vår sajt. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Hur verifierar jag mig med BankID på Tradera?
+ANSWER: När du verifierar dig med BankID på Tradera kommer BankID-symbolen att dyka upp på din skärm. Du klickar på ”fortsätt” och öppnar din BankID-app på mobilen eller datorn. Hos din BankID-app kommer du fylla i din sexsiffriga säkerhetskod och intyga att du legitimerar dig mot Tradera. När du har fyllt i uppgifterna kommer du att bli informerad både på Tradera och i din applikation att du har verifierat dig. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad är BankID säkerhetsprogram?
+ANSWER: BankID säkerhetsprogram är en applikation som du behöver installera på din dator eller mobil för att använda BankID. Säkerhetsprogrammet garanterar att din användning av BankID är säker genom att kryptera dina uppgifter innan de överförs över internet. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad händer om jag inte har BankID?
+ANSWER: För att använda Tradera behöver du verifiera dig med BankID. Om du inte har BankID kan du kontakta din Internetbank för att beställa det. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Hur kan jag kontrollera att det är säkert att verifiera mig med BankID på Tradera?
+ANSWER: BankID är en säker och pålitlig metod för att verifiera din identitet på Tradera. När du verifierar dig med BankID på Tradera använder du dina personliga inloggningsuppgifter på din bank, så det är ingen som kan få tillgång till dina känsliga data. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad ska jag göra om jag får problem med att verifiera mig med BankID på Tradera?
+ANSWER: Om du har problem med att verifiera dig med BankID på Tradera, kan du kontrollera om du har den senaste versionen av BankID säkerhetsprogram installerad. Om du fortfarande har problem kan du kontakta din Internetbank för hjälp. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Kan jag använda någon annan metod än BankID för att verifiera mig?
+ANSWER: Nej, för att använda Tradera behöver du verifiera dig med BankID. Detta är den säkraste och mest pålitliga metoden för verifiering. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Är det säkert att använda BankID på Tradera?
+ANSWER: Ja, det är säkert att använda BankID på Tradera. BankID är en mycket säker och pålitlig metod för att verifiera din identitet på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/

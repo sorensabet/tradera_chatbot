@@ -1,0 +1,38 @@
+QUESTION: What is the Buyer's obligation with regards to payment for a purchase made via Klarna?
+ANSWER: The buyer acknowledges that payment for a purchase made via Klarna should be made to Klarna and that a payment to Tradera or to the Seller will not fulfil the Buyer's payment obligations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How does Tradera ensure payment to the Seller through their payment service?
+ANSWER: Tradera ensures payment to the Seller trough Tradera's payment service, either for a separate Transaction, or as a combined amount involving several Transactions. Before payment is made, any amount that the Seller is obliged to pay to Tradera will be deducted, and the difference will be paid to the Seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What are the amounts that Tradera deducts before paying the Seller?
+ANSWER: The amounts that Tradera will deduct before paying the Seller may relate to selling expenses, refundable amounts, and fees to Tradera agreed between the Seller and Tradera under separate agreement.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Within what timeframe does the Seller usually receive payment?
+ANSWER: As a general rule, the Seller shall receive payment within one (1) to two (2) business days following the completion of a Transaction, provided that the Seller has provided accurate payment details to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Tradera change the payment rate for the Seller?
+ANSWER: Yes, Tradera can change the payment rate for the Seller and it is up to the Seller to keep itself informed of information coming from Tradera in this respect.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How does Tradera check for irregularities in a transaction?
+ANSWER: Tradera checks the Transactions to detect irregularities in accordance with Section [5] in these Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if Tradera suspects irregularities in a transaction?
+ANSWER: If Tradera suspects that there are irregularities such as money laundering, terrorist financing, fraud, or that the Seller has previously acted in violation of these Terms and Conditions, Tradera reserves the right to ensure that the payment is not made to the Seller, but instead refund it to the Buyer. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Tradera change the payment method for a seller?
+ANSWER: The text doesn't provide information on whether Tradera can change the payment method for a Seller or not.
+
+QUESTION: How long does it take for the Seller to receive payment if Tradera suspects irregularities in a transaction?
+ANSWER: If Tradera suspects that the irregularities have been conducted in collusion between the Buyer and the Seller, Tradera reserves the right to ensure that the payment is not made to the Seller, but instead refund it to the Buyer. Therefore, the Seller won't receive payment in such case.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What can Tradera do if the Seller has previously acted in violation of the Terms and Conditions?
+ANSWER: If Tradera suspects that the Seller has previously acted in violation of these Terms and Conditions, Tradera reserves the right to ensure that the payment is not made to the Seller, but instead refund it to the Buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

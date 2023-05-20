@@ -1,0 +1,39 @@
+QUESTION: Hvad sker der hvis jeg placerer min annonce i den forkerte kategori på Tradera?
+ANSWER: Når du placerer en annonce i den forkerte kategori mindsker det nøjagtigheden af søgningerne og gør det sværere at finde det, du leder efter. Tradera kan flytte en vare, hvis de mener, at den er i den forkerte kategori.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hvorfor har Tradera regler for, hvor annoncer skal placeres?
+ANSWER: Tradera har regler for hvor annoncer skal placeres, da annonceplacering i korrekte kategorier gør det nemmere for købere at finde det, de søger efter. 
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Kan Tradera flytte min annonce til en anden kategori, hvis jeg har placeret den i den forkerte kategori?
+ANSWER: Ja, Tradera kan flytte din annonce til en anden kategori, hvis de mener, at din annonce er i den forkerte kategori.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hvad sker der, hvis jeg har placeret min reservedel til en bil i "Bil"-kategorien?
+ANSWER: Hvis du har placeret din reservedel til en bil i "Bil"-kategorien, så har du placeret den i den forkerte kategori. Reservedele bør placeres i relevante kategorier for at gøre det nemmere for købere at finde dem. 
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Er der nogen specifikke regler, jeg skal overholde, når jeg annoncerer på Tradera?
+ANSWER: Ja, du skal overholde regler om, hvor en annonce skal placeres. En reservedel til en bil bør for eksempel placeres i kategorien "Reservedele" og en legetøjshest i legetøjskategorien.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Kan jeg sælge en MacBook i kategorien "Apple - bærbar"?
+ANSWER: Ja, du kan sælge en MacBook i kategorien "Apple - bærbar".
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hvorfor er det vigtigt at placere min fiskestang i kategorien "Fiskestænger"?
+ANSWER: Det er vigtigt at placere din fiskestang i kategorien "Fiskestænger", da købere, der er interesserede i fiskestænger, vil kigge i denne kategori for at finde produkter, som passer til deres behov. 
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hvor kan jeg se en oversigt over populære varemærker på Tradera?
+ANSWER: Du kan se en oversigt over populære varemærker på Tradera ved at klikke på kategorier i menuen og derefter vælge en kategori. Populære varemærker vil blive vist øverst i listen. 
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hvordan kan jeg beregne fragt på Tradera?
+ANSWER: Du kan beregne fragt på Tradera ved at bruge fragtberegneren på sidens forside. Du indtaster produktets vægt og størrelse samt destination og fragtpriser vil blive beregnet. 
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hvor kan jeg finde handelsbetingelserne for at sælge på Tradera som privatperson?
+ANSWER: Du kan finde handelsbetingelserne for at sælge på Tradera som privatperson ved at klikke på "Sælg" i menuen og derefter vælge "Sådan sælger du som privatperson". Handelsbetingelserne vil blive præsenteret under afsnittet "Ansvar og vilkår". 
+URL: https://info.tradera.com/da/wrong-category/

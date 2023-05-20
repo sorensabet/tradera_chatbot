@@ -1,0 +1,39 @@
+QUESTION 1: What information may Tradera collect from a seller and why?
+ANSWER: Tradera may obtain access information from a seller in order to determine whether they are in breach of the User Agreement, including Tradera's Payment Solution Terms. This is in accordance with the ethical guidelines that Tradera follows.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 2: What happens if a business user breaches the User Agreement?
+ANSWER: If a business user breaches the User Agreement, Tradera may decide to suspend, restrict, or terminate their use of the Services. The decision will be communicated to the user with a statement of reasons for the decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 3: When will a business user be informed of a decision to suspend or restrict their use of the Services?
+ANSWER: A decision on suspending or restricting a business user's use of the Services, in whole or in part, will be communicated to the concerned business user at the latest when the decision takes effect with a statement of the reasons for the decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 4: When will a business user be informed of a decision to terminate their use of the Services?
+ANSWER: A decision on terminating a business user's use of the Services, in whole or in part, will be provided to the concerned business user at the latest 30 days prior to the effective date of the termination with a statement of the reasons for the decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 5: Is there any circumstance in which the 30-day notice period for termination does not apply?
+ANSWER: Yes, the notice period of 30 days shall not apply if: the termination is caused by a legal or regulatory obligation which requires Tradera to terminate the provision of the whole of its Services to a given business user in a manner which does not allow Tradera to respect that notice period; Tradera exercises a right of termination under an imperative reason pursuant to national law which is in compliance with EU law; or Tradera can demonstrate that the business user concerned has repeatedly infringed the applicable terms and conditions, resulting in the termination of the provision of the whole of the Services in question.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 6: What happens if Tradera exercises a right of termination under an imperative reason pursuant to national law which is in compliance with EU law?
+ANSWER: If Tradera exercises a right of termination under an imperative reason pursuant to national law which is in compliance with EU law, the notice period of 30 days for termination will not apply.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 7: Is Tradera required to provide reasons for a decision to suspend, restrict, or terminate a business user's use of the Services?
+ANSWER: Tradera shall not be under an obligation to provide reasons for the decision to suspend, restrict or terminate a business user's use of the Services, where Tradera is subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds, or where Tradera can demonstrate that the business user has repeatedly infringed the applicable terms and conditions.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 8: How will a business user be informed if the notice period for termination does not apply?
+ANSWER: In case the notice period does not apply, Tradera will provide the business user concerned, without undue delay, with a statement of reasons for that decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 9: What are the reasons for suspension, restriction or termination of a business user's use of the Services?
+ANSWER: The reasons for suspension, restriction or termination of a business user's use of the Services are when they breach the User Agreement or the applicable terms and conditions.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION 10: What ethical guidelines does Tradera follow?
+ANSWER: Tradera follows ethical guidelines that are relevant to rules adopted by credit/debit card companies or their industry organization or any other payment service terms that are relevant to Tradera. The guidelines may be provided upon request.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

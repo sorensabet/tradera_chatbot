@@ -1,0 +1,39 @@
+QUESTION: What is the content requirement for users to provide?
+ANSWER: To use the Services, users must provide accurate and non-confidential content that doesn't infringe any third-party intellectual property right.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What may happen to the ratings that shoppers leave after purchasing a product?
+ANSWER: The ratings that shoppers leave for products listed on Tradera by business users may be made publicly available.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can Tradera guarantee continuous operation of their Services?
+ANSWER: No, Tradera cannot guarantee continuous operation of their Services even though they try to keep access safe and secure.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the liability of Tradera and its parent, subsidiaries, etc. to users?
+ANSWER: They will not be liable to users for indirect losses that could not be reasonably foreseen, resulting from the user's inability to use the Services, delays or disruptions in the Services, malicious software, content or actions of third parties, destruction of items allegedly infringing third-party intellectual property rights, suspension or other action taken against a user's account, changes to the User Agreement or policies, and more.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Is the processing and transfer of personal data regulated by another policy?
+ANSWER: Yes, the processing and transfer of personal data is further governed by the Privacy Policy.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can bid updates and notification functionality in Tradera's Services happen in real-time?
+ANSWER: No, bid updates and other notification functionality in Tradera's Services may not occur in real-time due to delays outside Tradera's control.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can Tradera be held responsible for the disruption to the user's business?
+ANSWER: Yes, Tradera can be held responsible for the disruption to the user's business resulting from indirect losses that could not be reasonably foreseen.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Why may a user's account on Tradera be suspended?
+ANSWER: A user's account on Tradera may be suspended if they breach the "Abusing Tradera" section.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can a user's listings appear in search results indefinitely?
+ANSWER: No, a user's listings may not appear in search results indefinitely and are subject to the duration and manner set out in the "Listing Conditions" section.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Who is responsible for modifying practices, content, or behavior if there are changes to the User Agreement or policies?
+ANSWER: The user is solely responsible for modifying practices, content, or behavior if there are changes to the User Agreement or policies.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

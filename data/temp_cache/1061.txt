@@ -1,0 +1,39 @@
+QUESTION: Hvad er forbudt at sælge på Tradera?
+ANSWER: Ifølge teksten er det forbudt at sælge tyvekoster samt varer, der er forbudt at importere eller eksportere. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke lande er underlagt EU's sanktioner ifølge Traderas regler?
+ANSWER: Ifølge teksten er varer, der stammer fra lande underlagt sanktioner såsom Iran, Syrien, Cuba og Nordkorea forbudte at importere eller eksportere. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Er det tilladt at sælge gamle aktier på Tradera?
+ANSWER: Ja, det er tilladt at sælge gamle aktier eller aktiebreve med samlerværdi, forudsat at de ikke længere er gyldige eller gælder for en virksomhed, der ikke længere eksisterer. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Er det tilladt at sælge franchises på Tradera?
+ANSWER: Nej, ifølge teksten er franchises ikke tilladt at sælge på Tradera. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er tilladt med restriktioner ifølge Traderas regler?
+ANSWER: Ifølge teksten er gamle aktier eller aktiebreve med samlerværdi tilladt at sælge, samt certifikater eller tilladelser, der vedrører køretøjs-reservedele, er tilladt at sælge sammen med den del, som det er relateret til. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er de tilladte alkoholvare ifølge Tradera?
+ANSWER: Ifølge teksten er tomme alkoholbeholdere tilladt at sælge på Tradera, så længe det tydeligt fremgår, at beholderen er tom, og der findes billeddokumentation på dette. Tomme cigaretpakker, snusdåser og cigaræsker er også tilladt at sælge. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er tilladt at sælge vedrørende køretøjer på Tradera?
+ANSWER: Ifølge teksten er samler-nummerplader og certifikater eller tilladelser, der vedrører køretøjs-reservedele, tilladt at sælge sammen med den del, som det er relateret til. Ved salg af en køretøjs-reservedel skal det fremgå, om køretøjet efter installation stadig vil være lovligt. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Er det tilladt at købe og sælge tyvekoster på Tradera?
+ANSWER: Nej, ifølge teksten er det forbudt ved lov at købe og sælge tyvekoster. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er EU's lov om import og eksport ifølge Traderas regler?
+ANSWER: Ifølge teksten omfatter EU's lov om import og eksport varer, der er forbudt at importere eller eksportere. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke certifikater eller tilladelser er tilladt at sælge ifølge Tradera?
+ANSWER: Ifølge teksten er certifikater eller tilladelser, der vedrører køretøjs-reservedele, tilladt at sælge sammen med den del, som det er relateret til. 
+URL: https://info.tradera.com/da/other-rules/

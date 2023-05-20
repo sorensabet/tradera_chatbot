@@ -1,0 +1,39 @@
+QUESTION: Vad är säljarskyddet hos Tradera?
+ANSWER: Säljarskyddet hos Tradera innebär att om köparen hävdar att de inte mottagit varan, kommer Tradera att be säljaren om underlag som bevisar att varan avlämnats till speditören. Detta är för att skydda säljaren i sådana situationer.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket ansvar har säljaren vid leverans av varor hos Tradera?
+ANSWER: Säljaren är ansvarig för att beskriva varorna i annonsen på ett fullgott sätt så att köparen kan undersöka varan och dess skick innan de ingår köpeavtalet med säljaren. Säljaren är också ansvarig för att avlämna varorna till speditören i samma skick som beskrivet i annonsen och för att skicka varorna på ett lämpligt sätt så att risken för skador minimeras.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka transaktionskostnader tillkommer för betalningar med Traderas betallösning?
+ANSWER: Under förutsättning att säljaren agerar i enlighet med villkoren kommer transaktionskostnaden för betalningar med Traderas betallösning att vara noll (0) kronor och inte heller någon start-, månads- eller årsavgift kommer att behöva erläggas till Tradera för användandet av betallösningen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Tradera fakturera säljaren för återbetalningsskyldigt belopp?
+ANSWER: Om säljaren agerar på ett sätt som medför att Tradera kan återbetala transaktioner till köparen i enlighet med villkoren, kan Tradera fakturera säljaren för det återbetalningsskyldiga beloppet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad kräver Tradera av säljaren angående beskrivning av varorna?
+ANSWER: Tradera kräver att säljaren beskriver samtliga varor på ett fullgott sätt i annonsen så att köparen kan undersöka varan och dess skick innan de ingår köpeavtalet med säljaren. Säljaren bör även använda sig av fotografier för att beskriva varorna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket ansvar har säljaren vid skickandet av varor hos Tradera?
+ANSWER: Säljaren är ansvarig för att skicka varorna till köparen på ett lämpligt sätt, vilket innebär att samtliga beställda varor förpackas och skickas på ett sätt som gör att risken för att produkterna skadas minimeras.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan köparen undersöka varan innan de ingår köpeavtalet med säljaren hos Tradera?
+ANSWER: Ja, köparen kan undersöka varan och dess skick innan de ingår köpeavtalet med säljaren. Detta är möjligt eftersom säljaren ska ha beskrivit samtliga varor på ett fullgott sätt i annonsen och även genom fotografier.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om varan som säljaren skickade till köparen är skadad hos Tradera?
+ANSWER: Om varan som säljaren skickade till köparen är skadad på grund av dålig förpackning eller skickas på ett otillräckligt sätt, kan säljaren bli ansvarig för detta och betala återbetalningsskyldiga belopp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka kostnader tillkommer för användandet av Traderas betallösning hos Tradera?
+ANSWER: Vid användning av Traderas betallösning tillkommer varken transaktionskostnader, startavgift, månadsavgift eller årsavgift för säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan köparen hävda att de inte mottagit leveransen av varan hos Tradera?
+ANSWER: Ja, köparen kan hävda att de inte mottagit leveransen av varan. I sådana fall kommer Tradera att be säljaren om underlag som bevisar att varan avlämnats till speditören och säljaren ansvarar för att kunna bevisa detta.  
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

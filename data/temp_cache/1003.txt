@@ -1,0 +1,39 @@
+QUESTION: Hur länge sparar Tradera personlig information om användare?
+ANSWER: Tradera sparar aldrig personlig information om användare längre än vad som är nödvändigt för att uppfylla det ändamål för vilket de samlades in. Uppgifter som rör stängda eller inaktiva konton kommer att raderas eller anonymiseras när kontot har stängts eller inaktiverats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer med personuppgifter när ett konto stängs?
+ANSWER: Personuppgifter som hänför sig till stängda eller inaktiva konton raderas eller anonymiseras så snart som möjligt efter att kontot har stängts eller inaktiverats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera stänga eller inaktivera konton som inte används eller som används i strid med deras användaravtal?
+ANSWER: Ja, Tradera kan stänga eller inaktivera konton som inte används eller som används i strid med deras användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur länge sparar Tradera vissa uppgifter enligt tillämpliga lagbestämmelser?
+ANSWER: Tradera sparar vissa uppgifter en längre tid om det krävs enligt tillämpliga lagbestämmelser, till exempel bokförings- och skatterättsliga bestämmelser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera bevara personuppgifter i samband med inaktiva konton om de har ett berättigat affärsintresse?
+ANSWER: Ja, Tradera kan bevara personuppgifter som hänför sig till inaktiva eller avstängda konton om de har ett berättigat affärsintresse som inte strider mot lagen, till exempel för att driva in förfallna avgifter, hantera tvistlösning eller upprätthålla deras användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka personuppgifter sparar Tradera om användare?
+ANSWER: Tradera sparar endast personuppgifter som är nödvändiga för att uppfylla det ändamål för vilket de samlades in, till exempel namn, adress och betalningsinformation.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera sälja eller hyra ut personuppgifter till tredje part?
+ANSWER: Nej, Tradera säljer eller hyr inte ut personuppgifter till tredje part utan att användaren har gett sitt samtycke eller om det är nödvändigt enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka åtgärder vidtar Tradera för att skydda personuppgifter?
+ANSWER: Tradera vidtar tekniska och organisatoriska åtgärder för att skydda personuppgifter, inklusive kryptering av känslig information och säkra datasystem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan användare begära att deras personuppgifter tas bort från Traderas system?
+ANSWER: Ja, användare kan begära att deras personuppgifter tas bort från Traderas system genom att kontakta kundtjänst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur hanterar Tradera tvister som rör personuppgifter?
+ANSWER: Tradera hanterar tvister som rör personuppgifter genom att samarbeta med användaren för att lösa problemet på ett tillfredsställande sätt.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

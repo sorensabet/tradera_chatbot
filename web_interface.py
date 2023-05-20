@@ -75,9 +75,9 @@ history = ''
 # Ideally, I also have a summary of what the rest of the conversation said, so the model can be prompted. 
 
 # First model, trained within 5 hour limit: ada:ft-personal-2023-05-18-15-50-40'
-# Second model, trained after generating 10 questions from each page 
+# Second model, trained after generating 10 questions from each page on sitemap: curie:ft-personal-2023-05-20-18-40-42
 
-def prompt_gpt(context, user_prompt, model='ada:ft-personal-2023-05-18-15-50-40'): 
+def prompt_gpt(context, user_prompt, model='curie:ft-personal-2023-05-20-18-40-42'): 
     response = openai.Completion.create(
         model=model, 
         prompt= "CONTEXT: " +  context + '\nUSER MESSAGE: ' + user_prompt + '\n\n###\n\n')
@@ -96,10 +96,10 @@ def home():
 
 @app.route('/process', methods=['POST'])
 def process():
-    user_input = request.form['user_input']
-    response = prompt_gpt('', user_input)
-    
     global history
+
+    user_input = request.form['user_input']
+    response = prompt_gpt(history, user_input)      
     history += '\nUSER: ' + user_input + '\n\n SYSTEM: ' + response
     
     return render_template('index.html', user_input=user_input, response=response, history=history)

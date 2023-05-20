@@ -1,0 +1,39 @@
+QUESTION: Varför är det viktigt att ha säkra lösenord?
+ANSWER: Det är viktigt att ha säkra lösenord för att skydda dig själv mot obehörig åtkomst till dina personliga uppgifter och information. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vilken typ av lösenord rekommenderar Tradera att använda?
+ANSWER: Tradera rekommenderar att du använder en blandning av stora och små bokstäver, siffror och specialtecken för att skapa ett säkert lösenord. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan jag använda samma lösenord för flera konton?
+ANSWER: Det är inte rekommenderat att använda samma lösenord för flera konton eftersom obehöriga personer kan få tillgång till flera av dina konton om ett av dina lösenord läcker ut. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vad är en tvåfaktorsautentisering och varför är det bra?
+ANSWER: Tvåfaktorsautentisering är en extra säkerhetsåtgärd som kräver att du anger ytterligare en verifieringskod utöver ditt användarnamn och lösenord. Detta minskar risken för obehörig åtkomst till ditt konto på Tradera. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vad kan jag göra om jag misstänker att mitt konto har blivit hackat?
+ANSWER: Om du misstänker att ditt konto har blivit hackat, ska du genast byta ditt lösenord och meddela Tradera supportteamet, som sedan kan vidta lämpliga åtgärder för att skydda ditt konto. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan jag använda en lösenfras istället för ett lösenord?
+ANSWER: Ja, en lång lösenfras kan vara ett säkert alternativ till ett lösenord, så länge den innehåller en kombination av bokstäver, siffror och specialtecken. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hur ofta rekommenderar Tradera att man ändrar sitt lösenord?
+ANSWER: Tradera rekommenderar att du ändrar ditt lösenord minst en gång per år för att minimera riskerna för obehörig åtkomst till ditt konto. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hur ska man hantera robusthetstestet när man skapar sitt lösenord?
+ANSWER: Vid skapandet av ditt lösenord bör du undersöka robustheten genom att använda ett lösenordstest verktyg för att säkerställa att lösenordet är säkert nog för att skydda ditt konto på Tradera. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan Tradera se mitt lösenord?
+ANSWER: Nej, Tradera använder säkra krypteringstekniker för att skydda ditt lösenord och kan inte se eller visa det på något sätt. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vad är ett säkert sätt att lagra mina lösenord på?
+ANSWER: Det säkraste sättet att lagra dina lösenord på är att använda en datalagringstjänst eller en lösenordshanterare som krypterar din information och skyddar den med en stark säkerhetsprotokoll. 
+URL: https://info.tradera.com/da/secure-passwords/

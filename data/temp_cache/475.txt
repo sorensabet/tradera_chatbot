@@ -1,0 +1,39 @@
+QUESTION: What is Net Payout at Tradera?
+ANSWER: Net payouts is a system implemented by Tradera to make it easier for sellers where fees will be charged before making the payout to the seller's account, rather than being invoiced at the end of the month.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What are the payment options that don't qualify for Net payouts?
+ANSWER: Net payouts work for all payment options except for Swish.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: How does Tradera initiate a payout for sellers using Net Payouts?
+ANSWER: If a seller's account balance is positive at the start of a weekday, Tradera will initiate a payout.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What happens if a seller has a negative balance at the end of the month using Net Payouts?
+ANSWER: If a seller has a negative balance by the end of the month, Tradera will invoice the remainder.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What events are shown on the Payments & Fees page in descending order?
+ANSWER: All events on the Payments & Fees page are shown in descending order with the latest event at the top.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Can you give an example of the events shown on the Payments & Fees page for a seller using Net Payouts?
+ANSWER: Yes, for example, we can see that on 26/3 a 35 SEK provision fee was charged, on 1/4, an invoice is created, and the balance is -35 SEK, indicating that the invoiced amount will be 35 SEK. On 5/4, a new listing is published with the add-on Highlight, and a fee for Highlight is added; the total balance is -15 SEK. On 10/4, the listing is sold, and a provision fee of 48 SEK is added; the total balance is -63 SEK. Lastly, on 12/4, the payout is initiated.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: What is Tradera?
+ANSWER: Tradera is a Nordic e-commerce company.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Who is Net Payouts specifically targeted to?
+ANSWER: Net payouts is a system implemented by Tradera specifically for sellers on their platform.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Does Net Payouts make things easier for buyers or sellers?
+ANSWER: Net payouts was implemented by Tradera to make things easier for their sellers.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION: Does Net Payouts affect how Tradera charges their fees?
+ANSWER: Yes, with Net payouts, Tradera's fees are charged before initiating the payout to the seller's account.
+URL: https://info.tradera.com/en/nettoutbetalning/

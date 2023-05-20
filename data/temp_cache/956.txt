@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att använda "stängas av" cookies från Tradera?
+ANSWER: Syftet med att använda "stängas av" cookies från Tradera är att mäta hur Tradera används anonymt för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är syftet med att använda funktionella cookies på Tradera?
+ANSWER: Syftet med att använda funktionella cookies på Tradera är att utöka funktionaliteten och anpassa användarupplevelsen på Tradera, t.ex. genom att användarna kan spara inställningar eller logga in med Facebook.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur används marknadsförings-cookies av Traderas annonspartner?
+ANSWER: Traderas annonspartner använder marknadsförings-cookies för att rikta annonser som är relevanta för användarna.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilken typ av cookies används av Tradera?
+ANSWER: Tradera använder "stängas av", funktionella och marknadsföringscookies.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Varför används "stängas av"-cookies istället för andra typer av cookies på Tradera?
+ANSWER: "Stängas av"-cookies används på Tradera för att mäta Traderas användning anonymt.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur används Traderas cookies för annonsering?
+ANSWER: Traderas annonspartner använder marknadsförings-cookies för att rikta annonser som är relevanta för användarna.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Kan användare stänga av cookies på Tradera?
+ANSWER: Ja, användare kan stänga av cookies på Tradera via sina webbläsarinställningar.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att förbättra användarupplevelsen och användarpassningen samt rikta annonser relevanta för användarna.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilka fördelar finns det med att använda Traderas funktionella cookies?
+ANSWER: Fördelarna med att använda Traderas funktionella cookies är att man kan utöka funktionaliteten och anpassa användarupplevelsen på Tradera, t.ex. genom att användarna kan spara inställningar eller logga in med Facebook.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilken typ av data samlas in med hjälp av Traderas cookies?
+ANSWER: Med hjälp av Traderas cookies samlas anonym data in om hur Tradera används så att användarupplevelsen kan förbättras samt data som används för riktade annonser relevanta för användarna.
+URL: https://info.tradera.com/bokforingnettoutbetalning/

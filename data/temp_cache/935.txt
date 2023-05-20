@@ -1,0 +1,43 @@
+QUESTION: Vilka betalningsalternativ erbjuder Tradera?
+ANSWER: Tradera erbjuder betalningsalternativen PayPal och IBAN-konto.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Hur länge tar det för pengarna att nå säljarens konto efter att kunden har betalat?
+ANSWER: Det tar 1-2 bankdagar efter att kunden har betalat för pengarna att nå säljarens konto.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Kan säljare erbjuda fler betalningsalternativ utan att registrera extra konton?
+ANSWER: Ja, säljare kan erbjuda fler betalningsalternativ utan att registrera extra konton.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Tar Tradera ut några transaktionsavgifter för köpare eller säljare?
+ANSWER: Nej, Tradera tar inte ut några transaktionsavgifter för köpare eller säljare.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Kan kunder betala med faktura eller avbetalning?
+ANSWER: Ja, kunder kan betala med faktura eller avbetalning.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Hur lång tid tar det för säljare att få betalt när kunder betalar med faktura eller avbetalning?
+ANSWER: Trots att kunder kan betala med faktura eller avbetalning får säljare betalt i fullt belopp 1-2 dagar efter betalning.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Vilka betalningsalternativ kan kunder välja mellan på Tradera?
+ANSWER: Kunden kan välja mellan "betala nu", "faktura" och "avbetalning".
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Har köpare något skydd när de gör affärer på Tradera?
+ANSWER: Ja, köpare har köpskydd för en säker överföring.
+URL: https://info.tradera.com/en/traderabetalning/
+
+QUESTION: Vilka kategorier kan man shoppa på Tradera?
+ANSWER: Man kan shoppa i flera olika kategorier som exempelvis kläder, elektronik, hem och trädgård med mera.
+URL: https://info.tradera.com/en/tradera-shopping-guide/
+
+QUESTION: Vad är Tvålsponsring?
+ANSWER: Tvålsponsring är Traderas initiativ för att stödja välgörenhetsorganisationer genom försäljning av produkter där intäkterna går till välgörenhet. 
+URL: https://info.tradera.com/en/tradera-tapsponsring/
+
+QUESTION: Var kan jag gå om jag har frågor om betalningar på Tradera?
+ANSWER: Om du har frågor om betalningar på Tradera kan du gå till sidan "Frågor och svar om betalning" eller kontakta kundtjänst.
+URL: https://info.tradera.com/en/traderabetalning/#faq-betalning

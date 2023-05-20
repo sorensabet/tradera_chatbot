@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med användning av "Prestanda" -cookies på Tradera?
+ANSWER: Syftet med användning av "Prestanda" -cookies på Tradera är anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 2: Vilken typ av funktionalitet kan sparas med "Funktionella" -cookies på Tradera?
+ANSWER: "Funktionella" -cookies på Tradera kan spara vissa användarinriktade inställningar eller inloggning med Facebook för utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 3: Varför används "Marknadsföring" -cookies på Tradera?
+ANSWER: "Marknadsföring" -cookies på Tradera används av advertsingpartner för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 4: Kan "Funktionella" -cookies på Tradera anpassa sidan för användare?
+ANSWER: Ja, "Funktionella" -cookies på Tradera kan anpassa sidan och dess användbarhet för användare genom att spara deras inställningar.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 5: Ger Traderas "Prestanda" -cookies information om användarens identitet?
+ANSWER: Nej, "Prestanda" -cookies på Tradera används för anonym mätning och bidrar inte till användarens identitet.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 6: Kan användare bestämma om de vill tillåta användning av "Marknadsföring" -cookies på Tradera?
+ANSWER: Ja, användare kan välja att acceptera eller avvisa användning av "Marknadsföring" -cookies på Tradera.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 7: Vilken information finns det i "Prestanda" -cookies på Tradera?
+ANSWER: "Prestanda" -cookies på Tradera innehåller information om hur Tradera används av användare och bidrar till anonym användarstatistik. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 8: Vilken typ av funktionalitet kan uppnås när man loggar in med Facebook på Tradera?
+ANSWER: När man loggar in med Facebook på Tradera kan man spara sin användardata och uppnå utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 9: Kan användare välja att acceptera endast vissa typer av cookies?
+ANSWER: Ja, användare kan välja att acceptera endast vissa typer av cookies på Tradera.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION 10: Hur används "Marknadsföring" -cookies på Tradera?
+ANSWER: "Marknadsföring" -cookies på Tradera används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/shoppa-2/

@@ -1,0 +1,39 @@
+QUESTION: What are the items that are prohibited by Tradera's Rules for Sellers?
+ANSWER: Tradera prohibits the sale of goods and services that are listed in its Rules for Sellers. These include, but are not limited to, vehicles (except portable light vehicles), customized objects (unless the recipient claims that they have not arrived), items equivalent to cash (such as gift cards), tickets for events like sports or concerts, and goods and services that are prohibited by Tradera's Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How can a seller use Tradera's seller protection?
+ANSWER: In order for a Seller to be able to use Tradera's seller protection, they must meet certain conditions. The Seller must send the goods to the delivery address approved by Tradera at the time of payment. For goods whose price exceeds 200 SEK, the Seller must be able to prove that the shipment was sent with traceability, such as a tracking number from the carrier. The Seller must describe the goods in a satisfactory manner in the advertisement with text and photographs, and deliver them to the carrier in the same condition as described. If the Seller can meet these conditions, they will be covered by the seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How will Tradera notify the seller if the buyer's delivery address has changed after purchase?
+ANSWER: If the Buyer's delivery address has changed after the purchase has been completed, Tradera will notify the Seller of this by means of the confirmation e-mail sent when the Buyer has paid for the goods, and the information will also be available in My Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What should the Seller do if the buyer claims not to have received the delivery?
+ANSWER: If the Buyer claims not to have received the delivery, Tradera will ask the Seller for evidence that the Seller has delivered the item or items to the carrier. Therefore, the Seller should be able to provide evidence of shipment with traceability, such as a tracking number from the carrier.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How should the Seller describe the goods in their advertisement?
+ANSWER: The Seller shall describe in text form and with photographs all goods in a satisfactory manner in the advertisement so that the Buyer can examine the goods and their condition before the Buyer enters into the contract with the Seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the condition for using seller protection if the price of goods is more than 200 SEK?
+ANSWER: For goods whose price exceeds 200 SEK, the Seller must be able to prove that the shipment was sent with traceability, such as a tracking number from the carrier. This condition must be fulfilled for a seller to use Tradera's seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Can a seller use Tradera's seller protection if they do not deliver goods to the approved delivery address?
+ANSWER: No, in order for a Seller to be able to use Tradera's seller protection, they must send the goods to the delivery address approved by Tradera at the time of payment. If the Seller does not send the goods to the approved delivery address, they will not be covered by the seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What kind of items are included in the sale of vehicles according to Tradera?
+ANSWER: Sale of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircraft, and boats), except for private portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards. These items are included in the sale of vehicles and are prohibited from being sold on Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera allow the sale of customized objects?
+ANSWER: Sale of customized objects is allowed on Tradera, unless the recipient claims that the objects have not arrived.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is the condition for using seller protection if the price of goods is less than 200 SEK?
+ANSWER: There is no specific condition for using seller protection if the price of goods is less than 200 SEK. However, the Seller still needs to describe the goods in a satisfactory manner in the advertisement with text and photographs, and deliver them to the carrier in the same condition as described.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION: What happens if the estimated shipping cost is exceeded?
+ANSWER: If the estimated shipping cost is exceeded, the difference will be charged to you afterwards, for example, by being added to your next invoice from Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What should a buyer's payment for shipping comply with?
+ANSWER: A buyer's payment for shipping should comply with the payment terms in Tradera's User Agreement.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Where can I find Tradera's FAQ section for PostNord?
+ANSWER: If you're looking for Tradera's FAQ section for PostNord, you can click on the link provided in the text.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What kind of agreement do I enter into when ordering shipping through Tradera's website?
+ANSWER: When you order shipping for your item through Tradera's website, you enter into an agreement with Tradera regarding Tradera's administration of your order and information about shipping to buyers of your item on Tradera's website.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What terms apply to Tradera's administration of shipping?
+ANSWER: The terms of Tradera's User Agreement apply to Tradera's administration of shipping.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What general provisions apply to the shipping service?
+ANSWER: The General Provisions of the Nordic Forwarders Association and DB Schenker's Transport Conditions, which you accept when ordering the shipping service, apply to the shipping service.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What specific conditions apply to DB Schenker's DB SCHENKERparcel and DB SCHENKERprivpak products?
+ANSWER: DB Schenker's product-specific terms and conditions apply to DB SCHENKERparcel and DB SCHENKERprivpak products, in addition to DB Schenker's Transport Conditions.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Who do buyers pay for shipping directly?
+ANSWER: Buyers pay for ordered shipping directly to Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What should buyers note about the information they fill in about their items on Tradera's website?
+ANSWER: Buyers should note that the information they fill in about their items on Tradera's website is the basis for calculating the shipping cost. If they provide incorrect information, such as measurements or weight, the actual shipping cost will not match the estimated one.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: What kind of agreement is included when ordering shipping through Tradera's website?
+ANSWER: When ordering shipping through Tradera's website, an agreement with Tradera is included regarding the administration of the order and information about shipping to the buyer of the item on Tradera's website.
+URL: https://info.tradera.com/fraktvillkor/

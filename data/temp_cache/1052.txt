@@ -1,0 +1,39 @@
+QUESTION: Vilka saker är tillåtna att sälja på Tradera?
+ANSWER: I texten nämns flera saker som är tillåtna att sälja på Tradera såsom gamla aktiebrev, tomma alkoholflaskor, och registreringsskyltar som inte längre är giltiga. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Vilka saker är inte tillåtna att sälja på Tradera?
+ANSWER: Texten nämner inte specifikt vilka saker som är förbjudna att sälja på Tradera, men det finns troligtvis en annan sida på hemsidan som beskriver detta. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Kan jag sälja försäljningsautomater på Tradera?
+ANSWER: Nej, enligt texten är det inte tillåtet att sälja "Körklara" affärsverksamheter på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Får jag sälja alkoholhaltiga drycker på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja alkoholhaltiga drycker på Tradera enligt alkohollagen som nämns i texten. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Vilka fordonsdelar får jag annonsera ut på Tradera?
+ANSWER: Certifikat eller tillstånd för fordonsdelar får bara annonseras ut tillsammans med fordonsdelen enligt texten. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Ska jag ange fordonets körtillstånd när jag säljer en fordonsdel på Tradera?
+ANSWER: Ja, det ska framgå av beskrivningen huruvida fordonets körtillstånd fortfarande gäller enligt lokala föreskrifter efter att fordonsdelen monterats enligt texten. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Får jag sälja certifikat som inte längre är giltiga på Tradera?
+ANSWER: Ja, enligt texten är det tillåtet att sälja certifikat för fordonsdelar på Tradera tillsammans med fordonsdelen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Är det tillåtet att sälja cigaretter på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja cigaretter på Tradera enligt tobakslagen som nämns i texten. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Får man sälja aktiebrev på Tradera?
+ANSWER: Ja, enligt texten får man sälja gamla aktiebrev eller aktiebrev med samlarvärde, förutsatt att sådana aktiebrev antingen är ogiltiga eller representerar en andel i ett företag som inte längre existerar, och inte kan lösas in mot pengar eller andra värdepapper i andra företag. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Får man sälja tavlor på Tradera som innehåller alkohol eller tobak?
+ANSWER: Det finns ingen information i texten som specifikt säger att det inte är tillåtet att sälja tavlor med alkohol eller tobak på Tradera, men det är möjligt att det finns andra regler på hemsidan som behandlar detta. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/

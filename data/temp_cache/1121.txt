@@ -1,0 +1,39 @@
+QUESTION: Vad är "Mitt Tradera"?
+ANSWER: "Mitt Tradera" är den inloggade miljön på Tradera där en säljare kan hantera sina ordrar och en köpare kan kontrollera sina köp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är "Regler för Säljare" på Tradera?
+ANSWER: "Regler för Säljare" är de regler som varje säljare måste följa när man säljer på Traderas plattform. De senaste versionerna av reglerna kan hittas på följande länk: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är en "Säljare" på Traderas plattform?
+ANSWER: En "Säljare" är en fysisk eller juridisk person som säljer varor eller tjänster på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är "Tradera"?
+ANSWER: "Tradera" är Tradera Marketplace AB, ett företag som tillhandahåller webbplatser, tjänster och applikationer via www.tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är "Traderas Plattform"?
+ANSWER: "Traderas Plattform" är de webbplatser, tjänster och applikationer som Tradera tillhandahåller via t.ex. www.tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är "Traderas Användaravtal"?
+ANSWER: "Traderas Användaravtal" är de villkor som reglerar användning av Traderas plattform och andra tillhörande tjänster. Gällande villkor kan hittas på denna länk: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är "Traderas betallösning"?
+ANSWER: "Traderas betallösning" är en webbplats som erbjuder olika betalningsalternativ till köpare som Swish, kreditkort, PayPal och andra betalningsmetoder som Tradera lägger till efterhand. Betaltjänsterna tillhandahålls av tredje parter som Tradera har avtal med.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka betalningsalternativ kan man använda på "Traderas betallösning"?
+ANSWER: På "Traderas betallösning" kan man använda betalningsalternativ som Swish, kreditkort, PayPal och andra betalningsmetoder som Tradera lägger till efterhand.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är en "Transaktion" på Traderas plattform?
+ANSWER: En "Transaktion" är en betalning för en produkt eller tjänst som görs på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad avser "Säljarnas regler" på Tradera?
+ANSWER: "Säljarnas regler" avser de regler som säljare på Traderas plattform måste följa. De senaste versionerna av reglerna finns tillgängliga på denna länk: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

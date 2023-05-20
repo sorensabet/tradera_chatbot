@@ -1,0 +1,39 @@
+QUESTION: Hur genererar jag en PDF fil för utbetalning och faktura från Tradera?
+ANSWER: För att generera en PDF fil för utbetalning och faktura från Tradera, bör du klicka på "Skriv ut som PDF" bredvid den månad du vill ha ut underlaget för och ändra destinationen till PDF. Välj layout stående och klicka på skriv ut. Detta kommer generera en PDF fil innehållandes alla månadens utbetalningar och faktura oavsett om fakturan landade på noll kronor.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är inkluderat i utbetalningsspecifikationen på Tradera?
+ANSWER: När du klickar på en betalning på Tradera, kan du se en specifikation över alla intäkter och kostnader som ligger till grund för utbetalningen. Det inkluderar betalda försäljningar, försäljningskostnader och fraktköp endast för frakter som har betalats med saldo.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Varför bör jag använda Traderas utbetalningsspecifikation som verifikat?
+ANSWER: Du bör använda Traderas utbetalningsspecifikation som verifikat eftersom det ger en detaljerad specifikation över alla intäkter och kostnader som ligger till grund för utbetalningen. Detta är en tillförlitlig och tillräckligt komplex information som kan behövas för bokföring senare.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad visas på fakturan från Tradera?
+ANSWER: På fakturan från Tradera visas alla dina kostnader i detalj inklusive de som har dragits av via Nettoutbetalning. Vanligtvis är fakturans saldo noll kronor och kan bortses ifrån. I undantagsfall då alla kostnader inte kunnat dras av under månaden har fakturan istället ett saldo som ska betalas.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är CSV filen i avancerad bokföring på Tradera?
+ANSWER: CSV filen på Tradera är för avancerad bokföring och det är ett format på filen som du kan använda för att läsa in informationen i ditt bokföringssystem.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur kan jag använda CSV filen på Tradera för avancerad bokföring?
+ANSWER: Du kan använda CSV filen på Tradera för avancerad bokföring genom att öppna filen i ditt bokföringssystem. Formatet på filen hjälper till att läsa in informationen i ditt bokföringssystem.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Kan jag se mina fraktkostnader på utbetalningsspecifikationen på Tradera?
+ANSWER: Ja, endast frakter som har betalats med saldo visas på utbetalningsspecifikationen från Tradera.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilka betalningar kan jag se på Traderas utbetalningsspecifikation?
+ANSWER: Du kan se betalda försäljningar, försäljningskostnader och fraktköp endast för frakter som har betalats med saldo på Traderas utbetalningsspecifikation.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är vinsten från försäljningen på Tradera?
+ANSWER: Vinsten från försäljningen på Tradera är skillnaden mellan intäkterna och alla kostnader, såsom försäljningskostnader och fraktkostnader som ligger till grund för utbetalningen.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Var kan jag hitta specifik detaljerad information om mina utbetalningar på Tradera?
+ANSWER: Du kan hitta specifik detaljerad information om dina utbetalningar på Tradera genom att klicka på en betalning. Det kommer att visa en specifikation över alla intäkter och kostnader som ligger till grund för utbetalningen. Du kan också skriva ut utbetalningsspecifikationen och använda det som verifikat.
+URL: https://info.tradera.com/bokforingnettoutbetalning/

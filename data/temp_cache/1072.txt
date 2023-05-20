@@ -1,0 +1,39 @@
+QUESTION: Vilka begränsningar finns det kring försäljning och tillverkning av förfalskade sedlar, mynt och frimärken på Tradera?
+ANSWER: Det finns begränsningar kring försäljning och tillverkning av förfalskade sedlar, mynt och frimärken på Tradera för att de kan strida mot lagen och säljare på plattformen ska alltid ta hänsyn till svensk lagstiftning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Finns det några varor som inte är tillåtna att sälja på Tradera?
+ANSWER: Ja, det finns varor som inte är tillåtna att sälja på Tradera såsom förfalskade mynt och sedlar, förfalskade obligationer och värdepapper, förfalskade postanvisningar och postväxlar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vad är tillåtet att sälja för replikor av mynt på Tradera?
+ANSWER: Reproduktioner, replikor och kopior av mynt (svenska eller utländska) är tillåtna att sälja på Tradera, så länge de är tydligt och permanent märkta med ordet kopia, och det behöver tydligt framgå om objektet är en nyprägling av ett äldre mynt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Är det tillåtet att sälja äkta märken med falska eller förbättrade stämplar på Tradera?
+ANSWER: Ja, det är tillåtet att sälja äkta märken med falska eller förbättrade (ifyllda) stämplar på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vad är tillåtet att sälja för replikor av frimärken på Tradera?
+ANSWER: På Tradera är det tillåtet att sälja äkta märken som förvanskas till exempel genom manipulation med tandningen, men inte falska brev.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vilken svensk lagstiftning ska säljare på Tradera alltid ta hänsyn till?
+ANSWER: Säljare på Tradera ska alltid ta hänsyn till svensk lagstiftning, särskilt kring försäljning av förfalskade sedlar, mynt och frimärken.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Varför tillåter inte Tradera försäljning av förfalskade sedlar, mynt och frimärken?
+ANSWER: Många förfalskningar av mynt, sedlar och frimärken kan strida mot lagen och därför tillåter vi inte att sådana objekt säljs på Tradera. Hänsyn ska alltid tas till svensk lagstiftning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vad är bud på Tradera?
+ANSWER: Bud på Tradera är bindande, vilket innebär att den som lägger det högsta budet lägger ett bindande avtal om att köpa objektet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vilka är omdömesreglerna på Tradera?
+ANSWER: Omdömesreglerna på Tradera innebär att köpare och säljare kan betygsätta varandra efter en köp- eller säljtransaktion genom att lämna ett omdöme. Omdömet kan påverka användarens rykte på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomen/
+
+QUESTION: Vad innebär ångerrätt för Tradera-köp?
+ANSWER: Som köpare på Tradera har du en lagstadgad ångerrätt på 14 dagar. Det betyder att du kan ångra köpet och returnera varan utan att behöva ange någon anledning inom 14 dagar efter att du mottagit varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/

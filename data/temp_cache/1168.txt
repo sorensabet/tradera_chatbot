@@ -1,0 +1,39 @@
+QUESTION: Vilka åtgärder kan Tradera vidta om Säljaren inte fullgör sina åtaganden?
+ANSWER: Om Tradera har misstankar om att säljaren inte kommer att fullgöra sina åtaganden förbehåller sig Tradera rätten att innehålla betalning till dess att situationen löser sig.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: Kan säljaren kontakta Tradera vid frågor i samband med en Transaktion?
+ANSWER: Ja, en säljare kan kontakta Tradera vid frågor som uppstår i samband med en transaktion, oavsett valt betalsätt av köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: I vilka situationer ska säljaren kontakta Tradera efter betalning uppstått?
+ANSWER: Säljaren ska kontakta Tradera i olika frågor som uppstår i samband med Traderas utbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: Hur fungerar betalning med kort och PayPal eller Swish på Traderas plattform?
+ANSWER: Om köparen väljer att betala med kort, PayPal eller Swish på Traderas plattform, kommer pengarna att sättas in på Traderas bankkonto. Tradera kommer sedan att kontrollera transaktionen och om allt går igenom kommer Tradera att betala ut pengarna till säljaren. När köparen har betalat kommer Tradera att meddela säljaren via e-post och i Mitt Tradera om att betalningen har skett. Varan ska då skickas av säljaren till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: Vilket betalsätt ska köpare välja om de vill betala mot faktura eller genom avbetalning?
+ANSWER: Om köparen vill betala mot faktura eller genom avbetalning, ska de välja Paynova.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: Vilka betalsätt stöds av Tradera?
+ANSWER: Tradera stöder betalning med kort, PayPal, Swish och faktura genom Paynova.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: Hur kontrollerar Tradera en transaktion?
+ANSWER: Tradera kontrollerar transaktioner för att se till att allt går rätt till och att transaktionsbeloppet stämmer.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: När meddelar Tradera säljaren om betalningen?
+ANSWER: När köparen har betalat med kort, PayPal eller Swish kommer Tradera att meddela säljaren via e-post och i Mitt Tradera om att betalning har skett. Varan ska då skickas av säljaren till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/ 
+
+QUESTION: Vad gör Tradera om en transaktion godkänns?
+ANSWER: Om en transaktion godkänns av Tradera så betalar de ut pengarna till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om transaktionen inte godkänns av Tradera?
+ANSWER: Om transaktionen inte godkänns av Tradera kommer Tradera inte att betala ut pengarna till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

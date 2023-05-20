@@ -1,0 +1,39 @@
+QUESTION: What is the purpose of connecting a Tradera membership to a verified PayPal account?
+ANSWER: The purpose of connecting a Tradera membership to a verified PayPal account is to increase security and maintain a safe marketplace for all Tradera members.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: What information is needed to connect a Tradera membership to a PayPal account?
+ANSWER: To connect a Tradera membership to a verified PayPal account, the name and email address must be identical with the information provided on the PayPal account.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: Can I complete my registration on Tradera without connecting a verified PayPal account?
+ANSWER: It is not possible to complete your registration on Tradera without connecting a verified PayPal account.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: Why is a verified PayPal account important for Tradera members?
+ANSWER: A verified PayPal account is important for Tradera members because it increases security and helps maintain a safe marketplace.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: How do I activate a verified PayPal account on Tradera?
+ANSWER: If you have already signed up for a verified PayPal account, you can contact Tradera's customer service by chat to activate your account on Tradera.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: How many businesses worldwide use PayPal?
+ANSWER: According to the context, 7 million businesses worldwide use PayPal.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: How many shoppers worldwide use PayPal?
+ANSWER: According to the context, 169 million shoppers worldwide use PayPal.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: Is it possible to use a different email address for Tradera and PayPal accounts?
+ANSWER: No, the email address used for a Tradera membership must be identical with the one used for the PayPal account.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: What happens if I don't sign up for a verified PayPal account?
+ANSWER: It is mandatory to sign up for a verified PayPal account in order to complete registration on Tradera. Otherwise, it is not possible to become a member or use the platform.
+URL: https://info.tradera.com/en/register-as-a-foreigner/
+
+QUESTION: What do I do if I have problems connecting a PayPal account to my Tradera membership?
+ANSWER: If you have problems connecting a PayPal account to your Tradera membership, you can contact Tradera's customer service for assistance.
+URL: https://info.tradera.com/en/register-as-a-foreigner/

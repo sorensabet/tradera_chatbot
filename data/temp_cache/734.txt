@@ -1,0 +1,39 @@
+QUESTION: What are the commission fees for Tradera?
+ANSWER: The commission fee for Tradera is 10% of the final price of the item with a maximum of 200 SEK and a minimum of 3 SEK. This is applicable to up to 100 listings per month, and there's no cap on the commission for domain names.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: How does the pricing model for Tradera work?
+ANSWER: The pricing model for Tradera takes extra costs, commission fees, and listing fees from the user's balance or invoice. Users can benefit from the advantageous pricing model by not getting charged a commission fee if the listing doesn't sell. 
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: Are there any listing fees for Tradera?
+ANSWER: There's no listing fee for the first 100 listings per month, but after exceeding the number of listings, unsold listings in the categories Antiques & Design, Stamps, Art, Coins & Banknotes, Collectibles, Postcards & Pictures, Books & Magazines, DVD & Videos, Music, Garden & Plants, have a listing fee of 3-10 SEK per listing. For all other categories of unsold listings, the listing fee is 10 SEK.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: Why are there extra costs for Tradera?
+ANSWER: Tradera provides "Add-ons", which help users improve the success rate of their listings. These Add-ons consist of Highlight, Rank up, Reservation price, and Choose end time. These add ons cost extra and will be charged even if the listing remains unsold.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: What is the price for the "Highlight" add on for a Tradera listing?
+ANSWER: The cost of the "Highlight" add on for a Tradera listing is 15 SEK. 
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: Is there a limit on the number of listings a user can post per month on Tradera?
+ANSWER: Yes, the limit for the number of listings a user can post per month without incurring any listing fees is 100.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: How are costs taken out for Tradera services?
+ANSWER: Costs for extras, commission fees, and listing fees are taken out from the user's balance or will be invoiced.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: What is the minimum commission fee on Tradera?
+ANSWER: The minimum commission fee on Tradera is 3 SEK.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: How much is the commission fee for domain names on Tradera?
+ANSWER: There is no cap on the commission fee for domain names on Tradera.
+URL: https://info.tradera.com/en/price-list-personal-account/
+
+QUESTION: What is the maximum commission fee on Tradera?
+ANSWER: The maximum commission fee on Tradera is 200 SEK.
+URL: https://info.tradera.com/en/price-list-personal-account/

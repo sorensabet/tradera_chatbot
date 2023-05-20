@@ -1,0 +1,39 @@
+QUESTION 1: Vilka varumärken är populära på Tradera?
+ANSWER: Information om populära varumärken finns på sidan. 
+URL: https://info.tradera.com/populara-varumarken/
+
+QUESTION 2: Vad är Grön frakt?
+ANSWER: Det finns en sida på Tradera som förklarar vad Grön frakt är och hur det fungerar.
+URL: https://info.tradera.com/gron-frakt-konsument/
+
+QUESTION 3: Hur kan man sälja som privatperson på Tradera?
+ANSWER: Tradera har en sida som förklarar hur man säljer som privatperson och vilka steg som behöver tas.
+URL: https://info.tradera.com/salj-som-privatperson/
+
+QUESTION 4: Hur kan man sälja som företag på Tradera?
+ANSWER: Tradera har en sida som förklarar hur man säljer som företag och vilka steg som behöver tas.
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION 5: Vad är fraktkalkylatorn och hur fungerar den?
+ANSWER: Informationen om fraktkalkylatorn finns på sidan om den och det beskrivs hur den fungerar.
+URL: https://frakt.tradera.com/
+
+QUESTION 6: Hur donerar man med Tradera?
+ANSWER: Det finns en sida på Tradera som förklarar hur man kan donera till välgörenhet genom att använda Tradera.
+URL: https://info.tradera.com/donera-med-tradera/
+
+QUESTION 7: Var kan man hitta kontakt- och hjälpinformation?
+ANSWER: Kontakta oss-sidan på Traderas hemsida innehåller information om hur man kan få hjälp och kontaktinformation.
+URL: https://www.tradera.com/help/contact
+
+QUESTION 8: Vilka regler gäller när man säljer på Tradera?
+ANSWER: Informationen om säljregler finns på sidan med regler för användande av Tradera.
+URL: https://info.tradera.com/regler/
+
+QUESTION 9: Kan man läsa vanliga frågor och svar om Tradera?
+ANSWER: Ja, på Traderas hemsida finns en sida med vanliga frågor och svar.
+URL: https://www.tradera.com/help/faq
+
+QUESTION 10: Vilka säkerhetsåtgärder finns på Tradera?
+ANSWER: Informationen om säkerhet på Tradera finns på sidan med information om säkerhet på hemsidan.
+URL: https://info.tradera.com/sakerhet/

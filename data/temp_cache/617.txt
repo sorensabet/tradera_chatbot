@@ -1,0 +1,39 @@
+QUESTION: Vilka fraktsätt kan jag använda när jag köper på Tradera?
+ANSWER: Du kan använda dig av PostNord, DHL eller Schenker som fraktsätt när du köper på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad är avgifterna för att sälja på Tradera?
+ANSWER: Avgifterna för att sälja på Tradera beror på försäljningspriset. Det är gratis att lägga upp annonser, men när en vara har sålts får säljaren betala Tradera-provision och en fast avgift. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad är Tradera-provision?
+ANSWER: Tradera-provision är en avgift som säljaren måste betala när en vara har sålts. Den är en procentandel av försäljningspriset och varierar beroende på vilken kategori varan tillhör och vilket försäljningspris den har. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Finns det någon maxvikt för paket som skickas med PostNord på Tradera?
+ANSWER: Ja, det finns en maxvikt på 35 kg för paket som skickas med PostNord på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan jag skicka ett paket med brevporto när jag säljer på Tradera?
+ANSWER: Nej, det går inte att skicka paket med brevporto när man säljer på Tradera. Istället rekommenderas det att använda sig av PostNord, DHL eller Schenker. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Hur lång tid tar det normalt för en vara att komma fram efter att man har sålt den på Tradera?
+ANSWER: Det tar vanligtvis 1-3 arbetsdagar för en vara att komma fram efter att den har sålts på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan jag skicka paket utomlands om jag säljer på Tradera?
+ANSWER: Ja, det går att skicka paket utomlands om du säljer på Tradera, men fraktkostnaden blir då högre än för leverans inom Sverige. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan jag hämta upp varan jag köpt på Tradera själv istället för att få den skickad till mig?
+ANSWER: Ja, det går att hämta upp varan själv om säljaren godkänner det och ni kommer överens om en träffpunkt. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan jag returnera en vara jag köpt på Tradera om jag inte är nöjd?
+ANSWER: Ja, som köpare har du rätt att returnera en vara som du inte är nöjd med. Dock är det viktigt att du läser annonsen noggrant innan du köper så att du vet vilka villkor som gäller för returer. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad händer om en vara skadas eller förloras under transporten?
+ANSWER: Om en vara skadas eller förloras under transporten är det viktigt att både säljare och köpare har spårbart fraktsätt för att kunna följa upp händelsen och göra en skadeanmälan. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/

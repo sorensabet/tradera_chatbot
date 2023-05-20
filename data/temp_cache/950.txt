@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att förbättra användarupplevelsen genom att tillhandahålla nödvändiga, prestanda-, och funktionella cookies samt cookies för marknadsföring, som hjälper Traderas annonseringspartners att ge riktade annonser till användarna. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Är det möjligt att stänga av cookies på Tradera?
+ANSWER: Nej, det är inte möjligt att stänga av nödvändiga cookies på Tradera eftersom de krävs för att sidan ska fungera. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Vad är prestanda-cookies och vad används de till på Tradera?
+ANSWER: Prestanda-cookies på Tradera används för anonym mätning av hur sidan används så att Tradera kan förbättra användarupplevelsen. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Hur används funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på sidan, exempelvis vissa sparade inställningar eller möjligheten att logga in med Facebook. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Vilka cookies används för marknadsföring på Tradera?
+ANSWER: Cookies för marknadsföring på Tradera används av Traderas annonseringspartners för att ge riktade annonser till användarna. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Varför behöver jag acceptera cookies på Tradera?
+ANSWER: Accepterande av cookies på Tradera är nödvändigt för att sidan ska fungera optimalt och för att användare ska kunna uppleva en bättre användarupplevelse. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Kan jag använda Tradera utan att acceptera cookies?
+ANSWER: Nej, det är inte möjligt att använda Tradera utan att acceptera nödvändiga cookies eftersom de krävs för att sidan ska fungera. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Vad är syftet med att Tradera delar cookies med sina partners för sociala medier, annonsering och analys?
+ANSWER: Syftet med att Tradera delar cookies med sina partners för sociala medier, annonsering och analys är för att kunna ge riktade annonser och förbättra användarupplevelsen på sidan genom anonym mätning av hur Tradera används. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Kan jag ändra mina inställningar för cookies på Tradera?
+ANSWER: Ja, det går att ändra inställningar för cookies på Tradera genom att klicka på länken "Inställningar för cookies" som visas på sidan. 
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Vilka inställningar är möjliga att justera för cookies på Tradera?
+ANSWER: Det går att justera inställningar för nödvändiga, prestanda-, funktionella-, och marknadsföringscookies på Tradera genom att klicka på länken "Inställningar för cookies". 
+URL: https://info.tradera.com/da/kann-din-kund/

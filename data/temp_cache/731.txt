@@ -1,0 +1,39 @@
+QUESTION: Vilken betalningsmetod erbjuder Tradera för att betala annonsavgifter?
+ANSWER: För att betala annonsavgifter erbjuder Tradera en betalningsmetod som kallas nettoutbetalning.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vilket är syftet med nettoutbetalning som Tradera erbjuder?
+ANSWER: Syftet med nettoutbetalning som Tradera erbjuder är att dra av annonsavgifter direkt från dina väntade utbetalningar istället för att du ska få en faktura i slutet på månaden.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Hur fungerar Nettoutbetalning när det gäller hantering av avgifter på Tradera?
+ANSWER: Nettoutbetalning fungerar så att när varan blir såld, skapas en avgift som blir ett minus på ditt saldo på Tradera. När köparen betalar för varan, kvittas avgifterna mot saldo och överskottet betalas, förutom vid betalning med Swish där ditt eget nummer är mottagaren.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vilken typ av avgifter ingår i avgiften som skapas på Tradera när varan blir såld?
+ANSWER: Vid försäljning av en vara på Tradera skapas en avgift som inkluderar provisionsavgifter och kostnader för tillval.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vad händer om ens saldo är negativt vid slutet av månaden på Tradera?
+ANSWER: Om ditt saldo är negativt i slutet på månaden på Tradera skapas en faktura och skickas till dig för att betala av din skuld.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vilken typ av betalning accepterar inte Tradera med ditt eget Swish-nummer?
+ANSWER: Tradera accepterar inte betalningar med Swish där ditt eget nummer är mottagaren.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vilket är syftet med att dra av avgifter direkt från väntande utbetalningar på Tradera?
+ANSWER: Syftet med att dra av avgifter direkt från väntande utbetalningar på Tradera är att minska administrationen och göra betalningarna mer sömlösa.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vilken är det vanligaste sättet att betala avgifter på Tradera?
+ANSWER: Det vanligaste sättet att betala avgifter på Tradera är genom nettoutbetalning, där avgifterna dras av direkt från dina väntade utbetalningar.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Vad innefattar avgiften som skapas när varan blir såld på Tradera?
+ANSWER: Avgiften som skapas när varan blir såld på Tradera inkluderar provisionsavgifter och kostnader för tillval.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Varför erbjuder Tradera Nettoutbetalning som en betalningsmetod för avgifter?
+ANSWER: Tradera erbjuder Nettoutbetalning som en betalningsmetod för avgifter för att minska administrationen och göra betalningarna mer sömlösa.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/

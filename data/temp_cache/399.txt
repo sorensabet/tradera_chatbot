@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg inkludere oplysningerne om fortrydelsesretten i den e-mail, som Tradera sender til kunden?
+ANSWER: Hvis du ønsker at inkludere oplysningerne om fortrydelsesretten i den e-mail, som Tradera sender til kunden efter annoncen er ovre, kan du gøre dette via ”Mit Tradera” – ”Salgsredskaber” – ”Skræddersyvinder-e-mail”.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION: Hvad sker der, hvis jeg ikke har informeret kunden om fortrydelsesretten både før og efter købet?
+ANSWER: Hvis du ikke har informeret kunden om fortrydelsesretten både før og efter købet, bliver perioden for fortrydelsesretten forlænget og du som sælger vil være ansvarlig for varens returomkostninger.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION: Hvilke varer er undtaget fra fortrydelsesretten?
+ANSWER: Der er visse tilfælde, hvor fortrydelsesretten ikke gælder. Dette kan, for eksempel, gælde for salget af ædle metaller, mad, avisabonnementer og visse varer, hvis køberen har brudt forseglingen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION: Hvor kan jeg læse mere om varer, der er undtaget fra fortrydelsesretten?
+ANSWER: Du kan læse mere om varer, der er undtaget fra fortrydelsesretten på Konsumentverkets hjemmeside.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION: Hvordan handler jeg på Tradera?
+ANSWER: For at handle på Tradera skal du vælge den vare, du ønsker at købe, og derefter følge de trin, der bliver vist på hjemmesiden. Derudover skal du oprette en konto, hvis du ikke allerede har en.
+URL: https://info.tradera.com/da/buy/
+
+QUESTION: Hvilke kategorier kan jeg finde på Tradera?
+ANSWER: På Tradera kan du finde mange forskellige kategorier af varer, herunder elektronik, mode, bøger, legetøj og meget mere.
+URL: https://info.tradera.com/da/buy/
+
+QUESTION: Kan jeg sælge mine egne varer på Tradera, selvom jeg er en privatperson?
+ANSWER: Ja, du kan sagtens sælge dine egne varer på Tradera, selvom du er en privatperson. Der er dog visse regler og retningslinjer, som du skal følge.
+URL: https://info.tradera.com/da/sell/
+
+QUESTION: Hvordan bliver fragten beregnet på Tradera?
+ANSWER: Fragten bliver beregnet på Tradera ud fra vægten på den vare, du ønsker at købe, samt afstanden mellem sælger og køber.
+URL: https://info.tradera.com/da/shipping-calculator/
+
+QUESTION: Er der nogen godgørende formål associeret med Tradera?
+ANSWER: Ja, du kan vælge at støtte en godgørende sag gennem dit køb på Tradera. Du kan få mere information om dette ved at besøge Traderas hjemmeside.
+URL: https://info.tradera.com/da/charity/
+
+QUESTION: Hvor kan jeg finde svar på ofte stillede spørgsmål om Tradera?
+ANSWER: Du kan finde svar på ofte stillede spørgsmål om Tradera på deres hjemmeside under afsnittet "Ofte stillede spørgsmål".
+URL: https://info.tradera.com/da/faq/

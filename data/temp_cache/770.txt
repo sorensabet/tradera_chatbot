@@ -1,0 +1,39 @@
+QUESTION: Which reptile species are protected and their parts or products are not allowed to be sold on Tradera?
+ANSWER: All sea turtles, crocodiles, monitor lizards, and large snakes are protected species and their parts or products cannot be sold on Tradera. For more information, users can visit Jordbruksverket's website and the CITES organization.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Can all species of fish be sold on Tradera?
+ANSWER: No, some species of fish, including all species of sturgeon from the Acipenseriformes family, basking sharks, and great white sharks, are protected and their parts or products cannot be sold on Tradera. Some species of coral, sea-horse, crawfish, and other crustaceans are also protected. For more information, users can visit Jordbruksverket's website and the CITES organization.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Which plants are not allowed to be sold on Tradera?
+ANSWER: All species of orchids and most species of cactus, except for artificially bred versions of these species, are not allowed to be sold on Tradera. Listings with pictures that have been modified and do not represent the real plant or fruit are also not allowed. Invasive species are also not allowed. For more information, users can visit Jordbruksverket's website and the CITES organization, as well as the Swedish Environmental Protection Agency's website.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Can traps be sold on Tradera?
+ANSWER: Some traps, such as fox traps, can be sold on Tradera. However, users should ensure that they are following all regulations from Jordbruksverket. For more information, users can visit Jordbruksverket's website.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Are parts or products from dogs and cats allowed to be sold on Tradera?
+ANSWER: Parts or products from dogs and cats are allowed to be sold on Tradera, but with some restrictions. For more information, users should refer to the regulations from Jordbruksverket.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Are electric and tick collars allowed to be sold on Tradera?
+ANSWER: Yes, electric and tick collars for animals are allowed to be sold on Tradera. 
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Which plants and their parts or seeds require certificates of wellness to be sold on Tradera?
+ANSWER: Any plants, their parts, or seeds that require certificates of wellness can be sold on Tradera as long as the certificate is shown or mentioned in the listing, and the seller ensures that the products they sell follow the regulations from Jordbruksverket. For more information, users can visit Jordbruksverket's website. 
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: Can stuffed animals and animal parts be sold on Tradera?
+ANSWER: Stuffed animals, animal parts, and products listed in appendix A in the CITES list of endangered species and species protected according to EU's regulations on trade with wild animals and plants are not allowed to be sold on Tradera. However, if a CITES certificate from Jordbruksverket is included and specified in the listing, it is okay to sell these products. If the animal is in appendix B or C of the CITES list of endangered species, the seller must be able to prove that the animal or animal product was acquired legally. For more information, users can visit Jordbruksverket's website and the CITES organization. 
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: What organizations can users visit for more information on protected species regulations?
+ANSWER: Users can visit Jordbruksverket's website and the CITES organization website for more information on regulations regarding protected animal and plant species. For more information on trade with wild animals and plants, users can visit the Swedish Environmental Protection Agency's website.
+URL: https://info.tradera.com/en/animal-and-plant-related-items/
+
+QUESTION: What is Tradera's policy on marketing protected plants, plant parts, and seeds in a misleading way?
+ANSWER: Tradera does not allow marketing of protected plants, plant parts, and seeds in a misleading way on the platform. All species of orchids and most species of cactus, except for artificially bred versions of these species, are not allowed to be sold on Tradera. Listings with pictures that have been modified and do not represent the real plant or fruit are also not allowed. For more information, users can visit Jordbruksverket's website and the CITES organization, as well as the Swedish Environmental Protection Agency's website. 
+URL: https://info.tradera.com/en/animal-and-plant-related-items/

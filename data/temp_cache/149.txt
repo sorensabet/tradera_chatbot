@@ -1,0 +1,39 @@
+QUESTION: När är det lämpligt att lämna omdöme på Tradera?
+ANSWER: Enligt texten rekommenderar Tradera att man lämnar omdöme när affären är avslutad, dvs när säljaren är betald och köpare har fått varan. 
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Hur lång tid har jag på mig att lämna omdöme på Tradera?
+ANSWER: Enligt texten har man 120 dagar på sig från att man vunnit varan för att lämna omdöme på Tradera.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Var kan jag lämna omdöme på Tradera?
+ANSWER: Man kan lämna omdöme antingen inne på varan eller under sina köp/sålda genom att klicka på "lämna omdöme" knappen.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Kan man ändra ett lagt omdöme på Tradera?
+ANSWER: Enligt texten går det inte att ändra ett lagt omdöme på Tradera.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vad händer om mitt omdöme inte följer Traderas regler?
+ANSWER: Om ens omdöme inte följer Traderas regler för ett omdöme så kommer det att tas bort och man kommer inte kunna lämna ett nytt omdöme på denna affär.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vad ska man göra om något inte var som förväntat på Tradera?
+ANSWER: Enligt texten är det alltid bättre att kontakta den andra parten än att lämna ett negativt omdöme direkt om något inte var som förväntat på Tradera. 
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vilka är bedömningsgrundarna för när man lämnar omdöme på Tradera?
+ANSWER: Enligt texten baserar man sin bedömning på den andra parten i affären, dvs säljaren eller köparen. 
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Varifrån kan jag se olika kategorier på Tradera?
+ANSWER: Enligt texten finns det en kategori-sida på Tradera där man kan se olika kategorier av varor.
+URL: https://info.tradera.com/kop-pa-tradera/
+
+QUESTION: Hur kan jag donera med Tradera?
+ANSWER: Enligt texten finns det en "Butik" på Tradera där man kan donera pengar till välgörenhet genom att köpa varor. 
+URL: https://info.tradera.com/butik/
+
+QUESTION: Var kan jag hitta säkerhetsinformation på Tradera?
+ANSWER: Enligt texten kan man hitta kontakt- och hjälpinformation, inklusive säkerhetsinformation, på Tradera.
+URL: https://info.tradera.com/kontakt-hjlp/

@@ -1,0 +1,39 @@
+QUESTION: What is shill bidding?
+ANSWER: Shill bidding is the act of manipulating the sales price by placing fake bids on an auction item. The person who is shill bidding is trying to get a higher final price than they would have done if the price had not been shill bid.
+URL: https://info.tradera.com/en/shill-bidding/
+
+QUESTION: Why is shill bidding not allowed on Tradera?
+ANSWER: Shill bidding is not allowed on Tradera because it is a way to deceive buyers and manipulate the sales price, which can cause a buyer to pay more for an item than they would have done if the price had not been shill bid.
+URL: https://info.tradera.com/en/shill-bidding/
+
+QUESTION: Is placing bids without the intention to buy allowed on Tradera?
+ANSWER: No, placing bids without the intention to buy an item is not allowed on Tradera.
+URL: https://info.tradera.com/en/shill-bidding/
+
+QUESTION: What is an example of prohibited shill bidding on Tradera?
+ANSWER: An example of prohibited shill bidding on Tradera is when Anna's girlfriend bids on Anna's auction to get a higher final price because Anna does not want to sell the item for too small a sum.
+URL: https://info.tradera.com/en/shill-bidding/
+
+QUESTION: What is an example of allowed bidding on Tradera?
+ANSWER: An example of allowed bidding on Tradera is when Robin places a bid in an auction from an external seller with the intention to buy the item.
+URL: https://info.tradera.com/en/shill-bidding/
+
+QUESTION: What are the categories available on Tradera?
+ANSWER: Tradera offers several categories for buyers and sellers such as Home & Garden, Electronics, Fashion, and Sports & Leisure, among others. 
+URL: https://www.tradera.com/category/
+
+QUESTION: Can private sellers sell on Tradera?
+ANSWER: Yes, private sellers can sell on Tradera. 
+URL: https://www.tradera.com/sell/
+
+QUESTION: What is the privacy statement on Tradera?
+ANSWER: The privacy statement on Tradera explains how they use and handle personal data of their users. 
+URL: https://www.tradera.com/privacy
+
+QUESTION: Does Tradera have a charity program?
+ANSWER: Yes, Tradera has a charity program where sellers can donate some or all of an item's sale price to one of the charity organizations that they have partnered with. 
+URL: https://www.tradera.com/charities
+
+QUESTION: What is the purpose of cookies on Tradera's website?
+ANSWER: Cookies on Tradera's website are used to customize content, provide features for social media, analyze traffic and for Facebook login purposes. 
+URL: https://info.tradera.com/en/cookies/

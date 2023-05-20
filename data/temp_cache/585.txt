@@ -1,0 +1,39 @@
+QUESTION: Vad är nettoutbetalning från Tradera?
+ANSWER: Netto betalning från Tradera innebär att alla kostnader och avgifter har dragits av från intäkterna som erhållits från försäljningen på plattformen. Detta är det belopp som överförs till säljarens bankkonto efter varje transaktion.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vilka kostnader och avgifter är inkluderade i netto betalning från Tradera?
+ANSWER: Kostnader och avgifter inkluderade i netto betalning från Tradera innehåller försäljningsavgift, fast avgift, provision, moms och andra avgifter som kan debiteras på plattformen.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Hur fungerar fakturering vid negativt saldo på Tradera?
+ANSWER: Om säljarens saldo på Tradera är negativt vid månadsskiftet så skapas en faktura av plattformen. Säljaren kan få avgiften krediterad om köparen inte betalar genom att antingen anmäla obetald vara eller kontakta Traderas kundservice. När avgiften krediteras så hamnar den som ett positivt belopp på säljarens saldo och betalas ut vid nästa utbetalningstillfälle.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vilka avgifter kan dras av för säljare som får betalning med Swish på Tradera?
+ANSWER: Om majoriteten av säljarnas köpare använder Swish så drar Tradera av de avgifter som kan debiteras från inbetalningar med andra betalsätt och eventuellt överskjutande belopp hamnar på fakturan.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kan man betala en skapad faktura på Tradera med en kommande utbetalning?
+ANSWER: Nej, i nuläget har Tradera inte möjlighet att låta säljare betala en skapad faktura med en kommande utbetalning.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vilken typ av uppdatering kommer företagare att få på Traderas netto betalning under våren?
+ANSWER: Tradera kommer att ge tydlig information till företagare om de uppdateringar som kommer att ske på plattformen under våren  angående netto betalning.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Varför syns inte en återbetalning som gjorts på en Paynova vara på säljarens saldo på Tradera?
+ANSWER: När en köpare betalar med Paynova så betalar de för varan och Paynova fakturerar sedan köparen, vilket innebär att återbetalningen hanteras via Paynova. Paynova kommer sedan att fakturera säljaren för återbetalningen som skett.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Har Traderas netto betalning någon inverkan på moms som säljare måste betala?
+ANSWER: Ja, moms är en av kostnaderna som dras av från försäljningsintäkterna vid Traderas netto betalning till säljare.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kan man få mer information om försäljningsavgiften hos Tradera?
+ANSWER: Ja, Tradera har mer information på sin hemsida om hur försäljningsavgiften på plattformen fungerar och beräknas.
+URL: https://info.tradera.com/avgifter/
+
+QUESTION: Hur fungerar det när man säljer flera likadana varor på Tradera?
+ANSWER: Om säljaren säljer flera likadana varor på Tradera så räknas dessa som samma produkt vilket innebär att de hamnar i samma annons. Säljaren behöver därför bara betala försäljningsavgift på en annons.
+URL: https://info.tradera.com/salja-pa-tradera/

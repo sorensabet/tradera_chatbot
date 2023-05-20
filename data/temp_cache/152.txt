@@ -1,0 +1,39 @@
+QUESTION: How can a seller know the cost of shipping for their item?
+ANSWER: Sellers can use the freight calculator or find the prices on the create listing page at My Tradera to know the cost of shipping for their item. They are also recommended to check if there are extra fees for larger parcels on the shipping companies homepage if the item is bulky.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: What should be done if there are extra charges for packing materials used in shipping?
+ANSWER: Sellers can charge extra for packing materials as long as the extra charge is a reasonable amount.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: How does shipping work within the EU when using an integrated shipping option?
+ANSWER: When sellers use an integrated shipping option and sell within the EU, the booking and payment functions in the same way as it does within Sweden. The shipping price is adjusted based on the weight/parcel size and the recipient's country. Once the shipping is booked, sellers can simply print the shipping notes and hand in the parcel as they would when sending something within Sweden.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: What should be done when shipping to a non-EU country?
+ANSWER: When shipping to a non-EU country, sellers need to go to the shipping companies page to get the correct amount and update it manually. It is recommended to do this before the buyer pays for the item. They can also solve the shipping cost outside of Tradera. The booking also needs to be completed directly on the shipping company webpage.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: How does free shipping work when shipping to an EU country?
+ANSWER: When sellers offer free shipping and the recipient is within the EU, the amount for the Swedish shipping cost will be given as a discount to the buyer. For instance, if the shipping would have cost 59 SEK within Sweden, the buyer will get a discount of 59 SEK on the shipping price. However, this does not apply to buyers outside of the EU.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: How does the system determine the shipping cost for shop items?
+ANSWER: Since weight can't be added to shop items, the system uses a conversion table to get the closest approximation.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: What is the benefit of using Schenker for shipping?
+ANSWER: If sellers choose Schenker for shipping, it means that all shipping is booked directly from Tradera. The benefit for both the seller and buyer is that the shipping is automatically integrated into My Tradera.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: What are the available shipping companies that can be used for shipping on Tradera?
+ANSWER: The available shipping companies that can be used for shipping on Tradera are Schenker, Postnord, and DHL. 
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: What is My Tradera and how can it be used for shipping?
+ANSWER: My Tradera is a feature where shipping can be automatically integrated for both sellers and buyers. If the seller uses Schenker for shipping, all shipping will be booked directly from Tradera.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Can shipping costs be adjusted when shipping to EU and non-EU countries?
+ANSWER: Yes, the shipping price is adjusted based on the weight/parcel size and the recipient's country when shipping to EU countries. However, when shipping to non-EU countries, sellers need to manually update the shipping cost on the shipping company's webpage.
+URL: https://info.tradera.com/en/fraktguiden/

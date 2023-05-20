@@ -1,0 +1,39 @@
+QUESTION: Hvad er shill-bidding?
+ANSWER: Shill-bidding er en auktionspraksis, hvor en person byder på en vare i en auktion med det formål at hæve prisen uden at have til hensigt at købe varen. Dette kan føre til, at kunden ender med at betale mere for varen, end han/hun ville have gjort, hvis ikke der var shill-bidding i auktionen.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION: Hvad er forbudt i forhold til shill-bidding på Tradera?
+ANSWER: Det er forbudt på Tradera at byde på dine egne auktioner eller bede andre om at byde på dine auktioner. Det er også forbudt at organisere shill-bidding og påvirke prisen på en auktion på en falsk eller manipulerende måde.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION: Hvad er tilladt i forhold til auktionsbidding på Tradera?
+ANSWER: Det er tilladt at byde på en annonce, som du har til hensigt at købe. Det er også tilladt at hæve dit bud på en auktion, så længe du har intentionen om at købe varen.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: For at handle på Tradera skal du oprette en konto på hjemmesiden. Når du har fundet en vare, du vil købe, kan du byde på den eller købe den til den fastsatte pris, hvis det er en fast pris annonce. Når du har vundet auktionen eller købt varen, betaler du sælgeren, og varen sendes til dig.
+URL: https://info.tradera.com/da/koebe/
+
+QUESTION: Hvilke kategorier af varer findes på Tradera?
+ANSWER: Tradera tilbyder en bred vifte af varer fra forskellige kategorier, herunder elektronik, tøj, husholdningsvarer, bøger, film og musik. Derudover finder du også samleobjekter, kunst og håndværk, køretøjer og biler samt sportsmemorabilia.
+URL: https://www.tradera.com/
+
+QUESTION: Kan erhvervssælgere sælge på Tradera?
+ANSWER: Ja, erhvervssælgere kan sælge på Tradera ved at oprette en erhvervskonto. De skal dog overholde nogle specifikke politikker og procedurer for at sælge varer på Tradera.
+URL: https://info.tradera.com/da/saek-erhvervssaelger/
+
+QUESTION: Hvordan sælger man som privatperson på Tradera?
+ANSWER: For at sælge som privatperson på Tradera skal du oprette en konto på hjemmesiden og derefter oprette en annonce, der beskriver varen, som du ønsker at sælge. Når køberen har betalt for varen, sender du varen til køberen og modtager betalingen.
+URL: https://info.tradera.com/da/saalg-privatperson/
+
+QUESTION: Hvordan beregnes fragtomkostningerne på Tradera?
+ANSWER: Fragtomkostningerne på Tradera beregnes af sælgeren, og de kan variere afhængigt af varens vægt og størrelse, destinationen og den valgte forsendelsesmetode.
+URL: https://www.tradera.com/
+
+QUESTION: Er der en velgørenhedsfunktion på Tradera?
+ANSWER: Ja, der er en velgørenhedsfunktion på Tradera kaldet "Tradera hjälper" (Tradera hjælper), hvor sælgere kan donere en procentdel af deres salg til velgørende organisationer.
+URL: https://info.tradera.com/da/velgoerenhed/
+
+QUESTION: Hvordan kan man kontakte Tradera for hjælp?
+ANSWER: Du kan kontakte Tradera-kundeservice via chat, e-mail eller telefon for at få hjælp til forskellige spørgsmål og problemer, du måtte have. Du kan også finde svar på mange spørgsmål på Traderas "Ofte stillede spørgsmål" side.
+URL: https://www.tradera.com/hjaelp

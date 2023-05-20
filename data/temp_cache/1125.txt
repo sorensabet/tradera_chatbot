@@ -1,0 +1,39 @@
+QUESTION: Vad är betalningsvillkoren på Traderas Plattform?
+ANSWER: Betalningsvillkoren på Traderas Plattform är att Köparen ska betala för varan senast två (2) bankdagar efter att Tradera har bekräftat köpet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken information behöver Köparen för att betala med Swish på Traderas Plattform?
+ANSWER: Köparen behöver Säljarens telefonnummer för att kunna betala med Swish på Traderas Plattform och Traderas betallösning fyller automatiskt i detta nummer i Swish-appen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om Säljaren inte fullgör sina åtaganden på Traderas Plattform?
+ANSWER: Om Tradera misstänker att Säljaren inte kommer att fullgöra sina åtaganden kan Tradera hålla inne på betalningen tills dess att misstanken har klarats upp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka betalsätt accepterar Tradera på sin Plattform?
+ANSWER: Tradera accepterar betalning med Swish, kortbetalning, PayPal, faktura och avbetalning på sin Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är förfarandet om Köparen betalar med PayPal på Traderas Plattform?
+ANSWER: Om Köparen väljer att betala med PayPal på Traderas Plattform kommer pengarna först att sättas in på PayPals (Hyperwallets) bankkonto och sedan betala ut pengarna till Säljaren om Transaktionen godkänns av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Hur lång tid har Köparen på sig att betala för varan på Traderas Plattform?
+ANSWER: Köparen har två (2) bankdagar på sig att betala för varan på Traderas Plattform efter att köpet har bekräftats av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om Transaktionen inte godkänns av Tradera på Traderas Plattform?
+ANSWER: Om Transaktionen inte godkänns av Tradera på Traderas Plattform kommer inte PayPal att betala ut pengarna till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av betalning accepteras vid försäljning på Traderas Plattform?
+ANSWER: Vid försäljning på Traderas Plattform accepteras betalning med Swish, kortbetalning, PayPal, faktura och avbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är förfarandet vid betalning mot faktura på Traderas Plattform?
+ANSWER: Förfarandet vid betalning mot faktura på Traderas Plattform är inte beskrivet i texten och det kan vara bra för användaren att kontakta Tradera för mer information.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken service erbjuder Tradera för att underlätta betalning med Swish på deras Plattform?
+ANSWER: Tradera erbjuder en betallösning som fyller i Säljarens telefonnummer automatiskt i Swish-appen för att underlätta transaktionen när Köparen vill betala med Swish på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

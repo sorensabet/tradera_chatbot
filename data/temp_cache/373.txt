@@ -1,0 +1,39 @@
+QUESTION: Hvad er falske e-mails?
+ANSWER: Falske e-mails, også kaldet phishing, indebærer at nogen prøver på at bedrage dig ved at sende falske e-mails, der foregiver at være fra en virksomhed eller lignende, med det formål at stjæle følsomme oplysninger eller kort- og loginoplysninger. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Kan falske e-mails indeholde links?
+ANSWER: Ja, falske e-mails kan indeholde links, hvilket er en fælde for at bedrage og stjæle følsomme oplysninger eller kort- og loginoplysninger. Det er derfor vigtigt, at man aldrig klikker på links i e-mails fra ukendte kilder. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hvordan kan man beskytte sig mod falske e-mails?
+ANSWER: Du kan beskytte dig mod falske e-mails ved at være forsigtig med, hvem du deler dine personlige oplysninger med. Det er vigtigt at tjekke afsenderen, undgå at klikke på links i e-mails fra ukendte kilder og være opmærksom på, om e-mailen fremstår mistænkelig. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hvilke oplysninger skal man undgå at dele i falske e-mails?
+ANSWER: Det er vigtigt, at du undgår at give dine personlige oplysninger som adgangskoder og kortoplysninger, når du modtager falske e-mails. Disse oplysninger kan udnyttes af bedragere til at stjæle dine personlige oplysninger og forårsage skade på dit økonomiske liv. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Er Tradera blevet ramt af phishing-angreb?
+ANSWER: Tradera kan være et mål for phishing-angreb, da det er en populær e-handelsvirksomhed. Men Tradera tager sikkerhed alvorligt og arbejder aktivt på at forhindre phishing-angreb og beskytte kundernes personlige oplysninger. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hvorfor opretter folk falske e-mails? 
+ANSWER: Folk opretter falske e-mails for at narre og stjæle personlige oplysninger som adgangskoder og kortoplysninger. Nogle gange bruger de falske e-mails til at distribuere malware eller bedrage penge fra intetanende ofre. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hvornår skal man kontakte Tradera ved mistænkelige e-mails?
+ANSWER: Hvis du modtager en mistænkelig e-mail, der ser ud til at komme fra Tradera, skal du kontakte Tradera øjeblikkeligt eller logge ind på din konto for at rapportere problemet. Det vil hjælpe Tradera til at tage de nødvendige skridt for at forhindre phishing-angreb. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Kan trusted emails også være falske?
+ANSWER: Ja, det er muligt, at en e-mail ser ud til at være sendt fra en kendt og betroet kilde, men det betyder ikke altid, at den er ægte. Bedragere kan bruge teknikker som spoofing for at vise en falsk afsenderadresse og narre ofre til at give personlige oplysninger. Derfor er det vigtigt at være forsigtig med at dele oplysninger altid. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hvorfor skal jeg undgå at klikke på links i e-mails fra ukendte kilder?
+ANSWER: Hvis en bedrager sender dig en e-mail, der indeholder et link til et website, kan du blive narret til at give følsomme oplysninger eller installere malware på din computer. Derfor bør du altid undgå at klikke på links i e-mails fra ukendte kilder og i stedet kontakte den virksomhed eller person, som e-mailen angiveligt er fra, ved hjælp af en kendt og betroet metode. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Er der andre måder at beskytte mit personlige liv og oplysninger på Tradera end at undgå phishing-angreb?
+ANSWER: Ja, Tradera tilbyder også andre sikkerhedsforanstaltninger for at beskytte dine personlige oplysninger. Du kan bruge vores samarbejder med tredjepartsleverandører af sikkerhedsteknologier, aktivere to-faktor-autentificering og sørge for at have stærke adgangskoder for at forhindre uautoriseret adgang til din konto. 
+URL: https://info.tradera.com/da/fake-emails/

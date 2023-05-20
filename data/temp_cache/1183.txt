@@ -1,0 +1,39 @@
+QUESTION: Vad är sparade inställningar på Tradera?
+ANSWER: Sparade inställningar på Tradera refererar till val som användare gör och som sparas för att skapa en bättre upplevelse nästa gång användaren besöker sidan. Det kan inkludera information om sökningar, favoriserade säljare och sparade artiklar.
+URL: https://info.tradera.com/sakerhetscenter/sakerhet-pa-auctions-tradera/
+
+QUESTION: Vilka personuppgifter sparar Tradera?
+ANSWER: Tradera sparar personuppgifter som användarnamn, e-postadress och telefonnummer, samt betalningsinformation för att fullfölja köp.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur fungerar inloggning med Facebook på Tradera?
+ANSWER: Inloggning med Facebook på Tradera möjliggör för användare att logga in med sin Facebook-profil istället för att skapa ett separat konto för Tradera. Detta görs genom att användaren klickar på "Logga in med Facebook" på Traderas inloggningssida och godkänner att använda sin Facebook-profil på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/logga-in-och-sakerhet/
+
+QUESTION: Varför används Facebook-spårning på Tradera?
+ANSWER: Tradera använder Facebook-spårning för marknadsföringsändamål. Annonspartners kan använda den här informationen för att rikta annonser till relevanta kunder på Facebook baserat på deras beteende på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är en anbudsgivare på Tradera?
+ANSWER: En anbudsgivare på Tradera är en person som lägger ett bud på en auktion för att köpa en produkt som säljs av en annan person på sidan.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är högsta budet på en auktion på Tradera?
+ANSWER: Det högsta budet på en auktion på Tradera refererar till det löpande budet som för närvarande är vinnande för en given produkt.
+URL: https://info.tradera.com/sakerhetscenter/kopa-pa-tradera/
+
+QUESTION: Vad händer om jag inte betalar för min Tradera-auktion?
+ANSWER: Om en vinnande köpare på Tradera inte betalar för sin auktion, kan detta resultera i en avstängning från handel på sidan.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur använder Tradera mina personuppgifter?
+ANSWER: Tradera använder användares personuppgifter för att skapa ett användarkonto, för att fullfölja köp och för att förbättra användares upplevelse på sidan.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är Tradera Trygghetsgaranti?
+ANSWER: Tradera Trygghetsgaranti är en garanti som erbjuds av Tradera som möjliggör för köpare och säljare att känna sig trygga i sin affär genom att ha möjlighet att få pengarna tillbaka om något går fel.
+URL: https://www.tradera.com/content/helpsellersandsell/for-sellers/receive-payment/tradera-trygghetsgaranti/
+
+QUESTION: Vad händer om en Tradera-transaktion går fel?
+ANSWER: Om en Tradera-transaktion går fel, kan både köpare och säljare ta hjälp av Tradera Trygghetsgaranti för att få hjälp att lösa problemet. Köpare kan få pengarna tillbaka och säljare kan få ersättning för förlust.
+URL: https://www.tradera.com/content/helpsellersandsell/tradera-safety-guarantee

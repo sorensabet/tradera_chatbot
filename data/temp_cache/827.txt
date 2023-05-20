@@ -1,0 +1,39 @@
+QUESTION: Vilka åtgärder kan Tradera vidta om man bryter mot Användaravtalet?
+ANSWER: Tradera kan vidta åtgärder som att begränsa, stänga eller säga upp användarkonton, begränsa eller förbjuda tillgång till och användning av deras tjänster, stoppa bud och ta bort annonser, ta bort innehåll som finns på webbplatsen, ta bort statusuppdateringar som hör till ett konto, minska eller ta bort rabatter och vidta tekniska samt rättsliga åtgärder för att hindra användaren från att använda deras tjänster om vissa krav uppfylls, såsom orsaka problem eller risker för skadeståndsskyldighet, göra intrång i tredje mans rätt eller agerar i strid med ändamålet med Användaravtalet eller policys. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad innebär missbruk av Tradera?
+ANSWER: Missbruk av Tradera kan innebära att användaren inte har betalt alla avgifter som hör till köp och försäljning, att användaren lägger bud, köper eller listar nya föremål för försäljning efter att användarens konto har stängts av Tradera. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera stoppa bud och ta bort annonser?
+ANSWER: Ja, Tradera kan stoppa bud och ta bort annonser om vissa krav uppfylls, till exempel om Tradera anser att användaren agerar i strid med deras ändamål med Användaravtalet eller policys. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan användaren fortfarande använda Traderas tjänster om man inte betalar avgifterna i tid?
+ANSWER: Nej, Tradera kan vidta åtgärder som att begränsa, stänga eller säga upp användarkonton om användaren inte betalar avgifterna för deras tjänster i tid. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera minska eller ta bort rabatter?
+ANSWER: Ja, Tradera kan minska eller ta bort rabatter om vissa krav uppfylls, till exempel om Tradera anser att användaren orsakar problem eller risker för skadeståndsskyldighet eller om Tradera inte kan bekräfta information som användaren tillhandahåller till dem. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera vidta rättsliga åtgärder mot användaren?
+ANSWER: Ja, Tradera kan vidta tekniska samt rättsliga åtgärder för att förhindra användaren från att använda deras tjänster om vissa krav uppfylls, till exempel om användaren orsakar problem eller risker för skadeståndsskyldighet eller gör intrång i tredje mans rätt. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om Tradera inte kan bekräfta information som användaren tillhandahåller?
+ANSWER: Om Tradera inte kan bekräfta information som användaren tillhandahåller, kan de vidta åtgärder såsom att begränsa, stänga eller säga upp användarkonton eller vidta tekniska och rättsliga åtgärder för att hindra användaren från att använda deras tjänster. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera ta bort innehåll från webbplatsen?
+ANSWER: Ja, Tradera kan ta bort innehåll som finns på deras webbplats om vissa krav uppfylls, till exempel om Tradera anser att användaren agerar i strid med deras ändamål med Användaravtalet eller policys. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera begränsa, stänga eller säga upp användarkonton?
+ANSWER: Ja, Tradera kan begränsa, stänga eller säga upp användarkonton om vissa krav uppfylls, såsom orsaka problem eller risker för skadeståndsskyldighet, göra intrång i tredje mans rätt eller agera i strid med deras ändamål med Användaravtalet eller policys. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka åtgärder kan Tradera vidta för att öka säkerheten för sina användare?
+ANSWER: Tradera kan vidta åtgärder som att begränsa, stänga eller säga upp användarkonton, begränsa eller förbjuda tillgång till och användning av deras tjänster, stoppa bud och ta bort annonser, ta bort innehåll som finns på webbplatsen, ta bort statusuppdateringar som hör till ett konto, minska eller ta bort rabatter och vidta tekniska samt rättsliga åtgärder för att förhindra användning av deras tjänster om vi anser att sådana begränsningar kommer att öka säkerheten för Traderas användare eller minska risken för att vi eller Traderas användare ådrar sig betalningsskyldighet. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

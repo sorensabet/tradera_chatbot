@@ -1,0 +1,39 @@
+QUESTION 1: What is the purpose of the "Know Your Payee" process on Tradera?
+ANSWER: The purpose of the "Know Your Payee" process on Tradera is to verify the seller's identity as a payment recipient and to be compliant with EU's payment directives. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 2: Who handles the information gathered in the "Know Your Payee" verification process?
+ANSWER: All information gathered in the "Know Your Payee" verification process is handled by Tradera's partner, Hyperwallet, in accordance with GDPR.
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 3: Does the "Know Your Payee" process apply only to users within the EU?
+ANSWER: Yes, the "Know Your Payee" process only applies to users within the EU. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 4: Will users be notified if they are required to complete the "Know Your Payee" verification?
+ANSWER: Yes, users will receive a notification in My Tradera if they are required to complete the "Know Your Payee" verification. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 5: How can a user begin the "Know Your Payee" verification process?
+ANSWER: If a user is required to complete the "Know Your Payee" verification, they can click the message in My Tradera to begin the verification process. All information must be sent via the provided form. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 6: What must a user provide in order to be verified in the "Know Your Payee" process?
+ANSWER: Once a user is required to complete the "Know Your Payee" verification, all required information and documents must be provided in order to be verified. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 7: How long does it take to complete the "Know Your Payee" verification process?
+ANSWER: It usually takes 1-2 banking days to complete the "Know Your Payee" verification process once all required information and documents have been provided. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 8: Will a user's payments be affected by the "Know Your Payee" verification process?
+ANSWER: Once a user is verified in the "Know Your Payee" process, their payments will continue as before. 
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 9: Does the "Know Your Payee" process apply to both private and business users on Tradera?
+ANSWER: Yes, there are separate "Know Your Payee" processes for private and business users on Tradera.
+URL: https://info.tradera.com/en/kann-din-kund/
+
+QUESTION 10: Where can a user find the terms for Tradera's "Know Your Payee" process?
+ANSWER: The terms for Tradera's "Know Your Payee" process can be found in the "Terms for Trader" section on the website. 
+URL: https://info.tradera.com/en/kann-din-kund/

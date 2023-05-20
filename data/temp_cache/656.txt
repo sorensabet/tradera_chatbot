@@ -1,0 +1,39 @@
+QUESTION: Vad händer om jag använder en annan medlems bilder utan tillstånd? 
+ANSWER: Det är olagligt att använda någon annans bilder utan tillstånd, det kan leda till polisanmälan och Tradera kommer att begränsa ditt konto. Mer information om vad som anses vara tillåtet finns på sidan som beskriver vilseledande rubriker och objektsbeskrivningar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Får jag använda bilder från en webbshop med tillstånd från upphovsrättsinnehavaren?
+ANSWER: Ja, det är tillåtet att använda bilder från en webbshop där du har fått tillstånd från upphovsrättsinnehavaren. Se till att alltid beskriva objektet korrekt och ange relevanta egenskaper, såsom storlek och skick, för att undvika missförstånd.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Vilka är några exempel på tillåtna annonsupplägg?
+ANSWER: Exempel på tillåtna annonsupplägg är att skriva det faktiska varumärket för att beskriva objektet i rubriken eller beskrivningen, att ange objektets faktiska egenskaper, såsom skick, storlek och färg, och att använda bilder från en webbshop där man har fått tillstånd från upphovsrättsinnehavaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt syftar på en transportlösning som använder klimatneutrala transportalternativ. Tradera samarbetar med PostNord för att erbjuda Grön frakt till sina kunder.
+URL: https://info.tradera.com/sakerhetscenter/gron-frakt/
+
+QUESTION: Hur handlar jag på Tradera?
+ANSWER: För att handla på Tradera behöver du skapa ett konto. Därefter kan du söka efter produkter, lägga bud på auktioner eller köpa varor till fast pris. När du hittar en produkt du vill köpa behöver du lägga in en beställning och betala med en valfri betalningsmetod, såsom kort eller banköverföring.
+URL: https://www.tradera.com/content/kop
+
+QUESTION: Kan jag handla varor av olika kategorier på Tradera?
+ANSWER: Ja, på Tradera kan du handla varor från en mängd olika kategorier, såsom kläder, elektronik, möbler och böcker.
+URL: https://www.tradera.com/content/kop
+
+QUESTION: Vad är Fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn är ett verktyg på Tradera som kan hjälpa dig att beräkna fraktkostnaderna för en produkt. Verktyget tar hänsyn till objektets storlek och vikt, samt fraktmetoden som säljaren använder.
+URL: https://www.tradera.com/content/fraktkalkylator/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt syftar på en transportlösning som använder klimatneutrala transportalternativ. Tradera samarbetar med PostNord för att erbjuda Grön frakt till sina kunder.
+URL: https://info.tradera.com/sakerhetscenter/gron-frakt/
+
+QUESTION: Hur säljer jag som privatperson på Tradera?
+ANSWER: För att sälja på Tradera behöver du skapa ett konto och därefter skapa en annons och lägga upp en produkt. När någon sedan köper din produkt behöver du skicka den till köparen och få betalt. Du betalar en försäljningsavgift till Tradera baserat på slutpriset på din produkt.
+URL: https://www.tradera.com/content/salj-som-privatperson
+
+QUESTION: Vilka vanliga frågor och svar finns på Tradera?
+ANSWER: På Traderas sida med vanliga frågor och svar kan du hitta svar på många frågor som både köpare och säljare har, såsom hur man betalar för en produkt, hur man skapar en annons eller hur man kontaktar Traderas kundtjänst.
+URL: https://www.tradera.com/content/vanliga-fragor-och-svar

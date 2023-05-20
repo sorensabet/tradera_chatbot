@@ -1,0 +1,39 @@
+QUESTION: Vilken summa kan Säljaren återbetala till Köparen utan att kontakta Traderas kundtjänst?
+ANSWER: Säljaren ska återbetala överenskommet belopp upp till 1000 SEK till Köparen utan att kontakta Traderas kundtjänst.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är de förutsättningar under vilka Köparen har köparskydd hos Tradera?
+ANSWER: Köparen har under vissa förutsättningar köparskydd hos Tradera som innebär att Köparen kan få tvister hanterade och få återbetalat det betalda beloppet vid en Transaktion.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad gör Säljaren om denne behöver återbetala mer än 1000 SEK till Köparen?
+ANSWER: Om Säljaren behöver återbetala mer än 1000 SEK till Köparen måste denne först kontakta Traderas kundtjänst för att få instruktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Säljaren återbetala Transaktioner genom andra betalningsmetoder än Traderas?
+ANSWER: Nej, Säljaren måste utföra återbetalningar enbart via Traderas betallösning och inte genom andra betalningsmetoder.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur mycket är det högsta beloppet som medges inom ramen för Traderas köparskydd?
+ANSWER: Högsta återbetalningsbara belopp som medges inom ramen för Traderas köparskydd är 50 000 SEK.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan en Köpare få tvister hanterade och få återbetalning endast om denne är en konsument och Säljaren är näringsidkare?
+ANSWER: Nej, en Köpare kan få tvister hanterade och få återbetalning under vissa förutsättningar oavsett om denne är en konsument eller inte och om Säljaren är näringsidkare eller inte.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem betalar tillbaka del av eller fullständigt belopp till Köparen om denne har beviljats returrätt eller utnyttjat sin lagstadgade ångerrätt?
+ANSWER: Om Köparen har beviljats returrätt av Säljaren eller Köparen utnyttjat sin lagstadgade ångerrätt är det upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Säljaren vägra att betala tillbaka del av eller fullständigt belopp till Köparen om denne har beviljats returrätt eller utnyttjat sin lagstadgade ångerrätt?
+ANSWER: Nej, om Köparen har beviljats returrätt av Säljaren eller Köparen utnyttjat sin lagstadgade ångerrätt kan Säljaren inte vägra att betala tillbaka del av eller fullständigt belopp till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Säljaren vägra att reglera en retur eller prisreducering om denne och Köparen har kommit överens om detta?
+ANSWER: Nej, om Säljaren och Köparen har kommit överens om en retur eller prisreducering ska detta omgående regleras av Säljaren som ska återbetala överenskommet belopp till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan en Köpare få tillbaka det belopp som denne har betalat vid en Transaktion om denna har köparskydd hos Tradera?
+ANSWER: Ja, en Köpare kan få tvister hanterade och få återbetalat det belopp som denne har betalat vid en Transaktion om denna har köparskydd hos Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

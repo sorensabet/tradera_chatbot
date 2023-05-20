@@ -1,0 +1,39 @@
+QUESTION: Vilka åtgärder kan Tradera vidta för att filtrera skräppost och olagligt innehåll i e-postmeddelanden?
+ANSWER: Tradera kan automatiskt scanna och manuellt filtrera meddelanden för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll. De sparar dock inte permanent några meddelanden som skickas genom dessa verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken är den viktigaste nyckeln till mitt Tradera-konto?
+ANSWER: Ditt lösenord är nyckeln till ditt Tradera-konto. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken typ av lösenord bör jag använda till mitt Tradera-konto?
+ANSWER: Du bör använda unika siffror, bokstäver och symboler till ditt Tradera-lösenord.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad bör jag göra om jag delar mitt lösenord eller mina personuppgifter till någon annan?
+ANSWER: Om du delar ditt lösenord eller dina personuppgifter till någon annan, kom ihåg att du är ansvarig för all aktivitet som sker på ditt konto. Om du förlorar kontrollen över ditt lösenord, så förlorar du kontrollen över dina personuppgifter och kan ådra dig skyldigheter för åtgärder som vidtagits för din räkning. Du ska därför omedelbart informera Tradera, och ändra ditt lösenord, om ditt lösenord av någon anledning har kommit i orätta händer. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag se, granska och ändra mina personuppgifter på Tradera?
+ANSWER: Ja, du kan se, granska och ändra de flesta av dina personuppgifter genom att logga in på Tradera och ändra dina personuppgifter i dina kontoinställningar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Är det viktigt att uppdatera mina personuppgifter direkt om de ändras?
+ANSWER: Ja, du bör omedelbart uppdatera dina personuppgifter om de ändras.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer om jag förlorar kontrollen över mitt lösenord?
+ANSWER: Om du förlorar kontrollen över ditt lösenord, så förlorar du även kontrollen över dina personuppgifter och kan ådra dig skyldigheter för åtgärder som vidtagits för din räkning. Du ska därför omedelbart informera Tradera och ändra ditt lösenord om ditt lösenord av någon anledning har kommit i orätta händer. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag ändra dina personuppgifter i mina kontoinställningar på Tradera?
+ANSWER: Ja, du kan ändra dina personuppgifter i dina kontoinställningar genom att logga in på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Var kan jag vidarebefordra en e-postmeddelande för att rapportera ändrad identitet hos en annan Tradera-användare?
+ANSWER: Om du upptäcker att någon annan Tradera-användare har ändrad identitet, kan du vidarebefordra e-postmeddelandet till abuse@tradera.com för undersökning. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Sparar Tradera permanent några meddelanden som skickas genom verktyg som används för att filtrera skräppost och olagligt innehåll?
+ANSWER: Tradera sparar inte permanent några meddelanden som skickas genom verktyg som används för att filtrera skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

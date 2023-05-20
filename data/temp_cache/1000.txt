@@ -1,0 +1,39 @@
+QUESTION: Vilka kontaktuppgifter samlas in av Tradera?
+ANSWER: Tradera samlar in användares kontaktuppgifter, leveransuppgifter och ekonomiska uppgifter för att underlätta genomförandet av transaktioner och erhållande av betalning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad måste du göra om andra användare begär att raderas från din databas?
+ANSWER: Du måste ge andra användare möjlighet att begära att de raderas från din databas och att de ges möjlighet att få information om vilka uppgifter som du har samlat in om dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: För vilka ändamål kan du använda andra användares personuppgifter?
+ANSWER: Du kan endast använda andra användares personuppgifter för transaktionsrelaterade ändamål på Tradera och inte för oönskade marknadsföringsmeddelanden, för att använda tjänster som erbjuds via Tradera, eller särskilda ändamål som användaren uttryckligen väljer eller lämnar sitt samtycke till.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka tekniker använder Tradera för att förbättra användarupplevelsen?
+ANSWER: Tradera eller deras tjänsteleverantörer använder cookies, webb-beacons och liknande teknik för att lagra information i syfte att ge dig en bättre, snabbare och säkrare upplevelse och för annonseringsändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Var kan man hitta mer detaljerad information om teknikerna som Tradera använder?
+ANSWER: Du kan hitta mer detaljerad information om Traderas tekniker på deras Cookie-policy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer om någon skickar spam via Tradera?
+ANSWER: Tradera tolererar inte spam och förbjuder skräppost, spionprogram och identitetsstöld.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/ 
+
+QUESTION: Kan du rapportera Tradera-relaterat spam eller e-post med förfalskad avsändaradress eller avsändarnamn?
+ANSWER: Ja, du kan rapportera Tradera-relaterat spam eller e-post med förfalskad avsändaradress eller avsändarnamn.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka verktyg kan du använda på Tradera?
+ANSWER: Du kan använda kommunikationskanaler (såsom e-post) och verktyg som Tradera erbjuder såsom betalning, frakt, leverans och klagomål om bedrägerier.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan användare välja vilka särskilda ändamål deras personuppgifter används för?
+ANSWER: Ja, användare kan välja särskilda ändamål som de uttryckligen väljer eller lämnar sitt samtycke till.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur använder Tradera de personuppgifter som de samlar in?
+ANSWER: Tradera använder kontaktuppgifter, leveransuppgifter och ekonomiska uppgifter för att underlätta genomförandet av transaktioner och erhållande av betalning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

@@ -1,0 +1,39 @@
+QUESTION: What is meant by "content" in the User Agreement?
+ANSWER: In the User Agreement, "content" refers to all provided information, including photographs, images, texts, words, videos, data, concepts, ideas, technology, databases, and trademarks.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What rights does Tradera have to the content that users provide?
+ANSWER: Tradera has the right, but not the obligation, to use for commercial purposes all content that users provide, for example when listing or offering, buying and/or selling items or services. This includes rights to use, copy, reproduce, alter, process, translate, transfer, make available and/or communicate such content in any media, channel, technology or region decided by Tradera from time to time.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Does the User Agreement allow Tradera to sublicense users' moral rights to the content provided?
+ANSWER: Yes, the User Agreement grants to Tradera an unlimited, non-exclusive, irrevocable, worldwide, perpetual, royalty-free, fully transferable and fully sublicensable right to use, copy, reproduce, alter, process, translate, transfer, make available and/or communicate users' content for the purposes and in any media, channel, technology or region decided by Tradera from time to time. The sublicense according to this provision shall, to the extent permitted by law, also include users' moral rights to the content.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What must users warrant regarding the content they provide?
+ANSWER: Users warrant that all content they provide or make available to Tradera by using the Services is accurate and non-confidential. Users also warrant that the content is not infringing any intellectual property right of any third party.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Can shoppers rate products that business users list on Tradera?
+ANSWER: Yes, Tradera allows shoppers to rate products that business users list on the platform. These ratings may also be made publicly available.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Who provides the payment methods for buying on Tradera?
+ANSWER: The payment methods for buying on Tradera are provided by payment solution providers with which Tradera cooperates.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Do the payment solution providers get to decide which payment methods to offer buyers?
+ANSWER: Yes, the payment solution providers with which Tradera cooperates get to decide which payment methods to offer buyers.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Do buyers need to enter into a separate agreement with payment solution providers when choosing a payment method?
+ANSWER: Depending on the payment method that buyers choose, they may have to enter into a separate agreement with the relevant payment solution provider and accept the terms applicable to the payment method.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What are the consequences of using the Services offered by Tradera?
+ANSWER: By using the Services offered by Tradera, users agree to the terms of the User Agreement and the Privacy Policy. Moreover, any content provided to Tradera may be used for commercial purposes and payment methods for buying items may be provided by payment solution providers with which Tradera cooperates.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What is governed by the Privacy Policy on Tradera?
+ANSWER: The processing and transfer of personal data is further governed by the Privacy Policy on Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/

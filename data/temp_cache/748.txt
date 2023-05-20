@@ -1,0 +1,39 @@
+QUESTION: Kan jag ändra mottagaradress för paketet?
+ANSWER: Ja, du kan ändra mottagaradress i samband med att du betalar för varan.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur länge ligger paketet kvar hos ombudet innan det skickas tillbaka?
+ANSWER: Paketet ligger kvar hos ombudet i 14 dagar innan det returneras till avsändaren.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vilka legitimationer är giltiga för att hämta ut mitt paket?
+ANSWER: De legitimationer som är giltiga är: SIS-märkt ID-kort och tjänstekort, ID-kort utfärdat av Skatteverket, Nationellt ID-kort utfärdat av svensk polis, Svenskt körkort, Svenskt EU-pass, Utländskt nationellt ID-kort utfärdat i länder inom Schengenområdet, Utländskt pass, Nordiskt körkort.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Måste jag visa legitimation för att hämta ut paketet?
+ANSWER: Ja, du behöver legitimera dig och visa paketets löpnummer för att hämta ut paketet. Om paketet hämtas ut av en annan person än mottagaren ska båda legitimera sig.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur får jag löpnumret för paketet?
+ANSWER: Löpnumret för paketet får du när paketet aviserats via SMS eller mail.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag behålla paketet hos ombudet längre om jag är bortrest?
+ANSWER: Nej, paket som skickas med DB Schenker ligger kvar hos ombudet i 14 dagar. Om du kommer vara bortrest behöver du komma överens med säljaren om att paketet skickas iväg senare.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Vad ska jag göra om jag inte kan hitta svaret på min fråga?
+ANSWER: Om du inte hittar svaret på din fråga kan du kontakta DB Schenker på 020-22 00 45 eller support.parcelombud@dbschenker.com.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Hur handlar jag på Tradera?
+ANSWER: Information om hur du handlar på Tradera hittar du på den sista sidan i texten.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Måste jag betala för paketet först innan jag kan ändra mottagaradress?
+ANSWER: Ja, du kan endast ändra mottagaradress i samband med att du betalar för varan.
+URL: https://info.tradera.com/dbschenker/
+
+QUESTION: Kan jag hämta ut mitt paket utan löpnummer och legitimationshandlingar?
+ANSWER: Nej, du måste visa giltig legitimationshandling och paketets löpnummer för att hämta ut paketet.
+URL: https://info.tradera.com/dbschenker/

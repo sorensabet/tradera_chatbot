@@ -1,0 +1,39 @@
+QUESTION: Hvad sker der, hvis en konto er deaktiveret på grund af manglende verifikation af brugeren?
+ANSWER: Hvis en konto er deaktiveret på grund af manglende brugerverifikation, vil teksten "Kontoen er deaktiveret af Tradera" fremgå på en rød baggrund. 
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Hvilke åbningstider har Traderas chat og telefon?
+ANSWER: Traderas chat har åbent mandag til fredag kl. 09:00-19:00 og lørdag-søndag kl. 10:00-19:00, mens telefonen har åbent mandag til fredag kl. 09:00-18:00 og er lukket i weekenden. 
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Hvordan fungerer køberbeskyttelse, hvis handlen ikke gik igennem?
+ANSWER: Hvis handlen ikke gik igennem, og du har betalt med Paynova eller PayPal, kan du være berettiget til køberbeskyttelse og få pengene tilbage.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: For at handle på Tradera skal man vælge en kategori, finde et interessant produkt, byde på det og afvente resultatet af auktionen.
+URL: https://info.tradera.com/da/sa-har-handlar-du-pa-tradera/
+
+QUESTION: Hvad skal man gøre, hvis man er sælger og ikke har modtaget betalingen?
+ANSWER: Hvis man som sælger ikke har modtaget betalingen, kan man fortsætte og færdiggøre transaktionen.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Hvilke kategorier af produkter kan man finde på Tradera?
+ANSWER: Man kan finde en bred vifte af kategorier af produkter på Tradera, som fx tøj, sko, elektronik, bøger, musik, film og hjem og have.
+URL: https://info.tradera.com/da/sa-har-handlar-du-pa-tradera/
+
+QUESTION: Hvilke populære varemærker kan man købe på Tradera?
+ANSWER: På Tradera kan man købe en række populære varemærker, men hvilke der er tilgængelige afhænger af markedet og tidspunktet. 
+URL: https://info.tradera.com/da/sa-har-handlar-du-pa-tradera/
+
+QUESTION: Hvad er Fragt beregner?
+ANSWER: Fragt beregner er et værktøj, som kan bruges til at beregne fragtprisen på de produkter, man ønsker at købe eller sælge på Tradera.
+URL: https://info.tradera.com/da/vi-erbjuder-fraktverktyget-fraktberakning1/
+
+QUESTION: Hvad er en erhvervssælger, og hvordan sælger man som en?
+ANSWER: En erhvervssælger er en person, som driver forretning ved at sælge varer på Tradera. For at blive erhvervssælger skal man oprette en erhvervskonto. 
+URL: https://info.tradera.com/da/sa-har-man-en-erhvervsprofil/
+
+QUESTION: Hvilke Sikkerhedsforanstaltninger er der i forbindelse med handel på Tradera?
+ANSWER: Tradera har en række sikkerhedsforanstaltninger på plads for at beskytte både købere og sælgere, fx betalingsmetoder og verifikation af brugere.
+URL: https://info.tradera.com/da/sakerhet-pa-tradera/

@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg kontakte Tradera support? 
+ANSWER: For at kontakte Traderas support kan du navigere til siden "Kontakt os", som du finder ved at klikke på "K" i navigationsmenuen. Der vil du kunne finde kontaktmulighederne, såsom at ring på kundeservicetelefonen eller sende en e-mail.
+URL: https://info.tradera.com/da/kontakt-os/
+
+QUESTION: Kan jeg oprette en ny annonce på Tradera? 
+ANSWER: Ja, du kan oprette en ny annonce på Tradera ved at navigere til siden "Opret ny annonce". Her vil du blive bedt om at logge ind med din Tradera-konto, eller oprette en ny konto, hvis du ikke allerede har en.
+URL: https://www.tradera.com/minsida/salj
+
+QUESTION: Hvilke varer kan jeg købe på Tradera? 
+ANSWER: På Tradera kan du købe en bred vifte af varer, lige fra tøj og sko til elektronik og møbler. Der er også mulighed for at købe og sælge biler, både og motorcykler på Tradera.
+URL: https://www.tradera.com/saljes
+
+QUESTION: Hvad er en huskeliste på Tradera? 
+ANSWER: En huskeliste på Tradera er en funktion, hvor du kan gemme de varer, du ønsker at holde øje med eller overveje at købe senere. Du kan tilføje varer til din huskeliste ved at klikke på "Tilføj til huskeliste" på produktsiden.
+URL: https://info.tradera.com/da/huskeliste/
+
+QUESTION: Hvor kan jeg se en oversigt over mine køb på Tradera? 
+ANSWER: For at se en oversigt over dine køb på Tradera, kan du klikke på "Mine køb" i navigationsmenuen. Her vil du kunne se en liste over de varer, du har købt, og status på hver af dine ordrer.
+URL: https://www.tradera.com/minsida/kop
+
+QUESTION: Kan jeg returnere en vare, jeg har købt på Tradera? 
+ANSWER: Ja, du kan returnere en vare, du har købt på Tradera, under visse betingelser. Hvis varen ikke lever op til beskrivelsen eller er beskadiget, kan du kontakte sælgeren og bede om en returlabel. Hvis sælgeren ikke accepterer returneringen, kan du kontakte Traderas support.
+URL: https://www.tradera.com/info/koepa/policy-och-villkor
+
+QUESTION: Hvordan kan jeg betale for min vare på Tradera? 
+ANSWER: Der er flere betalingsmuligheder til rådighed på Tradera, såsom kortbetaling, Klarna og Swish. Du kan vælge den foretrukne betalingsmetode under checkout-processen, når du gennemfører dit køb.
+URL: https://www.tradera.com/betala/#:~:text=P%C3%A5%20Tradera%20kan%20du%20betala,Nordea%20eller%20Swedbank%20%2C%20eller%20Swish.
+
+QUESTION: Hvordan kan jeg byde på en auktion på Tradera? 
+ANSWER: For at byde på en auktion på Tradera, skal du have en Tradera-konto og være logget ind. Naviger til auktionsdelen af hjemmesiden og find den ønskede auktion. Indtast dit bud i budpuden og klik på "Byd". Hvis dit bud er højest, vil du vinde auktionen.
+URL: https://info.tradera.com/da/byd-pa-auktion/
+
+QUESTION: Hvilke krav er der for at oprette en Tradera-konto? 
+ANSWER: For at oprette en Tradera-konto skal du være over 18 år og have en svensk, dansk, norsk eller finsk bankkonto eller mobiltelefonnummer. Derudover skal du oplyse oplysninger som navn, adresse og e-mailadresse.
+URL: https://info.tradera.com/da/hj%C3%A4lp/skapa-en-tradera-konto/
+
+QUESTION: Er det sikkert at handle på Tradera? 
+ANSWER: Tradera gør sit bedste for at sikre en sikker og pålidelig handelsoplevelse for alle brugere. De tilbyder blandt andet betalingsgaranti og muligheden for at anmelde sælgere, der ikke lever op til standarderne.
+URL: https://info.tradera.com/da/handla-pa-tradera/tryggt-att-handla-pa-tradera-/

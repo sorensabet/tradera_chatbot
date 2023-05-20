@@ -1,0 +1,39 @@
+QUESTION: Vad är samfrakt och varför kan det vara billigare?
+ANSWER: Samfrakt är när man köper flera varor från samma säljare och får dem skickade tillsammans. Det gör det oftast billigare att köpa flera varor och få det samfraktat än att beställa i omgångar eftersom säljaren kan skicka allt i ett paket istället för flera separata paket. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Hur begär jag samfraktpris från en säljare på Tradera?
+ANSWER: När du köpt 2 eller flera varor från en säljare på Tradera kan du begära samfraktspris från säljaren genom att klicka på den möjligheten som kommer upp. Säljaren räknar sedan ut ett samfraktpris för din beställning. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Kan jag betala direkt efter mitt köp på Tradera?
+ANSWER: Om du inte tänkt köpa fler än ett objekt på Tradera så kan du självklart betala direkt efter ditt köp. Säljaren blir då meddelad om att det är dags att skicka varan. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: När räknar säljaren ut ett samfraktpris på Tradera?
+ANSWER: När du har handlat klart eller när tiden för samfrakt har löpt ut så räknar säljaren på Tradera ut ett samfraktpris för din beställning. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Vad händer om jag vinner en auktion på Tradera?
+ANSWER: Om du vinner en auktion på Tradera eller trycker på "Köp Nu" så är du betalningsskyldig och Tradera skickar automatiskt en betalningspåminnelse till dig när det är dags att betala. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Vad är Traderas fraktkalkylator?
+ANSWER: Traderas fraktkalkylator är ett verktyg som används för att räkna ut fraktkostnaden för en försändelse som man vill skicka eller ta emot från en säljare på Tradera. 
+URL: https://info.tradera.com/samfrakt-kopare/
+
+QUESTION: Hur säljer jag som privatperson på Tradera?
+ANSWER: Om du vill sälja som privatperson på Tradera kan du skapa ett konto och skapa en annons för varan du vill sälja. När någon köper din vara skickar du den till köparen och får betalt för varan. 
+URL: https://info.tradera.com/salja-som-privatperson/
+
+QUESTION: Kan företag sälja på Tradera?
+ANSWER: Ja, företag kan också sälja på Tradera. Du kan registrera ditt företag och skapa en butik för att sälja dina varor på Tradera. 
+URL: https://info.tradera.com/salja-som-foretag/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är Traderas miljövänliga fraktalternativ som möjliggör en mer hållbar frakt. Det innebär att paketet transporteras med fossilfritt drivmedel och sänds direkt till utlämningsstället. 
+URL: https://info.tradera.com/gron-frakt/
+
+QUESTION: Hur kontaktar jag Traderas kundsupport?
+ANSWER: Om du har frågor eller behöver hjälp på Tradera kan du kontakta kundsupporten genom att klicka på "Kontakt & Hjälp" på deras hemsida. Där finns information om hur du kan nå kundsupporten. 
+URL: https://info.tradera.com/kontakt-hjalp/

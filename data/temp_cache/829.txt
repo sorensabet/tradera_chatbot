@@ -1,0 +1,39 @@
+QUESTION: Kan Tradera samla in information om säljare?
+ANSWER: Ja, Tradera har rätt att ta del av information från säljare för att avgöra om de bryter mot Användarvillkoren. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om en företagsanvändares användning av Tjänsterna begränsas eller avbryts?
+ANSWER: Om en företagsanvändares användning av Tjänsterna begränsas eller avbryts, kommer denne att bli meddelad senast 30 dagar innan beslutet träder i kraft och kommer att erhålla en förklaring till beslutet. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Finns det några begränsningar för företagsanvändares användning av Tjänsterna?
+ANSWER: Ja, Tradera har rätt att begränsa eller avbryta företagsanvändares användning av Tjänsterna om denne bryter mot Användarvillkoren. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera avsluta en företagsanvändares användning av Tjänsterna utan att meddela om det i förväg?
+ANSWER: Ja, Tradera kan avsluta en företagsanvändares användning av Tjänsterna omedelbart om det finns en rättslig skyldighet som kräver Tradera att avsluta tillhandahållandet av Tjänsten till viss företagsanvändare. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera begränsa tillgången till Tjänsterna för säljare?
+ANSWER: Ja, Tradera kan begränsa en säljares tillgång till Tjänsterna om säljaren bryter mot Användarvillkoren. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka försäljningsprinciper gäller på Tradera?
+ANSWER: Tradera kräver att användare följer deras försäljningsprinciper, som inkluderar att inte sälja förfalskade varor, inte lista fuskauktioner, inte sälja varor utanför Tradera och att ge en noggrann och fullständig produktbeskrivning. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är en fuskauktion på Tradera?
+ANSWER: En fuskauktion innebär att säljaren eller tredje part gör falska bud på varor för att öka priset. Detta är inte tillåtet på Tradera. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan man sälja förfalskade varor på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja förfalskade varor på Tradera och säljare som bryter mot denna regel riskerar att förlora sin användarprofil. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad kan man göra om man upptäcker olämpligt innehåll på Tradera?
+ANSWER: Om man upptäcker olämpligt innehåll på Tradera kan man rapportera det till Tradera genom att använda funktionen "anmäl" på sidan för produkten eller kontakta kundtjänst. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är säljarens ansvar när det gäller produktbeskrivningar på Tradera?
+ANSWER: Säljarens ansvar är att ge en noggrann och fullständig produktbeskrivning, inklusive information om produkternas skick och eventuella skador. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

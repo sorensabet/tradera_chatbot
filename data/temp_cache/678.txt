@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att använda cookies på Traderas webbplats?
+ANSWER: Syftet med att använda cookies på Traderas webbplats är att anpassa innehåll och annonser, ge funktioner för sociala medier och analysera trafiken på webbplatsen. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Går det att stänga av de nödvändiga cookies hos Tradera?
+ANSWER: Nej, de nödvändiga cookies kan inte stängas av eftersom de är avgörande för att Traderas webbplats ska fungera.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad är syftet med de funktionella cookies som används på Tradera?
+ANSWER: Syftet med de funktionella cookies som används på Tradera är att ge utökad funktionalitet och användaranpassning, till exempel genom att spara vissa inställningar eller tillåta inloggning med Facebook.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilken användarupplevelse är syftet med att mäta genom prestandacookies?
+ANSWER: Syftet med prestandacookies är att mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan användare anpassa sina inställningar för cookies på Traderas webbplats?
+ANSWER: Ja, användare kan anpassa sina inställningar för cookies på Traderas webbplats genom att klicka på "Ändra inställningar" bredvid "Godkänn cookies".
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad innebär det att Tradera delar användarinformation med sina partners?
+ANSWER: När användare besöker Traderas webbplats delar Tradera information om deras användning av webbplatsen med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan användare läsa mer om cookies och hur de påverkar Traderas webbplats?
+ANSWER: Ja, genom att klicka på "Läs mer" bredvid "Vad är det här?" kan användare läsa mer om cookies och hur de påverkar Traderas webbplats.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka är de olika typerna av cookies som Tradera använder?
+ANSWER: De olika typerna av cookies som Tradera använder inkluderar nödvändiga cookies, prestandacookies, funktionella cookies och marknadsföringscookies.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka är de olika syftena med de cookies som Tradera använder?
+ANSWER: De olika syftena med de cookies som Tradera använder inkluderar att anpassa innehåll och annonser, ge funktioner för sociala medier, analysera trafik och ge utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka är de cookies som används av Traderas annonseringspartners?
+ANSWER: De cookies som används av Traderas annonseringspartners är marknadsföringscookies som används för att visa riktade annonser som är relevanta för användarna.
+URL: https://info.tradera.com/postnord/

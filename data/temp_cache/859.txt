@@ -1,0 +1,39 @@
+QUESTION: Hur fungerar funktionen för att häva köp på Tradera?
+ANSWER: Funktionen för att häva köp på Tradera innebär att endast säljaren kan starta en förfrågan om att häva köpet. Säljaren kan gå in på sålda listan och leta upp den order eller det objekt vars försäljning ska avbrytas. Det går endast att avbryta samtliga köp i en order, det går alltså inte att ta bort enstaka varor ur en order. Säljaren har möjligheten att välja om köparen ska rapporteras eller inte.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Kan både köparen och säljaren häva en affär på Tradera?
+ANSWER: Endast säljaren kan starta en förfrågan om att häva köpet på Tradera. Köparen kan dock kontakta säljaren och be denne rapportera köparen i fall köparen inte betalat eller om det uppstått andra problem med affären.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Vad är anledningen till att en affär kan hävas på Tradera?
+ANSWER: Säljare och köpare kan komma överens om att häva en affär på Tradera exempelvis om varan gått sönder eller att det uppstod ett missförstånd.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Kan man makulera köp på Tradera även om man inte rapporterar köparen?
+ANSWER: Ja, det går att makulera ett köp där båda parter kommit överens om att häva affären utan att rapportera köparen på Tradera. Endast säljaren kan starta en förfrågan om att häva köpet.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Kan man rapportera köparen om varan inte betalats på Tradera?
+ANSWER: Ja, på Tradera kan man rapportera köparen om denne inte betalat och ni inte kommit överens om att häva köpet. Säljaren kan välja "Rapportera köpare" när de makulerar köpet.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Vad händer om affären hävas på Tradera?
+ANSWER: Om affären hävas på Tradera har säljaren möjligheten att välja om köparen ska rapporteras eller inte. I övrigt så återgår varan till säljaren och köparen får tillbaka pengarna.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Finns det några begränsningar för att avbryta köp på Tradera?
+ANSWER: Ja, på Tradera går det endast att avbryta samtliga köp i en order, det går alltså inte att ta bort enstaka varor ur en order. Endast säljaren kan starta en förfrågan om att häva köpet.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Kan man häva en försäljning på Tradera om man redan betalt för varan?
+ANSWER: Ja, säljare och köpare kan komma överens om att häva en försäljning på Tradera även om köparen redan betalat för varan. Endast säljaren kan starta en förfrågan om att häva köpet.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: Kan man rapportera en köpare på Tradera om varan har skadats under frakt?
+ANSWER: Nej, om varan har skadats under frakt ska ni inte rapportera köparen på Tradera. Istället bör man kontakta fraktbolaget för att få en ersättning.
+URL: https://info.tradera.com/utebliven-forsaljning/
+
+QUESTION: På Tradera kan man rapportera köparen i vissa fall. Vilka fall är det?
+ANSWER: På Tradera kan man rapportera köparen om denne inte betalat och ni inte kommit överens om att häva köpet. Säljaren kan välja "Rapportera köpare" när de makulerar köpet.
+URL: https://info.tradera.com/utebliven-forsaljning/

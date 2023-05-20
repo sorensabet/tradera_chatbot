@@ -1,0 +1,39 @@
+QUESTION 1: What is Tradera Categories?
+ANSWER: Tradera Categories is a section on the Tradera website where users can browse and search for different categories of items for sale.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 2: What is My Overview on Tradera?
+ANSWER: My Overview is a section on the Tradera website that provides users with an overview of their buying and selling activities, as well as any ongoing auctions.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 3: How do I create an ad on Tradera?
+ANSWER: To create an ad on Tradera, users need to log in to their account and click on "Create an Ad" in the top right corner of the screen. They will then be prompted to fill in information about the item they want to sell.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 4: What is the email address to contact Tradera's customer service?
+ANSWER: The email address to contact Tradera's customer service is kundservice@tradera.com. However, this email address should only be used to provide documents when asked to do so by the company, and not for general customer service inquiries.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 5: What type of documents should be provided to verifikation@tradera.com email address?
+ANSWER: Any document related to proof of identity/proof of registration, receipts, or additional pictures to verify the authenticity of an item should be provided to the verifikation@tradera.com email address.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 6: What should be included in the subject field when emailing Tradera to provide a document?
+ANSWER: When emailing Tradera to provide a document, users should include either the listing number or their alias, as well as a brief description of what the issue pertains to, in the subject field of the email.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 7: How can I provide proof of payment to Tradera?
+ANSWER: Users can provide proof of payment to Tradera by emailing a picture of the payment receipt, along with either the listing number or their alias and a brief description of the issue, to the verifikation@tradera.com email address.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 8: What types of technical issues should be reported to Tradera?
+ANSWER: Any technical issues, including error messages, should be reported to Tradera by emailing a picture of the issue, along with either the listing number or their alias and a brief description of the problem, to the kundservice@tradera.com email address.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 9: What should I do if I haven't been asked to provide a document to Tradera?
+ANSWER: If users haven't been asked by Tradera to provide a document, they should not email the company with any attachments or inquiries. The email addresses provided are only for cases where users have been specifically asked to provide a document.
+URL: https://info.tradera.com/en/underlag/
+
+QUESTION 10: Can I contact Tradera's customer service for general inquiries?
+ANSWER: No, users should not contact Tradera's customer service email address (kundservice@tradera.com) for general inquiries. This email address is only for providing documents when asked to do so by the company.
+URL: https://info.tradera.com/en/underlag/

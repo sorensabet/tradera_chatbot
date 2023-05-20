@@ -1,0 +1,39 @@
+QUESTION: Vilka åtaganden måste säljaren uppfylla i förhållande till Traderas köparskydd?
+ANSWER: Säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som köparen har valt att betala genom.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka köp omfattas inte av Traderas köparskydd?
+ANSWER: Vissa typer av köp omfattas aldrig av Traderas köparskydd. Dessa är följande: Köp av fastigheter, köp av fordon, köp av anpassade objekt, köp av objekt som motsvarar kontanter och köp av biljetter till evenemang.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan köparen få rätt till återbetalning om säljaren inte delger Tradera de svar och underlag som Tradera efterfrågar?
+ANSWER: Om säljaren inte delger Tradera de svar och underlag som Tradera efterfrågar kan Tradera komma fram till att köparen ska ha rätt till återbetalning för en vara utan att säljaren har yttrat sig.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om säljaren redan har fått betalt och köparen har rätt till återbetalning?
+ANSWER: Om säljaren redan har fått betalt och köparen har rätt till återbetalning kan Tradera komma att skicka faktura till säljaren på återbetalningsskyldigt belopp, och säljaren är då skyldig att betala detta belopp till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan köparen begära återbetalning om säljaren inte uppfyller sina åtaganden i förhållande till Traderas köparskydd?
+ANSWER: Ja, om säljaren inte uppfyller sina åtaganden i förhållande till Traderas köparskydd kan köparen begära återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka objekt omfattas av Traderas köparskydd?
+ANSWER: Alla objekt som säljs på Tradera omfattas av Traderas köparskydd, förutom de objekt som uttryckligen undantas.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan en köpare begära återbetalning om de inte är nöjda med ett köp?
+ANSWER: Köpare kan inte begära återbetalning på grund av att de inte är nöjda med sitt köp. Återbetalning kan endast begäras om objektet som köpts inte motsvarar beskrivningen eller om säljaren inte kan leverera det sålda objektet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Om köparen betalar med Tradera konto, är köpet sedan omfattat av Traderas köparskydd?
+ANSWER: Ja, oavsett vilket betalsätt som köparen har valt att betala genom, måste säljaren uppfylla sina åtaganden i förhållande till Traderas köparskydd. Köp betalda med Tradera konto omfattas därmed också av Traderas köparskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Gäller Traderas köparskydd för köp av presentkort?
+ANSWER: Nej, köp av objekt som motsvarar kontanter, inklusive presentkort, omfattas inte av Traderas köparskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Om köparen inte får objekten de har köpt, kan de kräva återbetalning?
+ANSWER: Ja, om köparen inte får objekten de har köpt kan de kräva återbetalning, förutsatt att objekten inte är anpassade och mottagaren påstår att objekten inte kommit fram.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

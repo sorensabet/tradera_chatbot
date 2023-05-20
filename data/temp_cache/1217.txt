@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningssätt finns tillgängliga när en köpare köper ett föremål på Tradera?
+ANSWER: När en köpare köper ett föremål på Tradera finns flera betalningssätt tillgängliga. Dessa betalningssätt inkluderar kortbetalning, PayPal, ApplePay och Google Pay. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är de tredje parterna som Tradera samarbetar med för att tillhandahålla betalningssätt till köpare?
+ANSWER: De betalsätt som Tradera tillhandahåller till köpare erbjuds av tredje part med vilka Tradera samarbetar för detta syfte. Dessa betallösningsleverantörer står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Måste köpare godkänna villkoren för det betalningssätt som de väljer att använda?
+ANSWER: Ja, beroende på vilket betalningssätt som köparen väljer kan köparen behöva godkänna de villkor som gäller för det betalningssätt som köparen väljer att använda. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan fler parter tillkomma om Tradera väljer att ändra eller vidareutveckla Traderas kassalösning?
+ANSWER: Ja, fler parter kan tillkomma om Tradera väljer att ändra eller vidareutveckla Traderas kassalösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad måste köpare göra om det uppstår frågor som gäller inbetalning?
+ANSWER: Om det uppstår frågor som gäller inbetalning så bör dessa frågor anges hos den aktuella leverantören av betallösningen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket organ står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarighet?
+ANSWER: Tredje part som tillhandahåller betalningssätt till köpare är de som står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarighet. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan en köpare behöva ingå ett separat avtal med den aktuella leverantören av betallösningen?
+ANSWER: Ja, beroende på vilket betalningssätt köparen väljer kan köparen behöva ingå ett separat avtal med den aktuella leverantören av betallösningen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka villkor måste köpare följa när de betalar för ett föremål på Tradera?
+ANSWER: Köparen måste följa de villkor som gäller för det valda betalsättet och som har förmedlats av tredje part, samt följa Traderas villkor. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Är verktygen för betalning på Tradera samma som på andra plattformar?
+ANSWER: Det är inte klart vilka verktyg Tradera använder för betalning på andra plattformar. Dessa frågor regleras inte i samma utsträckning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur vet köparen vilket betalningssätt som är tillgängligt vid köp på Traderas plattform?
+ANSWER: Genom Traderas kassalösning kan köparen se vilka betalningssätt som finns tillgängliga vid köp på Traderas plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

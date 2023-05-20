@@ -1,0 +1,39 @@
+QUESTION: What is the purpose of collecting Personal Data according to Tradera's Privacy Statement?
+ANSWER: The purpose of collecting Personal Data is to provide users with access to their sites and/or use of their services, provide requested customer service and relevant information about the user's account and their services, and to provide users with a safe, smooth, efficient, and customized experience.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How does Tradera use Personal Data collected from third party social media websites?
+ANSWER: Tradera may collect, use and store information from third party social media websites in accordance with their Privacy Statement, if the user chooses to provide them access to their Personal Data stored on that website and with their consent.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What kind of activities does Tradera prevent, detect, and investigate by using Personal Data?
+ANSWER: By using Personal Data, Tradera prevents, detects, and investigates fraud, security breaches, potentially prohibited or illegal activities, and enforces their User Agreement.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: When may Tradera contact a user via email or telephone?
+ANSWER: Tradera may contact a user via email or telephone to resolve disputes, collect fees, troubleshoot problems with the user's account or their sites, services, applications or tools, or for other purposes authorized by law.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Can Tradera use Personal Data collected from social media websites for marketing purposes?
+ANSWER: Yes, Tradera can use Personal Data collected from social media websites for marketing purposes if the user consents to it. They may deliver marketing materials about Tradera products and online services and the products and services of unaffiliated businesses.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How does Tradera use Personal Data and other information collected to provide a targeted display, feature or offer to users?
+ANSWER: Tradera uses Personal Data and other information collected to provide a targeted display, feature, or offer to users on third-party websites. They may use it to tailor certain services or site experiences to better match their understanding of the user's interests and provide personalized services offered by Tradera on third-party websites and online services.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: Is the user's Personal Data verified with third parties?
+ANSWER: Yes, Tradera may compare information for accuracy and verify it with third parties to provide a safe, smooth, and efficient experience to the user.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: How does Tradera use Personal Data to customize, measure and improve their services, content, and advertising?
+ANSWER: Tradera may use Personal Data to customize, measure and improve their services, content, and advertising by tailoring certain Services or Site experiences to better match their understanding of the user's interests, and to provide a safe, smooth, efficient, and customized experience to the user.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What happens when a user associates their account managed by a third party with their Tradera account and authorizes Tradera to have access to their information?
+ANSWER: When a user associates their account managed by a third party with their Tradera account and authorizes Tradera to have access to their information, Tradera may collect, use and store information from these websites in accordance with their Privacy Statement.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION: What does Tradera do with Personal Data they collect?
+ANSWER: Tradera collects Personal Data to provide users with access to their sites and/or use of their services, provide requested customer service and relevant information about the user's account and their services, and to provide users with a safe, smooth, efficient, and customized experience. They may also use Personal Data to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, and to enforce their User Agreement. Furthermore, Tradera may use Personal Data to customize, measure and improve their services, content, and advertising, and to provide a targeted display, feature or offer to users, if the user consents.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

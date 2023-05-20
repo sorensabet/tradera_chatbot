@@ -1,0 +1,39 @@
+QUESTION: What is Tradera?
+ANSWER: Tradera is a Nordic e-commerce company that provides access to a marketplace for users to buy and sell items in various pricing formats and locations. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Who does a user agree to comply with when using Tradera's services?
+ANSWER: When accessing or using Tradera's Services, a user agrees to comply with Tradera's User Agreement, Privacy Policy, and all other policies posted on the site. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is Tradera's payment service and who is it regulated for?
+ANSWER: Tradera has its own payment service regulated in the Terms and Conditions- payments (customers residing in Sweden). For customers abroad and legal persons, the Terms and Conditions- payments (companies and customers residing abroad) apply. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: When is a user required to accept Tradera's terms and conditions for payments?
+ANSWER: Before a user pays for a purchased item or receives a payout for a sold item, the user must accept Tradera's terms and conditions for payments. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the effective date of Tradera's User Agreement?
+ANSWER: Tradera's User Agreement is effective from May 8, 2023. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Who is the entity that a user is contracting with when using Tradera's services?
+ANSWER: When using Tradera's services, a user is contracting with Tradera Marketplace AB. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the scope of Tradera's services?
+ANSWER: Tradera's services include providing access to a marketplace for users to offer, sell, and buy items in various pricing formats and locations. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does Tradera own any of the items offered or sold through the site?
+ANSWER: No, Tradera does not own any of the items offered or sold through the site. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Where can a user find Tradera's policies?
+ANSWER: A user can find Tradera's policies here . 
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Are there different terms and conditions for payments depending on a user's residency?
+ANSWER: Yes, there are different terms and conditions for payments depending on a user's residency. For natural persons residing in Sweden, the Terms and Conditions - payments (customers residing in Sweden) apply, and for customers residing abroad and legal persons, the Terms and Conditions - payments (companies and customers residing abroad) apply. 
+URL: https://info.tradera.com/en/anvandaravtal-eng/

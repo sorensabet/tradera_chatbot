@@ -1,0 +1,39 @@
+QUESTION 1: Vad är cookies?
+ANSWER: Cookies är små textfiler som sparas på din dator när du besöker en webbplats. Cookies hjälper webbplatsen att känna igen din dator och ger dig en bättre användarupplevelse genom att spara inställningar eller ge dig anpassad information.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 2: Vilka typer av cookies använder Tradera?
+ANSWER: Tradera använder fyra typer av cookies: nödvändiga cookies, prestandacookies, funktionella cookies och marknadsföringscookies. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 3: Vad är syftet med nödvändiga cookies på Tradera?
+ANSWER: Nödvändiga cookies används för att Tradera ska fungera. De är viktiga för att webbplatsen ska fungera korrekt och kan inte stängas av.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 4: Varför använder Tradera prestandacookies?
+ANSWER: Prestandacookies används för att anonymt mäta hur Tradera används. Informationen som samlas in anvånds för att förbättra användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 5: Vad är funktionella cookies på Tradera och vad gör de?
+ANSWER: Funktionscookies används för att ge utökade funktioner och föra god användaranpassning på Tradera. Exempel på detta inkluderar sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 6: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att rikta annonser som är relevanta för dig. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 7: Kan jag stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de är viktiga för att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 8: Varför ska jag godkänna cookies på Tradera?
+ANSWER: Genom att godkänna cookies på Tradera kan du dra nytta av anpassade inställningar och förbättrad användarupplevelse. 
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 9: Vilka fördelar kan jag få genom att använda Traderas funktionella cookies?
+ANSWER: Funktionscookies på Tradera ger användare en mer personlig upplevelse genom sparade inställningar och tillgång till funktioner som att logga in med Facebook.
+URL: https://info.tradera.com/da/price-list-personal-account/
+
+QUESTION 10: Kan jag välja vilka cookies som jag vill använda på Tradera?
+ANSWER: Ja, du kan välja vilken typ av cookies du vill använda på Tradera genom att välja inställningar för cookies.
+URL: https://info.tradera.com/da/price-list-personal-account/

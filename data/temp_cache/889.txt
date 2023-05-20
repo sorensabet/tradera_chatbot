@@ -1,0 +1,39 @@
+QUESTION: Vilka belopp kan Tradera dra av innan utbetalning sker till en säljare?
+ANSWER: Tradera kan dra av försäljningskostnader, återbetalningsskyldigt belopp och avgifter som överenskommits mellan säljaren och Tradera enligt separat avtal, innan utbetalning sker till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om säljaren inte har försett Tradera med korrekta betalningsuppgifter?
+ANSWER: Om säljaren inte har försett Tradera med korrekta betalningsuppgifter, kan Tradera inte betala säljaren. I sådant fall kommer Tradera att kontakta säljaren för att begära den utestående informationen. När Tradera väl har fått den information som krävs för att genomföra betalning kommer säljaren som huvudregel att få betalt inom två (2) bankdagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är säljaren skyldig att skicka varan till köparen omedelbart efter att Tradera bekräftat att köparen har erlagt betalning?
+ANSWER: Ja, säljaren är skyldig att omedelbart skicka varan till köparen efter att Tradera bekräftat att köparen har erlagt betalning, enligt vad som beskrivs i mer detalj nedan under beskrivningen av respektive betalsätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Tradera betala ut flera transaktioner som ett sammanslaget belopp till säljaren?
+ANSWER: Ja, Tradera kan se till att utbetalning till säljaren sker som ett sammanslaget belopp som omfattar flera transaktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är syftet med att dra av belopp från säljarens betalning innan utbetalning sker?
+ANSWER: Syftet med att dra av belopp från säljarens betalning innan utbetalning sker är att täcka eventuella försäljningskostnader, återbetalningsskyldigt belopp och avgifter som overenskommits mellan säljaren och Tradera enligt separat avtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är tidsramen för utbetalning till säljaren efter att Tradera har fått korrekta betalningsuppgifter?
+ANSWER: Som huvudregel kommer säljaren att få betalt inom två (2) bankdagar efter att Tradera har fått korrekta betalningsuppgifter från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad innebär en eventuell återbetalningsskyldighet för säljaren?
+ANSWER: En eventuell återbetalningsskyldighet för säljaren innebär att Tradera kan dra av ett belopp från säljarens betalning för att täcka en eventuell återbetalning som säljaren är skyldig att betala till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Tradera genomföra utbetalning till säljaren för en separat transaktion?
+ANSWER: Ja, Tradera kan se till att utbetalning till säljaren sker för en separat transaktion.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Tradera betala ut pengar till säljaren om denne inte har försett Tradera med korrekta betalningsuppgifter?
+ANSWER: Nej, om säljaren inte har försett Tradera med korrekta betalningsuppgifter kan Tradera inte betala ut pengar till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Traderas roll vid utbetalning till säljaren?
+ANSWER: Traderas roll vid utbetalning till säljaren är att se till att utbetalning till säljaren sker, antingen för en separat transaktion eller som ett sammanslaget belopp som omfattar flera transaktioner. Dessutom kan Tradera dra av eventuella belopp som säljaren är skyldig att betala till Tradera innan utbetalning sker.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

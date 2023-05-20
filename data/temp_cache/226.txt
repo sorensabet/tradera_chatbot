@@ -1,0 +1,39 @@
+QUESTION: Vad är det minsta antal dagar som jag behöver ange när jag skapar en auktion?
+ANSWER: Vid skapandet av en auktion behöver du ange minst 3 dagar och högst 14 dagar som varaktighet av annonseringen.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är köp nu-pris?
+ANSWER: Köp nu-pris är ett frivilligt tillval som är kostnadsfritt och möjliggör att du lägger in ett pris som köparen direkt kan köpa produkten för. Köp nu-priset försvinner dock om du får något bud på annonsen.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är reservationspris?
+ANSWER: Reservationspris är ett valfritt tillval som används vid försäljning av dyrare produkter. Reservationspriset innebär att om annonsen är avslutad och högsta budet inte når upp till ditt angivna reservationspris, så räknas inte produkten som såld. Detta tillval har en fast avgift på 40 kronor som debiteras oavsett om annonsen blir såld eller inte.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Kan jag välja ett specifikt klockslag för att avsluta min annons?
+ANSWER: Ja, du har möjlighet att välja sluttid med tillvalsalternativet "Välj sluttid" på Traderas plattform. Om du inte väljer tillvalet kommer annonsen att avslutas vid samma klockslag som den publicerades. Observera att kostnaden för tillvalet debiteras oavsett om annonsen blir såld eller inte.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är automatisk omstart när det gäller annonsering på Tradera?
+ANSWER: Automatisk omstart är ett tillval som gör att din annons publiceras på nytt automatiskt. Observera att kostnader för andra tillval blir debiterade en gång till vid en automatisk omstart och annonser som har omstartats också räknas mot antalet fria uppläggningar som du har per månad.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Hur länge kommer en annons med fast pris att vara aktiv?
+ANSWER: En annons med fast pris kommer att vara aktiv fram till att den blir såld eller efter 30 dagar.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är alternativen för frakt på Tradera?
+ANSWER: Tradera har integrerade fraktlösningar med DHL och efterfrågade alternativ kan väljas av säljaren i samband med uppläggning av produkter till försäljning på plattformen.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad är syftet med att ha en auktion med reservationspris?
+ANSWER: Syftet att ha en auktion med reservationspris är för att sälja dyrare produkter och på så sätt minska risken för att säljaren säljer produkten under dess marknadspris. Detta tillval garanterar också att annonsen inte räknas som såld om högsta budet inte når upp till det angivna reservationspriset.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Vad händer om jag lägger till ett köp nu-pris på min auktion?
+ANSWER: När du lägger till ett köp nu-pris på din auktion så är det möjligt för köparen att köpa produkten omedelbart. Detta tillval tas dock bort om någon lägger ett bud på din annons.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/
+
+QUESTION: Kan jag välja en annan sluttid än klockslaget när min annons publicerades?
+ANSWER: Ja, det är möjligt att välja en annan sluttid än klockslaget när din annons publicerades genom att använda tillvalsområdet "Välj sluttid" på Traderas plattform. Observera dock att kostnaden för denna tjänst debiteras oavsett om din annons säljs eller inte.
+URL: https://info.tradera.com/hur-man-skapar-en-annons/

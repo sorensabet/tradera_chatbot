@@ -1,0 +1,39 @@
+QUESTION: Vilka cookies kan inte stängas av på Tradera?
+ANSWER: Nödvändiga cookies kan inte stängas av på Tradera.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vilken typ av cookies används för att mäta hur Tradera används?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vilken typ av cookies ger utökad funktionalitet och användaranpassning på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vilka cookies används av Traderas annonseringspartners för riktade annonser?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vad är syftet med nödvändiga cookies på Tradera?
+ANSWER: Syftet med nödvändiga cookies på Tradera är att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Hur används prestanda cookies på Tradera?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Varför används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa riktade annonser relevanta för dig.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Ger funktionella cookies utökad funktionalitet på Tradera?
+ANSWER: Ja, funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Varför används cookies på Tradera?
+ANSWER: Cookies används på Tradera för att ge dig en optimal användarupplevelse och för att kunna visa riktade annonser relevant för dig.
+URL: https://info.tradera.com/postnord/my-pack-home-small/

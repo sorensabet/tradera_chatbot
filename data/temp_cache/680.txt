@@ -1,0 +1,41 @@
+the shipping rates for different package sizes on the website. 
+
+QUESTION: How long does it take to deliver a package?
+ANSWER: The delivery time for a package is 2-3 work days, but may take 1-2 more days depending on when the package was sent and where the seller and buyer are located in the country.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: How can I register a reclaim request for a lost or damaged package?
+ANSWER: If your package is lost or damaged in transit, you can register a reclaim request through the link provided on the webpage. This option is available if the delivery time exceeds 30 days. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Are packages sent with Schenker always insured?
+ANSWER: Yes, packages sent with Schenker that are booked through Tradera are always insured against damage or loss. However, this only applies to packages sent within Sweden. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Who is responsible for packaging the parcel to avoid damages?
+ANSWER: The sender is responsible for properly packaging the parcel so that it won't be broken in transit. They need to ensure that the item is packed in such a way that the content or other parcels are not damaged by the package. Sufficient packing material should be used so that the item is immovable, and the package should be able to handle a fall from a table.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: How can I obtain the shipping label?
+ANSWER: For shipments within Sweden, the shipping label will be sent by e-mail, and a QR code or the 8 digit number can be used to print the label at the vendor. For shipments within the EU, the shipping label will also be sent by e-mail, but the QR and 8 digit number only works for shipments within Sweden. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Does sending a package cost more if it weighs more than what I ordered?
+ANSWER: Yes, if the package weighs more than what was ordered, you will be charged for the difference in shipping cost. You will receive an e-mail notification and the charge will be added to your next invoice. Shipping rates for different package sizes can be found on the website. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: What are the delivery days for packages?
+ANSWER: Packages are delivered on all regular work days. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Is there a specific time of day when vendors typically send out packages?
+ANSWER: Different vendors send out packages at different times, so it's best to ask your vendor to know when the parcels are sent each day. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Does adding notes or text to the package regarding fragile items provide extra protection?
+ANSWER: No, notes or text regarding fragile items on the package won't provide extra protection since the parcels are handled by machines during transit. 
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can packages be sent outside of Sweden?
+ANSWER: Yes, packages can be sent within the EU. However, the shipping label process is different than for packages sent within Sweden. 
+URL: https://info.tradera.com/en/dbschenker/

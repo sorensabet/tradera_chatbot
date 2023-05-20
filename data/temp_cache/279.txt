@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med denna Integritetspolicy?
+ANSWER: Syftet med denna Integritetspolicy är att beskriva hur Tradera samlar in, använder, lämnar ut och sparar personuppgifter och hur Tradera säkerställer integriteten hos personuppgifterna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera komma att ändra denna Integritetspolicy?
+ANSWER: Ja, Tradera kan komma att ändra denna Integritetspolicy med 30 dagars varsel för befintliga användare. Eventuella ändringar kommer att publiceras på samma sida där denna Integritetspolicy finns.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Traderas webbplats innehålla länkar till webbplatser från tredjepart?
+ANSWER: Ja, Traderas webbplats kan innehålla länkar till webbplatser från tredjepart. Dessa webbplatser har egna integritetspolicyer och Tradera är inte ansvarig för deras verksamhet, inklusive men inte begränsat till deras informationsrutiner.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad bör användare göra om de skickar information till eller genom en tredjepartswebbplats?
+ANSWER: Användare som skickar information till eller genom en tredjepartswebbplats bör granska integritetspolicyen för webbplatsen innan några personuppgifter skickas till dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vem är personuppgiftsansvarig för Tradera?
+ANSWER: Personuppgiftsansvarig för Tradera är Tradera Sweden AB, beläget på Sankt Eriksgatan 117, 113 43 Stockholm, Sverige.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad innebär det att Tradera är personuppgiftsansvarig?
+ANSWER: Att Tradera är personuppgiftsansvarig innebär att de är ansvariga för behandlingen av dina personuppgifter och för att säkerställa att dina personuppgifter hanteras på ett säkert sätt.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad är ett Användaravtal?
+ANSWER: Ett Användaravtal är ett avtal som användare av Traderas webbplats måste acceptera och följa. Användaravtalet innehåller bland annat regler för hur Traderas webbplats får användas och vad som är tillåtet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad innebär det att samtycka till Integritetspolicyn?
+ANSWER: Att samtycka till Integritetspolicyn innebär att användaren godkänner att Tradera samlar in, använder, lämnar ut och sparar personuppgifter på de sätt som beskrivs i Integritetspolicyn och i Användaravtalet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur säkerställer Tradera att personuppgifter hanteras på ett säkert sätt?
+ANSWER: Tradera säkerställer att personuppgifter hanteras på ett säkert sätt genom att använda tekniska och organisatoriska åtgärder för att skydda personuppgifter från obehörig åtkomst, ändring, spridning och förstöring.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av information samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter såsom namn, adress, e-postadress, telefonnummer, personnummer, betalningsinformation samt teknisk information om användningen av Traderas webbplats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

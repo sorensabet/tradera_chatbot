@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Prestanda cookies?
+ANSWER: Syftet med Prestanda cookies är att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilket syfte har Funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. för att spara vissa inställningar eller att logga in med Facebook.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är syftet med Marknadsföringscookies på Tradera?
+ANSWER: Syftet med Marknadsföringscookies på Tradera är att användas av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att förbättra användarupplevelsen, tillhandahålla utökad funktionalitet och användaranpassning, samt för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan jag använda Tradera utan att tillåta cookies?
+ANSWER: Ja, du kan använda Tradera utan att tillåta cookies, men vissa funktioner och användaranpassningar kanske inte fungerar som de är avsedda.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka typer av cookies används på Tradera?
+ANSWER: De tre typerna av cookies som används på Tradera är Prestanda, Funktionella och Marknadsföring cookies.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur används cookies för att förbättra användarens upplevelse på Tradera?
+ANSWER: Cookies används för att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras, samt för utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka partners använder Marknadsföringscookies för att rikta annonser på Tradera?
+ANSWER: Traderas annonseringspartners använder Marknadsföringscookies för att rikta annonser på Tradera.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur påverkar cookies min personliga integritet när jag använder Tradera?
+ANSWER: Cookies kan användas för att spåra ditt beteende på Tradera och göra det möjligt för annonseringspartners att rikta annonser till dig. Dock används det aldrig för att samla in personlig information som namn eller personnummer.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan man ta bort cookies från Tradera?
+ANSWER: Ja, du kan ta bort cookies från Tradera genom att rensa din webbläsarhistorik.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

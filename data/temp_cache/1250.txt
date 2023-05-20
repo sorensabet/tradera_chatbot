@@ -1,0 +1,39 @@
+QUESTION: Vilka betalsätt har köparskydd på Tradera?
+ANSWER: Klarna, Paynova och PayPal har obligatoriskt köparskydd på Tradera. Swish direkt till säljaren och övriga betalsätt har valfritt köparskydd.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Gäller ångerrätten mellan privatpersoner på Tradera?
+ANSWER: Ångerrätten gäller endast i de fall säljaren är ett företag. Majoriteten av alla köp på Tradera är mellan privatpersoner.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Hur fungerar köparskyddet vid en tvist på Tradera?
+ANSWER: Köparskyddet fungerar som en försäkring om affären går fel. Om det uppstår en tvist kan köparen ansöka om återbetalning av pengarna från PayPal, Klarna eller Paynova, beroende på vilket betalsätt som användes.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Vad händer om jag vinner en tvist men kostnaden för köparskyddet fortfarande finns på min faktura?
+ANSWER: Köparskyddet fungerar som en försäkring och precis som med en vanlig försäkring så kvarstår kostnaden för premien även när man behöver nyttja den.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Kan jag skjuta upp betalning av min faktura under en pågående tvist på Tradera?
+ANSWER: Ja, fakturan skjuts automatiskt upp under en pågående tvist så du behöver inte kontakta Klarna eller Paynova för att skjuta upp betalningsdatumet.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Kan jag bifoga underlag till en dispyt på Tradera på annat sätt än genom Traderas plattform?
+ANSWER: Ja, du kan skicka in underlaget till dispyt@tradera.com. Denna mailadress gäller endast för dig som har en pågående dispyt.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Hur lång tid tar det för en tvist att avgöras på Tradera?
+ANSWER: Det tar vanligtvis mellan 10-14 dagar innan en tvist är avgjord.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Vilka betalningsmetoder har obligatoriskt köparskydd på Tradera?
+ANSWER: Klarna, Paynova och PayPal har obligatoriskt köparskydd på Tradera.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Gäller köparskyddet på Tradera för alla betalningsmetoder?
+ANSWER: Nej, köparskyddet är obligatoriskt för Klarna, Paynova och PayPal men är valfritt för övriga betalningsmetoder.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Kan jag använda köparskyddet på Tradera om jag betalat genom Swish direkt till säljaren?
+ANSWER: Nej, det går inte att teckna köparskydd om man betalat genom Swish direkt till säljaren.
+URL: https://info.tradera.com/tvist-kopare/

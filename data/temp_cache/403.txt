@@ -1,0 +1,39 @@
+QUESTION: Vad är cookies och varför behövs de på Tradera?
+ANSWER: Cookies är små textfiler som lagras i din webbläsare och används för att tradera ska fungera ordentligt. De är nödvändiga för Tradera att fungera, eftersom vissa funktioner inte kan fungera utan cookies.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan jag stänga av Traderas nödvändiga cookies?
+ANSWER: Nej, Traderas nödvändiga cookies kan inte stängas av eftersom de krävs för att Tradera ska fungera korrekt.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Vilken typ av information samlar Tradera in med hjälp av prestandacookies?
+ANSWER: Tradera använder prestandacookies för att samla in anonym information om hur användare använder Tradera, inklusive vilka sidor som besöks och hur länge de stannar på varje sida. Informationen används för att förbättra användarupplevelsen på Tradera.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan jag använda Tradera utan funktionscookies?
+ANSWER: Vissa funktioner på Tradera kan fungera utan funktionscookies, men utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook, kräver funktionscookies.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Varför använder Tradera marknadsföringscookies?
+ANSWER: Tradera använder marknadsföringscookies för att göra reklam mer relevant för användare genom att samla in information om användares beteende på Tradera och andra webbplatser. Dessa cookies används av Traderas annonseringspartners för att rikta in annonser som är relevanta för användare.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan jag välja bort att ha min information samlat av Traderas annonseringspartners?
+ANSWER: Ja, du kan använda inställningarna för cookies för att välja bort att ha din information samlat av Traderas annonseringspartners för riktade annonser.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan Tradera dela mina personuppgifter med tredje part?
+ANSWER: Ja, Tradera kan dela dina personuppgifter med tredje part, men endast om det är nödvändigt för att uppfylla Traderas förpliktelser gentemot dig eller om det krävs enligt lag.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Vilka säkerhetsåtgärder har Tradera vidtagit för att skydda mina personuppgifter?
+ANSWER: Tradera vidtar en rad säkerhetsåtgärder för att skydda dina personuppgifter, inklusive kryptering av känslig information och begränsad åtkomst till personuppgifter.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Vad händer om jag bryter mot Traderas användarvillkor?
+ANSWER: Om du bryter mot Traderas användarvillkor kan ditt konto avslutas eller begränsas på olika sätt, beroende på allvaret i överträdelsen.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan jag använda bilder som inte är mina i min Tradera-annons?
+ANSWER: Nej, du får inte använda bilder som inte är dina i din Tradera-annons. Detta kan utgöra en överträdelse av upphovsrätt.
+URL: https://info.tradera.com/da/rules-at-tradera/

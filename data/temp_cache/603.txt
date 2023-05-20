@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av cookies används av Tradera?
+ANSWER: Tradera använder olika typer av cookies såsom nödvändiga, prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Varför behöver Tradera använda cookies?
+ANSWER: Tradera använder cookies för att förbättra användarupplevelsen, tillhandahålla utökad funktionalitet, anpassning och riktade annonser.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Kan jag stänga av cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av då de krävs för att Tradera ska fungera. Däremot kan användare välja att begränsa användningen av andra cookies.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Vilken typ av information mäts av prestandacookies?
+ANSWER: Prestandacookies mäter anonymt hur Tradera används för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Vad är funktionella cookies?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Kan jag hindra marknadsföringscookies från att spåra mig på Tradera?
+ANSWER: Ja, användare kan välja att blockera eller begränsa användningen av marknadsföringscookies på Tradera.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Vad används marknadsföringscookies för på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att leverera riktade annonser till användare.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Vilken typ av annonser levereras med hjälp av marknadsföringscookies på Tradera?
+ANSWER: Annonser som är relevanta för användare levereras genom användning av marknadsföringscookies på Tradera.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Kan jag använda Facebook-inloggning på Tradera med hjälp av funktionella cookies?
+ANSWER: Ja, användare kan använda funktionella cookies för att logga in på Tradera med Facebook.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Vad händer om jag begränsar användningen av cookies på Tradera?
+ANSWER: Om användare begränsar användningen av cookies på Tradera kan det påverka funktionaliteten och användarupplevelsen på plattformen.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/

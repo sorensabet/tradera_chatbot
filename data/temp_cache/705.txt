@@ -1,0 +1,39 @@
+QUESTION: Hvad er minimumsprisen for varer i "Butikker med mindstepriser"?
+ANSWER: Minimumsprisen for varer i "Butikker med mindstepriser" på Tradera er 31 SEK eller mere.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvor lang opsigelsestid har man hvis man vil lukke sin butik på Tradera?
+ANSWER: Der er en måneds opsigelsestid, hvis man vil lukke sin butik på Tradera.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvor kan man finde Traderas butiksaftale?
+ANSWER: Man kan finde Traderas butiksaftale på Traderas hjemmeside, men den er på svensk og vil snart blive oversat.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er forskellen på en auktionsannonce og en annonce med fast pris?
+ANSWER: Forskellen på en auktionsannonce og en annonce med fast pris er, at man kan byde på varen i en auktionsannonce, mens det ikke er muligt at byde på varen i en annonce med fast pris.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad er den laveste tid, man kan have en auktionsannonce aktiv på Tradera?
+ANSWER: Den laveste tid, man kan have en auktionsannonce aktiv på Tradera, er 3 dage.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvordan fungerer det at tilføje varer til en annonce?
+ANSWER: Man kan kun tilføje en vare til en annonce, uanset hvor mange man har på lager. Dette gælder både for en auktionsannonce og en annonce med fast pris.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvornår bliver en annonce med fast pris aktiv?
+ANSWER: Annoncen med fast pris bliver synlig på Tradera, når du klikker på "Publicér". Den vil altid være aktiv i 30 dage.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvor mange dage kan man højest have en auktionsannonce aktiv på Tradera?
+ANSWER: Man kan højest have en auktionsannonce aktiv på Tradera i 14 dage.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvem kan publicere en butiksannonce på Tradera?
+ANSWER: Kun personer med et butiksabonnement på Tradera kan publicere en butiksannonce.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Hvad sker der, når nogen køber en vare fra en annonce med fast pris?
+ANSWER: Når nogen køber en vare fra en annonce med fast pris på Tradera, forsvinder annoncen fra hjemmesiden.
+URL: https://info.tradera.com/da/virksomhedskonto/

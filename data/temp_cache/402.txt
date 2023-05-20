@@ -1,0 +1,39 @@
+QUESTION: Hvilke varer er forbudt å annonsere på Tradera?
+ANSWER: Det er forbudt å annonsere for pornografisk materiale, våpen og våpenrelaterte varer, uniformer og sikkerhetsrelaterte varer, forbudte annonser, tjenester og gavekort og annonser uten noen vare til salgs.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Er det tillatt å selge produkter som har fritt fall på Tradera?
+ANSWER: Ja, det er tillatt å selge produkter som har fritt fall på Tradera.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Hva er forekomsten vedrørende identiske annonser på Tradera?
+ANSWER: Du kan ha maksimalt fem identiske annonser på Tradera.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Er det tillatt å tilby salg eller kjøp utenfor Tradera?
+ANSWER: Det er ikke tillatt å tilby salg eller kjøp utenfor Tradera.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan man selge produkter utenfor Sverige på Tradera?
+ANSWER: Ja, man kan selge produkter utenfor Sverige på Tradera.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Hvordan fungerer fragt- og forsendelsesgebyr på Tradera?
+ANSWER: Fragt- og forsendelsesgebyr er inkludert i prisen som er angitt på salgsannonsen.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Er bud bindende på Tradera?
+ANSWER: Ja, bud er bindende på Tradera.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Hvordan fungerer fortrydelsesretten på Tradera?
+ANSWER: Kjøpere har rett til å angre på et kjøp innen 14 dager etter at varen er mottatt. Dette gjelder ikke for auksjoner eller forseglede varer som er brutt.
+URL: https://info.tradera.com/da/rules-at-tradera/
+
+QUESTION: Kan man selge varer på Tradera som privatperson?
+ANSWER: Ja, private selgere kan selge varer på Tradera.
+URL: https://info.tradera.com/da/ja-sa-saljer-du-som-privatperson/
+
+QUESTION: Hva er handelsbetingelsene på Tradera?
+ANSWER: Handelsbetingelsene på Tradera kan finnes under kategorien "Sikkerhet" på Traderas nettside.
+URL: https://info.tradera.com/da/sikkerhet/

@@ -1,0 +1,39 @@
+QUESTION: Vad är restriktionerna för att sälja FM-sändare på Tradera?
+ANSWER: Restriktionerna för att sälja FM-sändare på Tradera är att de måste sända på frekvensbandet 87,5 – 108 MHz och ha en sändareffekt som uppgår till högst 50 nW.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Vilka USB-minnen och minneskort är tillåtna att sälja på Tradera?
+ANSWER: Alla USB-minnen och minneskort är tillåtna att sälja på Tradera, under förutsättning att deras kapacitetsmärkningar framgår och är korrekta.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Får jag sälja mobiltelefoner och surfplattor på Tradera?
+ANSWER: Ja, du får sälja mobiltelefoner och surfplattor på Tradera så länge de inte är iCloudlåsta/Googlelåsta.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Är det tillåtet att sälja personsökare på Tradera?
+ANSWER: Ja, det är tillåtet att sälja personsökare på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Vilka enheter för spel är inte tillåtna att sälja på Tradera?
+ANSWER: Chippade spelkonsoler, modifierade patchar och maskinvara som modifierats för att kunna spela säkerhetskopior är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Är det tillåtet att sälja Game Enhancer-enheter på Tradera?
+ANSWER: Ja, Game Enhancer-enheter är tillåtna att sälja på Tradera, men de måste vara avsedda för att spela importerade TV-spel och ha restriktioner.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Vilka restriktioner gäller för annonser med laserpekare på Tradera?
+ANSWER: Annonser med laserpekare på Tradera måste alltid innehålla uppgifter om laserpekarens styrka/uteffekt och laserklass. Laserpekarens uteffekt bör vara mindre än 1mW.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Får jag sälja modifierade patchar på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja modifierade patchar på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: Information om vilka varumärken som är populära på Tradera finns inte i texten. Det kan vara en bra idé att besöka startsidan eller söka på webbplatsen för att hitta information om populära varumärken på Tradera.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är "Grön frakt" på Tradera?
+ANSWER: "Grön frakt" är ett alternativ till vanliga fraktmetoder som erbjuds av Tradera. Det möjliggör återvinning av förpackningsmaterial och är miljövänligare än andra fraktmetoder.
+URL: https://www.tradera.com/green-shipping

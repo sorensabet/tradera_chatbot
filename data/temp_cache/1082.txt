@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information kan vi få från Prestanda cookies när vi besöker Tradera?
+ANSWER: Prestanda cookies används för att mäta hur Tradera används för anonym statistik och analys, med syftet att förbättra användarupplevelsen samt hemsidans prestanda.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 2: Varför är det nödvändigt att ha Nödvändiga cookies påslagna för att använda Tradera?
+ANSWER: Nödvändiga cookies är de cookies som behövs för att Tradera ska fungera som det ska. De kan inte stängas av och behövs för grundläggande funktioner som att logga in, hantera varukorgar och betalningar.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 3: Vilken typ av cookies används för att förbättra funktionaliteten på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 4: Vad är syftet med Marknadsförings cookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för dig som användare.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 5: Kan jag stänga av Prestanda cookies på Tradera?
+ANSWER: Ja, det är möjligt att välja att inte tillåta Prestanda cookies att lagra på din enhet när du använder Tradera.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 6: Vad händer om jag väljer att inte tillåta Nödvändiga cookies när jag använder Tradera?
+ANSWER: Det är inte möjligt att använda Tradera utan att tillåta Nödvändiga cookies då de är viktiga för grundläggande funktioner på hemsidan.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 7: Vad innebär det att ha inloggning med Facebook som en sparad inställning på Tradera?
+ANSWER: Att ha inloggning med Facebook som en sparad inställning på Tradera betyder att användaren kan logga in på Tradera med hjälp av sitt Facebook-konto utan att behöva ange ytterligare information.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 8: Kan jag välja att inte tillåta funktionella cookies på Tradera?
+ANSWER: Ja, det går att välja att inte tillåta funktionella cookies att lagra på din enhet när du använder Tradera. Dock kan detta begränsa funktionaliteten på hemsidan.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 9: Vad gör Tradera med användarstatistik som samlas in från Prestanda cookies?
+ANSWER: Tradera använder statistiken från Prestanda cookies för att förbättra användarupplevelsen och hemsidans prestanda.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 10: Vilken typ av annonser kan vi förvänta oss att få se på Tradera med hjälp av Marknadsförings cookies?
+ANSWER: Marknadsföringscookies hjälper Tradera att visa relevanta annonser för användaren baserat på deras sökhistorik och annan personlig information.
+URL: https://info.tradera.com/en/purchase-request/

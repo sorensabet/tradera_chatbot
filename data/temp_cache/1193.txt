@@ -1,0 +1,39 @@
+QUESTION: What actions must a seller take to be eligible for Tradera's seller protection?
+ANSWER: To be eligible for Tradera's seller protection, a seller must send the goods to the delivery address approved by Tradera at the time of payment. If the buyer's delivery address changes after purchase, the seller must send the goods to the new address. The seller must also provide proof of shipment for goods that are priced over 200 SEK and shipped with traceability. The seller must describe the goods in the advertisement and send them in an appropriate manner to minimize damage in transit.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What are the prohibited items for sale on Tradera?
+ANSWER: Tradera prohibits the sale of tickets to events such as sports or concerts and the sale of goods and services that are not compliant with Tradera's Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Does Tradera charge any fees for using their payment solution?
+ANSWER: No, Tradera does not charge any start-up, monthly, or annual fees for using their payment solution as long as the seller acts in accordance with the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is the threshold for providing proof of shipment for seller protection on Tradera?
+ANSWER: A seller must provide proof of shipment with traceability for goods priced over 200 SEK to be eligible for seller protection on Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens if a seller does not describe the goods in the advertisement satisfactorily?
+ANSWER: If a seller does not describe the goods in the advertisement satisfactorily, the buyer may not be able to examine the goods and their condition before purchasing. This may lead to disputes and reimbursement claims.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What should a seller do if the buyer's delivery address has changed after the purchase is completed?
+ANSWER: If the buyer's delivery address changes after the purchase is completed, Tradera will notify the seller of this through confirmation email, and the information will also be available in My Tradera. The seller must send the goods to the new address to be eligible for seller protection.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What should a seller do if the buyer claims not to have received the delivery?
+ANSWER: If the buyer claims not to have received the delivery, Tradera will ask the seller for evidence that the item or items were delivered to the carrier. The seller must provide proof of shipment with traceability for goods priced above 200 SEK to be eligible for seller protection on Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How should a seller deliver the goods to the carrier?
+ANSWER: The seller must deliver the goods to the carrier in the same condition as they were described in the advertisement, and they should be packaged and shipped in a way that minimizes the risk of damage to the products.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can a seller sell goods that are prohibited under Tradera's Rules for Sellers?
+ANSWER: No, a seller cannot sell goods and services that are prohibited under Tradera's Rules for Sellers, which includes tickets to events such as sports or concerts and the sale of forbidden goods and services.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is the transaction cost for payments made through Tradera's payment solution?
+ANSWER: The transaction cost for payments made through Tradera's payment solution is zero (0) SEK, as long as the seller acts in according with the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

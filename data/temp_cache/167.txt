@@ -1,0 +1,43 @@
+QUESTION: What are the reasons that can lead to an account being deactivated by Tradera?
+ANSWER: An account can be closed temporarily due to reasons such as unpaid invoices, the member terminating the account, or other similar reasons. If the account is closed permanently because of rule violation, too many negative reviews, or because Tradera can't verify the user, the text is displayed on a red background. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Can Tradera provide information about why an account has been closed?
+ANSWER: No, Tradera cannot provide information about why an account has been closed. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: If an account has been disabled by Tradera, can a member continue their deal with the other user?
+ANSWER: Yes, a member can continue their deal with the other user if they follow Tradera's advice and pay using Paynova or PayPal to get buyer's protection. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: What should a member do if the seller does not go through with the deal after payment?
+ANSWER: If a member does not receive the item they paid for, they can get their money back by using the buyer's protection provided by Paynova or PayPal. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: When is it safe to complete a transaction as a seller?
+ANSWER: If a seller has received payment, it's safe to complete the transaction. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: What are Tradera's business hours for chat support during weekdays and weekends?
+ANSWER: Tradera's business hours for chat support are weekdays from 9:00-19:00 and weekends from 10:00-19:00. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: What are Tradera's business hours for phone support during weekdays and weekends?
+ANSWER: Tradera's business hours for phone support are weekdays from 9:00-18:00 and weekends are closed. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: What are the categories available on Tradera?
+ANSWER: The categories available on Tradera are not mentioned in the given context. 
+URL: https://info.tradera.com/en/
+
+QUESTION: What popular brands can one find on Tradera?
+ANSWER: The popular brands available on Tradera are not mentioned in the given context. 
+URL: https://info.tradera.com/en/
+
+QUESTION: How can one contact Tradera for help and support?
+ANSWER: One can contact Tradera for help and support using the contact information provided on the website. Tradera offers chat and phone support during business hours. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: What is the purpose of cookies used by Tradera?
+ANSWER: The cookies used by Tradera are used to personalize content, advertisements, provide social media features, and analyze traffic. 
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/

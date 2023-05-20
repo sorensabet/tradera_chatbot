@@ -1,0 +1,39 @@
+QUESTION: What is the scope of Tradera's Privacy Statement?
+ANSWER: Tradera's Privacy Statement describes how they collect, use, store, share, and protect your Personal Data. It applies to the Tradera website and all related sites, applications, services, and tools where this Privacy Statement is referenced, regardless of how you access or use them. By accepting the Privacy Statement, you consent to their collection, use, disclosure, and retention of your Personal Data as described in this Privacy Statement and in their User Agreement. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is considered Personal Data in Tradera's Privacy Statement?
+ANSWER: Throughout Tradera's Privacy Statement, the term “Personal Data” is used to describe any information that directly or indirectly may identify a natural person. They do not consider Personal Data to include information that has been made anonymous or aggregated so that it cannot be used, whether in combination with other information or otherwise, to identify a specific natural person.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Does Tradera collect Personal Data from their users?
+ANSWER: Yes, Tradera collects Personal Data from their users. Their Privacy Statement explains how they collect, use, store, share, and protect your Personal Data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is the effective date of Tradera's Privacy Statement?
+ANSWER: Tradera's Privacy Statement is effective for new users immediately and for existing users on 1 December 2021. It supersedes all previous versions. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Can Tradera change their Privacy Statement?
+ANSWER: Yes, Tradera may amend their Privacy Statement by providing existing users with 30 days advance notice. They will post any changes on their website. Additionally, they may notify users via email or other means. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: How does Tradera access and review Personal Data?
+ANSWER: Users can access, review, and change their Personal Data in Tradera's settings. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: How long does Tradera retain Personal Data after a user closes their account?
+ANSWER: Tradera will retain a user's Personal Data for as long as necessary to provide services, comply with legal obligations, resolve disputes, and enforce their agreements. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Does Tradera use Personal Data for marketing purposes? 
+ANSWER: Yes, Tradera may use Personal Data for marketing purposes. However, users can opt-out of their use of Personal Data for marketing by updating their preferences in their account settings. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is Tradera's policy on spam, spyware, and spoofing? 
+ANSWER: Tradera has a strict policy on spam, spyware, and spoofing. Users are prohibited from using their services for these purposes, and Tradera takes steps to ensure compliance with this policy. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Who can users contact for any questions or concerns regarding Tradera's Privacy Statement? 
+ANSWER: Users can contact Tradera's Customer Support for any questions or concerns regarding their Privacy Statement. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

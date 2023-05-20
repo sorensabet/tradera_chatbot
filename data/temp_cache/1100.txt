@@ -1,0 +1,39 @@
+QUESTION: Vad händer om jag inte svarar på en köpförfrågan inom 24 timmar?
+ANSWER: Om du inte svarar på en köpförfrågan inom 24 timmar så löper den ut automatiskt. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vad händer om jag accepterar en av flera köpförfrågningar?
+ANSWER: Om du accepterar en av flera köpförfrågningar så nekas de resterande automatiskt.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Var hittar jag information om mina köpförfrågningar?
+ANSWER: All information som rör köpförfrågningar kommer samlas i meddelandeplattformen. Du får även ett mail eller notis om att du fått en köpförfrågan. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Kan jag ta emot köpförfrågningar om jag som företagssäljare har stängt av meddelanden?
+ANSWER: Nej, du måste ha meddelandefunktionen påslagen för att kunna ta emot köpförfrågningar.
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vilka kategorier finns det på Tradera?
+ANSWER: På Tradera finns det en rad olika kategorier där du kan hitta allt från kläder, hem och trädgård, till biljetter och samlarföremål.
+URL: https://www.tradera.com/categories
+
+QUESTION: Vilka populära varumärken finns tillgängliga på Tradera?
+ANSWER: Det finns många populära varumärken tillgängliga på Tradera. Exempelvis finns det kläder från Filippa K och YSL, elektronik från Apple och Samsung, samt sportutrustning från Adidas och Nike. 
+URL: https://www.tradera.com/popular-brands
+
+QUESTION: Hur kan jag beräkna fraktkostnaden på Tradera?
+ANSWER: På Tradera kan du enkelt beräkna fraktkostnaderna med hjälp av fraktkalkylatorn.
+URL: https://frakt.tradera.com/
+
+QUESTION: Vad kan jag hitta i Traderas butik?
+ANSWER: I Traderas butik hittar du en mängd olika produkter som kan köpas utan att man behöver lägga ett bud. Det kan vara allt från kläder och accessoarer till teknikprylar och inredning. 
+URL: https://www.tradera.com/store
+
+QUESTION: Hur kan man donera med hjälp av Tradera?
+ANSWER: Du kan donera med hjälp av Tradera genom att lägga ut en annons där intäkterna skänks till en valfri organisation eller insamling. 
+URL: https://www.tradera.com/donations
+
+QUESTION: Var kan jag hitta information om Traderas användaravtal?
+ANSWER: Information om Traderas användaravtal finns tillgängligt på deras hemsida.
+URL: https://www.tradera.com/user-agreement

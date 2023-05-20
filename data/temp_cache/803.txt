@@ -1,0 +1,39 @@
+QUESTION: Vilken information finns på sidan Nettoutbetalning?
+ANSWER: På sidan Nettoutbetalning kan du läsa mer om hur utbetalningar fungerar och få information om vad du behöver för att kunna få en utbetalning. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: Det finns olika kategorier på Tradera som du kan välja att söka inom när du söker efter varor att köpa. 
+URL: https://info.tradera.com/salja-pa-tradera/kategorier/
+
+QUESTION: Vilka varumärken är populära på Tradera?
+ANSWER: På Tradera finns det populära varumärken som många handlar från. Du kan hitta mer information om dessa på sidan för populära varumärken. 
+URL: https://info.tradera.com/salja-pa-tradera/populara-varumarken/
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Grön frakt är ett miljövänligt sätt att skicka varor på Tradera. Du kan få mer information om Grön frakt på sidan för Grön frakt. 
+URL: https://info.tradera.com/salja-pa-tradera/gron-frakt/
+
+QUESTION: Vad är fördelarna med att sälja på Tradera som privatperson?
+ANSWER: Som privatperson kan du sälja på Tradera utan att ha ett företag och få tillgång till en stor kundbas och ett enkelt sätt att sälja. 
+URL: https://info.tradera.com/salja-pa-tradera/salj-som-privatperson/
+
+QUESTION: Vad behöver jag för att kunna sälja på Tradera som företag?
+ANSWER: Om du vill sälja på Tradera som företag behöver du bland annat ha ett registrerat företag och en momsregistrering. Du kan hitta mer information om vad som krävs på sidan för att sälja som företag. 
+URL: https://info.tradera.com/salja-pa-tradera/salja-som-foretag/
+
+QUESTION: Hur kan jag beräkna fraktkostnaderna för mina varor?
+ANSWER: Du kan använda fraktkalkylatorn på Traderas webbplats för att beräkna fraktkostnaderna för dina varor. 
+URL: https://www.tradera.com/fraktkalkylator
+
+QUESTION: Vad är Tradera butik?
+ANSWER: Tradera butik är en tjänst på Tradera som låter säljare öppna sin egen butik på plattformen. Du kan läsa mer om detta på sidan för butik. 
+URL: https://info.tradera.com/salja-pa-tradera/butik/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy beskriver hur Tradera samlar in och använder personlig information. Du kan läsa mer om detta på sidan för integritetspolicy. 
+URL: https://info.tradera.com/information/integritetspolicy/
+
+QUESTION: Vilka sociala medier finns Tradera på?
+ANSWER: Du kan hitta information om vilka sociala medier Tradera finns på på sidan för kontakt & hjälp. 
+URL: https://www.tradera.com/help/contact-us

@@ -1,0 +1,39 @@
+QUESTION: Vad är kravet för att leveransen ska ske på ett lämpligt sätt?
+ANSWER: Kravet för att leveransen ska ske på ett lämpligt sätt är att samtliga beställda varor förpackas och skickas på ett sätt som gör att risken för att produkterna skadas minimeras. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kommer det att finnas någon avgift för användning av Traderas kassalösning och utbetalningslösning?
+ANSWER: Transaktionskostnaden för betalningar med Traderas kassalösning och Traderas utbetalningslösning kommer att vara noll (0) kronor och inte heller någon start-, månads- eller årsavgift kommer att behöva erläggas till Tradera för användandet av dessa lösningar, under förutsättning att säljaren agerar i enlighet med Villkoren. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan Tradera fakturera säljaren om denne agerar på ett sådant sätt att Tradera kan återbetala transaktioner till köparen?
+ANSWER: Ja, om säljaren agerar på ett sätt som medför att Tradera kan återbetala transaktioner till köparen i enlighet med Villkoren kan Tradera fakturera säljaren för återbetalningsskyldigt belopp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad innebär det att Tradera förbehåller sig äganderätten till alla immateriella rättigheter?
+ANSWER: Det innebär att Tradera äger alla immateriella rättigheter till allt som utvecklats av Tradera och som säljaren har åtkomst till enligt Villkoren och på Traderas plattform. Säljaren åtar sig även att aldrig använda tecken, logotyper, symboler eller annat som skulle kunna förväxlas med Traderas varumärken. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken åtgärd ska säljaren vidta för att inte använda Traderas varumärken?
+ANSWER: Säljaren åtar sig att aldrig använda tecken, logotyper, symboler eller annat som skulle kunna förväxlas med Traderas varumärken. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket ansvar har säljaren för köparens personuppgifter?
+ANSWER: I enlighet med Personuppgiftslagen är säljaren ansvarig för personuppgifter som denne behandlar, även om uppgifterna lämnas till Tradera för överföring eller lagring. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Är köparen skyddad om säljaren inte levererar varan?
+ANSWER: Ja, köparen är skyddad om säljaren inte levererar varan. Köparen kan då öppna en ärendehanteringstråd via Tradera där denne kan begära att få pengarna tillbaka. 
+URL: https://info.tradera.com/sakerhetscenter/faq-hur-fungerar-betalningarna-pa-tradera/
+
+QUESTION: Är det möjligt att begära betalning i en annan valuta än svenska kronor?
+ANSWER: Nej, det är inte möjligt att begära betalning i en annan valuta än svenska kronor när man använder Traderas kassalösning. 
+URL: https://info.tradera.com/sakerhetscenter/faq-hur-fungerar-betalningarna-pa-tradera/
+
+QUESTION: Kan man använda Traderas kassalösning även när man handlar utomlands?
+ANSWER: Nej, Traderas kassalösning kan endast användas vid köp där både köparen och säljaren är bosatta i Sverige. 
+URL: https://info.tradera.com/sakerhetscenter/faq-hur-fungerar-betalningarna-pa-tradera/
+
+QUESTION: Vilka betalningsalternativ erbjuder Tradera?
+ANSWER: Tradera erbjuder betalning via direktbetalning, betalkort och PayPal. 
+URL: https://info.tradera.com/sakerhetscenter/faq-hur-fungerar-betalningarna-pa-tradera/

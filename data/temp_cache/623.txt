@@ -1,0 +1,39 @@
+QUESTION: Vilket syfte har Nödvändiga cookies på Tradera?
+ANSWER: Nödvändiga cookies används för att Tradera ska fungera som det ska och kan inte stängas av. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vilket syfte har Prestanda cookies på Tradera?
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vilket syfte har Funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vilket syfte har Marknadsföring cookies på Tradera?
+ANSWER: Marknadsföring cookies används av Traderas annonseringspartners för riktade annonser relevanta för dig. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Kan Nödvändiga cookies på Tradera stängas av?
+ANSWER: Nej, Nödvändiga cookies kan inte stängas av eftersom de används för att Tradera ska fungera. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vilket syfte har cookies på Tradera?
+ANSWER: Cookies används på Tradera för olika ändamål, inklusive att göra sidan användarvänlig, samla in statistik och för riktad marknadsföring. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vad är syftet med anonym mätning av hur Tradera används?
+ANSWER: Syftet med anonym mätning av hur Tradera används är att förbättra användarupplevelsen på sidan. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Varför används Funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel för att spara vissa inställningar eller för att logga in med Facebook. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vilka partners använder Tradera för annonsering?
+ANSWER: Tradera använder partners för sociala medier, annonsering och analys. Dessa kan vara olika beroende på annonseringskampanjer och andra faktorer. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION: Vilket syfte har cookies i allmänhet i e-handel?
+ANSWER: Cookies används i allmänhet i e-handel för att göra sidor mer användarvänliga och för att erbjuda riktad marknadsföring för användare. 
+URL: https://info.tradera.com/en/freight-and-shipping-fees/

@@ -1,0 +1,39 @@
+QUESTION: Vad händer med mina personuppgifter när jag begär dataportabilitet?
+ANSWER: När du begär dataportabilitet av dina personuppgifter kommer Tradera att överföra dina uppgifter till dig eller till en annan personuppgiftsansvarig som du väljer, i ett strukturerat, allmänt använt och maskinläsbart format. Din möjlighet att begära överföring eller dataportabilitet av dina personuppgifter är begränsad till sådana uppgifter som du själv har lämnat till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag återkalla mitt samtycke till behandling av mina personuppgifter?
+ANSWER: Ja, du kan när som helst återkalla ditt samtycke till behandling av dina personuppgifter. Detta påverkar dock inte den behandling som redan har skett med stöd av ditt samtycke, men innebär att Tradera inte får fortsätta behandla dina personuppgifter med stöd av ditt samtycke från och med att du återkallar det.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Går det att överföra mina personuppgifter till en annan personuppgiftsansvarig?
+ANSWER: Ja, i vissa fall har du rätt att få ut och överföra dina personuppgifter till en annan personuppgiftsansvarig (dataportabilitet). Din möjlighet att begära överföring eller dataportabilitet av dina personuppgifter är begränsad till sådana uppgifter som du själv har lämnat till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Har jag rätt att få åtkomst till mina personuppgifter?
+ANSWER: Ja, du har rätt att få åtkomst till de personuppgifter som Tradera har om dig. Du kan begära att få information om vilka personuppgifter som behandlas om dig, var de har samlats in, och det syfte för vilket de behandlas.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad händer om jag återkallar mitt samtycke till behandling av mina personuppgifter?
+ANSWER: Om du återkallar ditt samtycke till behandling av dina personuppgifter kommer Tradera inte längre behandla dina personuppgifter med stöd av ditt samtycke från och med att du återkallar det. Dock kommer Tradera att fortsätta behandla dina personuppgifter som sker med stöd av en annan rättslig grund, till exempel rättslig förpliktelse, berättigat intresse och fullgörande av avtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag begära radering av mina personuppgifter?
+ANSWER: Ja, du har rätt att begära radering av dina personuppgifter från Traderas register. Detta gäller dock endast i de fall då Tradera inte längre behöver uppgifterna för ändamålet med vilket de samlades in, eller om du har återkallat ditt samtycke till behandling av uppgifterna och Tradera inte längre har någon annan rättslig grund för att behandla dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera fortsätta behandla mina personuppgifter efter att jag har återkallat mitt samtycke till behandling av dem?
+ANSWER: Ja, Tradera kan fortsätta behandla dina personuppgifter som sker med stöd av en annan rättslig grund, till exempel rättslig förpliktelse, berättigat intresse och fullgörande av avtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilken information kan jag begära om mina personuppgifter?
+ANSWER: Du kan begära information om vilka personuppgifter som behandlas om dig, var de har samlats in, och det syfte för vilket de behandlas.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan jag begränsa behandlingen av mina personuppgifter?
+ANSWER: Ja, du har rätt att begära begränsning av behandlingen av dina personuppgifter. Detta gäller bara under vissa förhållanden, till exempel om du har bestämt att uppgifterna är felaktiga och vill begränsa behandlingen medan uppgifterna korrigeras.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan Tradera behandla mina personuppgifter utan mitt samtycke?
+ANSWER: Ja, Tradera kan behandla dina personuppgifter utan ditt samtycke om det finns en annan rättslig grund för behandlingen, till exempel om det krävs för att fullgöra ett avtal med dig eller om Tradera har en rättslig förpliktelse att behandla uppgifterna.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

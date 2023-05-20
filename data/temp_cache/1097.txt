@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att förbättra användarupplevelsen, mäta hur Tradera används för att kunna göra förbättringar, och för att ge användaren utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan användaren stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de behövs för att Tradera ska fungera.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad är prestanda-cookies på Tradera?
+ANSWER: Prestanda-cookies på Tradera används för att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Varför använder Tradera cookies för marknadsföring?
+ANSWER: Tradera använder cookies för marknadsföring för att deras annonseringspartners ska kunna erbjuda riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning, till exempel en sparad inställning eller inloggning med Facebook.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan användaren välja vilka cookies som ska godkännas på Tradera?
+ANSWER: Ja, användaren kan välja vilka cookies som ska godkännas på Tradera genom inställningarna för cookies.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad händer om användaren inte godkänner Traderas cookies?
+ANSWER: Om användaren inte godkänner Traderas cookies kan vissa delar av Tradera inte fungera som de ska och användarupplevelsen kan påverkas negativt.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vilka partners använder Tradera för sociala medier och analys?
+ANSWER: Tradera samarbetar med olika partners för sociala medier och analys, men det anges inte i det givna stycket vilka dessa partners är.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Är Traderas cookies nödvändiga för att användaren ska kunna köpa och sälja på sajten?
+ANSWER: Nej, Traderas cookies är inte nödvändiga för att användaren ska kunna köpa och sälja på sajten. Däremot behövs nödvändiga cookies för att Tradera ska fungera.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vilken typ av information samlas in med hjälp av cookies på Tradera?
+ANSWER: Med hjälp av cookies på Tradera samlas det in information om hur Tradera används, exempelvis vilka sidor användaren besöker och vilka annonser som visats för användaren.
+URL: https://info.tradera.com/prolister/

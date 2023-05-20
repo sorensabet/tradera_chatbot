@@ -1,0 +1,39 @@
+1. QUESTION: Vilka kriterier används för att välja ut affärer för granskning på Tradera?
+ANSWER: Annonser som uppfyller vissa kriterier kan automatiskt väljas ut för granskning på Tradera. Exempel på parametrar som används är varor med högre risk, högre slutpriser och få eller inga omdömen.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+2. QUESTION: Vad händer när en utbetalning granskas på Tradera?
+ANSWER: När en utbetalning granskas på Tradera får säljaren och köparen ett meddelande genom sajten där de informeras om granskningen. Som säljare är det viktigt att svara på meddelandet och inkomma med den efterfrågade informationen som t.ex. ett spårningsnummer eller en bekräftelse på att varan har överlämnats till köparen. När Tradera kan bekräfta att allt står rätt till i affären påbörjas utbetalningen till säljaren.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+3. QUESTION: Vad händer om en köpare redan har betalat för en vara som sedan hamnar under granskning på Tradera?
+ANSWER: Om en vara hamnar under granskning på Tradera och köparen redan har betalat för den kommer utbetalningen till säljaren att stoppas tills granskningen är över. Det är viktigt för köparen att svara på meddelandet och meddela Tradera när varan har mottagits för att underlätta granskningen.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+4. QUESTION: Vad händer om säljaren inte svarar på meddelandet vid en granskning på Tradera?
+ANSWER: Om en säljare inte svarar på meddelandet vid en granskning på Tradera kan det ta längre tid att godkänna utbetalningen. Det är därför viktigt att svara på meddelandet och inkomma med den efterfrågade informationen för att underlätta granskningen och snabba på utbetalningen.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+5. QUESTION: Kan en köpare lämna ett omdöme under en pågående granskning på Tradera?
+ANSWER: Ja, en köpare kan lämna ett omdöme under en pågående granskning på Tradera. Det är dock viktigt att köparen meddelar Tradera när varan har mottagits och svarar på meddelandet för att underlätta granskningen och snabba på utbetalningen.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+6. QUESTION: Vad är ett spårningsnummer och varför kan det behövas vid en granskning på Tradera?
+ANSWER: Ett spårningsnummer är ett unikt nummer som används för att spåra en vara under transporten från säljaren till köparen. Det kan behövas vid en granskning på Tradera för att styrka att varan har skickats och för att underlätta granskningen av affären.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+7. QUESTION: Kan en säljare begära en omtolkning av en granskning på Tradera?
+ANSWER: Ja, en säljare kan begära en omtolkning av en granskning på Tradera. Om säljaren anser att beslutet som fattats inte är korrekt kan en omtolkning begäras genom att kontakta Traderas kundtjänst.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+8. QUESTION: Kommer köparen att få tillbaka pengarna om affären inte godkänns vid granskning på Tradera?
+ANSWER: Ja, om affären inte godkänns vid granskning på Tradera kommer köparen att få tillbaka pengarna. Det är därför viktigt att säljaren svarar på meddelandet och inkommer med den efterfrågade informationen för att underlätta granskningen och snabba på utbetalningen.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+9. QUESTION: Kan en säljare skicka en vara innan köparen har betalat på Tradera?
+ANSWER: Nej, en säljare ska inte skicka en vara innan köparen har betalat på Tradera. Detta för att undvika bedrägerier och säkerställa att både säljare och köpare är skyddade under affären.
+URL: https://info.tradera.com/granskning-av-utbetalning/
+
+10. QUESTION: Kan en köpare avbryta en affär efter att den har slutförts på Tradera?
+ANSWER: Nej, en köpare kan inte avbryta en affär efter att den har slutförts på Tradera. Köparen har däremot möjlighet att reklamera varan eller kontakta säljaren vid problem.
+URL: https://info.tradera.com/granskning-av-utbetalning/

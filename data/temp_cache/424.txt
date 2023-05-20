@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med anonym mätning på Tradera?
+ANSWER: Syftet med anonym mätning på Tradera är att samla in data om hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 2: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera ger utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 3: Vilken typ av annonser visas på Tradera?
+ANSWER: Traderas annonseringspartners använder marknadsföringscookies för att visa riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 4: Vad är syftet med annonsering på Tradera?
+ANSWER: Syftet med annonsering på Tradera är att marknadsföra produkter för användarna och ge annonsörer möjlighet att nå ut till sin målgrupp.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 5: Vad händer om jag raderar mina cookies på Tradera?
+ANSWER: Om du raderar dina cookies på Tradera kommer alla dina inställningar att försvinna och du kommer behöva logga in igen.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 6: Kan jag stänga av användandet av cookies på Tradera?
+ANSWER: Ja, du kan stänga av användandet av cookies på Tradera genom att ändra inställningarna i din webbläsare.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 7: Finns det några risker med användning av cookies på Tradera?
+ANSWER: Riskerna med användning av cookies på Tradera är att din personliga information kan användas av tredje parter för riktad annonsering och spårning.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 8: Kan jag använda Tradera utan att tillåta cookies?
+ANSWER: Ja, du kan använda Tradera utan att tillåta cookies men viss funktionalitet kommer inte att finnas tillgänglig.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 9: Vad är skillnaden mellan funktionella och marknadsföringscookies på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användarspecifika inställningar medan marknadsföringscookies används av annonseringspartners för riktad reklam.
+URL: https://info.tradera.com/da/shill-bidding/
+
+QUESTION 10: Varför är det viktigt med samtycke från användaren för användning av cookies på Tradera?
+ANSWER: Det är viktigt med samtycke från användaren för användning av cookies på Tradera eftersom det handlar om personlig information och integritet. Användaren bör ha kontroll över hur deras information används.
+URL: https://info.tradera.com/da/shill-bidding/

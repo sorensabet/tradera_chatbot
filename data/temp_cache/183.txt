@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med användning av cookies på Tradera?
+ANSWER: Syftet med användning av cookies på Tradera är att göra webbplatsen mer användarvänlig, mäta dess prestanda och göra annonser relevanta för användare. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Kan cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies som används för att webbplatsen ska fungera kan inte stängas av. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Vilket syfte har prestanda-cookies på Tradera?
+ANSWER: Prestanda-cookies används för att anonymt mäta hur Tradera används av användare för att kunna förbättra deras användarupplevelse. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge användare utökad funktionalitet och anpassningar på Tradera, såsom sparade inställningar eller möjligheten att logga in med Facebook. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Vad är marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonspartners för att visa annonser som är relevanta för användarna. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Vilken typ av cookies är nödvändiga för att Tradera ska fungera?
+ANSWER: Nödvändiga cookies som används för att webbplatsen ska fungera kan inte stängas av. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Vilken typ av cookies används för att mäta Traderas prestanda?
+ANSWER: Prestanda-cookies används för att anonymt mäta hur Tradera används av användare för att kunna förbättra deras användarupplevelse. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Varför används funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge användare utökad funktionalitet och anpassningar på Tradera, såsom sparade inställningar eller möjligheten att logga in med Facebook. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Vilken är syftet med marknadsföringscookies på Tradera?
+ANSWER: Syftet med marknadsföringscookies på Tradera är att Traderas annonspartners ska kunna visa annonser som är relevanta för användarna. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Kan användare välja vilka cookies som används på Tradera?
+ANSWER: Ja, användare kan ändra inställningarna för funktionella och marknadsföringscookies på Tradera. Dock kan inte nödvändiga cookies som används för att webbplatsen ska fungera stängas av. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara-2/

@@ -1,0 +1,39 @@
+QUESTION: What should be done in case of a problem with a purchase made with Klarna?
+ANSWER: The first step is to contact the seller. In case no agreement can be reached with the seller, you can start a dispute to use the buyer protection. 
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: Do I need to pay even if I win the dispute after using buyer protection in Klarna?
+ANSWER: Yes, you still have to pay for the buyer protection premium because, it is similar to an insurance policy. 
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: As a seller, what actions should I take to enable my buyers to use Klarna?
+ANSWER: Nothing needs to be done as Klarna is automatically added as a payment option for all Swedish buyers and active listings will automatically have the option to use Klarna. 
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: Is my information shared with Klarna if my customers choose to pay with Klarna?
+ANSWER: Tradera only shares information with Klarna when an item is paid for with Klarna.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: What is the purpose of the cookies used by Tradera?
+ANSWER: The cookies are used to customize the content and advertisements, provide social media features, and analyze the website traffic. The information is also shared with partners for social media, advertising, and analysis purposes.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: What are the popular brands that can be bought on Tradera?
+ANSWER: There is no information given about specific popular brands that can be bought on Tradera, but categories such as fashion, electronics, and home & garden are featured on the website. 
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: Can private sellers use Tradera to sell their products?
+ANSWER: Yes, private sellers can use Tradera to sell their products. 
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: Can businesses sell their products on Tradera?
+ANSWER: Yes, businesses can sell their products on Tradera.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: Where can I find information about shipping costs for my purchase on Tradera?
+ANSWER: Tradera has a shipping calculator feature that can be used to calculate the shipping cost based on the item's weight and delivery destination.
+URL: https://info.tradera.com/en/klarna/
+
+QUESTION: Are there any charity causes supported by Tradera?
+ANSWER: Yes, Tradera supports various charity causes, and information about the charities can be found on the website or by contacting Tradera's customer support team.
+URL: https://info.tradera.com/en/klarna/

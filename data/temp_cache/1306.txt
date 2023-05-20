@@ -1,0 +1,39 @@
+QUESTION: Vad är användarens ansvar enligt Användaravtalet på Tradera?
+ANSWER: Användaren på Tradera är ansvarig för att följa de lagar och regler som gäller för denne i samband med annonsering, försäljning eller köp av föremål på webbplatsen. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera garantera att informationen som användare tillhandahåller är korrekt?
+ANSWER: Nej, Tradera kan inte garantera att informationen som användare tillhandahåller är korrekt. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är den maximala ersättningen som Tradera ansvarar för?
+ANSWER: Vårt ansvar gentemot dig eller tredje man begränsas till det högre av (a) priset för det föremål som sålts på Tradera inklusive den första fraktkostnaden, (b) de avgifter som du har betalt till oss under de tolv månaderna närmast föregående den händelse som orsakade skadan eller (c) SEK 1000. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: När kan Tradera anses ha ett ansvar gentemot användarna enligt Användaravtalet?
+ANSWER: Tradera ansvarar enligt Användaravtalet vid uppsåt eller grov vårdslöshet eller enligt tvingande lag. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad kan hända om Tradera ändrar Användaravtalet?
+ANSWER: Om Tradera ändrar Användaravtalet kan det påverka användares näringsverksamhet eller möjligheter att bedriva näringsverksamhet. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Är användarna själva ansvariga för att deras åtgärder följer lagar och regler?
+ANSWER: Ja, användarna är själva ansvariga för att deras åtgärder på Tradera följer lagar och regler. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan identiteten som användarna angivit på Tradera garanteras vara korrekt?
+ANSWER: Nej, Tradera kan inte garantera att identiteten som användarna angivit på Tradera är korrekt.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera ansvara för att användarens möjligheter att bedriva näringsverksamhet begränsas?
+ANSWER: Ja, Tradera kan ansvara för att användarens möjligheter att bedriva näringsverksamhet begränsas om Användaravtalet eller policys ändras. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Om en användare har betalt avgifter till Tradera, hur påverkar det eventuell ersättning?
+ANSWER: Traderas ersättning vid eventuell skada eller ansvar gentemot användarna baseras delvis på de avgifter som användaren har betalat till Tradera under de tolv närmast föregående månaderna. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera påverka användares näringsverksamhet?
+ANSWER: Ja, Tradera kan påverka användares näringsverksamhet genom att ändra Användaravtalet eller policys på webbplatsen. 
+URL: https://info.tradera.com/anvandaravtal/

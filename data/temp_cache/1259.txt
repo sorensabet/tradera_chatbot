@@ -1,0 +1,39 @@
+QUESTION: Vad händer om mått eller vikt överskrider det befintliga utbudet av fraktprodukter på Tradera?
+ANSWER: Om måtten eller vikten på din vara överskrider det befintliga utbudet av fraktprodukter kommer det att tillkomma en avgift på upp till 250 kr.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vem ansvarar för att välja fraktmetod och viktklass på Tradera?
+ANSWER: Det är säljarens ansvar att välja lämplig fraktmetod och viktklass för produkten.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vad händer om den faktiska fraktavgiften överstiger den angivna fraktavgiften på Tradera?
+ANSWER: Om den faktiska fraktavgiften överstiger den angivna fraktavgiften på Tradera kommer mellanskillnaden att debiteras säljaren i efterhand, t.ex. genom att läggas till på deras nästa faktura från Tradera.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Hur betalar man frakten på Tradera?
+ANSWER: Betalningen av frakten på Tradera ska ske enligt betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Finns det en fraktkalkylator på Traderas hemsida?
+ANSWER: Ja, fraktkalkylatorn finns på Traderas hemsida.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Vilka är Traderas mest populära varumärken?
+ANSWER: Traderas populära varumärken varierar, men de inkluderar ofta kända aktörer inom mode, elektronik och heminredning.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Kan man donera med Tradera?
+ANSWER: Ja, man kan donera med Tradera.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Var kan man hitta mer information om reglerna på Tradera?
+ANSWER: Mer information om reglerna på Tradera finns på webbsidan under "Regler".
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Finns det en FAQ-sektion för PostNord på Traderas hemsida?
+ANSWER: Ja, det finns en FAQ-sektion för PostNord på Traderas hemsida, och länken till den finns på sidan.
+URL: https://info.tradera.com/postnord/my-pack-home-small/
+
+QUESTION: Finns det någon lista över vanliga frågor och svar på Tradera?
+ANSWER: Ja, det finns en lista över vanliga frågor och svar på Tradera, och länken till listan kan hittas under "Vanliga frågor och svar".
+URL: https://info.tradera.com/postnord/my-pack-home-small/

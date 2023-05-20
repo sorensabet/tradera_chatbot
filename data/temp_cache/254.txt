@@ -1,0 +1,39 @@
+QUESTION 1: Vad används informationen från anonym mätning på Tradera till?
+ANSWER: Informationen som samlas in från anonym mätning används för att förbättra användarupplevelsen på Tradera genom att se hur användare använder webbplatsen.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION 2: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies är att ge användare utökad funktionalitet och användaranpassning på Tradera, till exempel att spara vissa inställningar eller att logga in med Facebook.
+URL: https://info.tradera.com/sv/vilka-cookies-anvander-tradera/
+
+QUESTION 3: Vad är marknadsföringscookies och varför används de på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonspartners för riktade annonser som är relevanta för Traderas användare.
+URL: https://info.tradera.com/sv/vilka-cookies-anvander-tradera/
+
+QUESTION 4: Varför behöver jag tillåta cookies för att använda Tradera?
+ANSWER: Tradera använder cookies för att ge dig den bästa möjliga användarupplevelsen på webbplatsen. Tillåta cookies hjälper också Tradera att förbättra webbplatsen genom att samla in information om hur användare använder den.
+URL: https://info.tradera.com/sv/vilka-cookies-anvander-tradera/
+
+QUESTION 5: Kan jag använda Tradera utan att tillåta cookies?
+ANSWER: Ja, du kan använda Tradera utan att tillåta cookies, men vissa funktioner och användarupplevelse kan begränsas.
+URL: https://info.tradera.com/sv/vilka-cookies-anvander-tradera/
+
+QUESTION 6: Hur kan jag ändra mina cookieinställningar på Tradera?
+ANSWER: Du kan ändra dina cookieinställningar på Tradera under fliken "Cookieinställningar" längst ner på webbplatsen.
+URL: https://info.tradera.com/sv/vilka-cookies-anvander-tradera/
+
+QUESTION 7: Vilka personuppgifter samlas in av Tradera?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress och telefonnummer för att kunna genomföra köp, sälja produkter och kommunicera med användare.
+URL: https://info.tradera.com/sv/vilka-personuppgifter-samlar-tradera-in/
+
+QUESTION 8: Hur hanterar Tradera mina personuppgifter?
+ANSWER: Tradera hanterar dina personuppgifter enligt gällande dataskyddslagstiftning och har säkerhetsåtgärder på plats för att skydda dina uppgifter.
+URL: https://info.tradera.com/sv/vilka-personuppgifter-samlar-tradera-in/
+
+QUESTION 9: Hur kan jag avsluta mitt konto på Tradera?
+ANSWER: Du kan avsluta ditt konto på Tradera genom att logga in och gå till inställningar, där du hittar en flik för att avsluta ditt konto.
+URL: https://info.tradera.com/sv/vilka-personuppgifter-samlar-tradera-in/
+
+QUESTION 10: Kan jag sälja produkter på Tradera utan att vara registrerad användare?
+ANSWER: Nej, du måste vara en registrerad användare på Tradera för att kunna sälja produkter på webbplatsen.
+URL: https://info.tradera.com/sv/sa-kommer-du-igang-med-att-salja-pa-tradera/

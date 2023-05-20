@@ -1,0 +1,39 @@
+QUESTION: Vad innebär det att Tradera förbehåller sig äganderätten till alla immateriella rättigheter?
+ANSWER: Det innebär att Tradera äger alla immateriella rättigheter till allt som utvecklats av Tradera och som säljaren har åtkomst till enligt villkoren och på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka åtaganden har säljaren enligt villkoren när det gäller användningen av Traderas varumärken?
+ANSWER: Säljaren åtar sig att aldrig använda tecken, logotyper, symboler eller annat som skulle kunna förväxlas med Traderas varumärken.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Gäller Traderas ordinarie integritetspolicy även för personuppgifter som Tradera hanterar i samband med dessa villkor?
+ANSWER: Ja, Traderas ordinarie integritetspolicy tillämpas även för personuppgifter som Tradera hanterar i samband med dessa villkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur hanteras personuppgifter av PayPal i samband med tjänsten Hyperwallet?
+ANSWER: Personuppgifter kommer hanteras självständigt av PayPal inom ramen för tjänsten Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka åtgärder ansvarar säljaren för som vidtas genom användning av säljarens unika inloggning till Tradera?
+ANSWER: Säljaren ansvarar för alla åtgärder som vidtas genom användning av säljarens unika inloggning till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: När upphör dessa villkor att gälla?
+ANSWER: Dessa villkor upphör att gälla, utan skyldighet för Tradera till återbetalning, för det fall Tradera säger upp Traderas Användaravtal eller förvägrar säljaren att sälja ytterligare varor på Traderas plattform enligt de villkor som framgår av Traderas Användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer med utbetalningarna till säljaren vid upphörande av villkoren?
+ANSWER: Vid upphörande av villkoren har Tradera rätt att innehålla all utbetalning till säljaren till dess att Tradera har verifierat antalet utestående transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka rättigheter har Tradera vid upphörande av villkoren?
+ANSWER: Vid upphörande av villkoren har Tradera rätt att innehålla all utbetalning till säljaren till dess att Tradera har verifierat antalet utestående transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket ansvar har säljaren enligt villkoren?
+ANSWER: Säljaren ansvarar för alla åtgärder som vidtas genom användning av säljarens unika inloggning till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Gäller Traderas användaravtal fortfarande om villkoren sägs upp?
+ANSWER: Om villkoren sägs upp har Traderas användaravtal också upphört att gälla för säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

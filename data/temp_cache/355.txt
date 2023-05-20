@@ -1,0 +1,39 @@
+QUESTION: Hvornår kan ens Tradera-konto blive suspenderet?
+ANSWER: En Tradera-konto kan blive suspenderet, hvis ens brugeraktivitet krænker handelsbetingelserne.
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Hvilke eksempler på forbudt aktivitet er der på Tradera?
+ANSWER: Det er forbudt at vinde en auktion og derefter lade være med at betale samt at byde uden at forstå, at bud er bindende.
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Hvem kan bruge Tradera?
+ANSWER: Alle kan bruge Tradera.
+URL: https://info.tradera.com/da/how-to-buy/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: Man kan byde på auktioner eller købe varer til fast pris på Tradera.
+URL: https://info.tradera.com/da/how-to-buy/
+
+QUESTION: Er det tilladt at fortryde en auktion på Tradera?
+ANSWER: Man kan fortryde en auktion på Tradera, men man skal stadig betale og gennemføre købet.
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Kan man købe varer fra kendte mærker på Tradera?
+ANSWER: Ja, man kan købe varer fra kendte mærker på Tradera.
+URL: https://info.tradera.com/da/popular-brands/
+
+QUESTION: Hvordan kan man sælge på Tradera som privatperson?
+ANSWER: Som privatperson kan man sælge på Tradera ved at oprette en konto og lave en annonce for den vare, man ønsker at sælge.
+URL: https://info.tradera.com/da/how-to-sell-as-a-private-seller/
+
+QUESTION: Kan erhvervssælgere også sælge på Tradera?
+ANSWER: Ja, erhvervssælgere kan også sælge på Tradera.
+URL: https://info.tradera.com/da/how-to-sell-as-a-business-seller/
+
+QUESTION: Hvilke typer fragt beregner Tradera?
+ANSWER: Tradera beregner forskellige typer af fragt afhængigt af varens størrelse og vægt.
+URL: https://info.tradera.com/da/postage-calculator/
+
+QUESTION: Har Tradera en velgørenhedsfunktion?
+ANSWER: Ja, Tradera har en velgørenhedsfunktion, hvor man kan donere en andel af salgsprisen til en velgørende organisation.
+URL: https://info.tradera.com/da/my-charity/

@@ -1,0 +1,39 @@
+QUESTION: What is the legal basis for Tradera to process Personal Data?
+ANSWER: The legal basis for Tradera to process Personal Data is based on legal obligations, fulfillment of contract and consent.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Why does Tradera need to process Personal Data for customer awareness and reporting?
+ANSWER: Tradera processes Personal Data to fulfill its obligation regarding customer awareness, risk assessment and reporting obligations.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How does Tradera identify reportable sellers?
+ANSWER: Tradera identifies reportable sellers by compiling information on sales compensation and comparing it with existing information and information from third parties to determine and verify reliability. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the purpose of processing Personal Data for payment services?
+ANSWER: The purpose of processing Personal Data for payment services is to provide and enable the users to use such services. 
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Which types of incidents does Tradera aim to prevent through processing of Personal Data?
+ANSWER: Tradera aims to prevent money laundering, fraud, abuse and security incidents through processing of Personal Data.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How long does Tradera manage the user's account for?
+ANSWER: Tradera manages the user's account while it is active and for certain periods thereafter.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the basis for Tradera to process Personal Data for marketing measures?
+ANSWER: The basis for Tradera to process Personal Data for marketing measures is based on the user's consent.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can the user withdraw consent for the processing of Personal Data for marketing purposes?
+ANSWER: Yes, the user can withdraw consent for the processing of Personal Data for marketing purposes at any time by contacting Tradera at privacy@tradera.com.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Does Tradera use cookies and tracking technologies to provide online services?
+ANSWER: Yes, Tradera may use cookies and other tracking technologies to provide online services and may work with third-party companies such as advertising or analytics to provide such services.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the purpose of processing Personal Data for location-specific options?
+ANSWER: The purpose of processing Personal Data for location-specific options is to provide the user with location-relevant options.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

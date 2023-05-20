@@ -1,0 +1,39 @@
+QUESTION: Vilka uppgifter räknas som personuppgifter enligt Traderas Integritetspolicy?
+ANSWER: Enligt Traderas Integritetspolicy räknas personuppgifter som information som direkt eller indirekt kan identifiera en fysisk person. Det innefattar inte information som anonymiserats eller aggregerats på ett sätt som inte kan användas för att identifiera en specifik person.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är syftet med Traderas Integritetspolicy?
+ANSWER: Syftet med Traderas Integritetspolicy är att beskriva hur de samlar in, använder, sparar, lämnar ut och skyddar personuppgifter för besökare på Traderas webbplats och relaterade webbplatser, applikationer, tjänster och verktyg där det finns en hänvisning till denna Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad innebär det att samtycka till Integritetspolicyn?
+ANSWER: Genom att acceptera Traderas Integritetspolicy samtycker du till att de får samla in, använda, lämna ut och spara dina personuppgifter på de sätt som beskrivs i Integritetspolicyn och i deras Användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan Tradere ändra sin Integritetspolicy?
+ANSWER: Ja, Tradera kan komma att ändra sin Integritetspolicy med 30 dagars varsel för befintliga användare. Tradera kommer att publicera eventuella ändringar på deras Integritetspolicy-sida.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information samlar Tradera in från besökare på deras webbplats?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress, telefonnummer och betalningsinformation från besökare på deras webbplats och relaterade webbplatser, applikationer, tjänster och verktyg där det finns en hänvisning till deras Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur använder Tradera insamlad information från besökare på deras webbplats?
+ANSWER: Tradera använder insamlad information från besökare på deras webbplats för att tillhandahålla sina tjänster, för exempelvis transaktionshantering, leverans av köpta varor eller kravhantering. De kan även använda informationen för att skräddarsy erbjudanden till dig, kommunicera med dig och för att förbättra sin webbplats och tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur länge sparar Tradera personuppgifter för inaktiva användare?
+ANSWER: Tradera sparar personuppgifter för inaktiva användare i upp till 36 månader efter att kontot avslutats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka är användarnas rättigheter i enlighet med Traderas Integritetspolicy?
+ANSWER: Användarna har rätt att få tillgång till, rätta, radera och begränsa behandlingen av sina personuppgifter. De har också rätt att invända mot behandlingen av sina personuppgifter och att få dem överförda till en annan personuppgiftsbehandlare (dataportabilitet).
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information delar Tradera med tredje part?
+ANSWER: Tradera delar personuppgifter med tredje part som tillhandahåller tjänster för dem, exempelvis betalningstjänster eller leveransföretag. De kan också lämna ut personuppgifter om det krävs enligt lag eller för att skydda sina intressen eller användares säkerhet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur kan jag kontakta Tradera angående Integritetspolicyn?
+ANSWER: Du kan kontakta Tradera genom deras kundtjänst eller genom att använda kontaktinformationen som finns på deras Integritetspolicy-sida.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

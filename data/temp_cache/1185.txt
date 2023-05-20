@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's payment solution?
+ANSWER: Tradera's payment solution is a website with various payment solutions that buyers may be offered on Tradera's Platform such as Swish, credit card, PayPal, and other payment methods that Tradera adds in due course. The payment services on Tradera's payment solution are provided by third parties with whom Tradera has a contract.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is meant by "Seller" on Tradera's Platform?
+ANSWER: "Seller" means any natural or legal person selling goods or services on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is meant by "Tradera's Platform"?
+ANSWER: "Tradera's Platform" means the websites, services, and applications that Tradera provides through its website www.tradera.com.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is meant by "Transaction" on Tradera's Platform?
+ANSWER: "Transaction" is a payment for goods or services on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is the "Refundable amount"?
+ANSWER: The "Refundable amount" is the amount that the Seller will refund to Tradera in connection with a refund of an amount already paid to the Seller as a result of a purchase being canceled. The amount is part or all of the Transaction, plus any fees charged to Tradera in connection with the Transaction, including shipping charges for the return of a product, and charges imposed on Tradera for a transaction in relation to its partners such as PayPal, Klarna, Paynova, VISA, or MasterCard.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is "Tradera's User Agreement"?
+ANSWER: "Tradera's User Agreement" means Tradera's prevailing terms and conditions for the use of Tradera's Platform and other services.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is the responsibility of the Seller when using Tradera's payment solution?
+ANSWER: The Seller undertakes to comply with the Terms and Conditions when using Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What does Tradera undertake when using its payment solution?
+ANSWER: Tradera undertakes, subject to the Terms and Conditions, to allow the Seller to be paid through Tradera's payment solution in the event of a sale on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What payment methods are available on Tradera's Payment Solution?
+ANSWER: Buyers may be offered various payment methods on Tradera's Payment Solution, including Swish, credit card, PayPal, and others that Tradera adds in due course.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Who provides the payment services on Tradera's payment solution?
+ANSWER: The payment services on Tradera's payment solution are provided by third parties with whom Tradera has a contract.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

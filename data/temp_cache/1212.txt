@@ -1,0 +1,39 @@
+QUESTION 1: Vad är cookies? 
+ANSWER: Cookies är små textfiler som lagras på din dator eller mobila enhet när du besöker en webbplats.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 2: Varför behöver Tradera cookies för att fungera? 
+ANSWER: Tradera behöver cookies för nödvändig funktionalitet, såsom att upprätthålla en säker och användarvänlig webbsida, hantera sessioner och användarens inställningar.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 3: Kan cookies stängas av? 
+ANSWER: Nej, cookies som är nödvändiga för att Tradera ska fungera kan inte stängas av 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 4: Vilken typ av cookies används för anonym mätning av hur Tradera används? 
+ANSWER: Prestanda cookies används för anonym mätning av hur Tradera används. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 5: Hur kan användarupplevelsen förbättras med hjälp av prestanda cookies? 
+ANSWER: Prestanda cookies används för att anonymt mäta hur Tradera används och för att utveckla och förbättra Traderas tjänster och användarupplevelser. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 6: Vilken typ av cookies används för utökad funktionalitet och användaranpassning på Tradera? 
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, såsom att spara inställningar eller inloggning med Facebook. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 7: Hur används marknadsföringscookies på Tradera? 
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa annonser som är relevanta för användaren. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 8: Kan användare själva välja att använda marknadsföringscookies på Tradera? 
+ANSWER: Ja, användare kan välja att använda marknadsföringscookies på Tradera genom att godkänna Traderas cookiepolicy. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 9: Vilken typ av cookies anses vara nödvändiga för att Tradera ska fungera? 
+ANSWER: Cookies som anses nödvändiga för att Tradera ska fungera inkluderar de som behövs för att hantera sessioner, användarens inställningar och upprätthålla en säker och användarvänlig webbsida. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 10: Var kan man läsa mer om cookies på Tradera? 
+ANSWER: Mer information om cookies på Tradera finns på sidan https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

@@ -1,0 +1,39 @@
+QUESTION: What happens if my listing is removed?
+ANSWER: If your listing is removed, our Safety team noticed that something was violating our policy, or there was insufficient information in the listing than is required in certain policies. We will always send an e-mail about which rule was broken.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: How can I find out why my listing was removed?
+ANSWER: We will always send an e-mail about which rule was broken. However, the examples in the mail are general and might not be the specific reason in your case. We recommend that you check out the rules page for a more detailed explanation.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Why aren't you removing listings that also violate the rule?
+ANSWER: In some cases, we might not have noticed the other listings yet. You can always help us out by clicking the report listing button. We may also have received a receipt for the item for sale or the person behind the listing has shown by clarifications in the description that they are not breaking any rules.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What happens if I break the same rule repeatedly?
+ANSWER: We only suspend accounts when the same rule is broken repeatedly.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What are some common reasons for removed listings?
+ANSWER: Some common reasons for removed listings include selling counterfeit items, selling explosive and flammable items, and not providing enough information in the listing.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What is considered a counterfeit item?
+ANSWER: In most cases, it is prohibited by law to sell copies in Sweden, which includes pirated software, movies, copies of clothing brands, handbags, accessories, and bootlegs.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: How can I verify that an item is authentic?
+ANSWER: We recommend that you submit a picture of either the receipt or the label, as most pictures in the listing aren't enough to verify its authenticity.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Why can't I sell explosive and flammable items on the site?
+ANSWER: Shipping vendors do not allow shipping explosive or flammable items, as they require specific permits and shipping conditions.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Can I still sell matches on the site?
+ANSWER: None of our vendors allow sending matches. If you send a matchbox as a collector's item, make sure to specify that no matches are included.
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Will my account be suspended if my listing is removed?
+ANSWER: Your account will only be suspended if the same rule is broken repeatedly.
+URL: https://info.tradera.com/en/nedstangd-annons/

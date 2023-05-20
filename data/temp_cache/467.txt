@@ -1,0 +1,40 @@
+QUESTION 1: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera deras trafik. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 2: Vad är syftet med att Tradera använder cookies som inte kan stängas av?
+ANSWER: De nödvändiga cookies som inte kan stängas av används för att göra att Traderas webbplats fungerar korrekt.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 3: Vilket syfte har de prestandacookies som Tradera använder? 
+ANSWER: Prestandacookies används för anonym mätning av användningen på Tradera så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 4: Vilket syfte har de funktionella cookies som Tradera använder? 
+ANSWER: Funktionella cookies används av Tradera för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 5: Varför sparar Traderas cookies information? 
+ANSWER: Tradera sparar information om användning av deras webbplats och andra aktiviteter för att anpassa innehåll och annonser. Denna information delas också med Traderas partners för sociala medier, annonsering och analys. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 6: Kan jag stänga av cookies på Tradera? 
+ANSWER: Nödvändiga cookies som används för att webbplatsen ska fungera korrekt kan inte stängas av. Men du kan välja att inte tillåta Tradera att använda marknadsföringscookies. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 7: Vad är syftet med marknadsföringscookies som Tradera använder?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa riktade annonser som är relevanta för användarna. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 8: Använder Tradera cookies för att analysera trafik på deras webbplats? 
+ANSWER: Ja, Tradera använder cookies för att analysera trafik på deras webbplats. Dess syfte är att förbättra användarupplevelsen. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 9: Vad händer om jag inte godkänner användningen av cookies på Tradera? 
+ANSWER: En del av Traderas funktioner kan bli begränsade om du inte tillåter användningen av cookies. Specifikt, så kommer Tradera att begränsa eller blockera funktionen för användaranpassning. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION 10: Vilka parter delar Tradera information med om min användning av deras webbplats? 
+ANSWER: Tradera delar information om din användning av deras webbplats med sociala medier, annonseringspartner och analyspartner. 
+
+URL: https://info.tradera.com/en/postnord/

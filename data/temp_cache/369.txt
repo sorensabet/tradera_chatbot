@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information samlar Tradera in med hjälp av cookies?
+ANSWER: Tradera samlar in information om användarnas aktiviteter på deras webbplats som används för att anpassa innehåll, annonser och för att analysera trafiken. Denna information delas också med partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 2: Kan Traderas cookies stängas av?
+ANSWER: Nej, cookies som är nödvändiga för att Tradera ska fungera kan inte stängas av. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 3: Vad är prestandacookies och vad används de till?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används av användarna för att förbättra deras användarupplevelse.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 4: Vad är funktionella cookies och vad används de till på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 5: Varför använder Tradera cookies för marknadsföring?
+ANSWER: Tradera använder marknadsföringscookies för riktade annonser. Dessa annonser är relevanta för användaren och används av Traderas annonseringspartners.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 6: Vad händer om jag inte accepterar cookies från Tradera?
+ANSWER: Om du inte accepterar cookies från Tradera kan du uppleva begränsningar i funktionaliteten på deras webbplats.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 7: Vad är syftet med cookies för sociala medier på Tradera?
+ANSWER: Cookies för sociala medier används för att tillhandahålla funktioner som möjliggör att dela innehåll från Tradera på sociala medier-plattformar.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 8: Vilka partners delar Tradera information om min användning med?
+ANSWER: Tradera delar information om användares användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 9: Kan jag ändra cookies-inställningarna på Tradera?
+ANSWER: Ja, inställningarna för cookies kan ändras genom att klicka på "Ändra inställningar" på Traderas webbsida.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION 10: Varför läser Tradera av mina cookies?
+ANSWER: Tradera läser av användares cookies för att samla in information om deras aktiviteter på Traderas webbplats, för att förbättra användarupplevelsen och tillhandahålla relevant annonsering.
+URL: https://info.tradera.com/da/samfrakt-saljare/

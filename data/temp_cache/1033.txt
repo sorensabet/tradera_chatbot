@@ -1,0 +1,39 @@
+QUESTION: What information is disclosed by Tradera in case of piracy or unlawful activity?
+ANSWER: In case of piracy or unlawful activity, Tradera will disclose personal information such as name, personal identification number, street address, phone number, email address, and company name, as allowed by applicable laws.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is a Tradera User ID?
+ANSWER: A Tradera User ID is a unique identifier assigned to each user and it is displayed throughout Tradera. All of a user's Tradera activity is connected to their User ID, including bids, purchases, items for sale, storefronts, feedback, ratings, and associated comments.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What information is associated with a Tradera User ID?
+ANSWER: Other users can see a user's bids, purchases, items for sale, storefronts, feedback, ratings, and associated comments. Any information a user chooses to share in their profile is also visible to other users.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What happens if a user associates their name with their Tradera User ID?
+ANSWER: If a user associates their name with their Tradera User ID, the people to whom they have revealed their name will be able to personally identify their Tradera activities.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What should users do to protect their privacy when sharing personal and financial information on Tradera?
+ANSWER: Tradera encourages users to disclose their privacy practices and respect the privacy of other users. Before entering into a transaction and choosing to share their information, users should evaluate the privacy and security policies of their trading partner to help protect their privacy.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What type of information is visible to other individuals if a user accesses Tradera from a public or shared computer?
+ANSWER: If a user accesses Tradera from a public or shared computer, certain information about them may also be visible to other individuals who use the computer after them.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Does Tradera allow limited access to other users' contact information?
+ANSWER: Yes, to facilitate transactions, Tradera allows only limited access to other users' contact, shipping, and financial information.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What happens in case of a merger or acquisition involving Tradera?
+ANSWER: If Tradera plans to merge with or be acquired by a business entity, the new combined entity is required to follow this Privacy Statement with respect to users' Personal Data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Will users receive prior notification if their Personal Data will be used or disclosed for any purposes not set out in the Privacy Statement?
+ANSWER: Yes, if a user's Personal Data will be used or disclosed for any purposes not set out in the Privacy Statement, they will receive prior notification and Tradera will ask for their consent where applicable.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What should users do to ensure the privacy and security of their information on Tradera?
+ANSWER: Users should regularly review and update their privacy and security settings on Tradera and should not share their login credentials with anyone. They should also use strong passwords and be cautious of phishing attempts.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med denna integritetspolicy?
+ANSWER: Syftet med denna integritetspolicy är att förklara hur Tradera hanterar personuppgifter.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka personuppgifter samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter såsom namn, adress, e-postadress och telefonnummer.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Varför samlar Tradera in personuppgifter?
+ANSWER: Tradera samlar in personuppgifter för att kunna erbjuda sina tjänster och för att förbättra dem.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Säljer Tradera personuppgifter till tredje parter för marknadsföringsändamål?
+ANSWER: Nej, Tradera säljer inte personuppgifter till tredje parter för marknadsföringsändamål utan uttryckligt samtycke.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera använda mina personuppgifter för marknadsföring?
+ANSWER: Ja, Tradera kan använda dina personuppgifter för marknadsföring så länge du har lämnat ditt samtycke.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag få riktad marknadsföring från Tradera?
+ANSWER: Ja, Tradera kan skicka riktad marknadsföring och reklamerbjudanden baserat på dina meddelandepreferenser.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag kontakta Tradera per telefon?
+ANSWER: Ja, Tradera kan kontakta dig på något telefonnummer med användning av automatisk uppringningsmetod eller förinspelade meddelanden eller textmeddelanden (SMS) enligt vad som tillåts av dig och på ett sätt som överensstämmer med tillämpliga regler och för de ändamål som beskrivs i denna Integritetspolicy.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag begära andra tjänster från Tradera som beskrivs när de samlar in min information?
+ANSWER: Ja, Tradera kan tillhandahålla andra tjänster som du begär och som beskrivs när de samlar in din information.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag få push-notifieringar från Tradera?
+ANSWER: Ja, Tradera kan skicka push-notifieringar med anledning av din budgiving eller annan användning av deras appar.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Hur behandlar Tradera mina personuppgifter enligt deras integritetspolicy?
+ANSWER: Tradera behandlar dina personuppgifter enligt gällande lagar och regler för att skydda din integritet.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

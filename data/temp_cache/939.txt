@@ -1,0 +1,39 @@
+QUESTION: Vilka fördelar finns det med att använda PayPal som betalningsmetod på Tradera?
+ANSWER: För säljare erbjuder PayPal flera betalningsmöjligheter utan att behöva skapa extra konton och inga transaktionskostnader tillkommer. Köpare kan också välja att betala med PayPal som betalningsmetod vilket ger köparskydd för alla betalsätt utom Swish direkt till säljaren. Pengarna kommer in på säljarens konto 1-2 bankdagar efter att annonsen är betald. Inga transaktionskostnader för säljaren tillkommer.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Kan man betala på Tradera med faktura? 
+ANSWER: Ja, som köpare kan man betala direkt eller på faktura. Däremot behöver inte säljaren ligga ute med pengarna om köparen väljer att betala på faktura eftersom köparen kan handla på faktura utan att säljaren behöver ligga ute med pengarna.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Vad händer om köparen inte har möjlighet att betala med någon av de tillgängliga betalningsmetoderna?
+ANSWER: Om köparen inte har möjlighet att betala med någon av de tillgängliga betalningsmetoderna är det tyvärr inte möjligt att slutföra köpet. Köparen behöver då välja en annan betalningsmetod som kan utföras på Tradera.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Kan jag få köparskydd på alla betalsätt på Tradera?
+ANSWER: Ja, köparskydd finns tillgängligt på alla betalsätt utom Swish direkt till säljaren. 
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Var hamnar pengarna när köparen har betalat för en vara på Tradera?
+ANSWER: Pengarna kommer in på säljarens konto 1-2 bankdagar efter att annonsen är betald, oavsett hur köparen väljer att betala. 
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Kan man betala direkt på Tradera?
+ANSWER: Ja, som köpare kan man betala direkt eller på faktura. 
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Kan man som säljare sätta upp flera betalningsalternativ för en annons på Tradera?
+ANSWER: Nej, alla annonser kommer ha samma betalningsmöjligheter för köparen utan att säljaren behöver registrera sig på flera olika tjänster. 
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Kan man handla på faktura som köpare på Tradera utan att säljaren behöver ligga ute med pengarna?
+ANSWER: Ja, köpare kan handla på faktura utan att säljaren behöver ligga ute med pengarna.
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Vilka betalningsmetoder finns tillgängliga på Tradera?
+ANSWER: Köpare kan betala direkt eller på faktura. De har också tillgång till klarna, paynova och Swish (direkt till säljaren), samt PayPal som betalningsalternativ. 
+URL: https://info.tradera.com/traderabetalning/
+
+QUESTION: Finns det transaktionskostnader för säljare på Tradera?
+ANSWER: Nej, det tillkommer inga transaktionskostnader för säljare på Tradera oavsett vilken betalningsmetod som valts. 
+URL: https://info.tradera.com/traderabetalning/

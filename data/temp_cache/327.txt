@@ -1,0 +1,40 @@
+QUESTION: What are cookies used for on the Tradera website?
+ANSWER: Cookies on the Tradera website are used to customize content, advertisements, provide social media features, and analyze traffic. Some cookies are necessary for the website to function properly, while others are used for performance, functionality, and marketing purposes.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Can users opt out of cookies on Tradera's website?
+ANSWER: Yes, users can opt out of cookies on Tradera's website by adjusting their browser settings. However, some cookies are necessary for the website to function properly and cannot be turned off.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are web beacons and similar technologies used for on the Tradera website?
+ANSWER: Web beacons and similar technologies on the Tradera website are used to track user behavior, including clicks and page visits, and to gather information about user preferences and interests. This information is used for targeted advertising and to improve the user experience.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Are all cookies on the Tradera website necessary for the website to function properly?
+ANSWER: No, not all cookies on the Tradera website are necessary for the website to function properly. Some cookies are used for performance, functionality, and marketing purposes, and can be turned off by adjusting browser settings.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+
+QUESTION: Can users control which cookies are used on the Tradera website?
+ANSWER: Yes, users can control which cookies are used on the Tradera website by adjusting their browser settings. However, some cookies are necessary for the website to function properly and cannot be turned off.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: How are cookies used for advertising on the Tradera website?
+ANSWER: Cookies on the Tradera website are used to track user behavior and gather information about user preferences and interests, which is then used for targeted advertising. This allows Tradera to show relevant ads to users based on their interests.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What should users do if they have concerns about cookies on the Tradera website?
+ANSWER: If users have concerns about cookies on the Tradera website, they can adjust their browser settings to control which cookies are used. They can also refer to the following websites for more information on how to opt out of targeted advertising: http://www.youronlinechoices.eu, http://www.aboutads.info/choices (in English only), and http://www.networkadvertising.org/choices (in English only).
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are the different types of cookies used on the Tradera website?
+ANSWER: The different types of cookies used on the Tradera website are necessary cookies, performance cookies, functional cookies, and marketing cookies. Necessary cookies are required for the website to function properly, while the other types of cookies are used for various purposes related to user experience and targeting marketing efforts.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: How are cookies used to improve the user experience on the Tradera website?
+ANSWER: Cookies on the Tradera website are used for performance and functionality purposes to improve the user experience. For example, cookies can remember user preferences and settings, and can make it easier for users to log in or navigate the website.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Are cookies used for analytics on the Tradera website?
+ANSWER: Yes, cookies are used for analytics on the Tradera website. Performance cookies and web beacons are used to track user behavior, including clicks and page views, which is then used to improve the website and user experience.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/

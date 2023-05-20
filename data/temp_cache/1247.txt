@@ -1,0 +1,39 @@
+QUESTION: Vad är en tvist på Tradera?
+ANSWER: På Tradera uppstår en tvist när köparen och säljaren inte kan komma överens och hitta en lösning på ett problem med en affär, och köparen har köpskydd. Detta kan leda till att köparen och säljaren hamnar i en tvist, som Tradera kan hjälpa till att lösa.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Hur kan Tradera hjälpa till med en tvist?
+ANSWER: Om köparen och säljaren hamnar i en tvist kan Tradera hjälpa till genom att agera som en mellanhand för båda parter, hjälpa till att fastställa vad som har gått fel och försöka lösa tvisten så snabbt och smidigt som möjligt.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Vilken betalningsmetod kan man använda för att utnyttja köparskyddet?
+ANSWER: För att kunna använda köpskyddet på Tradera måste man ha betalat med ett betalsätt som omfattas av köpskyddet, som Klarna, PayPal eller andra betalsätt med köpskydd.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Hur startar man en tvist på Tradera om man har betalat med Klarna eller PayPal?
+ANSWER: Om du har betalat med Klarna eller PayPal, så startar du tvisten direkt från Klarnas eller PayPals hemsida eller app.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Vad händer om man inte har köpskydd på Tradera?
+ANSWER: Om du inte har köpskydd på Tradera har du ingen möjlighet att starta en tvist, men du kan fortfarande anmäla till Tradera om du inte har mottagit varan eller om det har uppstått andra problem med affären.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Kan man anmäla problem med en köp på Tradera?
+ANSWER: Ja, du kan anmäla problem med köpet till Tradera om du inte har köpskydd. Du kan till exempel göra en anmälan om du inte har mottagit varan, eller om säljaren inte har följt beskrivningen av varan korrekt.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Behöver man ha ett konto för att kunna starta en tvist på Tradera?
+ANSWER: Ja, du behöver vara inloggad på ditt Tradera-konto för att kunna starta en tvist.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Vilka varutyper omfattas inte av köparskyddet på Tradera?
+ANSWER: Det finns vissa varutyper som inte omfattas av köpskyddet på Tradera, till exempel varor som inte kan levereras på grund av begränsningar i frakt, eller digitala varor som inte kan skickas fysiskt.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Hur går man tillväga för att starta en tvist på Tradera?
+ANSWER: För att starta en tvist på Tradera går du till "Mina köp/vunna", leta upp varan, klicka på "Mer" och välj "Anmäl problem med köp". Sedan skriver du in vad som har gått fel i affären.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Kan Tradera hjälpa till med tvister som uppstår från internationella köp?
+ANSWER: Ja, Tradera kan hjälpa till med tvister som uppstår från internationella köp, men det kan ta längre tid eftersom hänsyn måste tas till internationella fraktregler.
+URL: https://info.tradera.com/tvist-kopare/

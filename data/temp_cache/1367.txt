@@ -1,0 +1,39 @@
+QUESTION: Vad är priset för frakt inom EU när man säljer på Tradera?
+ANSWER: Fraktpriset inom EU sätts automatiskt baserat på vikten och mottagarens land. 
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka fraktsätt kan man erbjuda till kunder inom EU på Tradera?
+ANSWER: Man kan erbjuda frakt med antingen Postnord eller DB Schenker inom EU.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad behöver man göra om man vill skicka varor utanför EU på Tradera?
+ANSWER: Om man vill skicka varor utanför EU så behöver man kolla upp fraktpriset och uppdatera det innan köparen betalar och man måste boka frakten direkt från speditörens webbplats.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Har Tradera något system för betalning av köp?
+ANSWER: Ja, Tradera använder sig av Traderabetalning vilket innebär att köparen betalar via Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad händer om man som köpare inte är nöjd med varan man köpt på Tradera?
+ANSWER: Om man som köpare inte är nöjd med varan man köpt på Tradera så har man alltid 14 dagars ångerrätt och står då som köpare för eventuell returfrakt.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur kan man ange Köp- och Leveransvillkor i en annonsbeskrivning på Tradera?
+ANSWER: Man kan använda Traderas exempel på vad man kan skriva i en annonsbeskrivning för Köp- och Leveransvillkor och skriva om det så att det passar ens eget företag. Det är också möjligt att spara villkoren i en annonsmall.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad står det på beskrivningen under varje annons om varan är använd eller oanvänd?
+ANSWER: Det står på beskrivningen under varje annons om varan är oanvänd eller använd.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad ska man göra när man väl mottagit betalningen och bokat frakten på Tradera?
+ANSWER: När man väl mottagit betalningen och bokat frakten är det bara att skriva ut fraktsedeln som vanligt och lämna in hos närmaste ombud.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Kan man lösa betalningen för frakten utanför Tradera om man säljer på Tradera?
+ANSWER: Ja, det är möjligt att lösa betalningen för frakten utanför Tradera om man säljer på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka speditörer kan man använda för frakt utanför EU på Tradera?
+ANSWER: Det framgår inte i texten vilka speditörer som kan användas för frakt utanför EU. 
+URL: https://info.tradera.com/foretag/

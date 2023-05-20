@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information ger Tradera om cookies?
+ANSWER: Tradera ger information om hur de använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Vad händer om jag stänger av nödvändiga cookies på Tradera?
+ANSWER: Nödvändiga cookies kan inte stängas av på Tradera eftersom de är nödvändiga för att webbplatsen ska fungera korrekt.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användarnas användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Varför använder Tradera prestandacookies?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Vilken typ av annonser används på Tradera?
+ANSWER: Traderas annonseringspartners använder riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Kan jag anpassa min användning på Tradera med funktionella cookies?
+ANSWER: Ja, funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar och inloggning med Facebook.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Hur använder Tradera cookies för sociala medier?
+ANSWER: Tradera använder cookies för att tillhandahålla funktioner för sociala medier på deras webbplats, såsom inloggning med Facebook.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Vad händer om jag inte godkänner användningen av cookies på Tradera?
+ANSWER: Om du inte godkänner användningen av cookies på Tradera kan det hända att du inte kan använda vissa funktioner på deras webbplats och att den inte fungerar korrekt.
+URL: https://info.tradera.com/da/wrong-category/
+
+QUESTION: Vilka typer av cookies finns det på Tradera?
+ANSWER: Det finns fyra typer av cookies på Tradera: nödvändiga, prestanda, funktionella och marknadsföringscookies, och varje typ används för olika syften.
+URL: https://info.tradera.com/da/wrong-category/

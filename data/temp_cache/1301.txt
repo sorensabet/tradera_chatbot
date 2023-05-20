@@ -1,0 +1,39 @@
+QUESTION 1: Vad menar Tradera med att CONTEXT blir direkt sökbar via sökord eller kategori förrän efter upp till 24 timmar?
+ANSWER: Tradera informerar användarna om att det kan ta upp till 24 timmar tills deras CONTEXT är sökbar och synlig i sökresultatet av Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 2: Kan en användare vara garanterad att annonserna kommer att vara tillgängliga under en viss tid på Tradera?
+ANSWER: Nej, Tradera ger ingen garanti om annonsernas tillgänglighet under en viss tid. Den tidsperioden annonserna är tillgängliga kan bero på annonsformat, rubrik, budaktivitet, sökord, sluttid, pris och fraktkostnad, värdering och omdömen om säljaren.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 3: Vilka faktorer avgör när en annons kommer upp i sökresultat på Tradera eller internet?
+ANSWER: Faktorer som påverkar när annonser kommer upp i sökresultat på Tradera eller internet inkluderar annonsformat, rubrik, budaktivitet, sökord, sluttid, pris och fraktkostnad, värdering och omdömen om säljaren.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 4: Vilka typer av uppgraderingstjänster kommer endast att synas på vissa av Traderas tjänster?
+ANSWER: Vissa valfria uppgraderingstjänster kommer bara att synas på vissa av Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 5: Kan ett särskilt avtal med tredje man krävas för att använda vissa Tjänster på Tradera?
+ANSWER: Ja, vissa Tjänster på Tradera kan kräva att användaren ingår ett särskilt avtal med tredje man och att det är upp till tredje man att avgöra om användaren får tillgång till sådana tjänster.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 6: Vad ska användaren godkänna när de väljer ett betalningssätt för att sälja och ta emot betalningar på Tradera?
+ANSWER: Användaren behöver godkänna de villkor som gäller för det betalningssätt som de väljer när de annonserar, säljer och tar emot betalning för föremål som de säljer.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 7: Har Tradera rätt att komma överens med tredje man om att innehålla delar av ersättning som köparen ska betala till säljaren?
+ANSWER: Ja, Tradera har rätt att komma överens med tredje man som tillhandahåller betalningslösningar på Tradera att de ska innehålla delar av den ersättning som de ska betala till säljaren från köpare och att de ska använda sådan innehållen betalning för att betala de avgifter som säljaren är skyldig direkt till Tradera. Om det är tillämpligt, har Tradera även rätt att innehålla delar av den ersättning som ska betalas till säljaren från köpare för att betala de avgifter som säljaren är skyldig till Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 8: Finns det några begränsningar kring vilka typer av Tjänster och vilken funktionalitet som Tradera erbjuder?
+ANSWER: Ja, Tradera har begränsningar kring vilka typer av Tjänster och vilken funktionalitet som de erbjuder, men dessa begränsningar specificeras inte i detta CONTEXT.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION 9: Vilka faktorer kan påverka när och om en annons kommer upp i sökresultat på internet?
+ANSWER: Faktorer som kan påverka när och om en annons kommer upp i sökresultat på internet inkluderar annonstext, rubrik, sökord, plats, budaktivitet, annonstyp och betalningsmetoder.
+URL: https://info.tradera.com/anvandsaok/
+
+QUESTION 10: Kan en användare välja att sälja föremål utan att betala avgifter till Tradera?
+ANSWER: Nej, användarna måste betala avgifter till Tradera när de säljer föremål på deras plattform.
+URL: https://info.tradera.com/anvandaravtal/

@@ -1,0 +1,39 @@
+QUESTION 1: What is the purpose of the Terms and Conditions described in the text?
+ANSWER: The Terms and Conditions described in the text apply to buyers and sellers using Tradera's Platform who reside in Sweden, when purchasing or selling goods and services and receiving payment for those goods and services. The purpose of these Terms and Conditions is to outline the terms and conditions for payments made within the platform and to set out the obligations of the Buyers and Sellers. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 2: Who can use the Terms and Conditions - payments (companies and customers residing abroad)?
+ANSWER: The Terms and Conditions - payments (companies and customers residing abroad) apply to customers residing in a country other than Sweden, or to legal persons. If a customer resides in Sweden, they would need to follow the Terms and Conditions for payments described in the text. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 3: Can a buyer pay a seller through any means besides Tradera's checkout solution?
+ANSWER: No, a buyer can only pay for a purchase from a seller on the Tradera platform by using Tradera's checkout solution. This is a mandatory requirement as stipulated in the Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 4: What is the obligation of a buyer as stated in the Terms and Conditions?
+ANSWER: The buyer's obligation is to use Tradera's checkout solution to make payments for the goods and services purchased from a seller on Tradera's Platform. This term is mandatory and is outlined in the Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 5: What types of goods and services are covered by these Terms and Conditions?
+ANSWER: The Terms and Conditions apply to any goods and services purchased or sold on the Tradera Platform. Therefore, a wide variety of goods and services qualifies, and these payments are included in the Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 6: Are there any other terms and conditions that apply?
+ANSWER: Yes, there are other terms and conditions that also apply when using Tradera's Platform. These additional terms and conditions supplement the Terms and Conditions described in the text. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 7: What happens when a buyer pays for a purchase using Tradera's checkout solution?
+ANSWER: When a buyer pays for a purchase using Tradera's checkout solution, the payment goes into Tradera's account, and it will subsequently be transferred to the seller after the transaction has been completed successfully. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 8: Can a seller receive payment for a transaction if the buyer pays outside Tradera's checkout solution?
+ANSWER: No, since the payment must go through Tradera's checkout solution, it is not possible for a seller to get payment for the transaction in any other way. This means that if a buyer pays outside the checkout solution, the seller will not receive payment. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 9: Is it possible for a buyer to cancel a payment made through Tradera's checkout solution?
+ANSWER: No, after a buyer has paid for a purchase using Tradera's checkout solution, it is not possible to cancel the payment. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION 10: What happens if there is a dispute between a buyer and a seller?
+ANSWER: In the event of a dispute between a buyer and a seller, Tradera will step in and process the complaint. If the complaint is found valid, Tradera may compensate the buyer or even withhold payment to the seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

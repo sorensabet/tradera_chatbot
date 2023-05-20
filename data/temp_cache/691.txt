@@ -1,0 +1,39 @@
+QUESTION: Vad är cookies och varför används de på Tradera?
+ANSWER: Cookies är små textfiler som sparas på din dator när du besöker en webbplats. De används på Tradera för att anpassa innehåll och annonser samt för att analysera trafik. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Kan jag stänga av cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de krävs för att Tradera ska fungera korrekt. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Vilket syfte har prestandacookies på Tradera?
+ANSWER: Prestandacookies används för att anonymt mäta hur Tradera används och för att förbättra användarupplevelsen på plattformen. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Vilket syfte tjänar funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att utöka funktionaliteten och användaranpassningen på Tradera, som att spara vissa inställningar eller att logga in med Facebook. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Varför använder Tradera marknadsföringscookies?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa annonser som är mer relevanta för användaren. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Vad händer om jag inte godkänner Traderas cookies?
+ANSWER: Om du inte godkänner Traderas cookies kan du inte använda Traderas plattform eftersom nödvändiga cookies krävs för att plattformen ska fungera korrekt. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Kan Tradera dela min information med andra företag?
+ANSWER: Ja, Tradera kan dela information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Vilka inställningar kan jag ändra för Traderas cookies?
+ANSWER: Du kan ändra inställningarna för funktionella och marknadsföringscookies på Tradera. Nödvändiga cookies kan inte stängas av. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Vad är syftet med att använda cookies för sociala medier på Tradera?
+ANSWER: Cookies för sociala medier på Tradera används för att tillhandahålla funktioner för att dela innehåll eller för att logga in med sociala medier. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/
+
+QUESTION: Var kan jag läsa mer om cookies på Tradera?
+ANSWER: Du kan läsa mer om cookies och deras syfte på Tradera genom att klicka på länken "Läs mer" under "Vad är det här?" på sidan för inställningar för cookies. 
+URL: https://info.tradera.com/en/sa-lyckas-du-med-din-annons/

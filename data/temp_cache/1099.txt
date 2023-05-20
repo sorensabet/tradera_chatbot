@@ -1,0 +1,39 @@
+QUESTION: Hur skickar jag en köpförfrågan via Tradera?
+ANSWER: För att skicka en köpförfrågan via Tradera behöver du klicka på knappen "Skicka köpförfrågan" på den avslutade annonsen, därefter anger du det pris du tror att säljaren accepterar. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Är min köpförfrågan bindande?
+ANSWER: Ja, precis som med bud på Tradera är din köpförfrågan bindande när säljaren väljer att acceptera den. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Hur länge är min köpförfrågan aktiv?
+ANSWER: Din köpförfrågan är aktiv i 24 timmar. Om du inte får något svar inom den tidsperioden så räknas förfrågan som nekad och du är inte längre bunden att fullfölja affären. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vilka annonser kan jag skicka köpförfrågan på?
+ANSWER: Du kan skicka köpförfrågan på avslutade annonser som inte sålts, både auktioner och fastpris-annonser. Det går inte att skicka en köpförfrågan på en butiksannons eftersom dessa endast avslutas om säljaren får slut i lager eller av annan anledning tar bort varan. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Kan jag skicka flera köpförfrågningar på samma objekt?
+ANSWER: Ja, du kan skicka upp till 3 köpförfrågningar per objekt. På så sätt ökar chansen att ni ska komma överens om ett slutpris. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vad händer om min köpförfrågan inte accepteras av säljaren?
+ANSWER: Om din köpförfrågan inte accepteras av säljaren kan du skicka upp till 2 fler köpförfrågningar på samma objekt. Säljaren kan välja att acceptera eller avvisa din förfrågan. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Ingår frakt i köpförfrågan?
+ANSWER: Nej, priset som köparen anger i sin köpförfrågan är exklusive frakt. Som vanligt framgår det vilka fraktalternativ säljaren erbjuder på produktsidan. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Vad händer om säljaren inte besvarar min köpförfrågan?
+ANSWER: Om säljaren inte besvarar din köpförfrågan inom 24 timmar så räknas den automatiskt som nekad och du är inte längre bunden att fullfölja affären. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Hur många köpförfrågningar kan jag skicka som säljare?
+ANSWER: Som säljare behöver du inte svara på köpförfrågningar, utan det är helt upp till dig om du vill acceptera förfrågan eller inte. 
+URL: https://info.tradera.com/kopforfragan/
+
+QUESTION: Kan jag skicka köpförfrågor som säljare?
+ANSWER: Nej, som säljare kan du inte skicka köpförfrågor på egna produkter. Det är upp till köparen att skicka en köpförfrågan om hen är intresserad av produkten. 
+URL: https://info.tradera.com/kopforfragan/

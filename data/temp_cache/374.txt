@@ -1,0 +1,39 @@
+QUESTION: Varför ska jag aldrig klicka på länkar i misstänksamma e-postmeddelanden?
+ANSWER: Du bör aldrig klicka på länkar i e-postmeddelanden som du misstänker kan vara osäkra eller från obehöriga källor eftersom de kan leda dig till phishing-webbplatser eller andra bedrägliga webbplatser som kan stjäla dina uppgifter. Detta nämns i texten där det uppmanas att inte klicka på länkar i e-postmeddelanden som du känner dig osäker på.
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vad ska jag göra om jag misstänker att jag har mottagit ett falskt e-postmeddelande?
+ANSWER: Om du misstänker att du har mottagit ett falskt meddelande från någon som utger sig för att vara från Tradera, eller om du har lämnat ut känslig information till en obehörig person, bör du kontakta Tradera direkt på abuse@tradera.com. Detta nämns i texten där det uppmuntras att kontakta Tradera om du misstänker att du har mottagit en falsk e-post eller lämnat ut känslig information till en obehörig person.
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hur kan jag vara säker på att en inloggningssida är säker?
+ANSWER: För att säkerställa att en inloggningssida är säker, bör du se till att webbadressen börjar med https:// och att domännamnet är rätt. I Traderas fall bör du alltid ange "https://www.tradera.com/da" i din webbläsare för att säkerställa att inloggningssidan är krypterad och därmed säker. Detta nämns i texten där det förklaras hur du kan säkerställa att en inloggningssida är krypterad.
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vilka är de olika avdelningarna på Tradera-webbplatsen för e-handel?
+ANSWER: Några av de olika avdelningarna på Traderas e-handelswebbplats är "Köp", "Sälj", "Fragtberegner", "Butik" och "Kategorier". Dessa sektioner av Traderas webbplats gör det möjligt för användare att genomföra försäljning och köp av olika produkter genom en säker och enkel plattform. Detta anges i texten genom att lista olika sektioner på Traderas webbplats för e-handel. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vad är fragtberäknare?
+ANSWER: Fragtberegner är en avdelning på Traderas webbplats där användarna kan uppskatta kostnaden för leverans av en viss produkt. Detta hjälper användarna att göra en mer välgrundad och informerad beslut om de ska köpa en viss produkt eller inte, beroende på leveranskostnaderna. Detta anges i texten genom att lista "Fragtberegner" som en avsnitt på Traderas webbplats. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vad är skillnaden mellan att sälja som en privatperson och som en professionell säljare på Tradera?
+ANSWER: Skillnaden mellan att sälja som en privatperson och som en professionell säljare på Tradera är att professionella säljare får betala en avgift för att använda Traderas plattform för att sälja sina varor, medan privatpersoner kan sälja varor gratis. Detta anges i texten där det förklaras hur man kan sälja på Traderas plattform som en privatperson eller som en professionell säljare. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vilka populära varumärken finns det tillgängliga på Tradera?
+ANSWER: Det finns flera populära varumärken som finns tillgängliga på Traderas webbplats, inklusive men inte begränsat till Nike, H&M, Levi's, Samsung, Adidas och Apple. Detta anges i texten där det nämner "Populära varemärken" som en avdelning på Tradera-webbplatsen. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Hur kan jag komma i kontakt med Tradera om jag vill sälja något som en företagssäljare?
+ANSWER: Om du vill sälja som en professionell säljare på Tradera, bör du kontakta Traderas försäljningsteam på deras webbplats så att de kan vägleda dig genom processen och hjälpa dig att komma igång. Detta nämns i texten där det förklaras hur man kan "Sälja som en professionell säljare" på Traderas plattform. 
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vilka är de olika sektionerna på Tradera-webbplatsen för hämtning av informationen om säkerhet?
+ANSWER: Några av de olika sektionerna på Traderas webbplats som ger information om säkerhet inkluderar "Säkerhet", "Handelsvillkor", "Vanliga frågor" och "Kontakt oss". Dessa sektioner ger användbara tips och råd om hur man kan skydda sig online när man handlar och säljer på Tradera-webbplatsen. Detta nämns i texten där det förklaras att "Säkerhet" är en av avdelningarna på Traderas webbplats.
+URL: https://info.tradera.com/da/fake-emails/
+
+QUESTION: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av sin webbplats, inklusive cookies, med sina partners för sociala medier, annonsering och analys. Syftet med att dela denna information är att anpassa innehåll, annonser och analysera trafiken på webbplatsen för att förbättra användarupplevelsen. Detta nämns i texten där det förklaras att Tradera använder cookies och delar information med sina partners för sociala medier, annonsering och analys. 
+URL: https://info.tradera.com/da/fake-emails/

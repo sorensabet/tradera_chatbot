@@ -1,0 +1,39 @@
+QUESTION: Hvilken garanti dækkes, når man køber produkter på Tradera?
+ANSWER: Købeloven gælder for reklamationskrav, og kunden har ret til reklamation i tre år, når man køber produkter på Tradera.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvornår skal kunden kræve reklamation, hvis der er defekt på varen?
+ANSWER: Kunden skal kræve reklamation inden for to måneder efter, at defekten blev opdaget.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvad er sælgers ansvar, hvis der er fejl på varen?
+ANSWER: Det er sælgers pligt at udbedre fejlen på varen, og sælgeren skal betale for returforsendelsen, hvis varen sendes tilbage.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvilke foranstaltninger kan en sælger træffe i tilfælde af fejlbehæftet vare?
+ANSWER: En sælger kan rette varens mangler, sende en ny fejlfri vare til kunden, reducere prisen, give kunden kompensation for reparationer eller annullere købet og returnere pengene, for at løse situationen i tilfælde af en fejlbehæftet vare.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Gælder reklamationsretten for private enkeltpersoner, når man køber produkter på Tradera?
+ANSWER: Nej, reklamationsretten gælder ikke for køb mellem private enkeltpersoner på Tradera.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvor kan man finde mere information om reklamationsret?
+ANSWER: For mere information om ens forpligtigelser som erhvervssælger, kan man besøge Konsumentverkets hjemmeside.
+URL: https://info.tradera.com/da/refund-claim/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: For at handle på Tradera, kan man vælge en kategori og et produktnavn, browse gennem resultaterne og klikke på et produkt for at se detaljer. Indtast derefter prisen, og klik på køb. Betal derefter for produktet, og gem kvitteringen for senere brug.
+URL: https://info.tradera.com/da/buy/
+
+QUESTION: Hvordan sælger man som privatperson på Tradera?
+ANSWER: For at sælge som privatperson på Tradera, kan man oprette en konto, tage et billede af produktet, skrive en beskrivelse, fastsætte en pris, og så er man klar til at sælge.
+URL: https://info.tradera.com/da/sell/
+
+QUESTION: Kan man beregne fragtomkostningerne, når man handler på Tradera?
+ANSWER: Ja, man kan bruge fragtkalkulatoren på Tradera til at beregne fragtomkostningerne for ens produkt.
+URL: https://www.tradera.com/freight-calculator
+
+QUESTION: Hvilke populære varemærker kan man finde på Tradera?
+ANSWER: På Tradera kan man finde populære varemærker i kategorier som mode, elektronik, hjem og have med mere.
+URL: https://www.tradera.com/popular-brands

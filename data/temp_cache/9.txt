@@ -1,0 +1,39 @@
+QUESTION: Vilka villkor måste man godkänna när man köper ett föremål på Tradera?
+ANSWER: När man köper ett föremål på Tradera måste man godkänna villkoren för betalningssättet man använder och fraktalternativet man valt. Dessutom accepterar man villkoren för köpet av föremålet och lägger därmed det vinnande budet.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Är det lagligt att sälja varor till andra länder på Tradera?
+ANSWER: Ja, det är lagligt att sälja vissa varor till andra länder på Tradera, men säljare och köpare ansvarar själva för att följa alla lagar och regler som gäller för internationell försäljning, köp och frakt av föremål.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Finns det möjlighet att översätta annonser och annat innehåll på Tradera till andra språk?
+ANSWER: Ja, Tradera kan komma att innehålla funktionalitet, genom tjänster eller automatiska verktyg tillhandahållna av tredje man, som möjliggör för annonser och annat innehåll på Tradera att helt eller delvis översättas till andra språk. Användare har i sådana fall möjlighet att själva välja att använda sådana tjänster eller verktyg.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan översättningarna av annonser och annat innehåll på Tradera garanteras vara korrekta?
+ANSWER: Nej, Tradera garanterar inte tillgången till översättning eller att översättningarna blir korrekta. Användare använder alla sådana tjänster på egen risk.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Har Tradera rätt att komma åt och granska innehållet på sin plattform?
+ANSWER: Ja, Tradera har rätt, men ingen skyldighet, att komma åt och granska allt innehåll på sin plattform.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om man bryter mot reglerna på Tradera?
+ANSWER: Om man bryter mot reglerna på Tradera kan ens konto stängas och man kan bli permanent förbjuden från att använda plattformen. 
+URL: https://info.tradera.com/ett-sakrare-tradera/
+
+QUESTION: Kan man använda Tradera om man är under 18 år?
+ANSWER: Nej, för att använda Tradera måste man vara över 18 år eller ha fått målsmans godkännande att använda plattformen. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Finns det några avgifter för att använda Tradera som köpare?
+ANSWER: Nej, det är gratis att använda Tradera som köpare. Avgifterna tas ut från säljarens sida.
+URL: https://www.tradera.com/help?page=articles/articleView&articleId=9
+
+QUESTION: Finns det några avgifter för att sälja på Tradera?
+ANSWER: Ja, det finns olika avgifter för att sälja på Tradera beroende på valda inställningar och kategorier. En försäljningsavgift tas ut baserat på slutpriset för föremålet och en annonsavgift tas ut för vissa kategorier.
+URL: https://www.tradera.com/help?page=articles/articleView&articleId=9
+
+QUESTION: Måste man betala för att skapa ett konto på Tradera?
+ANSWER: Nej, det är gratis att skapa ett konto på Tradera.
+URL: https://www.tradera.com/help?page=articles/articleView&articleId=8

@@ -1,0 +1,39 @@
+QUESTION: Varför använder Tradera cookies?
+\ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka typer av cookies använder Tradera?
+\ANSWER: Det nämns inte specifikt vilka typer av cookies Tradera använder i denna text. 
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad händer om jag stänger av cookies på Tradera?
+\ANSWER: Nödvändiga cookies kan inte stängas av, men om du stänger av övriga cookies kan du uppleva anpassat innehåll och annonser som inte är lika relevanta eller tappar viss funktionalitet på deras webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Finns det någon information Tradera delar med sina partners?
+\ANSWER: Ja, Tradera delar information om användarnas webbplatsanvändning med deras partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Varför delar Tradera information med sina partners?
+\ANSWER: Tradera delar information om användarnas webbplatsanvändning med sina partners för sociala medier, annonsering och analys för att anpassa sin annonsering och erbjuda relevant innehåll.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan jag stänga av cookies från tredje part som Tradera använder?
+\ANSWER: Ja, du kan välja bort tredje mans annonserelaterade cookies via http://www.youronlinechoices.eu eller http://www.aboutads.info/choices (endast på engelska) eller http://www.networkadvertising.org/choices (endast på engelska).
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken information delas med tredje parter?
+\ANSWER: Information om användarnas webbplatsanvändning delas med deras partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka integritetspolicy omfattar tredje mans-cookies?
+\ANSWER: Tredje mans-cookies omfattas av tjänsteleverantörernas integritetspolicy.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Var kan jag hitta mer information om tredje mans annonsrelaterade cookies?
+\ANSWER: Du kan hitta mer information om tredje mans annonsrelaterade cookies och hur man kan välja bort dem på http://www.youronlinechoices.eu eller http://www.aboutads.info/choices (endast på engelska) eller http://www.networkadvertising.org/choices (endast på engelska).
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Erbjuder Tradera gröna fraktföretag?
+\ANSWER: Ja, Tradera erbjuder fraktföretag som har en miljöprofil och som är verifierade efter hållbarhetskriterier för att erbjuda en mer miljövänlig frakt i Sverige.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

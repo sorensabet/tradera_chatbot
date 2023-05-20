@@ -1,0 +1,39 @@
+QUESTION: Vilka betalsätt erbjuder Tradera för köpare?
+ANSWER: Tradera erbjuder följande betalsätt för köpare: Swish, kortbetalning, PayPal, betalning mot faktura och kredit. Dessa betalsätt tillhandahålls av tredje parter med vilka Tradera samarbetar för detta syfte och som står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter. Dessa parter är Swish, Klarna, PayPal med tjänst Hyperwallet och Paynova.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan en säljare ta betalt för köparens möjlighet att använda Traderas betallösning?
+ANSWER: Nej, en säljare har inte rätt att ta betalt för köparens möjlighet att använda Traderas betallösning enligt Traderas betalningsvillkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka företag tillhandahåller de olika betalsätten som Tradera samarbetar med?
+ANSWER: De företag som tillhandahåller de olika betalsätten som Tradera samarbetar med är Swish, Klarna, PayPal med dess tjänst Hyperwallet och Paynova.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Står de företag som tillhandahåller betalsätten under tillsyn av någon myndighet?
+ANSWER: Ja, de företag som tillhandahåller betalsätten står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter enligt Traderas betalningsvillkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka frågor behöver en säljare ha kontakt med Tradera angående?
+ANSWER: En säljare behöver framförallt endast ha kontakt med Tradera i olika frågor som kan uppstå i samband med en Transaktion, trots att betaltjänsterna i sig inte tillhandahålls av Tradera och oavsett vilket betalsätt en köpare väljer.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Tradera välja att ändra sin betallösning?
+ANSWER: Ja, Tradera kan välja att ändra eller vidareutveckla sin betallösning och fler parter kan tillkomma.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: När sker utbetalning till säljare efter att en transaktion blivit godkänd av Tradera?
+ANSWER: Efter att en transaktion blivit godkänd av Tradera och eventuella belopp som säljaren är skyldig att betala till Tradera har dragits, ser Tradera till att utbetalning till säljaren sker. Utbetalning kan ske antingen för en separat transaktion eller som ett sammanslaget belopp som omfattar flera transaktioner. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om betalning inte kommer säljaren tillhanda?
+ANSWER: Om betalning inte kommer säljaren tillhanda, kommer säljaren istället återbetala den till köparen enligt Traderas betalningsvillkor. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Är det möjligt för en säljare att ta betalt för en transaktion innan betalning sker till säljaren?
+ANSWER: Nej, en säljare har inte rätt att ta betalt för en transaktion innan betalning sker till säljaren enligt Traderas betalningsvillkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka belopp kan en säljare vara skyldig att betala till Tradera?
+ANSWER: Tradera kan kräva att en säljare betalar belopp som denne är skyldig att betala till Tradera innan utbetalning till säljaren sker enligt Traderas betalningsvillkor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

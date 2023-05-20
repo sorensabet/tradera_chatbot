@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med användningen av cookies på Tradera?
+ANSWER: Syftet med användningen av cookies på Tradera är att anpassa innehållet, annonserna, tillhandahålla funktioner för sociala medier och för att analysera trafiken på webbplatsen. Dessutom delar Tradera information om användning av webbplatsen med deras partners för sociala medier, annonsering, och analys.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Vilka är de nödvändiga cookies som används på Tradera?
+ANSWER: Det finns vissa nödvändiga cookies på Tradera som används för att webbplatsen ska fungera, och dessa cookies kan inte stängas av.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Vilket är ändamålet med prestandacookies på Tradera?
+ANSWER: Ändamålet med prestandacookies på Tradera är att mäta anonymt hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: För vad används funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Hur används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av deras annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Kan användaren stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, användaren kan inte stänga av de nödvändiga cookies som används på Tradera, eftersom dessa cookies krävs för att webbplatsen ska fungera.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Vilka funktioner för sociala medier finns på Tradera?
+ANSWER: Tradera tillhandahåller funktioner för sociala medier som möjliggör användandet av sociala medier på webbplatsen.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Varför delar Tradera information om användning av webbplatsen med sina partners?
+ANSWER: Tradera delar information om användning av webbplatsen med sina partners för sociala medier, annonsering, och analys för att kunna erbjuda en mer anpassad användarupplevelse.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Vilken är den rättsliga grunden för användning av cookies på Tradera?
+ANSWER: Den rättsliga grunden för användning av cookies på Tradera är samtycke från användarna.
+URL: https://info.tradera.com/kann-din-kund-foretag/
+
+QUESTION: Hur kan en användare ändra sina cookiesinställningar på Tradera?
+ANSWER: En användare kan ändra sina cookiesinställningar på Tradera genom att klicka på "Ändra inställningar" och sedan välja olika alternativ beroende på sina önskemål.
+URL: https://info.tradera.com/kann-din-kund-foretag/

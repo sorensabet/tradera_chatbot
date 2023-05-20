@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information granskas för att säkerställa att informationen är tillförlitlig?
+ANSWER: Upplysningar kontrolleras mot befintlig information och information från tredje part för att säkerställa att informationen är tillförlitlig.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför behandlas personuppgifter för att genomföra penningtvätt och bekämpa bedrägeri?
+ANSWER: Personuppgifter behandlas för att genomföra penningtvätt, bekämpa bedrägeri, missbruk och säkerhetsincidenter eftersom det är nödvändigt för att efterleva lagkrav.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilket syfte tjänar behandling av personuppgifter i enlighet med avtal som ingåtts med användare?
+ANSWER: Personuppgifter behandlas i enlighet med avtal för att kunna upprätta och administrera användarkonton och fullgöra åtaganden gentemot användare enligt användaravtalet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan användare återkalla sitt samtycke till Traderas behandling av personuppgifter?
+ANSWER: Ja, användare kan när som helst återkalla sitt samtycke till Traderas behandling av personuppgifter genom att kontakta företaget på privacy@tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vad är syftet med att rikta marknadsföring till användare?
+ANSWER: Syftet med att rikta marknadsföring till användare är att informera om Tradera-produkter och onlinetjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Kan användare begära att Tradera slutar skicka marknadsföringsmaterial?
+ANSWER: Ja, användare kan när som helst begära att Tradera slutar skicka marknadsföringsmaterial genom att kontakta företaget på privacy@tradera.com.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka lagkrav behöver Tradera följa i sin behandling av personuppgifter?
+ANSWER: Tradera behöver efterleva lagar som rör bekämpning av penningtvätt samt betalnings-, bokförings-, och skattelagstiftning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Varför behöver personuppgifter behandlas för att användare ska kunna använda betaltjänster på Tradera?
+ANSWER: Personuppgifter behöver behandlas för att användare ska kunna använda betaltjänster på Tradera eftersom det är nödvändigt för att tillhandahålla dessa tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Hur länge administreras användarkonton efter att de har avslutats?
+ANSWER: Användarkonton administreras för viss tid efter att de har avslutats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/
+
+QUESTION: Vilka personuppgifter behandlas för att administrera användarkonton?
+ANSWER: Personuppgifter som behandlas för att administrera användarkonton inkluderar uppgifter som behövs för att upprätta konton, uppfylla förpliktelser gentemot användare enligt användaravtalet och att administrera aktiviteter på användarkonton.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy/

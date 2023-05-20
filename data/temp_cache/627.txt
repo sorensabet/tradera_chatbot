@@ -1,0 +1,39 @@
+QUESTION: Vad är Förhandsförsäljning?
+ANSWER: Förhandsförsäljning är när en säljare listar en produkt som inte finns tillgänglig för försäljning än. Detta används ofta för att testa efterfrågan av en produkt eller som ett sätt att sälja produkter som är på väg att levereras till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är dropshipping?
+ANSWER: Dropshipping innebär att en säljare upprätthåller ingen lagring av produkter själv men skickar istället direkt från grossisten eller leverantören till köparen. Säljaren får då betalt för marginalen mellan grossistpriserna och försäljningspriset.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vilka regler gäller för försäljning på Tradera?
+ANSWER: Det finns flera regler som måste följas när man säljer på Tradera, inklusive regler om vad som kan säljas och hur försäljningen måste hanteras.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Kan man sälja begagnade underkläder på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja begagnade underkläder på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Vilka objekt är inte tillåtna att sälja på Tradera?
+ANSWER: Objekt som inte får säljas på Tradera inkluderar begagnade underkläder, djur- och växtrelaterade objekt, drogrelaterade objekt, förfalskade sedlar, mynt och frimärken, livsmedel, läkemedelsrelaterade objekt, pornografiskt material, elektronisk utrustning som inte adapterats till svensk standard och omärkta energiprodukter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Kan man sälja elektronisk utrustning på Tradera?
+ANSWER: Ja, det går att sälja elektronisk utrustning på Tradera. Dock får man inte sälja elektronisk utrustning som inte adapterats till svensk standard eller omärkta energiprodukter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Får man sälja programvaror och elektronisk media på Tradera?
+ANSWER: Ja, det går att sälja programvaror och elektronisk media på Tradera. Dock måste säljaren ha rätten att sälja produkten och inte ge bort illegal eller piratkopierad programvara eller media.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Får man sälja uniformer på Tradera?
+ANSWER: Ja, man kan sälja uniformer på Tradera. Dock är det viktigt att produkterna inte marknadsförs som äkta uniformer eller används för att lura eller vilseleda andra.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Vad är Traderas policy om förfalskade sedlar, mynt och frimärken?
+ANSWER: Det är inte tillåtet att sälja förfalskade sedlar, mynt och frimärken på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Kan man sälja presentkort och tjänster på Tradera?
+ANSWER: Ja, det går att sälja presentkort och tjänster på Tradera. Dock är det viktigt att dessa produkter säljs i enlighet med alla relevanta nationella lagar och regler och försäljningen av presentkort ska inte innebära någon risk för köpare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/

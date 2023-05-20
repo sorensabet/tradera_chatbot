@@ -1,0 +1,39 @@
+QUESTION: Hvordan fungerer Traderas køberbeskyttelse? 
+ANSWER: For at kunne bruge Traderas køberbeskyttelse, skal du betale med Klarna/PayPal/Paynova eller betale med faktura eller delbetaling. Når du har betalt på denne måde, er du berettiget til køberbeskyttelse og fakturagebyr på 5 % af slutprisen, mindst 5 SEK og maksimalt 750 SEK. Hvis du har brug for at bruge din køberbeskyttelse, kan du oprette en tvist i den annonce, hvor problemet opstod, og tage den videre til Tradera. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Er køberbeskyttelse inkluderet i betalingen af en faktura eller delbetaling? 
+ANSWER: Ja, hvis du betaler med faktura eller delbetaling, er køberbeskyttelse og fakturagebyr på 5 % af slutprisen, mindst 5 SEK og maksimalt 750 SEK inkluderet. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg har brug for at bruge min køberbeskyttelse? 
+ANSWER: Hvis du har brug for at bruge din køberbeskyttelse, kan du oprette en tvist i den annonce, hvor problemet opstod, og tage den videre til Tradera. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvad er fakturagebyret på køberbeskyttelse? 
+ANSWER: Fakturagebyret på køberbeskyttelse er på 5 % af slutprisen, mindst 5 SEK og maksimalt 750 SEK. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvordan afgøres tvisten om køberbeskyttelse? 
+ANSWER: Når du har oprettet en tvist i den annonce, hvor problemet opstod, vil Tradera afgøre tvisten efter at have undersøgt sagen. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Er alle betalingsmetoder berettiget til køberbeskyttelse? 
+ANSWER: Nej, ikke alle betalingsmetoder er berettiget til køberbeskyttelse. For at kunne bruge Traderas køberbeskyttelse, skal du betale med Klarna/PayPal/Paynova eller betale med faktura eller delbetaling. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Kan jeg få adgang til køberbeskyttelse uden at betale fakturagebyr? 
+ANSWER: Nej, fakturagebyret på køberbeskyttelse er på 5 % af slutprisen, mindst 5 SEK og maksimalt 750 SEK, og er påkrævet for at kunne få adgang til køberbeskyttelse. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvor lang tid har jeg til at oprette en tvist, hvis jeg vil bruge min køberbeskyttelse? 
+ANSWER: Det anbefales, at du opretter en tvist så hurtigt som muligt, men du har op til 45 dage efter, at handlen er afsluttet, til at oprette en tvist og bruge din køberbeskyttelse. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Er der en maksimal grænse for, hvor meget jeg kan få dækket med køberbeskyttelse? 
+ANSWER: Ja, der er en maksimal grænse på 50.000 SEK for køberbeskyttelse. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/
+
+QUESTION: Hvor lang tid tager det at få en bekræftelse, når jeg har oprettet en tvist? 
+ANSWER: Når du har oprettet en tvist, vil du modtage en bekræftelse inden for 48 timer. 
+URL: https://info.tradera.com/da/traderabetalning/kopskydd-2/

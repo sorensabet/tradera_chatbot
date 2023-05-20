@@ -1,0 +1,39 @@
+QUESTION: Vilka annonser kan jag inte skicka prisförslag på Tradera?
+ANSWER: Du kan inte skicka prisförslag på annonser som har budgivning som alternativ och det går inte heller att skicka prisförslag på köp nu annonser som publicerats med Prolister eller Sello i dagsläget.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Vad är prisförslag på Tradera?
+ANSWER: Prisförslag på Tradera innebär att du kan skicka ett förslag på det pris du är villig att betala för en vara som du är intresserad av att köpa, till säljaren av varan.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Hur skickar jag ett prisförslag på Tradera?
+ANSWER: För att skicka ett prisförslag på Tradera, klicka på “Föreslå pris” inne på en annons och skriv in det belopp du kan tänka dig betala för varan. Efter det är det bara att invänta svar.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag skicka ett prisförslag på en annons som har ett köp nu pris?
+ANSWER: Ja, det går att föreslå pris på annonser som bara har ett köp nu pris och som är skapade på Tradera.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag ångra mitt prisförslag på Tradera?
+ANSWER: Nej, precis som med bud på Tradera är ditt prisförslag bindande när säljaren väljer att acceptera.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag vara säker på att få varan om mitt prisförslag accepteras på Tradera?
+ANSWER: Om säljaren accepterar ditt prisförslag på Tradera, är det ett juridiskt bindande avtal. På Tradera är säljare skyldiga att leverera varan om köparen har betalat, och köpare är skyldiga att betala.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Är prisförslag på Tradera bindande?
+ANSWER: Ja, precis som med bud på Tradera är ditt prisförslag bindande när säljaren väljer att acceptera. Om prisförslaget nekas eller om tidsfristen för att svara löpt ut så är du inte längre bunden att fullfölja affären. 
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Vad händer om säljaren inte svarar på mitt prisförslag på Tradera?
+ANSWER: Om säljaren inte svarar inom en viss tidsram på Tradera, löper prisförslaget ut och du är inte längre bunden att fullfölja affären.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag skicka prisförslag från Tradera appen?
+ANSWER: Ja, det är möjligt att skicka prisförslag till säljare från Tradera appen.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag skicka prisförslag på Tradera från mitt mobiltelefon?
+ANSWER: Ja, du kan skicka prisförslag från din mobiltelefon på Tradera.
+URL: https://info.tradera.com/prisforslag/

@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter samlar Tradera in?
+ANSWER: Tradera samlar in personuppgifter för att ge användare möjlighet att använda och få tillgång till webbplatser, applikationer, tjänster och verktyg, för att ge användare en personligt anpassad och bättre upplevelse och för marknadsföringsändamål. När användaren registrerar ett konto på Tradera lämnar de sina personuppgifter, men även om användaren är anonym när de använde Traderas tjänster samlas information in automatiskt från enheten som används för åtkomst. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Var sparas de insamlade personuppgifterna?
+ANSWER: De insamlade personuppgifterna sparas på Traderas servrar i Sverige och på andra platser i världen, inklusive i USA. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera sälja mina personuppgifter till tredje part?
+ANSWER: Nej, Tradera kommer inte att sälja användares personuppgifter till tredje part. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Hur skyddar Tradera mina personuppgifter?
+ANSWER: Tradera åtar sig att skydda användares personuppgifter på lämpligt sätt, oavsett var dessa uppgifter finns och om de överförs till en plats utanför EES. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Varför använder Tradera mina personuppgifter för marknadsföringsändamål?
+ANSWER: Tradera använder personuppgifter för marknadsföringsändamål för att ge användare en bättre, personligt anpassad upplevelse. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag använda Traderas tjänster utan att lämna mina personuppgifter?
+ANSWER: Ja, det är möjligt att använda Traderas tjänster utan att lämna personuppgifter, men om användaren vill registrera ett konto hos Tradera behöver de lämna sina personuppgifter. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad händer om det blir en ändring i integritetspolicyn?
+ANSWER: Om det sker en ändring i Traderas integritetspolicy kommer de att publicera den nya versionen på sina webbplatser. Användare som har registrerat ett konto på Tradera kommer också att få information om förändringar av integritetspolicyn via e-post eller sms. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information samlas in från min enhet när jag använder Traderas tjänster?
+ANSWER: När användaren besöker Traderas webbplatser, använder deras applikationer, tjänster och verktyg, eller klickar på annonser eller innehåll, samlar Tradera automatiskt in information från enheten som används för åtkomst, inklusive enhetens ID eller unika identifierare. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag begära att Tradera raderar mina personuppgifter?
+ANSWER: Ja, användare kan begära att Tradera raderar deras personuppgifter. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag få tillgång till de personuppgifter som Tradera har samlat in om mig?
+ANSWER: Ja, användare kan begära att få tillgång till de personuppgifter som Tradera har samlat in om dem. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

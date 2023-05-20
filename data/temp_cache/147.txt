@@ -1,0 +1,39 @@
+QUESTION: Vilka är de vanligaste frågorna om Tradera som kunder brukar ha?
+ANSWER: Det finns vanliga frågor som kunder brukar ha om Tradera. Informationen om dessa frågor kan du hitta på sidan "Vanliga frågor och svar" som Tradera tillhandahåller för sina användare.
+URL: https://info.tradera.com/kundservice/
+
+QUESTION: Vad är syftet med användaravtalet på Tradera?
+ANSWER: Syftet med användaravtalet på Tradera är att fastställa villkoren för köp och försäljning på Tradera. Detta avtal är bindande för både köpare och säljare.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka fördelar finns det att sälja på Tradera som företag?
+ANSWER: När du säljer på Tradera som företag har du möjlighet att bjuda på en större publik och du kan också skapa en butik på plattformen. Som företag kan du ta del av Traderas säljfunktioner som gör det enklare för dig att hantera din försäljning.
+URL: https://info.tradera.com/salja-som-foretag/
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera gör det möjligt för dig att räkna ut den förväntade fraktkostnaden för din produkt utifrån dess storlek och vikt. Du kan använda denna information för att inkludera fraktkostnaden i priset för din produkt.
+URL: https://www.tradera.com/shipping-calc
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera är ett initiativ som syftar till att minska den negativa miljöpåverkan som e-handel kan ha genom att göra frakt mer hållbar. Genom Grön frakt har Tradera utvecklat olika fraktalternativ som baseras på återanvändning och återvinning av material.
+URL: https://info.tradera.com/gron-frakt/
+
+QUESTION: Vilken information samlar Tradera in från användare genom cookies?
+ANSWER: Tradera samlar in information från användare genom cookies för att anpassa innehåll och annonser, och för att analysera trafiken på deras webbplats. Informationen som samlas in inkluderar: användarbeteende, enhetsinformation och webbläsarinformation.
+URL: https://info.tradera.com/information-om-cookies/
+
+QUESTION: Vad ska jag göra om jag stöter på problem med mitt köp eller min försäljning på Tradera?
+ANSWER: Om du stöter på problem med ditt köp eller din försäljning på Tradera bör du kontakta Traderas kundtjänst. De kan hjälpa dig att lösa problemet och är tillgängliga via e-post eller telefon.
+URL: https://info.tradera.com/kontakt-och-hjalp/
+
+QUESTION: Hur kan jag betala för mina köp på Tradera?
+ANSWER: Betalningsalternativen på Tradera varierar från säljare till säljare. Vanliga betalningsalternativ inkluderar Swish, banköverföring, direktbetalning via bank eller PayPal. Kontrollera vilka betalningsalternativ som finns tillgängliga för den produkt du vill köpa eller sälja.
+URL: https://info.tradera.com/sa-har-betalar-du-pa-tradera/
+
+QUESTION: Kan jag sälja internationellt på Tradera?
+ANSWER: Ja, det är möjligt att sälja internationellt på Tradera. Du kan välja att erbjuda internationell frakt för din produkt genom att lägga till fraktkostnaden. Observera att det kan finnas vissa begränsningar för vissa produkter beroende på var de ska skickas.
+URL: https://info.tradera.com/salja/
+
+QUESTION: Hur kan jag donera pengar till välgörenhet med hjälp av Tradera?
+ANSWER: Du kan donera pengar till välgörenhet på Tradera genom att välja att sälja din produkt som en auktion och välja en välgörenhetsorganisation att donera en del av försäljningspriset till. När auktionen är avslutad skickas pengarna direkt till organisationen.
+URL: https://info.tradera.com/donera-med-tradera/

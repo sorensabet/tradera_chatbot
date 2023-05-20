@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med verifikation på Tradera?
+ANSWER: Syftet med verifikation på Tradera är att säkerställa att användarna är legitimta och verifierade. Verifikationsprocessen varierar beroende på användarens land. För svenska användare används BankID, för danska användare har vi MitID och för övriga länder krävs det bild på giltig ID-handling.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är omdömen på Tradera?
+ANSWER: Omdömen på Tradera är kommentarer som köpare och säljare kan lämna efter en avslutad affär. Det ger Traderas medlemmar bättre förutsättningar att utvärdera andra medlemmar och upplevelserna de har haft med dem.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vilka fraktalternativ samarbetar Tradera med?
+ANSWER: Tradera samarbetar med säkra, spårbara fraktalternativ som DB Schenker, DHL och Postnord, där Traderamedlemmar även får bättre priser på frakten.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Hur kan du försäkra dig om att säljaren är verifierad på Tradera?
+ANSWER: På Tradera har vi en integrerad betallösning som innebär att du kan försäkra dig om att säljaren är verifierad. Detta innebär att du kan utföra en säker betalning och undvika bedrägeri.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Varför granskar Tradera kontinuerligt medlemmar som andra har haft dåliga upplevelser med?
+ANSWER: Tradera granskar kontinuerligt medlemmar som andra har haft dåliga upplevelser med för att säkerställa att alla medlemmar har en trygg upplevelse på Tradera. Detta är en del av Traderas säkerhetscenter och syftar till att förebygga bedrägeri och skapa en trygg handelsplats.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Kan medlemmar anmäla annonser som inte följer Traderas regler?
+ANSWER: Ja, alla medlemmar har möjlighet att anmäla en annons som inte följer Traderas regler till granskning. Tradera arbetar även proaktivt med att på egen hand hitta annonser som inte följer Traderas regler.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är syftet med annonser på Tradera?
+ANSWER: Syftet med annonser på Tradera är att möjliggöra för privatpersoner att sälja och köpa varor på en säker och trygg handelsplats. Tradera arbetar med att annonserna på sajten följer våra regler och svensk lag.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är Traderas regler?
+ANSWER: Traderas regler är riktlinjer som styr det tillåtna beteendet på sajten. Dessa regler är upprättade för att skapa en trygg och rättvis handelsplats för alla Traderas medlemmar. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Hur handlar man på Tradera?
+ANSWER: Tradera är en e-handelsplats där medlemmar kan köpa och sälja varor på ett säkert och tryggt sätt. För att handla på Tradera behöver du registrera dig som medlem, söka efter föremål och sedan lägga ett bud eller använda köp nu-knappen. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vad är fördelarna med att använda Traderas integrerade betallösning?
+ANSWER: Fördelarna med att använda Traderas integrerade betallösning är att du kan försäkra dig om att säljaren är verifierad och att du kan utföra en säker betalning. Detta innebär att du undviker bedrägeri och säkrar din transaktion på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/

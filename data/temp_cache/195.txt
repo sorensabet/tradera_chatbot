@@ -1,0 +1,39 @@
+QUESTION: Vad är cookies och hur använder Tradera dem?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, funktioner för sociala medier och analysera trafik. Nödvändiga cookies kan inte stängas av och används för att Tradera ska fungera. Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook. Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/sakerhetscenter/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är ett Nordiskt e-handelsföretag som gör det lätt för människor att sälja saker online. 
+URL: https://info.tradera.com/
+
+QUESTION: Vad är Användaravtal?
+ANSWER: Användaravtal är villkoren som användare måste acceptera för att använda Tradera och dess tjänster. Avtalet innehåller bestämmelser om bland annat användares ansvar, betalningar och Traderas ansvar.
+URL: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+
+QUESTION: Vilken information kan man hitta på Kontakta oss-sidan?
+ANSWER: På Kontakta oss-sidan kan man hitta olika sätt att nå Tradera's kundsupport, som via chatt, e-post eller telefon. Man kan också hitta information om Traderas öppettider.
+URL: https://www.tradera.com/help/contactUs
+
+QUESTION: Vad är säkerhetscenter?
+ANSWER: Traderas säkerhetscenter är en informationshub som ger användare allt de behöver veta om hur man handlar och säljer på ett säkert sätt i Traderas plattform. Här finns också information om hur man hanterar bedrägerier och andra säkerhetsrelaterade frågor. 
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Finns det några regler för att sälja på Tradera?
+ANSWER: Ja, Tradera har flera regler för att säkerställa en trygg, rättvis och ansvarsfull handel. Några av dessa regler inkluderar att säljarprofiler och produkter måste vara autentiska, att förbjudna föremål inte får säljas och att säljare inte får använda onödigt höga fraktkostnader.
+URL: https://info.tradera.com/sakerhetscenter/regler-och-villkor/
+
+QUESTION: Vad är en användares ansvar på Tradera?
+ANSWER: Användare på Tradera har ansvar för att följa Traderas regler och villkor när de handlar och säljer på plattformen. Detta inkluderar att upprätthålla en positiv och säker handelsmiljö och att inte sälja eller köpa förbjudna föremål.
+URL: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+
+QUESTION: Hur kan jag kontakta Tradera för att rapportera en användare som kränker mina rättigheter som rättighetsinnehavare?
+ANSWER: Om du som rättighetsinnehavare på Tradera upptäcker att någon säljer dina produkter utan tillstånd kan du rapportera detta via Traderas formulär för kränkning av rättigheter, som finns på hemsidan. 
+URL: https://info.tradera.com/sakerhetscenter/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Hur fungerar Traderas auktioner?
+ANSWER: På Traderas auktioner kan säljare välja att lägga ut varor på auktion, där köpare kan bjuda på varan tills auktionen avslutas. Säljaren kan också välja att sätta ett fast pris på varan, som köpare kan köpa till när som helst under auktionens gång.
+URL: https://www.tradera.com/help/sellingTips/auction
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy beskriver hur Tradera samlar in, hanterar och skyddar personlig information om användare och deras användning av Traderas plattform. Policyn beskriver också användarnas rättigheter att komma åt och kontrollera sin personliga information. 
+URL: https://info.tradera.com/integritetspolicy/

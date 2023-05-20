@@ -1,0 +1,39 @@
+QUESTION: Varför behöver man verifiera sig med BankID på Tradera?
+ANSWER: Du behöver verifiera dig med BankID när du själv genomför en åtgärd på webbsidan, till exempel ladda upp en annons, försöker återställa ditt lösenord eller ändra ditt kontonummer för Traderabetalning. Detta görs för att säkerställa att du är den riktiga användaren av kontot. 
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vilken åtgärd bör man aldrig genomföra om man inte själv initierat en verifiering med BankID mot Tradera?
+ANSWER: Om du inte själv har initierat en verifiering med BankID mot Tradera, ska du aldrig genomföra en verifiering med BankID. Detta kan leda till att bedragare får tillgång till ditt konto eller dina uppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vilket personnummer gäller för BankID på Tradera?
+ANSWER: Bank-ID gäller endast för medlemmar med svenskt personnummer. 
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad är riskerna med att lämna ut sitt lösenord, en SMS-kod eller genomföra en oväntad BankID-verifiering?
+ANSWER: Om du lämnar ut ditt lösenord, en SMS-kod eller genomför en oväntad BankID-verifiering finns det risk att det är en bedragare som försöker komma åt ditt konto eller dina uppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad bör man tänka på för att skydda sig på Tradera?
+ANSWER: För att skydda dig på Tradera bör du aldrig lämna ut dina personliga koder eller lösenord, använd aldrig BankID på uppmaning av någon som kontaktar dig, och vänta istället om någon vill att du ska genomföra en åtgärd snabbt. Om du blir osäker kan du kontakta Traderas Kundservice. 
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad bör man göra om man drabbas av bedrägeri på Tradera?
+ANSWER: Om du drabbas av bedrägeri på Tradera ska du polisanmäla alltid och anmäla både bedrägeriförsök och genomförda bedrägerier. Du kan också kontakta Traderas Kundservice om du misstänker att någon obehörig försöker få eller fått tillgång till ditt konto. 
+URL: https://info.tradera.com/sakerhetscenter/sms-koder-och-bankid/
+
+QUESTION: Vad kan man handla på Tradera?
+ANSWER: På Tradera kan man handla olika produkter, från kläder och skor till möbler och elektronik. 
+URL: https://www.tradera.com/
+
+QUESTION: Vilka är de mest populära varumärkena på Tradera?
+ANSWER: De mest populära varumärkena på Tradera kan variera, men just nu är exempelvis Filippa K, GANT och Adidas eftertraktade. 
+URL: https://www.tradera.com/
+
+QUESTION: Hur säljer man som privatperson på Tradera?
+ANSWER: För att sälja som privatperson på Tradera behöver du skapa ett konto och överenskomma med Tradera om en provision på din försäljning. Du kan sedan lägga upp annonser med bilder och beskrivningar av dina produkter. 
+URL: https://www.tradera.com/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt på Tradera är ett initiativ som innebär att både privatpersoner och företag som säljer och köper varor på Tradera kan välja att använda transportsätt med låga eller inga koldioxidutsläpp. 
+URL: https://www.tradera.com/

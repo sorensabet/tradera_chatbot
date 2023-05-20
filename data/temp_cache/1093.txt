@@ -1,0 +1,39 @@
+QUESTION: Vad är ProLister?
+ANSWER: ProLister är ett publiceringsverktyg som låter dig ladda upp flera annonser samtidigt på Tradera. Du kan skapa listor där du kan lägga till så många annonser du vill och sedan publicera dem alla på en gång.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad är fördelen med att använda ProLister?
+ANSWER: Fördelen med att använda ProLister är att du kan spara tid genom att ladda upp flera annonser samtidigt och publicera dem inom ett tidsintervall som du väljer.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur fungerar publiceringen av annonser på ProLister?
+ANSWER: Med ProLister kan du skapa listor där du kan lägga till så många annonser du vill, och sedan publicera dem alla på en gång. Du väljer vilket tidsintervall du vill att annonserna ska publiceras inom, vilket gör att de avslutas inom samma intervall.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag skapa flera listor på ProLister?
+ANSWER: Ja, du kan skapa flera listor på ProLister. Du kan till exempel skapa listor för "Garderobsrensning", "Juli 2022", osv.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag lägga till hur många annonser jag vill på ProLister?
+ANSWER: Ja, med ProLister kan du lägga till så många annonser du vill på dina listor.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag välja när mina annonser publiceras på Tradera med ProLister?
+ANSWER: Ja, du kan välja tidsintervallet när dina annonser publiceras inom Tradera med ProLister.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Behöver jag ladda upp samma information för varje annons på ProLister?
+ANSWER: Nej, eftersom ProLister låter dig skapa listor kan du använda samma information för flera annonser i samma lista.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag testa ProLister?
+ANSWER: Ja, du kan testa ProLister genom att gå till ProLister.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad är fördelen med att använda listor på ProLister?
+ANSWER: Fördelen med att använda listor på ProLister är att du kan skapa och organisera dina annonser i olika kategorier för att göra publiceringen och hanteringen enklare.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad kostar det att använda ProLister?
+ANSWER: Det är gratis att använda ProLister för Tradera-användare.
+URL: https://info.tradera.com/prolister/

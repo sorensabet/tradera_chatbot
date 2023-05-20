@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med de nödvändiga cookies som Tradera använder?
+ANSWER: De nödvändiga cookies som används av Tradera är en grundläggande teknisk funktion som krävs för att webbplatsen ska kunna fungera korrekt. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 2: Varför kan inte de nödvändiga cookies som används på Tradera stängas av?
+ANSWER: De nödvändiga cookies som Tradera använder är essentiella för korrekt funktionalitet på webbplatsen. Därför kan de inte stängas av. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 3: Vad är syftet med prestanda-cookies på Tradera?
+ANSWER: Prestanda cookies på Tradera används för att anonymt mäta hur hemsidan används, med syfte att förbättra användarupplevelsen. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 4: Vad är funktionella cookies på Tradera och vad används de till?
+ANSWER: Funktionella cookies på Tradera är utökade funktioner som används för att personifiera inställningar och öka funktionaliteten för användare, som till exempel inloggning via Facebook. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 5: Hur används marknadsförings-cookies på Tradera?
+ANSWER: Marknadsförings-cookies på Tradera används av Traderas annonspartners för att skapa relevanta annonser för användare. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 6: Kan användare välja bort marknadsförings-cookies på Tradera?
+ANSWER: Ja, användare kan välja bort marknadsförings-cookies på Tradera efter eget godtycke. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 7: Var finns information om hur man hanterar cookies på Tradera?
+ANSWER: Information om att hantera cookies på Tradera finns på webbplatsens integritetspolicy-sida, som länkas på Traderas hemsida. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 8: Vilken typ av information samlas in av prestanda-cookies på Tradera?
+ANSWER: Prestanda-cookies på Tradera samlar in anonym information om hur webbplatsen används, såsom vilka sidor som besökts och hur lång tid användare spenderar på webbplatsen. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 9: Vilka av Traderas cookies är nödvändiga för användarkonton?
+ANSWER: De nödvändiga cookies som Tradera använder inkluderar teknisk funktionalitet som är nödvändig för hantering av användarkonton. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/
+
+QUESTION 10: Har Tradera några samarbetspartners när det gäller marknadsföring genom cookies?
+ANSWER: Ja, Tradera har annonseringspartners som använder marknadsförings-cookies för att presentera relevanta annonser till användare. 
+URL: https://info.tradera.com/en/presale-and-dropshipping/

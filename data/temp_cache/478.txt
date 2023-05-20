@@ -1,0 +1,39 @@
+QUESTION: Hvad er netto betaling?
+ANSWER: Nettobetaling er en betalingsmetode på Tradera, hvor de trækker gebyrerne fra inden de overfører det pågældende beløb til sælgeren. Dette gøres for at gøre betalingsprocessen nemmere for sælgeren.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvordan virker nettoudbetaling på Tradera?
+ANSWER: Når du sælger på Tradera, vil nettoudbetaling betyde, at gebyrerne trækkes fra før betalingen udføres. Hvis din saldo på kontoen er positiv, vil betalingen blive sendt til dig på hverdage. Hvis din saldo er negativ, vil du imidlertid få en faktura.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvilken fordel har sælgere med nettobetalinger på Tradera?
+ANSWER: Sælgere på Tradera kan drage fordel af nettobetalinger, da dette gør betalingsprocessen nemmere og mere strømlinet. Gebyrerne trækkes automatisk fra det beløb, som sælgeren skal modtage, hvilket betyder, at de ikke behøver at skulle tage sig af gebyrerne senere.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvordan fungerer betalinger til sælgere på Tradera?
+ANSWER: Betalinger til sælgere på Tradera fungerer nu med nettobetaling, hvor de trækker gebyrerne fra inden de betaler sælgeren det aftalte beløb. Dette gør betalingsprocessen nemmere for både sælger og køber.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Er nettoudbetaling tilgængelig for alle på Tradera?
+ANSWER: Ja, nettoudbetaling er tilgængelig for alle, der sælger på Tradera. Dette er en standard betalingsmetode, som gør betalingsprocessen nemmere for hver enkelt sælger på Tradera.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvornår vil sælgeren modtage en betaling med nettobetaling på Tradera?
+ANSWER: Sælgere på Tradera, der bruger nettobetaling, vil modtage deres betaling på hverdage, hvis saldoen på kontoen er positiv. Hvis saldoen er negativ, vil en faktura blive sendt til sælgeren i slutningen af ​​måneden.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Skal sælgeren betale gebyr for nettobetalinger på Tradera?
+ANSWER: Ja, sælgere på Tradera skal betale gebyrer, som trækkes fra før betalingen udføres. Dette er den samme gebyrstruktur som Tradera tidligere anvendte, men i stedet for at betale gebyrerne senere, trækkes de nu fra, før betalingen udføres.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hvordan får sælgeren en faktura, hvis saldoen er negativ?
+ANSWER: Hvis en sælgers saldo på Tradera er negativ i slutningen af ​​måneden, vil Tradera sende en faktura til sælgeren for dette beløb.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Kan sælgere på Tradera få udbetaling på en negativ saldo?
+ANSWER: Nej, hvis en sælgers saldo er negativ på Tradera, vil han/hun ikke være i stand til at modtage udbetaling. I stedet vil Tradera sende en faktura for dette beløb.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Er nettobetaling et standardvalg på Tradera?
+ANSWER: Ja, nettobetaling er et standardvalg på Tradera for alle sælgere. Dette betyder, at gebyrerne trækkes fra inden udbetalingen på forhånd, og at alle sælgere kan benytte sig af denne betalingsmetode.
+URL: https://info.tradera.com/da/nettoutbetalning/

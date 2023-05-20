@@ -1,0 +1,39 @@
+QUESTION: What is the most common reason for closing a listing for shipping infringement?
+ANSWER: The most common reason for us to close listings for shipping infringement is that the listing provides only for pick up but that there is an addendum that the item can be shipped. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Why do shipping options need to have a price specified?
+ANSWER: Since Tradera wants the buyers to be able to see what the listing will end up costing them, the platform requires that all shipping options have a price specified. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: In what cases does Tradera close listings for payment options?
+ANSWER: Tradera closes listings where the seller insists on a specific payment method when the listing has more than one option. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Why are listings with several items where you are supposed to choose one item to receive not allowed on Tradera?
+ANSWER: Tradera doesn't allow listings with several items where you are supposed to choose one item to receive because the platform wants it to be clear which item the buyers are bidding on. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What is the recommended approach for sellers who want to have several of the same kind of item listed on Tradera?
+ANSWER: If a seller wants to have several of the same kind of item listed, Tradera recommends getting a store subscription. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What is not allowed when it comes to listing items on Tradera?
+ANSWER: Referring to a brand other than the one that is actually being sold is not allowed when listing an item on Tradera. Listing an item with the word Airpods when you're not selling actual Airpods or listing a jumpsuit as a Onepiece if it's not actually from that brand are common mistakes. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: Is it allowed to sell alcohol on Tradera?
+ANSWER: No, selling alcohol in Sweden requires specific permits and is not allowed on the Tradera platform. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What should sellers do if they are selling a bottle as a collector's item?
+ANSWER: If a seller is selling a bottle as a collector's item, they should make sure to state that it's empty in the listing. 
+URL: https://info.tradera.com/en/nedstangd-annons/
+
+QUESTION: What are the available options for sellers who want to sell items on Tradera?
+ANSWER: Private sellers and businesses can sell items on Tradera. More information on how to sell can be found on the Sell page. 
+URL: https://info.tradera.com/en/
+
+QUESTION: What is the purpose of the shipping calculator on Tradera?
+ANSWER: The purpose of the shipping calculator on Tradera is to enable buyers to calculate the shipping cost for the item they want to purchase and for sellers to know how much they will get paid for the item. 
+URL: https://info.tradera.com/en/nedstangd-annons/

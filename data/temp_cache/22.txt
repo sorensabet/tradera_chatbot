@@ -1,0 +1,39 @@
+QUESTION: Vilken information delar Tradera med tredje part?
+ANSWER: Tradera länkar till webbplatser från tredje part. Dessa webbplatser har egna integritetspolicyer och Tradera är inte ansvarig för deras verksamhet, inklusive men inte begränsat till deras informationsrutiner. Användare som skickar information till eller genom dessa tredjepartswebbplatser bör granska integritetspolicyerna för webbplatserna innan några personuppgifter skickas till dem.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information delar Tradera inte med tredje part?
+ANSWER: Tradera är inte ansvarig för tredje parts webbplatser och deras informationsrutiner. Användare som skickar information till eller genom dessa tredjepartswebbplatser bör granska integritetspolicyerna för webbplatserna innan några personuppgifter skickas till dem.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vem är personuppgiftsansvarig för Tradera?
+ANSWER: Personuppgiftsansvarig för Tradera är Tradera Sweden AB, Sankt Eriksgatan 117,113 43 Stockholm, Sverige. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad är Tradera ansvarigt för enligt integritetspolicyn?
+ANSWER: Tradera är ansvarigt för behandlingen av dina personuppgifter och för att tillhandahålla de tjänster som ska tillhandahållas enligt Användaravtalet samt inom ramen för och i enlighet med de principer som framgår av denna Integritetspolicy.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Gäller integritetspolicyn för mobilanvändning?
+ANSWER: Ja, integritetspolicyn gäller för all mobil åtkomst och användning av mobila enheter på Traderas mobilapplikationer och mobilanpassade webbplatser.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad innebär mobilanpassade webbplatser?
+ANSWER: Mobilanpassade webbplatser är webbplatser som är optimerade för att visas på mobila enheter som exempelvis smartphones eller läsplattor.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka personuppgifter samlar Tradera in?
+ANSWER: Det framgår inte vilka personuppgifter Tradera samlar in i det givna textstycket.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vem kan använda Traderas webbplats?
+ANSWER: Alla kan använda Traderas webbplats så länge de följer användarvillkoren.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag använda Traderas mobilapplikation för att använda deras tjänster?
+ANSWER: Ja, du kan använda mobilapplikationen för att använda Traderas tjänster. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad är webbplatsen www.tradera.com?
+ANSWER: webbplatsen www.tradera.com är Traderas hemsida som erbjuder auktioner och köp av varor och tjänster. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

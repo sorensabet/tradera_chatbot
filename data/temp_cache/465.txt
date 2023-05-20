@@ -1,0 +1,39 @@
+QUESTION: How long does it usually take for a package to be delivered by Postnord?
+ANSWER: Your package is usually delivered in 2-3 work days, according to the information provided on the page. Depending on various factors, it can take up to 1-2 additional days.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: What is the responsibility of the sender in terms of packaging while shipping with Postnord?
+ANSWER: The sender is responsible for properly packaging the parcel so that it does not get damaged during transit. Sufficient packaging material should be used to ensure that the item does not move inside the package. The package should also be able to handle a fall from a table.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Can I track my Postnord shipment using a tracking number?
+ANSWER: Yes, Postnord offers a tracking service that allows you to track your shipment using a tracking number. You can find your tracking number on the shipping label that you receive via email.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: What should I do if my package is lost or damaged during transit by Postnord?
+ANSWER: If your package is lost or damaged during transit, you can start a refund claim by clicking on the link provided on the page. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Does Postnord offer deliveries on weekends?
+ANSWER: The information provided on the page mentions deliveries on all regular work days, which implies that Postnord does not offer deliveries on weekends.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Can I get a plastic folder for my shipping label from most vendors while shipping with Postnord?
+ANSWER: Yes, you can get a plastic folder for the label from most vendors while shipping with Postnord.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: How can I download my shipping label while shipping with Postnord?
+ANSWER: Once the shipping is booked, you can download your shipping label as a PDF file. The label is also sent to your email as a PDF file. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Are parcels handled by machines during transit by Postnord?
+ANSWER: Yes, parcels are partially handled by machines during transit under the Postnord service.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Do I need to pay extra charges for shipping if my package weighs more than what I ordered?
+ANSWER: Yes, you will be charged for the difference in shipping cost if the package weighs more than what you ordered. You will receive an email notification, and the charge will be added to your next invoice.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Can I hand in my parcel at any Postnord location?
+ANSWER: The information provided on the page does not answer this question. It is best to refer to the Postnord website or contact their customer support for this information.
+URL: https://info.tradera.com/en/postnord/

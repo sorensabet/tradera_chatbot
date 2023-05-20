@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med "Prestanda" cookies på Tradera?
+ANSWER: Syftet med "Prestanda" cookies på Tradera är att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Vad är syftet med "Funktionella" cookies på Tradera?
+ANSWER: Syftet med "Funktionella" cookies på Tradera är att ge utökad funktionalitet och användaranpassning på Tradera, såsom vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Varför använder Tradera marknadsföringscookies?
+ANSWER: Tradera använder marknadsföringscookies för att deras annonseringspartners ska kunna visa riktade annonser relevanta för användare.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Vilken typ av information samlar Traderas prestandacookies in?
+ANSWER: Prestandacookies på Tradera samlar in anonym statistik om hur användare interagerar med Traderas webbsida.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Vilken typ av information samlar Traderas funktionella cookies in?
+ANSWER: Funktionella cookies på Tradera samlar in information om inställningar som användare valt på sidan eller om användning av Facebookinloggning.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Varför behöver Tradera använda cookies?
+ANSWER: Tradera behöver använda cookies för att ge sina användare en bättre användarupplevelse genom att till exempel spara inställningar och preferenser.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Vad är syftet med att använda cookies vid användning av Tradera?
+ANSWER: Syftet med att använda cookies på Tradera är att förbättra användarupplevelsen genom att ge ökad funktionalitet och möjligheten att spara användarinställningar och preferenser.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Vilken typ av information kan samla in genom Traderas marknadsföringscookies?
+ANSWER: Marknadsföringscookies på Tradera kan samla in information om användarens intressen och beteenden på Traderas webbsida för att kunna visa riktade annonser.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Kan jag stänga av användningen av cookies på Tradera?
+ANSWER: Ja, du kan stänga av användningen av cookies på Tradera i webbläsarens inställningar, men det kan påverka Traderas funktionalitet.
+URL: https://info.tradera.com/cookies/
+
+QUESTION: Är det säkert att använda cookies på Tradera?
+ANSWER: Ja, det är säkert att använda cookies på Tradera eftersom de inte innehåller personlig information och enbart används för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/cookies/

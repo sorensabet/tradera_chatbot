@@ -1,0 +1,39 @@
+QUESTION: Vilken information ges i Steg 2 av Traderas ProLister-guide?
+ANSWER: Steg 2 i Traderas ProLister-guide förklarar de olika kolumnnamnen och värdena som kan läggas till i filen som ska laddas upp i ProLister. Mer specifikt går guiden igenom alla annonsfält som accepteras och vilket format som behövs för en korrekt import.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilket är max antal tecken som tillåts i Rubrikfältet på Traderas annonsuppladdning?
+ANSWER: Max 80 tecken är tillåtna i Rubrikfältet på Traderas annonsuppladdning enligt Steg 2 i deras ProLister-guide.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Kan jag fylla i hur många eller hur få fält som jag vill vid annonsuppladdning på Tradera?
+ANSWER: Ja, det står i Steg 2 i Traderas ProLister-guide att du kan välja att fylla i så många eller så få fält du vill vid annonsuppladdning på Tradera.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Varför ger Tradera synonymer för varje kolumnnamn i filen som laddas upp på annonsuppladdningen?
+ANSWER: Tradera ger synonymer för varje kolumnnamn i filen som laddas upp på annonsuppladdningen för att underlätta för användare som exporterar sin lista från andra plattformar och förenkla processen.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad är syftet med att ha en mall i kalkylarket som ska användas vid annonsuppladdning på Tradera?
+ANSWER: Steg 2 i Traderas ProLister-guide förklarar att en mall i kalkylarket kan användas vid varje annonsuppladdning på Tradera för att underlätta processen och säkerställa att rätt kolumner används. Detta sparar tid och minskar risken för fel.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Kan man välja sitt eget kolumnnamn vid annonsuppladdning på Tradera?
+ANSWER: Ja, om du döpt kolumnen i ditt kalkylark till ett namn som inte nämns i Traderas ProLister-guide kan du manuellt välja ditt kolumnnamn i mappningsfönstret som visas efter du valt fil.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilka typer av innehåll tillåts i Beskrivningsfältet vid annonsuppladdning på Tradera?
+ANSWER: Beskrivningsfältet vid annonsuppladdning på Tradera tillåter både text och siffror. Max 7000 tecken är tillåtna enligt Steg 2 i Traderas ProLister-guide. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad bör jag göra innan jag publicerar några annonser på Tradera enligt Steg 2 i ProLister-guiden?
+ANSWER: Steg 2 i Traderas ProLister-guide rekommenderar att man skapar en mall i sitt kalkylark som man kan återanvända vid varje annonsuppladdning och alltid kontrollera vilka kolumner som Prolister lyckades importera innan man publicerar några annonser på Tradera.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad ska man ange i "Bilder" eller "ImageUrls" fältet vid annonsuppladdning på Tradera?
+ANSWER: En eller flera länkar till objektbilder ska anges i "Bilder" eller "ImageUrls" fältet vid annonsuppladdning på Tradera enligt Steg 2 i Traderas ProLister-guide.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Kan jag använda Traderas ProLister-guide när jag importerar min lista från Sello?
+ANSWER: Ja, Traderas ProLister-guide kan användas när du exporterar din lista från andra plattformar som Sello enligt Steg 2 i guiden. Synoymerna som ges för varje kolumnnamn gör det enklare att förstå vilka fält som ska fyllas i vid export. 
+URL: https://info.tradera.com/prolister/csv/

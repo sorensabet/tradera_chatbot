@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med användningen av cookies på Tradera?
+ANSWER: Syftet med användningen av cookies på Tradera är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats. Informationen delas också med partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Kan cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies för att Tradera ska fungera kan inte stängas av. Andra cookies för prestanda och funktionalitet kan stängas av genom användarens inställningar.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Vilka är de olika typerna av cookies på Tradera?
+ANSWER: De olika typerna av cookies på Tradera är nödvändiga cookies, prestandacookies, funktionella cookies och marknadsföringscookies.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Vad är en användares inställningar på Tradera?
+ANSWER: En användares inställningar på Tradera kan vara vissa sparade inställningar eller inloggning med Facebook. Det är funktionella cookies som krävs för utökad funktionalitet och användaranpassning på Tradera.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Varför används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Vilka är fördelarna med anonym mätning av användningen av Tradera?
+ANSWER: Fördelarna med anonym mätning av användningen av Tradera är att det hjälper till att förbättra användarupplevelsen genom att se hur Tradera används.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hur analyseras trafiken på Tradera?
+ANSWER: Trafiken på Tradera analyseras genom användning av cookies, vilket gör det möjligt att samla in information om användarnas beteenden på sajten.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hur använder Tradera informationen som samlas in genom användningen av cookies?
+ANSWER: Tradera använder information som samlas in genom användningen av cookies för att anpassa innehåll och annonser, analysera trafiken på deras webbplats och för att samarbeta med partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Varför måste nödvändiga cookies vara aktiverade för att Tradera ska fungera?
+ANSWER: Nödvändiga cookies måste vara aktiverade för att Tradera ska fungera eftersom de tillåter grundläggande funktioner som att navigera, kommunicera och göra transaktioner på sajten.
+URL: https://info.tradera.com/da/limit-for-identical-items/
+
+QUESTION: Hur påverkas användarupplevelsen på Tradera av cookies?
+ANSWER: Användarupplevelsen på Tradera påverkas genom att cookies möjliggör för webbplatsen att anpassa innehåll och annonser efter användarens intressen och beteenden. Detta förbättrar användarupplevelsen på sajten.
+URL: https://info.tradera.com/da/limit-for-identical-items/

@@ -1,0 +1,39 @@
+QUESTION: Hvilken forsendelsesleverandør skal jeg vælge?
+ANSWER: Ifølge forsendselsesguiden, anbefales det at vælge en sporbar forsendelsesmetode for dyre varer med forsikring. Der er andre faktorer, der også er værd at overveje som hvor tæt leverandørerne er på både kunde og sælger, og hvilken type af og pris på den inkluderede forsikring. Som sælger er det altid bedst at tilbyde flere forsendelsesmuligheder for at minimere risikoen for at miste potentielle kunder. 
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad betyder integreret forsendelse?
+ANSWER: Integreret forsendelse betyder, at sporingsoplysningerne vil blive tilføjet direkte til ”Mit Tradera” på både sælgers og kundens side. Ved forsendelse med Schenker betyder det også, at al forsendelse bliver booket direkte via Tradera.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad er fordelene ved at bruge en sporbar forsendelse med forsikring?
+ANSWER: Fordelene ved at vælge en sporbar forsendelse med forsikring er at de dyre varer vil blive dækket af forsikringen, hvis der sker noget med varen i forsendelsen. Det vil også give både sælgeren og køberen mulighed for at spore forsendelsen og være opdateret om dens status.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan kan sælgere minimere risikoen for at miste potentielle kunder?
+ANSWER: Som sælger er det altid bedst at tilbyde flere forsendelsesmuligheder, således at kunderne kan vælge den mulighed, der passer bedst til deres behov. På den måde minimere sælgerne risikoen for at miste potentielle kunder.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Er det nødvendigt at betale ekstra for sporbar forsendelse?
+ANSWER: Ja, det kan være nødvendigt at betale ekstra for en sporbar forsendelse med forsikring. Priserne på forsendelsesmetoder varierer fra leverandør til leverandør og afhænger også af vægt og størrelse af pakken.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvilke leverandører af forsendelse kan man bruge, når man vil sende en pakke med Tradera?
+ANSWER: Når man vil bruge en forsendelsesleverandør til at sende pakker med Tradera, kan man vælge mellem Schenker, Postnord og DHL.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvordan kan man som sælger vide, hvor meget en forsendelse koster?
+ANSWER: Som sælger kan man bruge værktøjet ”Tradera Fraktguide” til at beregne omkostningerne ved en forsendelse. Værktøjet vil også give flere forsendelsesmuligheder og priser fra forskellige leverandører.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvad hvis man som køber ikke modtager pakken?
+ANSWER: Hvis man som køber ikke modtager pakken, anbefaler Tradera at kontakte sælgeren først. Hvis man ikke kan løse problemet med sælgeren, kan man kontakte Traderas kundeservice for yderligere hjælp og vejledning.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Kan man som køber spore sin forsendelse?
+ANSWER: Ja, man kan spore sin forsendelse som køber. Man vil få et sporingsnummer fra leverandøren, som man kan bruge til at spore sin pakke på leverandørens hjemmeside eller app. Hvis man bruger integreret forsendelse med Tradera, kan man også finde disse oplysninger i ”Mit Tradera”.
+URL: https://info.tradera.com/da/fraktguiden/
+
+QUESTION: Hvilken type forsikring er inkluderet i en forsendelse, og hvad cover den?
+ANSWER: Forsendelsesguiden på Tradera anbefaler, at man vælger en sporbar forsendelse med forsikring for dyre varer. Prisen og type forsikring kan variere fra leverandør til leverandør, men typisk dækker forsikringen skader eller tab af vare under transport og forsendelse.
+URL: https://info.tradera.com/da/fraktguiden/

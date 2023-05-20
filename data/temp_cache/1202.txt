@@ -1,0 +1,39 @@
+QUESTION: What happens if the Seller has not provided accurate payment information?
+ANSWER: If the Seller has not provided accurate payment information, Tradera will not be able to pay the Seller. In such case, Tradera will contact the Seller to request the outstanding information. Once Tradera has received the information required to make the payment, the Seller will, as a general rule, be paid within two (2) business days.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Tradera withhold payment from a Seller?
+ANSWER: Yes, Tradera can withhold payment if and for as long as there is a suspicion that the Seller will not fulfill his/her obligations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens after Tradera confirms that the Buyer has made a payment?
+ANSWER: Upon Tradera's confirmation that the Buyer has made a payment, the Seller shall immediately send the goods to the Buyer, as described in more detail below under the description of each payment method.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Are Sellers allowed to contact Tradera about matters related to transactions?
+ANSWER: Yes, a Seller can contact Tradera on various matters which may arise in connection with a Transaction, even though the payment services in Tradera's checkout solution themselves are not provided by Tradera, and irrespective of the payment method a Buyer chooses. The Seller shall also contact Tradera on matters that may arise in connection with Tradera's payout.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What payment methods does Tradera offer on their platform?
+ANSWER: Tradera offers payment methods such as card payments, PayPal, Swish, and Paynova for buyers on their platform with more details provided on how these payment methods work in the context.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What is the process for paying with a card or PayPal or Swish on Tradera?
+ANSWER: If a Buyer chooses to pay by card or by PayPal or Swish, the money will first be deposited in Tradera's bank account. Tradera will then verify the Transaction and, if it is approved by Tradera, Tradera will then pay the money to the Seller. Once the Buyer has paid, Tradera will notify the Seller via e-mail and in My Tradera that payment has been made. The goods should then be sent by the Seller to the Buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How does the payment process work via Paynova?
+ANSWER: If the Buyer has chosen to pay via Paynova, the Seller accepts that PayPal takes over the Seller's right to be paid by the Buyer in exchange for PayPal to pay Tradera, who, through Tradera's payment service, will pay the Seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Will Tradera notify Sellers of payments made by Buyers?
+ANSWER: Yes, once the Buyer has paid, Tradera will notify the Seller via e-mail and in My Tradera that payment has been made.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How soon will Sellers be paid once Tradera receives the accurate payment information?
+ANSWER: Once Tradera has received the information required to make the payment, the Seller will, as a general rule, be paid within two (2) business days.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Can Sellers keep the money before sending the goods to the Buyer?
+ANSWER: No, upon Tradera's confirmation that the Buyer has made a payment, the Seller shall immediately send the goods to the Buyer, as described in more detail below under the description of each payment method.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

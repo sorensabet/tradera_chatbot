@@ -1,0 +1,39 @@
+QUESTION: What is the Hyperwallet service?
+ANSWER: The context mentions that PayPal offers its service, Hyperwallet, within the framework for Tradera. From this, we can infer that Hyperwallet is a service related to payment solutions for Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What responsibilities does Seller have while using Tradera?
+ANSWER: Clause a) in the context mentions that the Seller is responsible for all actions taken through the use of the Seller's unique login to Tradera. The clause suggests that the Seller is expected to take responsibility for their account and any activity associated with it.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Under what circumstances will the Terms and Conditions terminate?
+ANSWER: Clause b) of the context mentions that these Terms and Conditions will terminate in the event that Tradera terminates Tradera's User Agreement or denies the Seller the right to sell additional goods on Tradera's Platform under the terms and conditions set forth in Tradera's User Agreement. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What happens when the Terms and Conditions are terminated?
+ANSWER: Upon termination of the Terms and Conditions, Tradera has the right to withhold all payments to the Seller until Tradera has verified the number of outstanding transactions and all withdrawal periods have passed, or any suspected abuse of Tradera's payment solution has been investigated. This information is provided in Clause b) of the context.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What events may be considered force majeure?
+ANSWER: The context mentions that events such as lightning, sabotage, government action, power outage, deterioration of the internet or telecommunications, or any other event outside a Party's reasonable control may be considered as force majeure. This information is provided in multiple sub-clauses of Clause c) of the context.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What measures are parties obligated to take during a force majeure event?
+ANSWER: In the event of force majeure, the Party invoking force majeure shall be obliged to take reasonable measures to limit the damage caused by the event. This information is provided in Clause c) of the context.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What happens if the force majeure event lasts for more than 60 days?
+ANSWER: If the force majeure event lasts for more than 60 days, each Party shall be entitled to terminate the Terms and Conditions. This information is provided in the same sub-clause as mentioned before.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is the governing law for the Terms and Conditions?
+ANSWER: Clause f) of the context states that the Terms and Conditions shall be governed by and construed in accordance with Swedish law. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is the dispute resolution mechanism for disputes related to the Terms and Conditions?
+ANSWER: Clause f) of the context mentions that disputes relating to the Terms and Conditions shall be settled by the Swedish General Court, where the Stockholm District Court shall be the first. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Is Tradera liable for any service failures or delays?
+ANSWER: Clause c) of the context mentions that neither Party shall be liable for failure to perform a service, or delays if the cause is a force majeure event, which includes events outside a Party's reasonable control. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

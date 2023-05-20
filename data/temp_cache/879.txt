@@ -1,0 +1,39 @@
+QUESTION: What is the dispute settlement system on Tradera's platform?
+ANSWER: Tradera has a dispute settlement system in case there's a problem between a buyer and a seller. The buyer and seller communicate with each other through the system to try to find a solution. If they don't come to a resolution within ten days, the buyer may escalate the dispute to Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What happens if the buyer doesn't escalate the dispute to Tradera?
+ANSWER: If the buyer doesn't escalate the dispute to Tradera within ten days, the dispute settlement procedure will automatically be terminated in the seller's favor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: How does Tradera handle escalated disputes?
+ANSWER: If a dispute is escalated to Tradera, Tradera will contact both the buyer and seller to understand what's happened. They may ask both parties for supporting evidence, like additional documentations concerning the goods or transactions, before making a decision.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is the responsibility of the buyer in a dispute settlement procedure?
+ANSWER: The buyer is responsible for providing evidence to show that there are errors in the service provided by the seller, or the item sold by the seller. They need to prove that the goods differ from the seller's description.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What happens if the buyer initiates a dispute settlement procedure for a product not covered by Tradera's buyer protection?
+ANSWER: If the buyer initiates a dispute settlement procedure where the purchase isn't covered by Tradera's buyer protection, Tradera will terminate the dispute without any further investigations. As a result, the buyer won't be entitled to a refund.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Who is entitled to a refund if the dispute settlement procedure is terminated?
+ANSWER: If the dispute settlement procedure is terminated in favor of the buyer, the buyer will be entitled to a refund in part or in whole, of the amount paid for an item. Tradera will ensure that the amount is refunded to the buyer and reserves the right to invoice the seller for the refund owed.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: What is Tradera's role in the dispute settlement system?
+ANSWER: Tradera provides a dispute settlement system to resolve disputes between buyers and sellers on their platform. When a dispute is escalated to Tradera, they act as a mediator to obtain an understanding of the problem and may ask for supporting evidence before making a decision.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: How long does the buyer and seller have to try to find a solution in a dispute settlement procedure?
+ANSWER: The buyer and seller have ten days from the initiation of the dispute settlement procedure to try to find a solution. If they don't come to a resolution, the buyer may escalate the dispute to Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: Who is responsible for providing supporting evidence in a dispute settlement procedure?
+ANSWER: Both the buyer and seller may be asked for supporting evidence in a dispute settlement procedure. However, the buyer is responsible for proving that there are errors in the service provided by the seller, or the item sold by the seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION: How is the seller invoiced for the amount of a refund owed?
+ANSWER: If a dispute settlement procedure is terminated in the buyer's favor, Tradera will ensure that the refund is paid to the buyer and may invoice the seller for the amount of the refund owed. The invoice will be sent to the seller in the same way as Tradera invoices for sales commission and other costs that may arise in connection with a sale on their platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

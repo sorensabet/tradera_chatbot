@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med Prestandacookies på Tradera?
+ANSWER: Prestandacookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras genom att förbättra sidans prestanda så användare kan surfa snabbare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 2: Vad är Funktionella cookies och vad är deras syfte på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera. De används för att förbättra användarupplevelsen, t.ex. för vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 3: Varför använder Traderas annonseringspartners Marknadsföringscookies?
+ANSWER: Traderas annonseringspartners använder Marknadsföringscookies för att visa riktade annonser som är relevanta för användarna och öka kvaliteten på annonserna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 4: Kan jag använda mina sparade inställningar på Tradera med Funktionellacookies?
+ANSWER: Ja, Funktionellacookies på Tradera gör det möjligt för dig att använda dina sparade inställningar för att skapa en mer användaranpassad upplevelse.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 5: Är det nödvändigt att ha Marknadsföringscookies på Tradera?
+ANSWER: Nej, det är inte nödvändigt att ha Marknadsföringscookies på Tradera. Du kan välja att inte använda dessa cookies om du inte vill se riktade annonser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 6: Finns det några risker med att använda Funktionellacookies på Tradera?
+ANSWER: Nej, det finns inga risker med att använda Funktionellacookies på Tradera eftersom de endast används för att förbättra din användarupplevelse.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 7: Kan jag se hur Tradera använder mina cookies?
+ANSWER: Ja, du kan se hur Tradera använder dina cookies genom att titta på detaljerna i avdelningen om Cookies på Tradera:s webbplats.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 8: Kan jag välja att blockera alla cookies på Tradera?
+ANSWER: Ja, du kan välja att blockera alla cookies på Tradera om du vill. Men detta kan påverka funktionaliteten på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 9: Var kan jag hitta mer information om Traderas cookiepolicy?
+ANSWER: Du kan hitta mer information om Traderas cookiepolicy på webbplatsen under avsnittet "Cookies" eller "Integritetspolicy".
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION 10: Vilka andra cookies används på Tradera förutom Prestandacookies, Funktionellacookies och Marknadsföringscookies?
+ANSWER: Det är inte klart vilka andra cookies som används på Tradera eftersom texten bara nämner dessa tre kategorier av cookies. Ytterligare information finns på Traderas hemsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/

@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's policy on compliance with laws and regulations?
+ANSWER: Tradera requires its users to ensure that their actions comply with the laws and regulations that apply to them, and the items listed, sold, or bought on the site must be in compliance with the law. Verification of user-provided information is difficult, and Tradera cannot guarantee or be held responsible for the accuracy of this information. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the limit of Tradera's liability if they are found to be liable?
+ANSWER: Tradera's liability to the user or a third party, if found to be liable, is the greater of (a) the price of the item sold on Tradera, including the original shipping costs, (b) the amount of fees paid by the user in the 12 months prior to the action giving rise to the liability, or (c) SEK 1,000. However, this provision does not limit Tradera's liability for willful default or gross negligence or Tradera's statutory liability. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: When can Tradera be held liable?
+ANSWER: Tradera can be held liable for willful default or gross negligence or their statutory liability. However, their liability is limited to the price of the item sold on Tradera, or the amount of fees paid by the user in the 12 months prior to the action giving rise to the liability, or SEK 1,000, whichever is greater. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the indemnity agreement in Tradera's User Agreement?
+ANSWER: The indemnity agreement in Tradera's User Agreement requires the user to hold Tradera harmless for all losses and costs, including legal fees, incurred due to or arising out of the user's breach of the User Agreement, improper use of the site, services, applications, and tools, or infringement of any rights of a third party. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is the ''Butik'' add-on service for business users provided by Tradera?
+ANSWER: ''Butik'' is an add-on service provided by Tradera for business users. Tradera imposes additional requirements on individual Butiks concerning delivery, products, product descriptions, and terms to maintain a high standard. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What kind of additional requirements does Tradera impose on individual Butiks using the ''Butik'' add-on service?
+ANSWER: Tradera imposes additional requirements on individual Butiks using the ''Butik'' add-on service, including delivery, products, product descriptions, and terms, to maintain a high standard. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Who is responsible for ensuring the compliance of items listed, sold, or bought on Tradera with the law?
+ANSWER: The users of Tradera are solely responsible for ensuring that the actions they take comply with the laws and regulations that apply to them, and the items they list, sell, or buy on the site are in compliance with the law. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Is Tradera responsible for ensuring the accuracy of the information provided by its users on the site?
+ANSWER: Verification of user-provided information is difficult, and Tradera cannot guarantee or be held responsible for the accuracy of the information provided by its users on the site. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: What is Tradera's liability if they are found liable for an issue on the site?
+ANSWER: If Tradera is found liable for an issue on the site, their liability will be limited to the greater of the amount paid by the user to Tradera in the 12 months prior to the action giving rise to the liability, the price of the item sold on Tradera including the original shipping costs, or SEK 1,000. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/
+
+QUESTION: Does Tradera verify the accuracy of the information provided by its users?
+ANSWER: While Tradera uses technical solutions to try to verify the accuracy of the information provided by its users, verification on the Internet remains a difficult task, and therefore, Tradera cannot guarantee or be held responsible for the accuracy of the information provided by its users on the site. 
+URL: https://info.tradera.com/en/anvandaravtal-eng-2022-2023/

@@ -1,0 +1,39 @@
+QUESTION 1: Vad är Klarna?
+ANSWER: Klarna är ett betalningsalternativ som tillåter dig att betala för dina varor på Tradera.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 2: Vad är fördelen med att använda Klarna som betalningsalternativ?
+ANSWER: Fördelen med att använda Klarna som betalningsalternativ är att det är snabbt och smidigt, samt att du kan betala direkt, på faktura med 30 dagars kredittid eller på delbetalning. Oavsett hur du betalar får säljaren pengarna direkt och kan skicka varan omgående.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 3: Läggs Klarna automatiskt till som betalningsalternativ på alla annonser?
+ANSWER: Klarna läggs automatiskt till som betalningsalternativ på aktiva annonser i de flesta kategorier.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 4: Om jag har frågor som säljare vad ska jag göra?
+ANSWER: Om du är säljare, kan du kontakta Tradera vid frågor om pågående/avslutad tvist eller återbetalning.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 5: Om jag har frågor som köpare vad ska jag göra?
+ANSWER: Om du är köpare, kan du kontakta Klarna.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 6: Kan jag betala på faktura med Klarna?
+ANSWER: Ja, du kan betala på faktura med Klarna med 30 dagars kredittid.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 7: Vilka alternativ finns det för att betala med Klarna?
+ANSWER: Du kan välja att betala direkt, på faktura med 30 dagars kredittid eller på delbetalning.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 8: Får säljaren direkt sina pengar med Klarna?
+ANSWER: Ja, oavsett hur du betalar med Klarna, får säljaren pengarna direkt och kan skicka varan omgående.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 9: Kommer Klarna att läggas till som betalningsalternativ på alla annonser i alla kategorier?
+ANSWER: Klarna läggs automatiskt till som betalningsalternativ på aktiva annonser i de flesta kategorier.
+URL: https://info.tradera.com/klarna/
+
+QUESTION 10: Vad är fördelen med att använda delbetalning via Klarna?
+ANSWER: Fördelen med att använda delbetalning via Klarna är att du kan dela upp betalningen på flera månader.
+URL: https://info.tradera.com/klarna/

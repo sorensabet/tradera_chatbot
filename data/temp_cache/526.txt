@@ -1,0 +1,39 @@
+QUESTION: Vilka läkemedel är inte tillåtna att sälja på Tradera?
+ANSWER: Receptbelagda eller receptfria läkemedel är inte tillåtna att sälja på Tradera. Det är också otillåtet att sälja naturmedel, allergimedicin och sprutor.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Varför finns det regler för försäljning av läkemedelsrelaterade objekt på Tradera?
+ANSWER: Reglerna för försäljning av läkemedelsrelaterade objekt på Tradera finns för att hjälpa medlemmarna att följa svensk lagstiftning, eftersom försäljning av läkemedel och medicinsk utrustning enligt lag är förbjuden eller reglerad.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Varför är det inte tillåtet att använda medicinska påståenden i annonser på Tradera?
+ANSWER: Det är inte tillåtet att använda medicinska påståenden i annonser på Tradera eftersom Läkemedelsverket klassar produkter som läkemedel efter produktens marknadsföring och egenskaper. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Hur kan jag ta reda på om mitt objekt klassas som ett läkemedel eller inte?
+ANSWER: Om du säljer varor som kosttillskott, naturläkemedel eller liknande, är det viktigt att du tar reda på huruvida ditt objekt klassas som ett läkemedel eller inte. Läs gärna mer om detta på Läkemedelsverket.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Kan jag sälja medicinsk utrustning på Tradera?
+ANSWER: Det beror på vilken typ av medicinsk utrustning det handlar om och om den är reglerad i lag. Det är viktigt att du tar reda på om din medicinska utrustning är tillåten att sälja enligt godkända regler och lagar innan du säljer den på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Är kosttillskott tillåtna att sälja på Tradera?
+ANSWER: Kosttillskott kan vara tillåtna att sälja på Tradera, men det beror på hur produkten marknadsförs och vilka egenskaper produkten har. Det är viktigt att ta reda på om ditt kosttillskott klassas som ett läkemedel innan du säljer det på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Kan veterinärmedicin säljas på Tradera?
+ANSWER: Nej, receptbelagda eller receptfria läkemedel för djur är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Vad händer om jag bryter mot reglerna för försäljning av läkemedelsrelaterade objekt på Tradera?
+ANSWER: Om du bryter mot reglerna för försäljning av läkemedelsrelaterade objekt på Tradera kan det leda till att ditt konto stängs av eller att du blockeras från att sälja på Tradera i framtiden.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Vad är skillnaden mellan receptbelagda och receptfria läkemedel?
+ANSWER: Receptbelagda läkemedel kan endast köpas mot recept från läkare medan receptfria läkemedel kan köpas på apotek utan recept.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Kan jag sälja medicinering som jag inte behöver längre på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja medicinering på Tradera som är receptbelagd eller receptfri och i ditt personliga bruk. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/

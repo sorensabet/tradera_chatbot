@@ -1,0 +1,39 @@
+QUESTION: Vad är följden av att lägga upp en annons i fel kategori på Tradera?
+ANSWER: När en annons läggs upp i fel kategori försämras sökupplevelsen på Tradera, vilket gör det svårare att hitta objekt och ökar risken för felköp. Om en annons upptäcks att den har placerats i fel kategori, kan den komma att flyttas till den kategori som är bäst lämpad. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/
+
+QUESTION: Är det tillåtet att sälja vapenrelaterade objekt på Tradera?
+ANSWER: Säljare får sälja vapenrelaterade objekt på Tradera så länge de uppfyller alla relevanta krav och riktlinjer för försäljning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vapenrelaterade-objekt/
+
+QUESTION: Vilka typer av objekt är ej tillåtna att läggas upp på Tradera?
+ANSWER: Det finns flera typer av objekt som inte tillåts att säljas på Tradera, inklusive pornografiskt material, slaktavfall, livsmedel och läkemedelsrelaterade objekt. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-som-ej-ar-tillatna/
+
+QUESTION: Kan säljare placera annonser utan objekt till försäljning på Tradera?
+ANSWER: Det är inte tillåtet att placera annonser utan objekt till försäljning på Tradera. Annonsen måste vara för ett specifikt objekt till försäljning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Kan säljare använda falsk marknadsföring eller information om objektet de säljer på Tradera?
+ANSWER: Nej, det är inte tillåtet att använda falsk marknadsföring eller falsk information om objektet som säljs på Tradera. Detta inkluderar vilseledande rubriker och objektsbeskrivningar. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/vilseledande-rubriker-och-objektsbeskrivningar/
+
+QUESTION: Kan säljare sälja objekt utanför Tradera?
+ANSWER: Nej, det är inte tillåtet att göra en försäljning utanför Tradera. Alla försäljningar måste genomföras på plattformen, annars kan säljaren uteslutas från Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Är budbindning tillåtet på Tradera?
+ANSWER: Ja, budbindning är tillåtet på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Har säljare några omdömesregler på Tradera?
+ANSWER: Ja, säljare på Tradera måste följa ett antal krav och riktlinjer för omdömen. De måste till exempel inte försöka påverka omdömen med falsk information eller hot. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Kan säljare sälja programvaror och elektronisk media på Tradera?
+ANSWER: Ja, säljare kan sälja programvaror och elektronisk media på Tradera så länge de uppfyller alla relevanta krav och riktlinjer för försäljning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION: Kan säljare placera annonser för försäljning som tillhör flera kategorier på Tradera?
+ANSWER: Ja, säljare kan placera annonser som tillhör flera relevanta kategorier på Tradera för att öka exponeringen för objektet. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/

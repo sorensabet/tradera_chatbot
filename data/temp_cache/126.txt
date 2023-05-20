@@ -1,0 +1,39 @@
+QUESTION: What symbol will show up on the screen when verification is required at Tradera?
+ANSWER: The Bank ID symbol will show up on the screen when verification is required at Tradera.
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: How do I verify with Bank ID at Tradera?
+ANSWER: When a verification is required, click on continue and open your Bank ID app on your phone or computer and enter your 6 digit security code.
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: What are the most common reasons verification fails at Tradera?
+ANSWER: The most common reasons verification fails at Tradera are: taking too long to verify, trying to login with a cellphone without switching to the Bank ID app, and if it's not the same person on the Bank ID and the Tradera account.
+URL: https://info.tradera.com/en/security-center/fragor-och-svar-bank-id/
+
+QUESTION: What categories are available for shopping at Tradera?
+ANSWER: Tradera offers a variety of categories for shopping.
+URL: https://www.tradera.com/categories
+
+QUESTION: Can I shop popular brands on Tradera?
+ANSWER: Yes, there are popular brands available for shopping on Tradera.
+URL: https://www.tradera.com/categories
+
+QUESTION: What are the requirements to sell as a private seller on Tradera?
+ANSWER: To sell as a private seller on Tradera, you need to be over 18 years old and have a Swedish personal identification number.
+URL: https://www.tradera.com/sell-private-seller
+
+QUESTION: What are the requirements to sell as a business on Tradera?
+ANSWER: To sell as a business on Tradera, you need to have a registered business and be registered for VAT (Value Added Tax).
+URL: https://www.tradera.com/sell-business
+
+QUESTION: Does Tradera offer shipping calculation?
+ANSWER: Yes, Tradera offers a shipping calculator.
+URL: https://www.tradera.com/shipping-calculator
+
+QUESTION: What are the charity causes supported by Tradera?
+ANSWER: Tradera supports a variety of charity causes.
+URL: https://www.tradera.com/charity-causes
+
+QUESTION: How can I contact Tradera for help?
+ANSWER: You can contact Tradera for help through their contact page.
+URL: https://www.tradera.com/contact-us

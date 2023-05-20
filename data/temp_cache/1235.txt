@@ -1,0 +1,39 @@
+QUESTION: What is Klarna?
+ANSWER: Klarna is a bank with org. no. 556737-0431 that is mentioned in the text.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is My Tradera?
+ANSWER: My Tradera is a logged-on environment provided by Tradera that allows the seller to manage order processing, and the buyer to verify their purchases.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the Rules for Sellers?
+ANSWER: The Rules for Sellers are the rules that a Seller must always follow when selling on Tradera's Platform and they are available on Tradera's website in their latest versions.
+URL: https://info.tradera.com/en/rules-at-tradera/
+
+QUESTION: Who is considered as The Swedish Buyer?
+ANSWER: The Swedish Buyer, according to the terms and conditions mentioned in the text, is any natural person residing in Sweden who has made a purchase from the Seller on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Who is considered as The Seller?
+ANSWER: The Seller, according to the terms and conditions mentioned in the text, is any natural person residing in a jurisdiction other than Sweden or any legal person selling goods or services on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera?
+ANSWER: Tradera is the Nordic e-commerce company that owns and operates Tradera's Platform and My Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's Platform?
+ANSWER: Tradera's Platform is the websites, marketplace services, and applications that Tradera provides through its website, www.tradera.com.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's User Agreement?
+ANSWER: Tradera's User Agreement is Tradera's prevailing terms and conditions for the use of Tradera's Platform and other services provided by Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What is Tradera's checkout solution?
+ANSWER: Tradera's checkout solution is the website with various payment methods that the Buyer may be offered from time to time on Tradera's Platform such as card, PayPal, and other payment methods that Tradera adds in due course. The payment services in Tradera's checkout solution are provided by third parties with whom Tradera has a contract.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's payout solution?
+ANSWER: Tradera's payout solution is the payment service provided by Hyperwallet to Tradera whereby payment can be made to the seller for goods sold.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

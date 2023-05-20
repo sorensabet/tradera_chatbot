@@ -1,0 +1,39 @@
+QUESTION: Vilken teknik använder Tradera för att skydda användarnas personuppgifter?
+ANSWER: Tradera använder fysiska, tekniska och organisatoriska säkerhetsåtgärder för att förhindra obehörig behandling, inklusive obehörig åtkomst, tillägnande och användning av personuppgifter som samlas in genom Traderas cookies och liknande teknik.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken information samlar Traderas cookies in och hur används den?
+ANSWER: Traderas cookies samlar in information som används för att underlätta användarnas upplevelse på webbplatsen, såsom att komma ihåg språkinställningar och val av betalningsmetod.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka åtgärder vidtar Tradera för att förhindra obehörig åtkomst till personuppgifter?
+ANSWER: Tradera vidtar fysiska, tekniska och organisatoriska säkerhetsåtgärder, beroende på mängd och känslighet av personuppgifter, för att förhindra obehörig åtkomst, tillägnande och användning av personuppgifter som samlas in genom cookies och liknande teknik.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad menas med tjänsteleverantörer på Tradera?
+ANSWER: Tjänsteleverantörer är företag som hjälper Tradera med olika delar av verksamheten, såsom drift av webbplatsen, applikationer, annonser och verktyg.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Använder Tradera cookies för att ge användarna relevanta annonser?
+ANSWER: Ja, Tradera kan placera cookies på användarens enhet via tjänsteleverantörer för att ge relevant annonsering på Traderas tjänster och på Internet i övrigt.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken teknik använder Tradera för att förbättra användarnas upplevelse?
+ANSWER: Tradera använder teknik som i huvudsak består av små datafiler som placeras på användarens dator, surfplatta, mobiltelefon eller andra enheter för att underlätta användarnas upplevelse på webbplatsen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är webb-beacons?
+ANSWER: Webb-beacons är små grafiska bilder eller kod som läggs in i email och på webbsidor för att se om användaren har öppnat ett email eller besökt en viss webbsida.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är syftet med Traderas cookies?
+ANSWER: Syftet med Traderas cookies är att underlätta användarnas upplevelse på webbplatsen, såsom att komma ihåg språkinställningar och val av betalningsmetod.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan tjänsteleverantörer som Tradera godkänt placera cookies på min enhet?
+ANSWER: Ja, tjänsteleverantörer som Tradera godkänt kan placera cookies på användarens enhet.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur samlar Traderas cookies in information om min enhet?
+ANSWER: Traderas cookies kan samla in information för att identifiera användarens enhet, såsom IP-adress eller andra unika enhetsidentifierare.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

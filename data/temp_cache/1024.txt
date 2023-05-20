@@ -1,0 +1,39 @@
+QUESTION: Vilka säkerhetsåtgärder använder Tradera för att skydda personuppgifter?
+ANSWER: Tradera använder fysiska, tekniska och organisatoriska säkerhetsåtgärder, såsom brandväggar, kryptering av data, inpasseringskontroll vid datacenters och behörighetskontroller, för att förhindra obehörig behandling av personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur behandlar Tradera användares personuppgifter?
+ANSWER: Tradera behandlar användares personuppgifter med största försiktighet, och vidöverföring av sådana uppgifter till platser utanför EES, används säkerhetsåtgärder för att förhindra obehörig åtkomst, tillägnande och användning av personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka personuppgifter samlar Tradera in om sina användare?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress och betalningsinformation från sina användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan användare begära att deras konto avslutas och personuppgifter raderas från Traderas system?
+ANSWER: Ja, användare kan begära att deras konto avslutas och personuppgifter raderas från Traderas system. Tradera kommer att ta bort personuppgifter så att de inte visas för andra användare så snart som möjligt. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken lag reglerar Traderas behandling av personuppgifter?
+ANSWER: Tradera följer tillämpliga lagar, inklusive EU:s allmänna dataskyddsförordning (GDPR), när de hanterar användares personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka kan Tradera dela personuppgifter med?
+ANSWER: Tradera kan dela personuppgifter med tredje partstjänsteleverantörer som de använder för att hantera betalningar och transaktioner, samt med myndigheter om det krävs enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas från Traderas system?
+ANSWER: Ja, personuppgifter hänförliga till stängda eller inaktiva konton kommer vanligtvis att raderas eller anonymiseras så snart som möjligt efter kontots stängning eller inaktivering.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilka åtgärder vidtar Tradera om ett konto används i strid med deras Användaravtal?
+ANSWER: Tradera kan komma att stänga eller inaktivera konton som inte används eller konton som används i strid med deras Användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad gör Tradera om personuppgifter behandlas i strid med lagen?
+ANSWER: Om Tradera upptäcker eller misstänker att personuppgifter behandlas i strid med lagen så kommer de att vidta lämpliga åtgärder för att rätta till detta.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Hur länge kan Tradera behålla personuppgifter?
+ANSWER: Personuppgifter kan behållas av Tradera baserat på användarens kontostatus och i enlighet med tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

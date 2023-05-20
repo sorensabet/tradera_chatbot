@@ -1,0 +1,39 @@
+QUESTION 1: What is a purchase request and how does it work?
+ANSWER: A purchase request is a feature that allows buyers to send an offer for an item that has ended without being sold, closing the possibility of purchasing the item on the website. When a buyer sends a request, the seller receives a notification with the offer. If the seller accepts the offer, the request becomes binding for both parties. The offer is only active for 24 hours.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 2: How can I send a purchase request on Tradera?
+ANSWER: Sending a purchase request on Tradera is easy. All you have to do is click on the “Send Purchase Request” button on a listing that ended without a buyer. Once the button is selected, enter an offer that you think the seller might accept and then press send. 
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 3: Is the offer I make in the purchase request binding?
+ANSWER: Yes, just like a bid, a purchase request is a binding commitment if the seller accepts it. This means that buyers should be certain before they make an offer. 
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 4: For how long will my purchase request be active?
+ANSWER: The offer made will only be active for 24 hours. If the seller accepts the request within the given timeframe, both parties are committed to closing the deal.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 5: Can I send a purchase request for any product I see on Tradera?
+ANSWER: No, a purchase request can only be sent for a listing that ended without a buyer. If the seller decided to remove the item after the product's first listing, it is not possible to send a purchase request nor will the option be available on the website.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 6: Can I change or cancel my purchase request after the offer is sent?
+ANSWER: No, buyers are unable to cancel or change their purchase request once it is sent. The offer made is binding if the seller accepts it so make sure to double-check any offer made before sending the request.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 7: Do I need to sign in to send a purchase request?
+ANSWER: Yes, buyers need to log in to their Tradera account to send a purchase request. If the user doesn't have an account, they must sign up for one to take advantage of the purchase request feature.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 8: How does sending a purchase request benefit the seller?
+ANSWER: Sending a purchase request benefits the seller because it allows an opportunity for them to sell their items that haven't been sold yet. The feature allows the seller to receive offers at any moment, giving them a higher chance of successfully selling their product. 
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 9: Can the purchase request feature be used for auction-style listings?
+ANSWER: No, the purchase request feature is not available for auction-style listings on Tradera. It is only available for products that meet the criteria of a listing that ended without a buyer.
+URL: https://info.tradera.com/en/purchase-request/
+
+QUESTION 10: Will the purchase request feature work for international purchases?
+ANSWER: Yes, The purchase request feature works for international purchases on Tradera. However, depending on the item's origin, taxes and other fees might apply, so the buyer should check to see if there are any additional costs before making a purchase. 
+URL: https://info.tradera.com/en/purchase-request/

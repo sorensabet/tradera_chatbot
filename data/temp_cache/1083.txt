@@ -1,0 +1,39 @@
+QUESTION: Hvad er en købsanmodning på Tradera?
+ANSWER: En købsanmodning på Tradera er en funktion, hvor købere kan sende en forespørgsel til sælgerne om at købe en vare fra en auktion, der er afsluttet uden at blive solgt. Det giver både købere og sælgere en ekstra chance for at gennemføre en handel.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvilke annoncer kan købsanmodning bruges på på Tradera?
+ANSWER: Købsanmodningen fungerer i øjeblikket kun på auktioner, der også har en køb nu-pris. Kun auktionsannoncer eller fastprisannoncer har i første omgang ikke adgang til funktionen Købsanmodning.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvad er fordelen ved at bruge købsanmodning på Tradera?
+ANSWER: Fordelen ved at bruge købsanmodningen på Tradera er, at både købere og sælgere får en ekstra chance for at gennemføre en handel, og der er flere tilgængelige købsannoncer end nogensinde før.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvordan sender man en købsanmodning på Tradera?
+ANSWER: Man kan sende en købsanmodning ved at klikke på knappen "Send købsanmodning" inde i den færdige annonce. Dernæst skal man indtaste en pris, man ønsker at betale for varen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvornår kan man bruge købsanmodning på Tradera?
+ANSWER: Man kan bruge købsanmodningen på Tradera på auktioner, der også har en køb nu-pris. I første omgang er kun auktionsannoncer eller fastprisannoncer ikke adgang til funktionen Købsanmodning.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Fungerer købsanmodning kun for købere på Tradera?
+ANSWER: Ja, købsanmodningen er kun for købere på Tradera, der ønsker at købe varer fra annoncer, der er afsluttet uden at blive solgt.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Kan man bruge købsanmodning på alle annonceformater på Tradera?
+ANSWER: I første omgang er kun auktionsannoncer eller fastprisannoncer ikke adgang til funktionen Købsanmodning på Tradera. Men Tradera arbejder på at frigive funktionen til alle annonceformater så hurtigt som muligt.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Kan man indtaste en egen pris, man vil betale for en vare ved brug af købsanmodning på Tradera?
+ANSWER: Ja, når man sender en købsanmodning på Tradera, skal man indtaste en pris, man vil betale for varen.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvad sker der, hvis sælgeren ikke accepterer købsanmodningen på Tradera?
+ANSWER: Hvis sælgeren ikke accepterer købsanmodningen på Tradera, vil varen blive sat tilbage på auktion eller fastpris, afhængigt af annoncens format.
+URL: https://info.tradera.com/da/koebsanmodning/
+
+QUESTION: Hvorfor er der flere købsannoncer end nogensinde før på Tradera?
+ANSWER: Der er flere købsannoncer end nogensinde før på Tradera, fordi købsanmodningen giver købere en ekstra chance for at købe varer fra annoncer, der er afsluttet uden at blive solgt, og dermed øger antallet af mulige handler.
+URL: https://info.tradera.com/da/koebsanmodning/

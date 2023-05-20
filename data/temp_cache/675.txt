@@ -1,0 +1,39 @@
+QUESTION: Hur reklamerar jag om min vara inte har kommit fram eller är skadad?
+\ANSWER: För alla PostNord produkter förutom spårbart till brevlåda så kan du göra en reklamation genom att klicka på länken som finns i texten. Om det gäller spårbart till brevlåda ska du kontakta Traderas kundservice. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka åtgärder kan jag som säljare ta för att förhindra skador på varan under transporten?
+\ANSWER: Som säljare ansvarar du för att paketera varan så att den klarar transporten. Du kan packa varan genom att tänka: "Vad händer om paketet skulle råka ramla från köksbordet?". Det är viktigt att packa med så mycket emballage som möjligt så att innehållet ligger stabilt och inte rör sig. Lappar eller text med "AKTAS", "GLAS" eller liknande ger inte ytterligare skydd eftersom paketen hanteras maskinellt.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad gör jag om jag behöver kontakta Traderas kundservice gällande spårbart till brevlåda?
+\ANSWER: Om du behöver reklamera en vara som har använt spårbart till brevlåda ska du kontakta Traderas kundservice för hjälp med reklamationen. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan mitt paket bli skadat när det hanteras maskinellt under transporten?
+\ANSWER: Ja, paketen hanteras delvis maskinellt under transporten vilket ökar risken för skador på paketen. Det är viktigt att packa varan noggrant för att undvika skador. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Var kan jag hitta transportetiketten för mitt Traderapaket?
+\ANSWER: Efter genomförd fraktbokning kan du ladda ned din transportetikett som PDF från kvittosidan. Du kommer även att få den skickad till dig via e-post som en PDF. Du skriver sedan ut den och fäster på paketet. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Behöver jag en speciell programvara för att läsa transportetiketten för mitt Traderapaket?
+\ANSWER: Ja, för att läsa transportetiketten för ditt Traderapaket behöver du en PDF-läsare som kan laddas ner kostnadsfritt från exempelvis http://get.adobe.com.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Var kan jag hitta speciella plastfickor för att fästa transportetiketten på mitt Traderapaket?
+\ANSWER: De flesta ombud erbjuder speciella plastfickor för att fästa transportetiketten på paketet. Du kan fråga vid ombudet var du kan hitta dessa plastfickor. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vem är ansvarig för transportetiketten för mitt Traderapaket?
+\ANSWER: Som avsändare är du ansvarig för transportetiketten för ditt Traderapaket och det är ditt ansvar att skriva ut den och fästa på paketet.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag spåra mitt Traderapaket med PostNord?
+\ANSWER: Ja, när du bokar en frakt med PostNord kommer ditt paket att ha ett spårningsnummer som du kan använda för att spåra det under transporten.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vad händer om mitt Traderapaket inte hämtas upp på ombudet?
+\ANSWER: Om paketet inte hämtas upp på ombudet kommer det att skickas tillbaka till avsändaren. Du som köpare kan riskera att betala en avgift för detta. 
+URL: https://info.tradera.com/postnord/

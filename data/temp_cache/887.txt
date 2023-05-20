@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Traderas betallösning?
+ANSWER: Betalningsalternativen som finns tillgängliga på Traderas betallösning beror på vad Köparen väljer att använda, men Säljaren kan endast kräva betalning genom de alternativ som finns tillgängliga genom Traderas betallösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur lång tid tar det för Säljaren att få betalt efter att en transaktion har genomförts?
+ANSWER: Säljaren som huvudregel får betalt inom en till två bankdagar efter att en transaktion har genomförts, förutsatt att korrekta inbetalningsuppgifter har lämnats till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om Säljaren kräver betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas betallösning?
+ANSWER: Säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas betallösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka avgifter kan Tradera åläggas i samband med en transaktion på Tradera.plattformen?
+ANSWER: Tradera kan åläggas avgifter i samband med en transaktion på Tradera.plattformen, inklusive fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA eller MasterCard.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Säljaren välja vilken betallösning de vill använda på Tradera.plattformen?
+ANSWER: Nej, Säljaren förväntas använda Traderas betallösning vid försäljning på Traderas Plattform och kan inte välja att använda en annan betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om Säljaren inte uppger korrekta inbetalningsuppgifter till Tradera?
+ANSWER: Om Säljaren inte uppger korrekta inbetalningsuppgifter till Tradera kan det innebära att återbetalningar eller utbetalningar fördröjs eller omöjliggörs. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka samarbetspartners kan Tradera åläggas avgifter för en transaktion?
+ANSWER: Tradera kan åläggas avgifter för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA eller MasterCard. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilken funktion har Traderas betallösning på plattformen?
+ANSWER: Traderas betallösning tillåter Säljaren att få betalt vid försäljning på Traderas Plattform och det förväntas att Säljaren följer dessa Villkor och använder Traderas betallösning vid försäljning på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Säljaren få betalt direkt vid betalning med Swish?
+ANSWER: Ja, Säljaren får betalt direkt vid betalning med Swish. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Traderas utbetalningstakt för Säljaren komma att ändras?
+ANSWER: Ja, Traderas utbetalningstakt kan komma att ändra och det är Säljarens ansvar att hålla sig uppdaterad på detta.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

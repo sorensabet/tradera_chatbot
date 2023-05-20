@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Användaravtalet?
+ANSWER: Syftet med Användaravtalet är att specificera villkoren för användning av Traderas webbplats. Avtalet anger de skyldigheter och rättigheter som gäller för användare som säljer, köper eller annonserar på Traderas webbplats.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är avsnittet "Missbruk av Tradera"?
+ANSWER: Avsnittet "Missbruk av Tradera" specificerar de handlingar och aktiviteter som inte är tillåtna på Traderas webbplats. Detta inkluderar bland annat bedrägeri, olovligt innehåll, försök att manipulera budgivning och användning av falska identiteter.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilket ansvar har användaren för att följa lagar och regler när de annonserar, säljer eller köper på Tradera?
+ANSWER: Användaren har ensamt ansvar för att de åtgärder de vidtar följer de lagar och regler som gäller för dem när de annonserar, säljer eller köper på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om användaren bryter mot Användaravtalet?
+ANSWER: Om en användare bryter mot Användaravtalet kan åtgärder vidtas mot dem, vilket kan inkludera att deras konto stängs av eller att de inte längre tillåts använda Tradera.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Hur garanterar Tradera att den information som användarna tillhandahåller är korrekt?
+ANSWER: Trots att Tradera använder tekniska lösningar för att försöka kontrollera att den information som användarna tillhandahåller är korrekt, är kontroll på Internet svårt. Tradera kan inte garantera och ansvarar inte för att den identitet som användarna har angivit eller att den information som användarna lämnar på Traderas webbplats är korrekt.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är de skyldigheter användarna har när de säljer på Tradera?
+ANSWER: Användarna har skyldigheter när de säljer på Tradera, inklusive att beskriva föremålen korrekt och ärligt, tillhandahålla information om varan och svara på frågor från köpare på ett korrekt sätt.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad händer om en användare lägger upp olovligt innehåll på Traderas webbplats?
+ANSWER: Om en användare lägger upp olovligt innehåll på Traderas webbplats kan åtgärder vidtas mot dem, inklusive att deras konto stängs av eller att de inte längre tillåts använda Tradera.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är skyddet för användarna på Tradera när de köper och säljer med varandra?
+ANSWER: Tradera erbjuder skydd för användare när de köper och säljer med varandra genom att erbjuda säker betalning och genom att ha en kundtjänst som kan hjälpa användare när de har problem med transaktioner.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vad är Traderas ansvar gentemot användare eller tredje man?
+ANSWER: Om Tradera anses ansvariga gentemot en användare eller tredje man så är deras ansvar begränsat till det högre av (a) priset för det föremål som sålts på Tradera inklusive den första fraktkostnaden, (b) de avgifter som användaren har betalt till Tradera under de tolv månader som föregick händelsen.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera ändra Användaravtalet och dess policyer?
+ANSWER: Ja, Tradera kan ändra Användaravtalet och dess policyer från tid till annan. Ändringarna kan till exempel göras om det krävs på grund av ändringar i lagstiftning eller i Traderas tjänster eller om det anses nödvändigt för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/

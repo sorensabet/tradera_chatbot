@@ -1,0 +1,39 @@
+QUESTION: Vilka villkor gäller för köpare att utnyttja sin ångerrätt på Tradera?
+ANSWER: Köpare kan utnyttja sin ångerrätt på Tradera enligt lagen om distansavtal och avtal utanför affärslokaler, vilket ger dem 14 dagars ångerfrist från dagen efter att de har mottagit varan. Detta gäller dock inte vid köp mellan privatpersoner.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilka skyldigheter har företagssäljare angående ångerrätten på Tradera?
+ANSWER: Som företagssäljare på Tradera är man skyldig att erbjuda och informera köpare om deras 14 dagars ångerrätt oavsett ordervärde, enligt lagen om distansavtal och avtal utanför affärslokaler. Företagssäljare behöver också informera om ansvarsfrågor vid en eventuell returfrakt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: När börjar ångerfristen för köparen att gälla på Tradera?
+ANSWER: Ångerfristen för köparen på Tradera börjar gälla från dagen efter att de har mottagit varan, enligt lagen om distansavtal och avtal utanför affärslokaler.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vad händer om företagssäljare inte informerar om ångerrätten till köparen före köpet?
+ANSWER: Om företagssäljare på Tradera inte informerar köparen om vem som ansvarar för kostnaden vid en eventuell returfrakt före köpet, ansvarar säljaren för kostnaden vid en retur.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vad måste företagssäljare informera köpare om före köpet på Tradera?
+ANSWER: Företagssäljare på Tradera är skyldiga att informera köpare om ångerrätten och hur köparen ska gå tillväga för att ångra köpet i tillämpliga fall före köpet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vad måste företagssäljare informera köpare om efter köpet på Tradera?
+ANSWER: Efter köpet är genomfört på Tradera är företagssäljare skyldiga att informera köpare om ångerrätten ytterligare en gång.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Hur länge har köparen tid på sig att utnyttja ångerrätten på Tradera?
+ANSWER: Köpare på Tradera har 14 dagars ångerfrist från dagen efter det att de har mottagit varan enligt lagen om distansavtal och avtal utanför affärslokaler.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vad händer om en köpare på Tradera utnyttjar sin ångerrätt?
+ANSWER: Om en köpare på Tradera utnyttjar sin ångerrätt, har de rätt att ångra köpet, skicka tillbaka varan och få pengarna tillbaka utan dröjsmål.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilka villkor gäller inte när det kommer till köp och ångerrätt på Tradera?
+ANSWER: Ångerrättsvillkoren på Tradera gäller inte vid köp mellan privatpersoner.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilken lag reglerar ångerrätten på Tradera?
+ANSWER: Ångerrätten på Tradera regleras av lagen om distansavtal och avtal utanför affärslokaler.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/

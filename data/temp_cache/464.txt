@@ -1,0 +1,39 @@
+QUESTION: Vad är PostNord och hur är det relaterat till Tradera?
+\ANSWER: PostNord är ett logistikföretag som Tradera samarbetar med för att hantera leveranser av varor från säljare till köpare på Tradera-plattformen. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Hur hittar jag en säljare på Tradera?
+\ANSWER: Du kan hitta säljare på Tradera genom att söka efter specifika varor du är intresserad av eller genom att söka i olika kategorier på sajten. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Kan jag spåra min leverans på Tradera och i så fall var hittar jag spårningsnumret?
+\ANSWER: Ja, du kan spåra din leverans på Tradera genom att gå till "Mitt Tradera". Spårningsnumret finns också tillgängligt där. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Vilka är PostNords leveranstider för Tradera-försändelser?
+\ANSWER: Leveranstiderna för Tradera-försändelser med PostNord kan variera beroende på vilket land du befinner dig i och vilken typ av leveransalternativ du har valt. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Kan jag ändra min leveransadress efter att jag har lagt min beställning på Tradera?
+\ANSWER: Det är möjligt att ändra din leveransadress efter att du har lagt en beställning på Tradera, men du måste kontakta säljaren och se om det är möjligt. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Vad händer om jag inte är hemma när min leverans från Tradera med PostNord anländer?
+\ANSWER: Om du inte är hemma när din leverans från Tradera med PostNord anländer kommer brevbäraren att lämna ett meddelande i din brevlåda med information om hur du kan hämta leveransen. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Kan jag hämta min leverans från Tradera med PostNord på ett postkontor?
+\ANSWER: Ja, om du inte var hemma för att ta emot din Tradera-leverans med PostNord kan du hämta den på ditt lokala postkontor. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Kan jag få min Tradera-beställning med PostNord levererad till en annan person än mig själv?
+\ANSWER: Ja, du kan ha din Tradera-beställning med PostNord levererad till en annan person än dig själv, men du måste ange den personens adress när du gör din beställning. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Vilka olika typer av leveransalternativ finns tillgängliga för Tradera-försändelser med PostNord?
+\ANSWER: Det finns flera olika leveransalternativ tillgängliga för Tradera-försändelser med PostNord, inklusive vanlig brevpost, ombudspaket, hemleverans och expressleverans. 
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Om jag har flera objekt som ska skickas till samma adress, kan de levereras tillsammans i en försändelse?
+\ANSWER: Ja, om du har flera objekt som ska skickas till samma adress kan de levereras tillsammans i en försändelse. 
+URL: https://info.tradera.com/en/postnord/

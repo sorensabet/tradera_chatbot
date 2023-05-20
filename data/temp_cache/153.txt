@@ -1,0 +1,39 @@
+QUESTION: What is the default selling region on Tradera?
+ANSWER: The default selling region on Tradera is EU.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Can a seller limit their listing region to only Sweden?
+ANSWER: Yes, a seller can limit their listing region to only Sweden before or after publishing the listing. However, if the current highest bidder is from another country, the seller cannot limit the region.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Do most Tradera sellers offer combined shipping?
+ANSWER: Yes, most sellers on Tradera offer combined shipping. It is recommended that buyers contact the seller before paying to check if combined shipping is something they offer and how to proceed.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Is a seller allowed to charge more for shipping than what's specified in the listing?
+ANSWER: The shipping cost should be the same as the one stated in the listing, but if there is an agreement between the buyer and seller to use a different shipping provider or if there are additional changes to the shipping agreement, the seller is allowed to change the cost. In cases like this, it is up to both parties to reach an agreement.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Who is responsible for contacting the shipping company if an item breaks or is lost in transit?
+ANSWER: This varies from shipping company to shipping company. The buyer should check the shipping company used for the parcel to find out more about what rules apply and who should contact them.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Can a buyer change the delivery address?
+ANSWER: To ensure that seller protection is not affected, the buyer needs to ship the parcel to the address listed at Tradera. The buyer can change the address temporarily.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: How can a seller offer combined shipping on Tradera?
+ANSWER: Most sellers on Tradera offer combined shipping. To check if a seller offers combined shipping, buyers should contact the seller before paying to know if it is possible and how to proceed. Tradera is currently working on a combined shipping improvement, and more information will be available once they are close to launch.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: How does the shipping price get determined on Tradera?
+ANSWER: If a buyer chooses a shipping company and has a shipping cost of 64 SEK, for example, the table will convert this to the package weighing in at 1kg since the shipping price for 1kg is 59 SEK and that's the closest weight class.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Is there a limit to the number of items a buyer can purchase from a seller on Tradera?
+ANSWER: There is no limit to the number of items a buyer can purchase from a seller on Tradera.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION: Is a buyer allowed to return an item due to high shipping costs?
+ANSWER: Shipping costs are the responsibility of the buyer, and they cannot return an item due to high shipping costs.
+URL: https://info.tradera.com/en/fraktguiden/

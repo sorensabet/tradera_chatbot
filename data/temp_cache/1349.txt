@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av meddelanden kan Tradera skicka till mig?
+ANSWER: Tradera kan skicka meddelanden till dig via e-post eller post.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Vad händer om jag inte tar emot meddelanden som skickats till mig via e-post?
+ANSWER: Om du inte tar emot meddelanden som skickats till dig via e-post och avsändaren inte får meddelande om att e-postadressen inte är giltig, kommer du att anses ha mottagit meddelandet efter 24 timmar efter att e-posten skickades.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Vad händer om jag inte tar emot meddelanden som skickats till mig via post?
+ANSWER: Om Tradera skickar meddelanden till dig via post och du inte tar emot dem, anses du ha mottagit meddelandet tre dagar efter att det skickades.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Var kan jag hitta information om hur man köper på Tradera?
+ANSWER: Du kan hitta information om hur man köper på Tradera under fliken "How to shop at Tradera" på Traderas hemsida.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Vilka kategorier kan jag hitta på Tradera?
+ANSWER: Du kan hitta olika kategorier på Tradera, beroende på vad säljarna väljer att sälja. Exempel på kategorier inkluderar kläder, hemelektronik och sportutrustning.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Vilka populära varumärken kan jag hitta på Tradera?
+ANSWER: Du kan hitta olika populära varumärken på Tradera, beroende på vad säljarna väljer att sälja. Exempel på populära varumärken inkluderar Ikea, Elgiganten och H&M.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Kan jag sälja som privatperson på Tradera?
+ANSWER: Ja, du kan sälja som privatperson på Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Kan jag sälja som företag på Tradera?
+ANSWER: Ja, du kan sälja som företag på Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Finns det en fraktberäknare på Tradera?
+ANSWER: Ja, det finns en fraktberäknare på Tradera som du kan använda för att beräkna kostnaden för att skicka dina produkter.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Kan jag donera pengar till välgörenhetsändamål genom Tradera?
+ANSWER: Ja, du kan donera pengar till olika välgörenhetsändamål genom Tradera.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

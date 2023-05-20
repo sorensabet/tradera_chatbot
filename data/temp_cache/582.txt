@@ -1,0 +1,39 @@
+QUESTION: Vad är Nettoutbetalning?
+ANSWER: Nettoutbetalning är en betalningsmetod som innebär att Tradera drar av sina avgifter innan de betalar ut pengarna till säljaren istället för att fakturera dem i slutet av månaden.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Fungerar Nettoutbetalning för alla betalsätt?
+ANSWER: Ja, Nettoutbetalning fungerar för alla betalsätt utom Swish.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad händer om jag har ett positivt saldo på min Tradera-profil en vardag?
+ANSWER: Om du har ett positivt saldo på din Tradera-profil en vardag så startar Tradera en utbetalning till dig.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad händer om jag har ett negativt saldo vid månadens slut?
+ANSWER: Om du har ett negativt saldo vid månadens slut kommer Tradera att skicka dig en faktura.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Varför inför Tradera Nettoutbetalningar?
+ANSWER: Tradera inför Nettoutbetalningar för att förenkla för säljare på plattformen.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kommer jag fortfarande att betala avgifter för mina transaktioner på Tradera med Nettoutbetalning?
+ANSWER: Ja, säljare kommer fortfarande att betala avgifter för sina transaktioner på Tradera med Nettoutbetalning. Avgifterna dras bara av innan utbetalningen sker.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kan jag använda Swish med Nettoutbetalning på Tradera?
+ANSWER: Nej, Swish fungerar inte med Nettoutbetalning på Tradera.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Måste jag betala fakturan direkt om jag har ett negativt saldo vid månadens slut på Tradera?
+ANSWER: Ja, det är bäst att betala fakturan direkt för att undvika eventuella förseningar eller problem med kontot.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: När betalar Tradera ut mina pengar med Nettoutbetalning?
+ANSWER: Tradera betalar ut pengarna med Nettoutbetalning när säljaren har ett positivt saldo på en vardag.
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Kommer det att finnas några ändringar i avgifterna med införandet av Nettoutbetalning?
+ANSWER: Nej, det kommer inte att finnas några ändringar i avgifterna med införandet av Nettoutbetalning. Avgifterna kommer att dras av innan utbetalningen sker.
+URL: https://info.tradera.com/nettoutbetalning/

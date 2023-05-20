@@ -1,0 +1,39 @@
+QUESTION: Vilka olika fraktalternativ finns på Tradera? 
+ANSWER: I denna guide kan du läsa om de olika fraktalternativ som erbjuds på Tradera, samt tips kring frakt till andra länder.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Var kan jag läsa om hur man packar en vara?
+ANSWER: Om du vill läsa våra tips om hur man packar en vara så kan du klicka på länken till sidan som beskriver det.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilket fraktsätt rekommenderas för dyrare varor?
+ANSWER: Det rekommenderas att använda spårbar frakt för dyrare varor eftersom detta ger en ökad säkerhet vid leverans och förskottsverifiering av försändelsen.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur kan jag spåra min försändelse?
+ANSWER: Om du har valt ett spårbart fraktsätt kan du spåra din försändelse genom att välja det spårningsalternativ som fraktbolaget erbjuder.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad är avgiften för Rekommenderat brev?
+ANSWER: Priset för Rekommenderat brev kan variera beroende på storlek och vikt på försändelsen, samt om den ska skickas inom eller utanför Sverige.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilka länder kan jag skicka min försändelse till?
+ANSWER: Använd vår fraktguide för att hitta information om vilka länder du kan skicka till och om de tullavgifter som kan tillkomma.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad är spårbar frakt?
+ANSWER: Spårbar frakt är ett fraktsätt där du som avsändare kan följa försändelsens väg från avsändaren till mottagaren via en spårningskod. Det ger en ökad säkerhet vid leverans av försändelsen.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilka fördelar finns det med spårbar frakt?
+ANSWER: Fördelarna med spårbar frakt är att du har möjlighet att följa din försändelse under hela leveransprocessen och vid eventuella problem kan leverantören lösa ärendet snabbare.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur lång tid tar det för min försändelse att komma fram till mottagaren?
+ANSWER: Leveranstiden för din försändelse kan variera beroende på vilket fraktsätt du har valt, destination och andra faktorer som påverkar leveranstiden. Kontrollera leveranstiden för ditt val av fraktsätt på den specifika leverantörens webbplats.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilka fraktsätt kan jag använda för internationella leveranser?
+ANSWER: Du kan använda flera olika fraktsätt för internationella leveranser, till exempel EMS, DHL, FedEx och UPS. Läs mer om vilka alternativ som erbjuds på vår fraktguide.
+URL: https://info.tradera.com/fraktguiden/

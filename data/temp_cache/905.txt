@@ -1,0 +1,39 @@
+QUESTION 1: Vad är "Betalningsvillkor" på Tradera?
+ANSWER: "Betalningsvillkor" på Tradera refererar till de användningsvillkoren som Tradera har för sin betallösning som är integrerad på plattformen. Dessa villkor utgör en överenskommelse mellan köpare, säljare och Tradera, och reglerar hur betalningsprocessen fungerar på Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 2: Vad är syftet med "Betalningsvillkor" på Tradera?
+ANSWER: Syftet med "Betalningsvillkor" på Tradera är att fastställa ett regelverk som underlättar säkra och effektiva betalningar mellan köpare och säljare på Traderas plattform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 3: Vilka är de andra villkoren på Traderas plattform som du behöver ta hänsyn till när du använder Traderas betallösning?
+ANSWER: Utöver "Betalningsvillkor" måste du som användare också ta hänsyn till andra villkor på Traderas plattform, såsom Användarvillkor, Integritetspolicy och Säljarvillkor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 4: Vad regleras i "Betalningsvillkor" på Tradera?
+ANSWER: "Betalningsvillkor" på Tradera reglerar hur betalningsprocessen fungerar mellan köpare och säljare på Traderas plattform. Villkoren fastställer bland annat när och hur betalningen ska genomföras, vilka betalningsmetoder som är tillåtna och hur man gör om en betalning misslyckas.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 5: Kan jag använda andra betalningsmetoder än de som är tillåtna enligt "Betalningsvillkor" på Tradera?
+ANSWER: Nej, enligt "Betalningsvillkor" på Tradera måste du använda de betalningsmetoder som är tillåtna på plattformen. Om du försöker använda en annan betalningsmetod kan din transaktion avslutas eller blockeras.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 6: Kan jag få återbetalning för en produkt jag köpt på Tradera?
+ANSWER: Ja, om köpet gjordes med Traderas betallösning och inte motsvarade beskrivningen eller var defekt när du fick den, kan du ansöka om återbetalning via Traderas "Köpargaranti".
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 7: Kan jag återvända en produkt jag har köpt på Tradera?
+ANSWER: Ja, om köpet gjordes med Traderas betallösning och inte motsvarade beskrivningen eller var defekt när du fick den, kan du ansöka om återbetalning via Traderas "Köpargaranti". Om produkten inte har några problem men du ändå vill returnera den, måste du kontakta säljaren för att se om de accepterar returer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 8: Hur lång tid tar det att få pengarna när man säljer på Tradera?
+ANSWER: När du säljer något på Tradera och köparen betalar via Traderas betallösning, tar det normalt sett 2-3 bankdagar att få utbetalningen på ditt bankkonto. Tiden kan dock variera beroende på vilken bank du använder.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 9: Vilka avgifter tas ut när man säljer på Tradera?
+ANSWER: Tradera tar ut en avgift på 9% av försäljningspriset, inklusive moms, för varje försäljning som görs via plattformen. Det finns också andra avgifter som kan tillkomma om du till exempel vill marknadsföra din annons eller välja ett annat betalningsalternativ än Traderas betallösning.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 10: Vad händer om jag inte betalar för en vara jag har köpt på Tradera?
+ANSWER: Om du inte betalar för en vara du har köpt på Tradera kan flera saker hända. Dels kan säljaren avbryta köpet och lämna negativ feedback på ditt Tradera-konto. Dels kan Tradera vidta rättsliga åtgärder för att få betalt, vilket kan leda till extra avgifter och skuldsättning.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

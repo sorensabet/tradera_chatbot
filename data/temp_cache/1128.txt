@@ -1,0 +1,39 @@
+QUESTION: Vad är Köparskydd? 
+ANSWER: Köparskyddet ger köparen en möjlighet till återbetalning vid tvister som uppstår vid en transaktion. Genom att acceptera villkoren för Traderas köparskydd och tvistlösningsförfarande, i enlighet med deras tillämpliga, kan köparen ansöka om återbetalning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka belopp kan Säljaren återbetala utan att kontakta Traderas kundtjänst? 
+ANSWER: Om Säljaren och Köparen kommer överens om en retur eller prisreducering ska detta omgående regleras av Säljaren som ska återbetala överenskommet belopp upp till 500 SEK till Köparen. Säljaren måste utföra återbetalningar enbart via Traderas betallösning och inte genom andra betalningsmetoder. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om Säljaren vill återbetala Transaktioner som överstiger 500 SEK? 
+ANSWER: För att återbetala Transaktioner som överstiger 500 SEK, ska Säljaren först kontakta Traderas kundtjänst och få instruktioner. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om man ångrar sin köp som konsument? 
+ANSWER: Om Köparen är konsument och Säljaren är näringsidkare har Köparen ångerrätt. Då är det upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken betallösningsmetod ska Säljaren använda vid återbetalning av produkter? 
+ANSWER: Säljaren måste utföra återbetalningar enbart via Traderas betallösning och inte genom andra betalningsmetoder. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka villkor måste Säljaren acceptera vid tvistlösningsförfarande?
+ANSWER: Genom att acceptera dessa Villkor accepterar Säljaren villkoren för Traderas köparskydd och tvistlösningsförfarande enligt vid var tid gällande villkor. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka är Säljarens åtaganden i förhållande till köparskydd?
+ANSWER: Säljaren åtar sig att utan dröjsmål besvara Köparens klagomål genom det tvistlösningsförfarande som föreskrivs på Traderas webbplats. Säljaren åtar sig att följa villkoren för Traderas köparskydd och tvistlösningsförfarande enligt vid var tid gällande villkor. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är tvistlösningsförfarande?
+ANSWER: Tvistlösningsförfarande är ett system som Tradera har som riktar sig till både köpare och säljare som upplever någon form av tvist vid en transaktion. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka transaktioner får inte Säljaren återbetala på grund av risken för bedrägerier? 
+ANSWER: Säljaren får inte återbetala Transaktioner som överstiger 500 SEK på grund av risken för bedrägerier. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan Säljaren återbetala mer än 500KR utan kontakt med Traderas kundtjänst? 
+ANSWER: Nej, Säljaren kan inte återbetala Transaktioner som överstiger 500 SEK utan att först kontakta Traderas kundtjänst. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

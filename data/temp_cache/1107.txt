@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med användning av cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att anonymt mäta hur Tradera används för att förbättra användarupplevelsen, för utökad funktionalitet och användaranpassning på Tradera, samt för att användas av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 2: Vilken typ av information samlas in genom användning av cookies på Tradera?
+ANSWER: Genom användning av cookies på Tradera samlas det in information om användarens beteende på webbplatsen, såsom var användare klickar, hur länge användaren stannar på Tradera och vilka sökningar som görs.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 3: Kan användare på Tradera välja att inte tillåta cookies?
+ANSWER: Ja, användare på Tradera kan välja att inte tillåta cookies genom att ändra sina inställningar i webbläsaren.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 4: Varför är det viktigt att användare på Tradera tillåter cookies?
+ANSWER: Det är viktigt att användare på Tradera tillåter cookies eftersom cookies används för att ge användarna en bättre upplevelse på webbplatsen, för att kunna utveckla och förbättra Tradera och för att visa rätt annonser.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 5: Vilka typer av cookies används på Tradera?
+ANSWER: Det används tre typer av cookies på Tradera: 1) Prestanda cookies, används för att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras, 2) Funktionella cookies, används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook och 3) Marknadsförings cookies, används av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 6: Kan cookies på Tradera skada min dator eller mobiltelefon?
+ANSWER: Nej, cookies på Tradera kan inte skada användarens dator eller mobiltelefon.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 7: Hur använder Tradera cookies för riktade annonser?
+ANSWER: Tradera använder cookies för riktade annonser genom att spåra användarens beteende på webbplatsen och använda denna information för att visa annonser som är relevanta för användaren.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 8: Kan jag radera cookies på Tradera?
+ANSWER: Ja, användare på Tradera kan radera cookies genom att ändra inställningarna i webbläsaren.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 9: Hur påverkas min personliga integritet av användning av cookies på Tradera?
+ANSWER: Tradera använder cookies anonymt för att spåra användning av webbplatsen och inte personlig information. Därför påverkas inte användarens personliga integritet av användning av cookies på Tradera.
+URL: https://info.tradera.com/traderabetalning/kopskydd/
+
+QUESTION 10: Vad händer om jag inte tillåter cookies på Tradera?
+ANSWER: Om användaren inte tillåter cookies på Tradera kan vissa funktioner på webbplatsen vara begränsade och användarupplevelsen kan försämras.
+URL: https://info.tradera.com/traderabetalning/kopskydd/

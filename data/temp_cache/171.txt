@@ -1,0 +1,39 @@
+QUESTION 1: Vad är cookies?
+\ANSWER: Cookies är små textfiler som sparas på din dator eller mobila enhet när du surfar på internet. De används för att samla in data om hur du använder webbsidor och kan ge en bättre upplevelse för besökaren genom att till exempel automatiskt fylla i tidigare besökta sökningar eller valda inställningar.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 2: Varför behöver jag godkänna cookies på Tradera?
+\ANSWER: Tradera använder cookies för att några av dess grundfunktioner ska fungera på ett korrekt sätt och att du ska ha en bättre användarupplevelse på webbplatsen. Genom att godkänna cookies kan Tradera samla in data om hur du använder dess tjänster och ge dig tillgång till vissa funktioner eller inställningar.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 3: Kan jag stänga av nödvändiga cookies på Tradera?
+\ANSWER: Nej. Nödvändiga cookies behöver användas för att Tradera ska fungera på ett korrekt sätt och deras användning kan inte stängas av.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 4: Vad är syftet med prestandacookies på Tradera?
+\ANSWER: Syftet med prestandacookies på Tradera är att samla in anonym data om hur webbplatsen används, till exempel antalet besök, antalet sökningar eller hur länge en viss sida besöktes. Denna data kan användas för att förbättra Traderas webbsida och användarupplevelse.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 5: Vilka funktioner kan jag använda med funktionella cookies på Tradera?
+\ANSWER: Funktionella cookies på Tradera används för att ge en utökad funktionalitet och anpassning för användare på plattformen, som till exempel att spara dina inloggningsuppgifter eller dina valda inställningar. De gör din användarupplevelse på Tradera mer personlig och anpassad efter dina önskemål.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 6: Vad är marknadsföringscookies på Tradera?
+\ANSWER: Marknadsföringscookies på Tradera används av annonseringspartners för att rikta annonser som är mer relevanta för dig som användare. Denna typ av cookies används för att samla in data om dina intressen och beteenden på Tradera och andra webbsidor för att kunna skapa en mer personlig och relevant reklam för dig.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 7: Vad händer om jag inte godkänner cookies på Tradera?
+\ANSWER: Om du inte godkänner cookies på Tradera kan vissa funktioner och inställningar inte fungera ordentligt eller inte alls. Vissa delar av webbplatsen kan bli begränsade eller blir inte tillgängliga alls.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 8: Kan jag ta bort cookies från min dator?
+\ANSWER: Ja, du kan ta bort cookies från din dator eller mobila enhet. Beroende på webbläsaren du använder kan du göra detta genom att radera eller rensa din webbläsningshistorik eller genom att använda dedikerade program eller appar som hjälper dig att rensa dina cookies. Detta kan påverka din användarupplevelse på webbplatser som Tradera och andra webbplatser.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 9: Vilka cookies används på Tradera?
+\ANSWER: Tradera använder fyra olika typer av cookies: nödvändiga, prestanda, funktionella och marknadsföring. Nödvändiga cookies behövs för att webbplatsen ska fungera ordentligt, prestanda cookies används för att samla in data om hur användare interagerar med webbplatsen, funktionella cookies används för att ge en anpassad användarupplevelse och inställningar för användare och marknadsföringscookies används för att rikta annonser som är mer relevanta för dig som användare.
+URL: https://info.tradera.com/ny-checkout-kopare/
+
+QUESTION 10: Hur kan jag ställa in mina cookie-inställningar på Tradera?
+\ANSWER: Du kan ställa in dina cookie-inställningar på Tradera genom att öppna inställningsmenyn för cookies. Där kan du tillåta eller inte tillåta de fyra olika typerna av cookies som Tradera använder. Du kan också använda webbläsarens inställningar för att hantera cookies för Tradera och andra webbplatser.
+URL: https://info.tradera.com/ny-checkout-kopare/

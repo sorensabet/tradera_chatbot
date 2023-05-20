@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information samlar Tradera in med hjälp av cookies?
+ANSWER: Tradera samlar in information om användarens användning av webbplatsen med hjälp av cookies. Informationen som samlas in inkluderar anpassning av innehåll, annonsering, funktioner för sociala medier och analys av trafik.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad används prestandacookies för på Tradera?
+ANSWER: Prestandacookies på Tradera används för anonym mätning av hur webbplatsen används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för att ge utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Kan nödvändiga cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av då de behövs för att webbplatsen ska fungera.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad är syftet med att Tradera delar information om användningen av deras webbplats med sina partners?
+ANSWER: Syftet med att Tradera delar information om användningen av deras webbplats med sina partners är för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad händer om jag inte godkänner användningen av cookies på Tradera?
+ANSWER: Om du inte godkänner användningen av cookies på Tradera kan viss funktionalitet och användaranpassning på webbplatsen påverkas.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vilka är de olika typerna av cookies på Tradera och vad används de för?
+ANSWER: De olika typerna av cookies på Tradera är nödvändiga cookies, prestandacookies, funktionella cookies och marknadsföringscookies. Nödvändiga cookies behövs för att webbplatsen ska fungera, prestanda används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras, funktionella är för utökad funktionalitet och användaranpassning på Tradera och marknadsföringscookies används av annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Varför använder Traderas annonseringspartners marknadsföringscookies?
+ANSWER: Annonseringspartners på Tradera använder marknadsföringscookies för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad är syftet med att Tradera anpassar annonseringen med hjälp av cookies?
+ANSWER: Syftet med att Tradera anpassar annonseringen med hjälp av cookies är för att visa relevanta annonser för användare baserat på deras tidigare interaktion på webbplatsen.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Är det lagligt för Tradera att använda cookies?
+ANSWER: Ja, det är lagligt för Tradera att använda cookies så länge de informerar användarna och får deras samtycke att använda dem.
+URL: https://info.tradera.com/da/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/

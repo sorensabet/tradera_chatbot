@@ -1,0 +1,39 @@
+QUESTION: What are the restrictions on using automated means to access Tradera's services?
+ANSWER: Users are not allowed to use automated means, such as scrapers, robots or spiders, to access Tradera's services for any purpose. Users are also not allowed to circumvent Tradera's automated means, prevent or interfere with the working of their services, or impose an unreasonable or disproportionately large load on Tradera's infrastructure.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are the restrictions on exporting or re-exporting Tradera applications or tools?
+ANSWER: Users are not allowed to export or re-export any Tradera application or tool, except in compliance with the export control laws of any relevant jurisdictions and in accordance with rules and restrictions posted on the site.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are the restrictions on copying or reproducing Tradera's content?
+ANSWER: Users are not allowed to copy, change or make available (a) rights or content related to Tradera's services or (b) Tradera's work, photographs, pictures, trademarks, texts or other content. Users are also not allowed to copy, reproduce, change, process, translate, transfer, make available or present any content (except their own content) from Tradera, Tradera's Services or any third party, without obtaining prior written consent from Tradera or, if applicable, any concerned third party.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can users commercialize or sublicense Tradera's applications or information?
+ANSWER: Users are not allowed to commercialize or sublicense any Tradera application or any information or software associated with such application.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are the restrictions on collecting information about users from Tradera?
+ANSWER: Users are not allowed to collect information about users, such as e-mail addresses, without their consent.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What happens if a user doesn't use their account for 12 months?
+ANSWER: Tradera reserves the right to close accounts that have not been used for 12 months.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What should users do if they register as a business user with Tradera?
+ANSWER: If a user registers as a business user with Tradera, they accept that they have the authority to represent and commit the business to the User Agreement. If they carry out business on Tradera, they must comply with the laws that apply to trading on the site that they use.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: When will Tradera start providing its services to a user?
+ANSWER: Tradera will start providing its Services to a user as soon as they have accepted the User Agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can a user cancel the User Agreement after Tradera has started providing its services?
+ANSWER: Unless the user and Tradera agree otherwise, the user does not have the right to cancel the User Agreement according to the Distance and Off-Premises Contracts Act (2005:59) after Tradera has started to provide its Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are the restrictions on copying, changing, or making available rights or content related to Tradera's services or work, photographs, pictures, trademarks, texts or other content?
+ANSWER: Users are not allowed to copy, change or make available (a) rights or content related to Tradera's services or (b) Tradera's work, photographs, pictures, trademarks, texts or other content.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av cookies används på Tradera?
+ANSWER: På Tradera används nödvändiga, prestanda-, funktionella och marknadsföringscookies.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 2: Varför är nödvändiga cookies viktiga för Traderas funktionalitet?
+ANSWER: Nödvändiga cookies är avgörande för att Tradera ska fungera korrekt och kan inte stängas av.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 3: Vad används prestandacookies för på Tradera?
+ANSWER: Prestandacookies används på Tradera för att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 4: Vilken funktion har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används på Tradera för att utöka funktionaliteten och ge en användaranpassning som exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 5: Varför används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att skapa riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 6: Kan användaren stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de är avgörande för Traderas funktionalitet.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 7: Varför är prestandacookies viktiga för att förbättra användarupplevelsen på Tradera?
+ANSWER: Prestandacookies används för att mäta hur Tradera används anonymt, vilket i sin tur kan hjälpa till att identifiera och åtgärda problem och förbättra användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 8: Vad är funktionella cookies på Tradera och hur används de?
+ANSWER: Funktionella cookies används för att ge en utökad funktionalitet och en användaranpassning som exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 9: Vilka cookies används av Traderas annonseringspartners för riktade annonser?
+ANSWER: Annonseringspartners på Tradera använder marknadsföringscookies för att skapa riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION 10: Ger Tradera information om hur cookies används på deras webbplats?
+ANSWER: Ja, information om cookies och hur de används på Tradera finns tillgängligt på deras webbplats.
+URL: https://info.tradera.com/shoppa/

@@ -1,0 +1,39 @@
+QUESTION: Hvad er Tradera?
+ANSWER: Tradera er en nordisk e-handelsplatform, der forbinder købere og sælgere.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvad betyder bud er bindende på Tradera?
+ANSWER: Bud er bindende på Tradera, hvilket betyder, at hvis du vinder en auktion, har du juridisk forpligtelse til at gennemføre købet.
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Hvordan fungerer auktioner på Tradera?
+ANSWER: Auktioner på Tradera fungerer ved, at købere byder mod hinanden indtil auktionen slutter og den højeste budgiver vinder varen.
+URL: https://info.tradera.com/da/how-auctions-work/
+
+QUESTION: Hvor lang tid har jeg til at betale for en vundet auktion på Tradera?
+ANSWER: Ifølge Traderas regler skal en vundet auktion være betalt inden for en rimelig tid, medmindre køber og sælger har aftalt andet.
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Hvad sker der hvis jeg gentagende gange undlader at betale for en vundet auktion eller en annonce med en fast pris på Tradera?
+ANSWER: Hvis du gentagne gange undlader at betale for en vundet auktion eller en annonce med en fast pris på Tradera, kan Tradera lukke din konto.
+URL: https://info.tradera.com/da/bids-are-binding/
+
+QUESTION: Hvordan opretter jeg en annonce på Tradera?
+ANSWER: Du kan oprette en annonce på Tradera ved at følge nogle simple trin, såsom at tage et billede af varen, beskrive den og angive en start- og sluttid for auktionen.
+URL: https://info.tradera.com/da/sell-on-tradera/
+
+QUESTION: Hvor kan jeg kontakte Tradera?
+ANSWER: Du kan kontakte Tradera ved at besøge deres hjemmeside og finde kontaktoplysningerne under "Kontakt os".
+URL: https://info.tradera.com/da/
+
+QUESTION: Kan jeg returnere en vare, jeg har købt på Tradera?
+ANSWER: Det afhænger af sælgerens vilkår og betingelser. Nogle sælgere tilbyder returnering af varer, mens andre ikke gør det. Sørg for at læse sælgerens vilkår og betingelser, før du køber.
+URL: https://info.tradera.com/da/return-policy/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg modtager en beskadiget vare fra Tradera?
+ANSWER: Hvis du modtager en beskadiget vare fra Tradera, skal du kontakte sælgeren og efterfølgende kontakte Tradera, hvis problemet ikke kan løses.
+URL: https://info.tradera.com/da/safe-shopping-guarantee/
+
+QUESTION: Er der en sikkerhedsgaranti ved køb på Tradera?
+ANSWER: Ja, der er en sikkerhedsgaranti ved køb på Tradera, som dækker det fulde beløb for varer, der er betalt via Tradera, hvis der opstår problemer med transaktionen.
+URL: https://info.tradera.com/da/safe-shopping-guarantee/

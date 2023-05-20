@@ -1,0 +1,39 @@
+QUESTION: How do I get paid if the buyer pays with Swish?
+ANSWER: If the buyer pays with Swish, you need to keep track of the payment in your Swish app. However, you can mark the listing as paid in My Tradera.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: How long does it take for payment to process if the buyer pays with credit card or PayPal?
+ANSWER: It takes 1-2 banking days for the payment to process if the buyer pays with credit card or PayPal.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Will I get a notification when the buyer has paid for the listing?
+ANSWER: Yes, you will get a mail as soon as the buyer has paid for the listing.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Can I see all my payments in My Tradera?
+ANSWER: Yes, you can see all your payments in My Tradera under the "Payments" tab. This tab includes information such as the date the payment processing began, the listing related to the payment, the type of payment, the buyer's alias, and the amount of the payment.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: What happens if the buyer pays with invoice/installments?
+ANSWER: If the buyer pays with invoice/installments, the money will be in your account in 1-2 banking days. For you as the seller, it works as if the buyer had paid for the listing with a credit card/PayPal.
+URL: https://info.tradera.com/en/hur-far-jag-betalt/
+
+QUESTION: Can I sell on Tradera as a private seller?
+ANSWER: Yes, you can sell on Tradera as a private seller.
+URL: https://info.tradera.com/en/salj-pa-tradera/salj-som-privatperson/
+
+QUESTION: Can I sell on Tradera as a business?
+ANSWER: Yes, you can also sell on Tradera as a business.
+URL: https://info.tradera.com/en/salj-pa-tradera/salj-som-foretagare/
+
+QUESTION: How do I calculate the shipping for my listing on Tradera?
+ANSWER: You can use the shipping calculator provided by Tradera to calculate the shipping for your listing.
+URL: https://info.tradera.com/en/salj-pa-tradera/sa-fungerar-det/sa-har-fungerar-fraktkostnader/
+
+QUESTION: What are the popular brands on Tradera?
+ANSWER: You can find information on popular brands on Tradera under the "Categories" section of the website.
+URL: https://info.tradera.com/en/hur-du-hittar-det-du-soker/populart-pa-tradera/
+
+QUESTION: How can I get help and support on Tradera?
+ANSWER: You can find contact information for Tradera support under the "Contact & help" section of the website.
+URL: https://info.tradera.com/en/kontakt-och-hjalp/

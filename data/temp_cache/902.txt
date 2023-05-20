@@ -1,0 +1,39 @@
+QUESTION: Vad är PayPals Hyperwallet-lösning?
+ANSWER: PayPals Hyperwallet-lösning är Traderas samarbetspartner. Hyperwallet är en e-plånbok som låter användare skicka och ta emot betalningar och löneutbetalningar. Mer information om användaravtal och integritetspolicy finns på Hyperwallets webbplats. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka köpskydd erbjuder Traderas betallösning?
+ANSWER: Information om köpskydd för Traderas betallösning finns i betalningsvillkoren v 1.3 som finns tillgängliga på Traderas webbplats. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur handlar man på Tradera?
+ANSWER: Information om hur man handlar på Tradera finns på Traderas webbplats under fliken "Köp". 
+URL: https://www.tradera.com/content/hur-man-handlar-pa-tradera
+
+QUESTION: Vad är grön frakt på Tradera?
+ANSWER: Grön frakt är Traderas hållbarhetsinitiativ där säljare kan erbjuda klimatkompenserad frakt till sina köpare. Mer information om Grön frakt finns på Traderas webbplats. 
+URL: https://www.tradera.com/content/gron-frakt
+
+QUESTION: Hur säljer man som privatperson på Tradera? 
+ANSWER: För att sälja som privatperson på Tradera behöver man skapa ett konto och lägga upp en annons för den produkt man vill sälja. Mer information om hur man säljer som privatperson finns på Traderas webbplats. 
+URL: https://www.tradera.com/content/salja-som-privatperson
+
+QUESTION: Vilka kategorier finns tillgängliga på Tradera?
+ANSWER: Det finns många olika kategorier på Tradera, som till exempel kläder, skor, hem och trädgård, elektronik och sport och fritid. En fullständig lista över kategorier finns på Traderas webbplats. 
+URL: https://www.tradera.com/categories
+
+QUESTION: Kan företag sälja på Tradera?
+ANSWER: Ja, företag kan sälja på Tradera. Informationen om hur man säljer som företag finns på Traderas webbplats under fliken "Sälj". 
+URL: https://www.tradera.com/content/salj-som-foretag
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg som säljare kan använda för att beräkna kostnaden för frakt av en produkt till en viss destination. Mer information om fraktkalkylatorn finns på Traderas webbplats. 
+URL: https://www.tradera.com/content/fraktkalkylator
+
+QUESTION: Vad är Traderas donera-funktion?
+ANSWER: Traderas donera-funktion låter användare donera en del av försäljningsbeloppet från en såld produkt till välgörenhet. Mer information om Traderas donera-funktion finns på Traderas webbplats. 
+URL: https://www.tradera.com/content/donera-med-tradera
+
+QUESTION: Vilka vanliga frågor och svar finns tillgängliga på Traderas webbplats?
+ANSWER: Informationen om vanliga frågor och svar finns på Traderas webbplats under fliken "Kontakt & Hjälp". Där kan användare hitta svar på vanliga frågor om Tradera och dess användning. 
+URL: https://www.tradera.com/vp/helpcenter/faq#category=5000000020

@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas användaravtal?
+ANSWER: Traderas användaravtal är en överenskommelse mellan Tradera och användarna av deras plattform som reglerar hur plattformen ska användas. Avtalet innehåller bland annat regler för betalningar, försäljning, köp och användarnas ansvar. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka frågor och svar finns tillgängliga i Traderas informationsavsnitt?
+ANSWER: I Traderas informationsavsnitt finns vanliga frågor och svar kring olika ämnen på plattformen, såsom försäljning, köp, betalningar och säkerhet. 
+URL: https://info.tradera.com/vanliga-fragor-och-svar/
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy är ett dokument som beskriver hur Tradera samlar in, hanterar och skyddar användarnas personuppgifter. Policyn reglerar också användarnas rättigheter kring deras personuppgifter. 
+URL: https://info.tradera.com/integritetspolicy/
+
+QUESTION: Vilka sociala medie plattformar använder Tradera?
+ANSWER: Tradera använder sig av Facebook, Twitter, Pinterest och Instagram. 
+URL: https://info.tradera.com/
+
+QUESTION: Vad är en fraktkalkylator?
+ANSWER: En fraktkalkylator på Tradera är ett verktyg som hjälper användarna att beräkna fraktkostnader för en försändelse. Genom att ange vikt och mått på försändelsen samt destinationen kan användarna få en beräknad fraktkostnad. 
+URL: https://www.tradera.com/shipping_cost_calculator
+
+QUESTION: Kan man sälja som privatperson på Tradera?
+ANSWER: Ja, det är möjligt för privatpersoner att sälja på Tradera. Plattformen erbjuder en särskild sektion för privatförsäljning med egna regler och guidelinjer. 
+URL: https://info.tradera.com/salj-som-privatperson/
+
+QUESTION: Hur kan man kontakta Traderas kundtjänst?
+ANSWER: Traderas kundtjänst kan kontakatas via e-post eller chatt på plattformens hemsida. 
+URL: https://www.tradera.com/contact_customer_service
+
+QUESTION: Vad är Traderas “Grön frakt”?
+ANSWER: Traderas “Grön frakt” är ett initiativ för att minska plattformens miljöpåverkan. Det innebär att Tradera samarbetar med fraktföretag som erbjuder mer hållbara alternativ, såsom klimatkompenserade transporter. 
+URL: https://info.tradera.com/gron-frakt/
+
+QUESTION: Vilka är Traderas regler för försäljning som företag?
+ANSWER: Tradera har specifika regler för försäljning som företag, såsom krav på företagsregistrering och momsredovisning. Säljande företag är också skyldiga att följa svensk lagstiftning gällande försäljning på internet. 
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Kan man donera pengar till välgörenhet genom Tradera?
+ANSWER: Ja, det är möjligt att donera pengar till välgörenhet genom Tradera. Plattformen samarbetar med ett antal organisationer och erbjuder möjligheten att donera en del av en försäljning till välgörenhet. 
+URL: https://www.tradera.com/donate_with_tradera

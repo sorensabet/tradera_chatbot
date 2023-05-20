@@ -1,0 +1,39 @@
+QUESTION 1: Vilka är Traderas nödvändiga cookies och vad är deras funktion?
+ANSWER: Traderas nödvändiga cookies är de cookies som krävs för att Tradera ska fungera. Dessa cookies kan inte stängas av och de används för att göra det möjligt för användare att använda webbplatsen.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 2: Vad är syftet med de prestandacookies som används på Tradera?
+ANSWER: Syftet med Traderas prestandacookies är att mäta anonymt hur Tradera används, så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 3: Vilken typ av funktionella cookies används på Tradera och vad är deras funktion?
+ANSWER: De funktionella cookies som används på Tradera ger utökad funktionalitet och användaranpassning på Tradera, till exempel spara inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 4: Vad är syftet med marknadsföringscookies som används på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att skicka riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 5: Kan användaren stänga av Traderas nödvändiga cookies?
+ANSWER: Användaren kan inte stänga av Traderas nödvändiga cookies eftersom dessa krävs för att Tradera ska fungera.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 6: Kan användare välja att inte använda funktionella cookies på Tradera?
+ANSWER: Användare kan välja att inte använda funktionella cookies, men detta kan begränsa tillgången till viss funktionalitet och användaranpassning på Tradera.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 7: Vilken typ av data samlar Tradera in från sina användare?
+ANSWER: Tradera samlar in användardata såsom användarens IP-adress, webbläsarinformation och språkinställningar.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 8: Hur använder Tradera användardata för att förbättra webbplatsens användarupplevelse?
+ANSWER: Tradera använder användardata för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 9: Kan användaren ha tillgång till och ändra sin egen personliga data som lagras av Tradera?
+ANSWER: Ja, Tradera ger användaren tillgång till och möjlighet att ändra sin egen personliga data som lagras på Tradera.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION 10: Vilka åtgärder vidtar Tradera för att skydda användarnas personliga data?
+ANSWER: Tradera vidtar lämpliga tekniska och organisatoriska åtgärder för att skydda användarnas personliga data från obehörig åtkomst, ändring, spridning eller borttagning.
+URL: https://info.tradera.com/en/security-center/information-om-rattighetsinnehavare-pa-tradera/

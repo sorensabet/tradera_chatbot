@@ -1,0 +1,39 @@
+QUESTION: Which are the most common questions regarding login problems?
+ANSWER: The most common questions regarding login problems are mentioned in the context. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: How can I log in to Tradera?
+ANSWER: To log in to Tradera, you click on the link provided in the context and enter your registered e-mail address and password. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: What should I do if I have forgotten my login credentials?
+ANSWER: If you have forgotten your login credentials, you can get new ones by clicking on the link provided in the context. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: Can I stay logged in to Tradera for a longer period of time?
+ANSWER: Yes, you can stay logged in to Tradera for a longer period of time by clicking "keep being logged in" when you log in. You won't be logged out for another week. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: What should I do if I don't remember my email address?
+ANSWER: If you don't remember your email address, you need to contact Tradera's customer service. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: How can I reset my password on Tradera?
+ANSWER: You can reset your password by clicking on the link provided in the context and either using your email address or personal identification number to get more options for resetting your password. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: Can I access my account on Tradera with BankID or SMS?
+ANSWER: Yes, you can access your account on Tradera with BankID or SMS. You need to follow the instructions provided. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: What should I do if I have a new email address and can't login?
+ANSWER: If you have a new email address and can't login, you can access your account with BankID or SMS by following the instructions provided in the context. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: How can Tradera customer service help with login problems?
+ANSWER: If you need further assistance or have specific issues with logging in, you can contact Tradera's customer service team, who will be able to provide more personalized support. 
+URL: https://info.tradera.com/en/problem-med-inloggning/
+
+QUESTION: What is the process to get new credentials for Tradera login?
+ANSWER: To get new credentials for Tradera login, you can click on the link provided in the context and follow the instructions to reset your password using your email address or personal identification number. 
+URL: https://info.tradera.com/en/problem-med-inloggning/

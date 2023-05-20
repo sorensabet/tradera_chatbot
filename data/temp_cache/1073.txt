@@ -1,0 +1,39 @@
+QUESTION: Vad för slags förfalskade föremål är tillåtna att sälja på Tradera?
+ANSWER: Det är tillåtet att sälja förfalskade och väldokumenterade frimärken, där det också tydligt framgår att det rör sig om en förfalskning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Är det tillåtet att sälja gamla pengar och frimärken på Tradera?
+ANSWER: Ja, det är tillåtet att sälja äkta mynt, äkta sedlar och äkta frimärken på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vilka betalmedel är tillåtna på Tradera?
+ANSWER: Mynt och sedlar som är giltiga eller nyligen gällande betalmedel så länge de har ett tydligt samlarvärde är tillåtna som betalmedel på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vilken förfalskare nämns som exempel i texten?
+ANSWER: Ett exempel på en känd förfalskare som nämns i texten är Jean de Sperati. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forfalskade-sedlar-mynt-och-frimarken/
+
+QUESTION: Vad är Green Shipping?
+ANSWER: Green Shipping är ett program som Tradera har där paket skickas med miljövänlig frakt. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/gron-frakt/
+
+QUESTION: Hur kan man sälja som privatperson på Tradera?
+ANSWER: För att sälja som privatperson på Tradera måste man först skapa ett konto och sedan skapa en annons för föremålet man vill sälja. 
+URL: https://info.tradera.com/hjalp/salj/selj-som-privatperson/
+
+QUESTION: Vad är Fraktkalkylatorn och hur fungerar den?
+ANSWER: Fraktkalkylatorn är ett verktyg som används för att beräkna fraktkostnader för de föremål som ska skickas. Det tar hänsyn till storlek och vikt av paketet och ger en uppskattning av fraktkostnaden. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vilken typ av personer kan sälja på Tradera som företag?
+ANSWER: Företag med svenskt organisationsnummer kan sälja på Tradera efter att ha skapat ett företagskonto. 
+URL: https://info.tradera.com/hjalp/salj/salj-som-foretag/
+
+QUESTION: Vad finns det för olika kategorier på Tradera?
+ANSWER: Det finns en rad olika kategorier på Tradera, såsom kläder och accessoarer, bilar och båtar, böcker och tidningar, sport och fritid med mera. 
+URL: https://www.tradera.com/categories
+
+QUESTION: Vad är användaravtalet på Tradera?
+ANSWER: Användaravtalet på Tradera är en överenskommelse mellan användaren av webbplatsen och Tradera, där regler och villkor för användning av tjänsterna som Tradera erbjuder fastställs. 
+URL: https://www.tradera.com/policy/useragreement

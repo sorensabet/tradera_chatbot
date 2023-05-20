@@ -1,0 +1,39 @@
+QUESTION: What kind of technologies does Tradera use to enhance user experience and perform anonymous statistics and analyses?
+ANSWER: Tradera uses third-party cookies, web beacons, and similar technologies to provide a better, faster, and more secure experience to its users. These technologies also help Tradera compile anonymous statistics and analyses.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Do authorized service providers collect personal information on Tradera's sites or in their services, applications, or tools?
+ANSWER: No, Tradera does not permit authorized service providers to collect any personal information on their sites or in their services, applications, or tools for their own purposes. These service providers are subject to confidentiality agreements with Tradera, and other legal restrictions on their use or collection of any personal information.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What should users do if they suspect that an advertisement or other content from a third party is collecting personal information or using tracking technology on one of Tradera's websites?
+ANSWER: Users should report it to abuse@tradera.com if they suspect that an advertisement or other content from a third party is collecting personal information or using tracking technology on one of Tradera's websites.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Does Tradera allow third-party content on its websites to contain or use cookies, web beacons, local storage, or similar technologies for tracking purposes or to collect personal information?
+ANSWER: No, except for the use of such technologies by their authorized service providers or other authorized third-parties, Tradera does not allow third-party content on its websites to contain or use cookies, web beacons, local storage, or similar technologies for tracking purposes or to collect personal information.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Can users opt-out from third-party cookies and similar technologies used by Tradera and its authorized service providers?
+ANSWER: Yes, users can opt-out from third-party cookies and similar technologies by adjusting their browser settings or using the opt-outs provided by the third-party service providers.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Who are Tradera's authorized service providers, and what do they do?
+ANSWER: Tradera cooperates with other companies or service providers who are authorized to place third-party cookies, web beacons, and similar technologies to store information on their websites, or in their services, applications, and tools. These service providers help Tradera provide a better, faster, and more secure experience, and compile anonymous statistics and analyses.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are the purposes of third-party cookies and similar technologies used by Tradera's advertising networks and exchanges operated by authorized third parties?
+ANSWER: The third-party cookies, web beacons, and similar technologies used by Tradera's advertising networks and exchanges operated by authorized third parties are used to collect information, including device's identity, IP address, or identifier for advertising. This information is used to personalize the advertisements displayed to users on Tradera's or other websites.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What is the scope of Tradera's advertising-related cookies and similar technologies used by authorized third parties?
+ANSWER: The advertising-related cookies and similar technologies used by authorized third parties may collect information about users' devices' identity, IP address, or identifier for advertising. This information is used to personalize the advertisements displayed to users on Tradera's or other websites.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Does Tradera use cookies, web beacons, and similar technologies to track user behavior across multiple websites or over time?
+ANSWER: No, Tradera does not use cookies, web beacons, and similar technologies to track user behavior across multiple websites or over time.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are the privacy policies of Tradera's third-party cookies and similar technologies used by authorized service providers and third-party advertising-related cookies?
+ANSWER: The privacy policies of Tradera's third-party cookies and similar technologies used by authorized service providers and third-party advertising-related cookies are subject to the service providers' own policies.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/

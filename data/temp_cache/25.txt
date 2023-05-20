@@ -1,0 +1,39 @@
+QUESTION: Vad inkluderar information som Tradera samlar in från mobilapplikationer och enheter?
+ANSWER: Tradera kan samla in information om användaren och deras mobil enhet, inklusive geolokaliseringsuppgifter som används för att tillhandahålla platsbaserade tjänster.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad är syftet med att Tradera samlar in information om användare och deras mobila enheter?
+ANSWER: Syftet med att samla in information från användare och deras mobil enheter är att Tradera kan erbjuda platsbaserade tjänster, som annonser, sökresultat och personligt anpassat innehåll.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan användare stänga av platsbaserade tjänster på sina enheter?
+ANSWER: Ja, de flesta mobila enheter ger användare möjlighet att kontrollera och stänga av platsbaserade tjänster i enhetens meny för inställningar.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken typ av information kan Tradera begära från användare för att verifiera deras identitet?
+ANSWER: Tradera kan begära att användare skickar in ett identitetsbevis eller annan handling för att verifiera deras identitet eller adress. De kan också behöva besvara andra frågor för att verifiera sin identitet eller ägande av en produkt som de säljer.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Varför kan Tradera begära att användare skickar in ett identitetsbevis eller annan handling?
+ANSWER: Tradera kan begära att användare skickar in ett identitetsbevis eller annan handling för att verifiera deras identitet eller adress, eller om de tror att användaren bryter mot deras regler.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken typ av korrespondens kan Tradera övervaka?
+ANSWER: Tradera kan övervaka korrespondens genom deras webbplats eller korrespondens som skickas till dem.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information kan Tradera begära för att verifiera att en användare äger en produkt som de säljer?
+ANSWER: Tradera kan begära att användare besvarar andra frågor för att verifiera deras identitet eller att de äger en produkt som de säljer.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad är syftet med att övervaka korrespondens genom Traderas webbplatser?
+ANSWER: Syftet med att övervaka korrespondens på Traderas webbplatser är att säkerställa att användare följer reglerna och att hantera eventuella tvister.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information kan Tradera begära för att verifiera användarens identitet?
+ANSWER: Tradera kan begära att användare skickar ett identitetsbevis eller annan handling för att bekräfta deras identitet eller adress.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Är användare tvungna att ge Tradera information som de efterfrågar för att verifiera deras identitet?
+ANSWER: Ja, användare är tvungna att ge Tradera information som de efterfrågar för att verifiera deras identitet eller om de tror att användaren bryter mot deras regler.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

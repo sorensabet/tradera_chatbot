@@ -1,0 +1,39 @@
+QUESTION: Kan jag välja att betala med faktura eller avbetalning?
+ANSWER: Ja, du kan välja att betala med faktura eller avbetalning. Säljaren får betalt direkt men du betalar senare. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Hur vet säljaren vart varan ska skickas?
+ANSWER: Säljaren får dina leveransuppgifter automatiskt via Tradera och kommer boka frakt utifrån vad som är angivet i annonsen.
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Är det värt att kolla med säljaren om samfrakt om jag har köpt flera varor från samma säljare?
+ANSWER: Ja, det är alltid värt att kontakta säljaren och kolla om de har möjlighet att samfrakta varan då det både kostar dig mindre och är bättre för miljön.
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Kan jag ändra min leveransadress efter att jag har köpt varan?
+ANSWER: Ja, du kan ändra din leveransadress genom att uppdatera adressen i Mitt Tradera innan säljaren bokar frakten.
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Gäller ångerrätten för köp mellan privatpersoner på Tradera?
+ANSWER: Nej, ångerrätten gäller endast om köpet är från ett företag, de flesta affärer på Tradera är mellan privatpersoner och då gäller inte ångerrätten.
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Vad ska jag göra om jag har problem med en vara jag köpt på Tradera?
+ANSWER: Du ska i första hand kontakta säljaren om det skulle vara något problem. 
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Kan jag returnera en vara om jag har köpt den från ett företag på Tradera?
+ANSWER: Ja, om du har köpt varan från ett företag så gäller ångerrätten. Vem som står för retur frakt och övriga villkor kring ångerrätt hittar du på företagets profilsida.
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Vilket är det enklaste sättet att hitta kategorier på Tradera?
+ANSWER: Det enklaste sättet att hitta kategorier på Tradera är att gå till huvudmenyn och klicka på "Köp", sedan kan du välja en kategori från listan eller söka efter en specifik produkt.
+URL: https://info.tradera.com/en/shoppa-2/vunnit-auktion-kopt-vara/
+
+QUESTION: Kan jag sälja något på Tradera som privatperson?
+ANSWER: Ja, du kan sälja på Tradera som privatperson eller som företag. 
+URL: https://info.tradera.com/en/salja-2/lite-om-att-salja/
+
+QUESTION: Var kan jag hitta information om vilka populära märken som säljs på Tradera?
+ANSWER: Du kan hitta information om populära märken som säljs på Tradera under kategorin "Populära varumärken" på huvudsidan.
+URL: https://info.tradera.com/en/shoppa-2/

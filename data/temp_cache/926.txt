@@ -1,0 +1,39 @@
+QUESTION: Vilken dokumentation måste säljaren överlämna till Tradera för att visa att denne följer PCI DSS?
+ANSWER: Säljaren måste på begäran överlämna dokumentation till Tradera som visar att denne följer PCI DSS och använder leverantörer för dataförvaring eller -överföring som följer PCI DSS. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka åtaganden har säljaren vad gäller kortdata?
+ANSWER: Säljaren åtar sig att endast använda leverantörer för dataförvaring eller -överföring som följer PCI DSS, samt aldrig spara CVV2-nummer. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka avgifter kan Tradera dra av vid utbetalning till säljaren?
+ANSWER: Tradera kan dra av eventuella avgifter, redan utbetalda belopp i samband med t.ex. returer samt avgifter till Tradera som överenskommits mellan säljaren och Tradera enligt separat avtal. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad ska säljaren göra om köparen har betalat direkt till denne?
+ANSWER: Om köparen har betalat direkt till säljaren ska denne omedelbart på tydligt och lämpligt sätt meddela Tradera att betalning har skett. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om köparen har betalat direkt till säljaren?
+ANSWER: Om köparen har betalat direkt till säljaren har inte längre Tradera några åtaganden för att hantera utbetalning, spårbarhet eller köpares eller säljares skydd för den transaktionen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka immateriella rättigheter förbehåller sig Tradera?
+ANSWER: Tradera förbehåller sig allt ägandeskap och alla immateriella rättigheter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Kan en köpare häva ett köp på Tradera?
+ANSWER: Ja, en köpare kan häva ett köp på Tradera enligt avtal som ingåtts mellan köparen och säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/avtalsvillkor-2019/
+
+QUESTION: Kan en säljare häva ett köp på Tradera?
+ANSWER: Ja, en säljare kan häva ett köp på Tradera enligt avtal som ingåtts mellan köparen och säljaren. 
+URL: https://info.tradera.com/sakerhetscenter/avtalsvillkor-2019/
+
+QUESTION: Vilka är åtagandena för säljaren vad gäller frakt och leverans?
+ANSWER: Säljaren åtar sig att skicka varan i enlighet med uppgifterna i försäljningsvillkoren och vara ansvarig för frakt och leverans av varan till köparen. 
+URL: https://info.tradera.com/sakerhetscenter/fraktvillkor-2019-2020/
+
+QUESTION: Vilka är åtagandena för köparen vad gäller betalning?
+ANSWER: Köparen åtar sig att betala det avtalade priset plus eventuella avgifter till Tradera och eventuella andra kostnader som kan tillkomma, såsom tullavgifter och moms. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

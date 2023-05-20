@@ -1,0 +1,39 @@
+QUESTION: Vilka fraktprodukter erbjuder Tradera?
+ANSWER: Det framgår inte direkt från texten vilka fraktprodukter Tradera erbjuder. Däremot står det att om mått eller vikt överskrider det befintliga utbudet av fraktprodukter så tillkommer en avgift på upp till 250 kr. Det antyder att det finns flera olika fraktprodukter att välja mellan.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Hur debiteras skillnaden mellan den angivna fraktavgiften och den verkliga fraktavgiften?
+ANSWER: Om den verkliga fraktavgiften överstiger den beräknade fraktavgiften kommer mellanskillnaden att debiteras dig i efterhand t.ex. genom att adderas till din nästkommande faktura från Tradera. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilket dokument styr betalningen av frakten?
+ANSWER: Din betalning av frakten ska ske i enlighet med betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vad händer om mått eller vikt överskrider det befintliga utbudet av fraktprodukter?
+ANSWER: Om mått eller vikt överskrider det befintliga utbudet av fraktprodukter så tillkommer en avgift på upp till 250 kr.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Var kan jag hitta Traders FAQ-sektion för PostNord?
+ANSWER: För att hitta Traderas FAQ-sektion för PostNord, klicka på länken som finns i texten: "Letar du efter vår FAQ sektion för PostNord? Klicka här"
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilka betalningsvillkor gäller för frakten hos Tradera?
+ANSWER: Din betalning av frakten ska ske i enlighet med betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vad innebär Grön frakt hos Tradera?
+ANSWER: Det står ingenting i texten som förklarar vad Grön frakt är hos Tradera.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vad ska jag göra om jag vill sälja på Tradera som privatperson?
+ANSWER: I texten finns en länk till Traderas sida med information om hur man säljer på Tradera som privatperson: "Så säljer du som privatperson".
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Kan man sälja på Tradera som företag?
+ANSWER: Ja, det går att sälja på Tradera som företag.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vad kan jag donera med Tradera?
+ANSWER: Det står inget specifikt i texten om vad man kan donera med Tradera. Däremot finns det en länk till Traderas sida med information om hur man kan donera med Tradera.
+URL: https://info.tradera.com/postnord/my-pack-collect/

@@ -1,0 +1,39 @@
+QUESTION 1: Vilket syfte har prestanda-kakorna på Tradera?
+ANSWER: Prestanda-kakorna används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 2: Vad är funktionella kakor på Tradera?
+ANSWER: Funktionella kakor används för utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 3: Hur används marknadsföringskakor på Tradera?
+ANSWER: Marknadsföringskakor används av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 4: Kan jag stänga av de nödvändiga kakorna på Tradera?
+ANSWER: Nej, de nödvändiga kakorna som används för att Tradera ska fungera kan inte stängas av.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 5: Kan jag anpassa Traderas inställningar med hjälp av funktionella kakor?
+ANSWER: Ja, funktionella kakor kan användas för utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 6: Kan jag blockera eller radera kakor på Tradera?
+ANSWER: Ja, användare kan blockera eller radera kakor på Tradera med hjälp av webbläsarens inställningar.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 7: Vad är syftet med att mäta anonymt hur Tradera används?
+ANSWER: Syftet med att mäta anonymt hur Tradera används är att förbättra användarupplevelsen på plattformen.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 8: Vilka kakor används på Tradera för annonsering?
+ANSWER: Marknadsföringskakor används på Tradera för annonsering av Traderas annonseringspartners.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 9: Kan marknadsföringskakor användas för att visa riktade annonser på Tradera?
+ANSWER: Ja, marknadsföringskakor används för att visa riktade annonser på Tradera.
+URL: https://info.tradera.com/en/kom-igang/
+
+QUESTION 10: Varför används funktionella kakor på Tradera?
+ANSWER: Funktionella kakor används för utökad funktionalitet och användaranpassning på Tradera, exempelvis vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/kom-igang/

@@ -1,0 +1,39 @@
+QUESTION: Vilka åtgärder kan Tradera vidta mot konton som inte har bekräftats eller används under 12 månader?
+ANSWER: Tradera förbehåller sig rätten att stänga konton som inte kan bekräftas eller som inte har använts under 12 månader.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka åtaganden måste en företagsanvändare följa när de registrerar sig hos Tradera som företagsanvändare?
+ANSWER: En företagsanvändare måste bekräfta att de har behörighet och befogenhet att företräda och binda företaget till Användaravtalet när de registrerar sig hos Tradera som företagsanvändare.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Måste en näringsidkare följa särskilda lagar när de bedriver handel på Tradera?
+ANSWER: Ja, näringsidkare som bedriver handel på Tradera måste följa de lagar som gäller för handel på den webbplats de använder.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: När kommer Tradera att börja tillhandahålla sina Tjänster till en användare?
+ANSWER: Tradera kommer att börja tillhandahålla sina Tjänster till en användare så snart de har godkänt Användaravtalet.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan en användare ångra Användaravtalet enligt Distans- och hemförsäljningslagen efter att Tradera har börjat tillhandahålla tjänsterna?
+ANSWER: Nej, användaren har inte rätt att ångra Användaravtalet enligt Distans- och hemförsäljningslagen efter att Tradera har börjat tillhandahålla Tjänsterna, om inte annat avtalas mellan användaren och Tradera.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera ändra eller upphöra att tillhandahålla Traderas Tjänster helt eller delvis?
+ANSWER: Ja, Tradera förbehåller sig rätten att ändra eller upphöra att tillhandahålla Traderas Tjänster helt eller delvis.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om Tradera väsentligt ändrar eller upphör att tillhandahålla sina Tjänster?
+ANSWER: Om Tradera väsentligt ändrar eller upphör att tillhandahålla sina Tjänster kommer de att meddela användaren i förväg enligt avsnitt Övrigt i Användaravtalet.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får en användare återförsälja eller vidarelicensiera någon av Traderas applikationer eller någon information eller mjukvara som hör till sådana applikationer?
+ANSWER: Nej, en användare får inte återförsälja eller vidarelicensiera någon av Traderas applikationer eller någon information eller mjukvara som hör till sådana applikationer utan samtycke.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Får en användare samla in information om andra användare, såsom e-postadresser, utan samtycke?
+ANSWER: Nej, en användare får inte samla in information om andra användare, såsom e-postadresser, utan samtycke.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan en användare samtycka till att ändringar av Användaravtalet skickas via e-post?
+ANSWER: Ja, en användare kan samtycka till att Tradera skickar meddelanden om ändringar av Användaravtalet via e-post.
+URL: https://info.tradera.com/anvandaravtal/

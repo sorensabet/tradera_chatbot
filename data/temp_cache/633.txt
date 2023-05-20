@@ -1,0 +1,39 @@
+QUESTION: Hvad er forsalg og dropshipping på Tradera?
+ANSWER: Forsalg og drop shipping indebærer, at sælgeren ikke har den vare, der er til salg. Bestillingen bliver i stedet videresendt til en anden part, som vil levere varen direkte til kunden. Dette kan forlænge leveringstiden og potentielt føre til, at kunden ikke modtager det, som vedkommende har betalt for.
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Hvorfor er der særlige regler for forsalg og dropshipping på Tradera?
+ANSWER: Der er særlige regler for forsalg og dropshipping på Tradera, fordi det kan forlænge leveringstiden og dermed give kunden en dårlig oplevelse. Derudover kan det også føre til, at kunden ikke modtager det, som vedkommende har betalt for. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Hvilken type forsalg og dropshipping er forbudt på Tradera ifølge reglerne?
+ANSWER: På Tradera er det forbudt at tage imod ordrer for varer, der ikke er i din besiddelse (dropshipping) eller at sælge film, spil eller musik inden den officielle udgivelsesdato eller sælge varer på forhånd (forsalg af varer). Det er også forbudt for erhvervssælgere at sende varer fra en placering udenfor EU til en kunde inden for EU. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Hvilken type forsalg og dropshipping er tilladt på Tradera ifølge reglerne?
+ANSWER: På Tradera er det tilladt at sælge varer, der er i din besiddelse. Hvis man sælger en film, et spil eller musik før den officielle udgivelsesdato, skal man dog holde sig til reglerne for forudbestillinger. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Hvordan kan dropshipping føre til, at kunden ikke modtager det, som vedkommende har betalt for?
+ANSWER: Dropshipping betyder, at sælgeren ikke har varen på lager, men i stedet sender bestillingen videre til en anden part, som sender varen direkte til kunden. Dette kan forlænge leveringstiden og potentielt føre til, at kunden ikke modtager det, som vedkommende har betalt for.
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Kan erhvervssælgere sende varer fra en placering udenfor EU til en kunde indenfor EU på Tradera?
+ANSWER: Nej, erhvervssælgere kan ikke sende varer fra en placering udenfor EU til en kunde indenfor EU ifølge Traderas regler for forsalg og dropshipping. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Kan man sælge varer på forhånd på Tradera ifølge reglerne?
+ANSWER: Nej, det er ikke tilladt at sælge varer på forhånd på Tradera ifølge reglerne for forsalg og dropshipping.
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Er det tilladt at sælge film, spil eller musik før den officielle udgivelsesdato på Tradera ifølge reglerne?
+ANSWER: Det er ikke tilladt at sælge film, spil eller musik før den offcielle udgivelsesdato på Tradera ifølge reglerne for forsalg og dropshipping. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Kan man sælge varer på Tradera i henhold til reglerne for forsalg og dropshipping, hvis man ikke har varen i sin besiddelse?
+ANSWER: Nej, på Tradera er det ikke tilladt at tage imod ordrer for varer, der ikke er i din besiddelse (dropshipping) ifølge reglerne for forsalg og dropshipping. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/
+
+QUESTION: Hvorfor skal man holde sig til reglerne for forudbestillinger, når man sælger en film, et spil eller musik før den officielle udgivelsesdato på Tradera?
+ANSWER: Hvis man sælger en film, et spil eller musik før den officielle udgivelsesdato på Tradera, skal man holde sig til reglerne for forudbestillinger, fordi man stadig ikke må tage imod ordrer på varer, man ikke har på lager. 
+URL: https://info.tradera.com/da/presale-and-dropshipping/

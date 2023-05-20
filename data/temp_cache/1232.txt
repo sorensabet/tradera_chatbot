@@ -1,0 +1,39 @@
+QUESTION: Vilken information kan jag hitta om betalningsvillkor på Tradera?
+ANSWER: Du kan hitta information om Traderas betalningsvillkor på följande sida: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Var kan jag hitta information om hur man handlar på Tradera?
+ANSWER: Du kan hitta information om hur man handlar på Tradera genom att klicka på "Så handlar du på Tradera" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/pages/sa-handlar-du-pa-tradera
+URL: https://www.tradera.com/pages/sa-handlar-du-pa-tradera
+
+QUESTION: Var kan jag hitta information om kategorierna på Tradera?
+ANSWER: Du kan hitta information om kategorierna på Tradera genom att klicka på "Kategorier" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/categories
+URL: https://www.tradera.com/categories
+
+QUESTION: Var kan jag hitta information om populära varumärken på Tradera?
+ANSWER: Du kan hitta information om populära varumärken på Tradera genom att klicka på "Populära varumärken" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/popular-brands
+URL: https://www.tradera.com/popular-brands
+
+QUESTION: Var kan jag hitta information om gröna frakter på Tradera?
+ANSWER: Du kan hitta information om gröna frakter på Tradera genom att klicka på "Grön frakt" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/green-transportation
+URL: https://www.tradera.com/green-transportation
+
+QUESTION: Var kan jag hitta information om hur man säljer som privatperson på Tradera?
+ANSWER: Du kan hitta information om hur man säljer som privatperson på Tradera genom att klicka på "Så säljer du som privatperson" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/pages/saljprivat
+URL: https://www.tradera.com/pages/saljprivat
+
+QUESTION: Var kan jag hitta information om hur man säljer som företag på Tradera?
+ANSWER: Du kan hitta information om hur man säljer som företag på Tradera genom att klicka på "Sälj som företag" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/pages/saljforetag
+URL: https://www.tradera.com/pages/saljforetag
+
+QUESTION: Var kan jag hitta information om fraktkalkylatorn på Tradera?
+ANSWER: Du kan hitta information om fraktkalkylatorn på Tradera genom att klicka på "Fraktkalkylatorn" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/fraktkalkylatorn
+URL: https://www.tradera.com/fraktkalkylatorn
+
+QUESTION: Var kan jag hitta information om hur man donerar med Tradera?
+ANSWER: Du kan hitta information om hur man donerar med Tradera genom att klicka på "Donera med Tradera" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/donation
+URL: https://www.tradera.com/donation
+
+QUESTION: Hur kan jag kontakta Traderas kundsupport?
+ANSWER: Du kan kontakta Traderas kundsupport genom att klicka på "Kontakta oss" på Traderas startsida eller genom att använda följande länk: https://www.tradera.com/contact
+URL: https://www.tradera.com/contact

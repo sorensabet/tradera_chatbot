@@ -1,0 +1,39 @@
+QUESTION 1: Vilka regler finns på Tradera för objekt som inte får säljas?
+ANSWER: På sidan finns information om alla regler gällande objekt som inte får säljas på Tradera, inklusive markesobjekt, droger, vapen, pornografi och otillåtna frimärken. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION 2: Vad innebär reklamation på Tradera?
+ANSWER: På sidan förklaras vad reklamation innebär på Tradera, hur man går tillväga om man vill reklamera en vara och vad som händer om säljaren inte svarar eller om man inte är nöjd med svaret. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/reklamation/
+
+QUESTION 3: Hur fungerar begränsning av identiska objekt på Tradera?
+ANSWER: Sidan förklarar vad begränsning av identiska objekt innebär på Tradera, hur många identiska objekt man får sälja, vad som händer om man överskrider gränsen och vilka undantag som finns. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION 4: Vilka objekt är förbjudna att sälja på Tradera?
+ANSWER: På sidan finns en lista med alla förbjudna objekt som inte får säljas på Tradera, inklusive djur- och växtrelaterade objekt, livsmedel, falska sedlar och drogrek related material. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/otillatna-objekt/
+
+QUESTION 5: Vad är felaktig kategorival på Tradera?
+ANSWER: Felaktig kategorival på Tradera är när man lägger upp en annons i en felaktig kategori och detta beskrivs på sidan tillsammans med konsekvenserna av ett sådant felaktigt val. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktig-kategorival/
+
+QUESTION 6: Vad är ej tillåtna annonsupplägg på Tradera?
+ANSWER: Ej tillåtna annonsupplägg på Tradera är när man lägger upp en annons avsedd att bedra eller lura andra användare och detta beskrivs på sidan tillsammans med vad som händer om man bryter mot dessa regler. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ej-tillatna-annonsupplagg/
+
+QUESTION 7: Vilket slags elektronisk utrustning är förbjuden att sälja på Tradera?
+ANSWER: På sidan finns en lista med elektronisk utrustning som inte får säljas på Tradera, inklusive elektronisk utrustning så som mobiltelefoner och bärbara datorer som har stulits eller modifierats. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 8: Vad ska man göra om man vill reklamera en vara på Tradera?
+ANSWER: Sidan förklarar hur man går tillväga om man vill reklamera en vara på Tradera, vad man ska göra för att få hjälp och vad som händer om varan inte når upp till de förväntningar som man har. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/reklamation/
+
+QUESTION 9: Hur hanteras elektronisk media på Tradera?
+ANSWER: Sidan förklarar hur elektronisk media hanteras på Tradera, vad som händer om man bryter mot licensregler eller piratkopierar elektronisk media och vilka undantag som finns. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION 10: Vilka andra kopior är förbjudna att sälja på Tradera?
+ANSWER: På sidan finns information om vilka andra kopior som är förbjudna att sälja på Tradera, inklusive kopior av märkesvaror och designerplagg. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/

@@ -1,0 +1,39 @@
+QUESTION: Hvor kan jeg finde en Liste over alle Bring ind- og udleveringssteder? 
+ANSWER: Du kan finde en liste over alle Bring ind- og udleveringssteder ved at klikke på linket "her" på siden, eller ved at besøge Bring's hjemmeside.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan kan jeg spore min pakke og hvor finder jeg sporingsnummeret?
+ANSWER: Du kan spore din pakke i Mit Tradera, hvor sporingsnummeret automatisk gemmes. Du kan også besøge Bring's hjemmeside for at spore din pakke.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvis min pakke er beskadiget eller bortkommet under transport, hvad skal jeg gøre da? 
+ANSWER: Hvis din pakke er blevet beskadiget eller bortkommet under transport, kan du kontakte Bring's kundeservice for at rapportere hændelsen og starte en undersøgelse.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg sende pakker med Bring, og hvad er prisen?
+ANSWER: Ja, du kan sende pakker med Bring, men priserne afhænger af størrelsen og vægten på pakken samt destinationen. Du kan se priserne på Bring's hjemmeside eller i Tradera's forsendelsesportal i forbindelse med at oprette dine annoncer.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Tilbyder Bring forsikring for mistede eller beskadigede pakker? 
+ANSWER: Ja, Bring tilbyder en forsikring, der dækker op til 5000 SEK ved mistede eller beskadigede pakker. Du skal dog kontakte Bring's kundeservice i tilfælde af sådanne hændelser for at starte en undersøgelse.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvad er Bring? 
+ANSWER: Bring er et transport- og logistikfirma, der tilbyder en række forskellige tjenester, herunder levering af pakker, e-handel og lagerstyring.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvilke tjenester tilbyder Bring?
+ANSWER: Bring tilbyder en række tjenester, herunder levering af pakker, e-handel, lagerstyring, told og fortoldning, temperaturkontrollerede transporter og mere.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg få min pakke leveret til min adresse med Bring? 
+ANSWER: Ja, du kan få din pakke leveret direkte til din adresse med Bring, afhængigt af din destination og valg af leveringsmetode.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvor lang tid tager det normalt at levere en pakke med Bring? 
+ANSWER: Leveringstiden afhænger af destinationen og den valgte leveringsmetode, men normalt tager det mellem 1-5 hverdage at levere en pakke med Bring.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg returnere en pakke med Bring, og hvad er processen? 
+ANSWER: Ja, du kan returnere en pakke med Bring, og processen afhænger af den leveringsmetode, du har valgt. Du kan læse mere om returnering på Bring's hjemmeside eller i Tradera's forsendelsesportal i forbindelse med, at du opretter dine annoncer.
+URL: https://info.tradera.com/da/bring/

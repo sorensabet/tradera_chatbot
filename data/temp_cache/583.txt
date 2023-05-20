@@ -1,0 +1,39 @@
+QUESTION: Vad är netto-utbetalning?
+\ANSWER: Netto-utbetalning är det belopp du får efter att avgifter eller andra kostnader har dragits från ditt saldo. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vilka alternativ har du för frekvensen av utbetalningar? 
+\ANSWER: Du kan välja att få dina utbetalningar varje dag, en gång i veckan eller en gång i månaden. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: I vilken ordning visas händelser på Utbetalningar och avgifter sidan? 
+\ANSWER: Alla händelser på Utbetalningar och avgifter sidan visas i fallande ordning där den senaste händelsen hamnar högst upp. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad är saldot och hur påverkar det utbetalningen? 
+\ANSWER: Saldot är det återstående beloppet på ditt kontoutdrag efter att avgifter eller andra kostnader har dragits från dina försäljningar. Saldo kontrolleras på förmiddagen och så länge det är positivt, så påbörjas en utbetalning enligt det intervall du ställt in. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: När sker kontrollen av saldot på kontot? 
+\ANSWER: Kontrollen av saldot sker alltid på förmiddagen och så länge saldot är positivt, så kommer en utbetalning påbörjas enligt det intervall du ställt in. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad är fördelarna med att välja dagliga utbetalningar? 
+\ANSWER: Om du väljer dagliga utbetalningar så får du tillgång till dina pengar snabbare och du kan använda dem för att betala avgifter eller andra kostnader som kan uppstå på Tradera. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Hur påverkar provisionsavgifter utbetalningar? 
+\ANSWER: Provisionsavgifter dras från saldot på ditt Tradera-konto innan en utbetalning görs. Detta innebär att det belopp som betalas till dig är netto-utbetalningen, dvs beloppet du får efter att avgifterna dragits. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Hur påverkar Highlight-avgifter utbetalningar? 
+\ANSWER: Highlight-avgifter debiteras från saldot på ditt Tradera-konto och påverkar därför utbetalningarna. Ju högre kostnader du har, desto lägre blir din netto-utbetalning. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: När sker utbetalningen till säljarens konto? 
+\ANSWER: Utbetalningen sker när saldot är positivt, enligt det intervall du ställt in för utbetalningar på ditt Tradera-konto. 
+URL: https://info.tradera.com/nettoutbetalning/
+
+QUESTION: Vad händer om saldot på ditt Tradera-konto är negativt? 
+\ANSWER: Om saldot på ditt Tradera-konto är negativt så dras beloppet från kommande utbetalning eller så uppstår en skuld som behöver betalas. Det är därför viktigt att ha positivt saldo på kontot för att undvika extra kostnader eller problem med betalningar. 
+URL: https://info.tradera.com/nettoutbetalning/

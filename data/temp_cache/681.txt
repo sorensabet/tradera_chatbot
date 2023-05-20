@@ -1,0 +1,39 @@
+QUESTION: Is it possible to hand in the parcel at a different vendor than the one specified?
+\ANSWER: Yes, it is possible to leave the parcel at any Vendor.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Will I get a receipt for the parcel?
+\ANSWER: Yes, you will receive a receipt by e-mail once the parcel has been scanned and handed in.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I change the recipient's address after booking shipping?
+\ANSWER: No, the recipient needs to change the address before you book the shipping.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I use a box address as the sender's address?
+\ANSWER: No, only regular addresses are accepted as we need to be able to return the parcel in case the recipient doesn't get the parcel.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: How do I know when the parcel is delivered?
+\ANSWER: You will receive an SMS to the phone number you have registered at Tradera containing the tracking number.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can I change the shipping address of the parcel?
+\ANSWER: Yes, you can change the shipping address during the checkout process.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: How long will the parcel be kept at the vendor before being returned to the sender?
+\ANSWER: The parcel will be kept for 14 days before being returned to the sender.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Which IDs are valid for collecting my parcel?
+\ANSWER: To collect your parcel, you need a valid ID and the tracking ID. The following IDs are valid: SIS-marked ID-card or service card, ID-card granted by the tax ministry, national ID-card granted by the Swedish police, Swedish driver's license, EU passport, national ID card for any country in the Schengen zone, foreign passport, Nordic driver's license. If another person is going to collect your parcel, you need to bring ID for both persons.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: Can the parcel be kept longer than the allotted time period?
+\ANSWER: No, the parcel cannot be kept longer than 14 days. If you are unable to collect the parcel during this time, you should contact the seller in advance and ask them to send it at a later date.
+URL: https://info.tradera.com/en/dbschenker/
+
+QUESTION: What should I do if I have additional questions?
+\ANSWER: If you have additional questions, you can contact Schenker at 020-22 00 45 or through their support portal.
+URL: https://info.tradera.com/en/dbschenker/

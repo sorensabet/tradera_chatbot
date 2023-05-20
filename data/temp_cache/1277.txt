@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av rättigheter omfattar upplåtelsen enligt avtalet mellan Tradera och användaren?
+ANSWER: Enligt avtalet omfattar upplåtelsen, i den utsträckning gällande rätt medger, användarens ideella rättigheter till annonsens innehåll.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad ansvarar användaren för när det gäller innehållet som denne tillhandahåller?
+ANSWER: Användaren ansvarar för att allt innehåll som denne tillhandahåller oss eller göra åtkomligt för oss vid användning av Tjänsterna är korrekt och inte konfidentiellt samt inte kränker eller gör intrång i någon materiell eller immateriell rättighet tillhörande tredje man.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vad innebär Traderas tillåtelse för köpare att lämna omdömen av varor som annonseras av säljare via Tjänsten?
+ANSWER: Tradera tillåter köpare att lämna omdömen av varor som annonseras av säljare via Tjänsten och dessa omdömen kan komma att göras fritt tillgängliga av Tradera på Traderas webbplats.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Var kan man hitta information om hur Tradera behandlar och delar personuppgifter?
+ANSWER: Information om hur Tradera behandlar och delar personuppgifter finns i Traderas Integritetspolicy.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Är det möjligt att ändra betalningsmetod efter att man har valt en vid köp av ett föremål på Tradera?
+ANSWER: Det är möjligt att ändra betalningsmetod innan köpet är genomfört, men inte efter att köpet är genomfört.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vem tillhandahåller betalningssätten som är tillgängliga på Tradera?
+ANSWER: Betalningssätten tillhandahålls av betallösningsleverantörer som Tradera samarbetar med.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan betalningssätten som erbjuds av betallösningsleverantörer för köp på Tradera ändras från tid till annan?
+ANSWER: Ja, betalningssätten som erbjuds av betallösningsleverantörer kan ändras från tid till annan.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Måste man godkänna ett separat avtal med betallösningsleverantören beroende på vilket betalningssätt man väljer?
+ANSWER: Ja, beroende på vilket betalningssätt man väljer kan man behöva ingå ett separat avtal med den aktuella leverantören av betallösningen.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan användare använda konfidentiellt innehåll på Tjänsterna?
+ANSWER: Nej, användare kan inte använda konfidentiellt innehåll på Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan användare kränka någon materiell eller immateriell rättighet tillhörande tredje man på Tjänsterna?
+ANSWER: Nej, användare kan inte kränka någon materiell eller immateriell rättighet tillhörande tredje man på Tjänsterna enligt villkoren i avtalet mellan användaren och Tradera.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/

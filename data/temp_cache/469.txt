@@ -1,0 +1,39 @@
+QUESTION: What do I do if my parcel is lost or damaged during transit?
+ANSWER: If your parcel is damaged or lost in transit, you can start a claim. Claims for lost parcels can be started if the delivery time is more than 30 days, while claims for broken parcels must be started within 7 days from picking up the delivery. Parcels from Tradera that are sent with DHL are insured. If the parcel is lost or broken, you can be reimbursed up to the selling price of the item, with a maximum of 5000 SEK. The insurance only applies to deliveries within Sweden.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Who is responsible for packaging the parcel?
+ANSWER: The sender is responsible for properly packaging the parcel so that it won't be broken in transit. The parcels are partially handled by machines and collected in cages during transit. The sender needs to ensure that the item is packed in such a way that the contents or other parcels won't be damaged by the package. Using enough packing material so that the item is immovable in the package is recommended. It is recommended that the package should be able to handle a fall from a table. Notes or text with the words "fragile/glassware" or similar won't give any extra protection since the parcels are handled by machines.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How can I obtain the shipping label?
+ANSWER: When shipping with DHL, you don't need access to a printer. You will receive a booking number that you should give to the vendor so that they can print the shipping note for you.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: What happens if my parcel exceeds the weight I paid for?
+ANSWER: If the parcel is heavier than what you ordered, you will be charged for the difference in shipping cost. You will receive an email notification, and the charge will be added to your next invoice. You can check all your upcoming charges here.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Can I leave the parcel at a different vendor than the one specified?
+ANSWER: Yes, you can leave the parcel at any Vendor.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: What courier service does Tradera use to send out parcels?
+ANSWER: Tradera sends parcels through DHL.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: What should I do if I want to start a claim for a lost parcel?
+ANSWER: You can start a claim for a lost parcel if the delivery time is more than 30 days. You can begin the claims process by clicking on the link provided on the Tradera page.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: What should I do if I want to start a claim for a broken parcel?
+ANSWER: You can start a claim for a broken parcel within 7 days of picking up the delivery. You can begin the claims process by clicking on the link provided on the Tradera page.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How much am I reimbursed if my parcel is lost or broken during transit?
+ANSWER: If your parcel is lost or broken in transit, you can be reimbursed up to the selling price of the item, with a maximum of 5000 SEK. This policy only applies to deliveries within Sweden and only for parcels sent by Tradera that are insured.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Does the insurance policy for Tradera's parcels cover international deliveries?
+ANSWER: The insurance policy only applies to deliveries within Sweden.
+URL: https://info.tradera.com/en/dhl/

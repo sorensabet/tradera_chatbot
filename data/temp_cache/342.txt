@@ -1,0 +1,39 @@
+QUESTION: What is the commission fee for sold items on Tradera?
+ANSWER: The commission fee for sold items on Tradera is 10%.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: When will I be charged for unsold items on Tradera?
+ANSWER: You will only be charged for unsold items on Tradera if you use optional add-ons or publish more than 100 listings in a month.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: Can the prices on Tradera vary for different users?
+ANSWER: Yes, the prices on Tradera may vary depending on factors like having a store subscription or using a campaign code.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: What are the different types of listings available on Tradera?
+ANSWER: The different types of listings available on Tradera are auctions, fixed price listings, and shop items.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: How long can I choose to keep an auction active on Tradera?
+ANSWER: You can choose to keep an auction active on Tradera for a period between 3 to 14 days.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: Will I be able to see the highest bid on my auctions on Tradera?
+ANSWER: Yes, on Tradera, the highest bid will be visible to both you and potential buyers.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: Are there any bidding options available on fixed price listings on Tradera?
+ANSWER: No, on Tradera, no bidding is possible on fixed price listings.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: How long will a fixed price listing remain active on Tradera?
+ANSWER: A fixed price listing on Tradera will remain active until it is sold or for 30 days, whichever comes first.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: What do I need to publish a shop item on Tradera?
+ANSWER: To publish a shop item on Tradera, you need to have a store subscription.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION: Can I add more of the same item to the stock of my shop item on Tradera?
+ANSWER: Yes, on Tradera, you can add more of the same item to the stock of your shop item.
+URL: https://info.tradera.com/en/selling-at-tradera/

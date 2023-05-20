@@ -1,0 +1,39 @@
+QUESTION: Hvad er "Købstilbud" på Tradera?
+ANSWER: "Købstilbud" er en funktion på Tradera, der giver købere mulighed for at afgive tilbud på fastprisvarer, som er blevet offentliggjort via hjemmesiden eller appen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvordan sender jeg et købstilbud på Tradera?
+ANSWER: For at sende et købstilbud på Tradera skal du klikke på "Købstilbud" inde i en annonce og indtaste det beløb, du er villig til at betale for varen. Herefter skal du vente på svar fra sælgeren. 
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Er et købstilbud på Tradera bindende?
+ANSWER: Ja, ligesom ved tilbud på Tradera, er dit købstilbud bindende, når sælgeren vælger at acceptere det. Hvis købstilbuddet afvises, eller hvis svarfristen udløber, er du ikke længere forpligtet til at gennemføre handlen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvad sker der, hvis sælgeren accepterer mit købstilbud?
+ANSWER: Hvis sælgeren accepterer dit købstilbud på Tradera, er handlen bindende, og du skal betale for varen plus eventuelle forsendelsesomkostninger.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan jeg give et købstilbud på alle varer på Tradera?
+ANSWER: Du kan kun give et købstilbud på fastprisvarer, der er blevet offentliggjort via Traderas hjemmeside eller app. Fortegnelser oprettet i Prolister og Sello har endnu ikke købstilbudsfunktionen tilgængelig.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan jeg give flere købstilbud på samme vare på Tradera?
+ANSWER: Ja, du kan give op til tre købstilbud pr. opslag på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Er der en grænse for, hvor lavt et tilbud jeg kan give på Tradera?
+ANSWER: Ja, der er en minimumsgrænse for, hvor lavt et tilbud du kan give på Tradera. Det laveste beløb, du kan tilbyde, er angivet på annoncen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvornår udløber et købstilbud på Tradera?
+ANSWER: Tiden for et købstilbud på Tradera varierer afhængigt af sælgerens præferencer og annoncens indhold. Det er angivet på annoncen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan sælgeren afslå mit købstilbud på Tradera?
+ANSWER: Ja, sælgeren kan afslå dit købstilbud på Tradera, og du vil modtage en besked, hvis det sker.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan jeg fortryde et købstilbud på Tradera?
+ANSWER: Nej, når du har afgivet et købstilbud på Tradera, er det bindende, indtil sælgeren enten accepterer, afviser eller svarfristen udløber. 
+URL: https://info.tradera.com/da/koebstilbud/

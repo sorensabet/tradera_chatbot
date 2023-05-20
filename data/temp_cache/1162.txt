@@ -1,0 +1,39 @@
+QUESTION: Vad är "Mitt Tradera"?
+ANSWER: "Mitt Tradera" avser den inloggade miljön som tillhandahålls av Tradera där både Köpare och Säljare har tillgång till funktioner som orderhantering och köpöversikt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är "Regler för Säljare"?
+ANSWER: "Regler för Säljare" är de regler som en Säljare alltid måste följa vid försäljning på Tradera Marketplace. Reglerna finns tillgängliga på Traderas webbplats i dess senaste version.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är en e-handelsplattform som drivs av bolaget Tradera Marketplace AB, en svensk licensierat betalningsinstitut som är auktoriserat och under tillsyn av Finansinspektionen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka anges som Säljare i betalningsvillkoren?
+ANSWER: I betalningsvillkoren definieras en Säljare som en fysisk person bosatt i Sverige som säljer varor eller tjänster på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är "Tradera Plattform"?
+ANSWER: "Tradera Plattform" avser de webbplatser, marknadsplatstjänster och applikationer som Tradera tillhandahåller via t.ex. www.tradera.com för att underlätta e-handel mellan Köpare och Säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är "Traderas Användaravtal"?
+ANSWER: "Traderas Användaravtal" är de villkor som gäller för användande av Traderas plattform och dess tjänster och som finns att tillgå på Traderas webbplats i sin senaste version.
+URL: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+
+QUESTION: Vad är "Traderas kassalösning"?
+ANSWER: "Traderas kassalösning" avser den webbplats där Köpare kan välja bland olika betallösningar som erbjuds på Traderas plattform såsom Swish, kreditkort, PayPal och andra betalmetoder som Tradera lägger till efter hand.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är en Säljare på Traderas plattform?
+ANSWER: En Säljare på Traderas plattform är en fysisk person bosatt i Sverige som säljer varor eller tjänster på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Är Tradera ett licensierat betalningsinstitut?
+ANSWER: Ja, Tradera är ett svensk licensierat betalningsinstitut som är auktoriserat och under tillsyn av Finansinspektionen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken myndighet är ansvarig för att övervaka Tradera som betalningsinstitut?
+ANSWER: Finansinspektionen är den myndighet som är ansvarig för att övervaka Tradera som betalningsinstitut eftersom Tradera är auktoriserad och under tillsyn av Finansinspektionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

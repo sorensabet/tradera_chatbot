@@ -1,0 +1,39 @@
+QUESTION: Hvilke regler er der for annoncer, der tilbyder både afhentning og forsendelse?
+ANSWER: Annoncer, der angiver både afhentning og forsendelse som leveringsmuligheder, skal have en angivet pris for forsendelsen for at vise kunden, hvad annoncen vil koste. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvilke annoncer bliver lukket af Tradera?
+ANSWER: Tradera lukker annoncer, hvor sælger insisterer på en specifik betalingsmetode, selvom annoncen har mere end den pågældende betalingsmulighed.
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Er det tilladt at have flere varer i én annonce på Tradera?
+ANSWER: Det er ikke tilladt at have annoncer med flere varer, hvor kunden skal vælge hvilken vare, de vil have. Det samme gælder for annoncer, hvor du skal vælge størrelse eller farve, fordi det skal tydeligt fremgå hvilken vare, der bydes på.
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvad anbefaler Tradera, hvis man vil have flere annoncer af den samme vare?
+ANSWER: Hvis man som sælger vil have flere annoncer med den samme slags vare, anbefaler Tradera, at man får et butiksabonnement. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvad er Traderas regler for misvisende overskrifter og beskrivelser i annoncer?
+ANSWER: Det er ikke tilladt at henvise til et andet mærke end det, som man sælger. Hvis man fx skriver en annoncebeskrivelse med ordet ”Airpods”, når man egentlig ikke sælger Airpods, er det en typisk fejl ifølge Tradera. Det samme gælder for en annonce med en heldragt, der kaldes “One-piece”, når det egentlig ikke er fra One-piece. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Er det tilladt at sælge alkohol på Tradera?
+ANSWER: Teksten i contexten afbrydes, men det ser ud som om at der fortsættes teksten omhandlende alkohol et sted efter linket i dette afsnit. Uden for yderligere information kan man for nuværende ikke sige om det er tilladt at sælge alkohol eller ej. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvad er kravene for forsendelsesmuligheder på Tradera?
+ANSWER: Alle forsendelsesmuligheder på Tradera skal have en angivet pris, så kunden kan se, hvad annoncen vil koste inklusiv forsendelse. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvorfor kræver Tradera, at alle forsendelsesmuligheder skal have en pris?
+ANSWER: Tradera kræver, at alle forsendelsesmuligheder har en angivet pris, så kunden kan se, hvad annoncen vil ende med at koste. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvad er Traderas regler for annoncer med varer, der kræver valg af størrelse eller farve?
+ANSWER: Tradera kræver, at det tydeligt fremgår, hvilken vare der bydes på i annoncer med varer, der kræver valg af størrelse eller farve. 
+URL: https://info.tradera.com/da/nedstangd-annons/
+
+QUESTION: Hvor kan man læse mere om Traderas butiksvilkår?
+ANSWER: Man kan læse mere om Traderas butiksvilkår ved at klikke på linket, der blev givet i contexten. 
+URL: https://info.tradera.com/da/nedstangd-annons/

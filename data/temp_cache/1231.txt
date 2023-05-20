@@ -1,0 +1,39 @@
+QUESTION: Vad är force majeure?
+ANSWER: Force majeure är en händelse som inträffar utan att någon av de förpliktade parterna har orsakat den. Begreppet force majeure betyder "oförutsedda händelser som är utanför kontrollen av båda parterna". Det kan vara exempelvis krig, naturkatastrofer eller strejker. I sådana fall är den drabbade parten fri från att fullgöra sina förpliktelser enligt avtalet. Det står i Villkoren att den part som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om force majeure-händelsen pågår i mer än sextio (60) dagar?
+ANSWER: Om force majeure-händelsen pågår i mer än sextio (60) dagar har vardera part rätt att säga upp Villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken part äger rätt att ändra Villkoren?
+ANSWER: Tradera äger rätt att ändra Villkoren enligt Traderas Användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad uttrycker Villkoren?
+ANSWER: Villkoren uttrycker fullständigt Köpare, Säljare eller Traderas överenskommelse såvitt avser Traderas kassalösning och Traderas utbetalningslösning och ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Köpare, Säljare eller Tradera gällande betalningslösningar på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken tvistinstans gäller för tvist med anknytning till Villkoren?
+ANSWER: Köpare, Säljare eller Tradera är överens om att tvist med anknytning till Villkoren ska avgöras av svensk allmän domstol, där Stockholms tingsrätt ska vara första instans.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är PayPals Hyperwallet-lösning?
+ANSWER: PayPals Hyperwallet-lösning är en samarbetspartner med Tradera som Säljaren godkänner att använda när de använder Traderas kassalösning och Traderas utbetalningslösning. Informationen om villkoren för PayPals Hyperwallet-lösning finns på följande webbplats https://www.hyperwallet.com/agreements-terms/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka villkor gäller för PayPals Hyperwallet-lösning?
+ANSWER: Informationen om villkoren för PayPals Hyperwallet-lösning finns på följande webbplats https://www.hyperwallet.com/agreements-terms/
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Är Säljaren skyldig att acceptera villkoren för PayPals Hyperwallet-lösning?
+ANSWER: Genom att använda Traderas kassalösning och Traderas utbetalningslösning godkänner Säljaren även villkoren för Traderas samarbetspartner PayPals Hyperwallet-lösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken lag gäller för Villkoren?
+ANSWER: Villkoren lyder under och ska tolkas i enlighet med svensk rätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem eller vad reglerar Villkoren?
+ANSWER: Utöver vad som uttryckligen framgår av Villkoren, reglerar Villkoren fullständigt Köpare, Säljare eller Traderas överenskommelse såvitt avser Traderas kassalösning och Traderas utbetalningslösning och ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Köpare, Säljare eller Tradera gällande betalningslösningar på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

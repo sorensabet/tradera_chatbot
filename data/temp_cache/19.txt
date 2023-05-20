@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas syfte med att använda cookies på sin webbplats? 
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafiken på deras webbplats. De delar också information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om jag inte godkänner Traderas användning av cookies? 
+ANSWER: Om du inte godkänner Traderas användning av cookies kan du inte använda deras webbplats. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vilken typ av cookies används på Tradera? 
+ANSWER: Tradera använder olika typer av cookies, inklusive nödvändiga cookies som krävs för att webbplatsen ska fungera, prestandacookies som används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras, funktionella cookies för utökad funktionalitet och användaranpassning på Tradera, och marknadsföringscookies som används av Traderas annonseringspartners för riktade annonser som är relevanta för dig. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan jag stänga av nödvändiga cookies på Tradera? 
+ANSWER: Nej, det är inte möjligt att stänga av nödvändiga cookies eftersom dessa krävs för att Traderas webbplats ska fungera. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Varför använder Tradera prestandacookies på sin webbplats? 
+ANSWER: Tradera använder prestandacookies för anonym mätning av hur deras webbplats används så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan jag använda Traderas webbplats utan att acceptera funktionella cookies? 
+ANSWER: Ja, du kan använda Traderas webbplats utan att acceptera funktionella cookies, men vissa av dess funktioner kan vara begränsade. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vilken typ av information om min användning av Traderas webbplats delas med deras partners? 
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys, men det är oftast begränsat till anonymiserad och aggregerad data. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Var kan jag hitta mer information om Traderas användning av cookies? 
+ANSWER: Du kan hitta mer information om Traderas användning av cookies på deras webbplats under "Inställningar för cookies" på sidan för information om cookies. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad är syftet med Traderas marknadsföringscookies? 
+ANSWER: Syftet med Traderas marknadsföringscookies är att ge dig riktade annonser som är relevanta för dig genom att samarbeta med deras annonseringspartners. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan jag själv välja vilka marknadsföringscookies som jag accepterar på Tradera? 
+ANSWER: Ja, du kan själv välja vilka marknadsföringscookies du accepterar på Tradera genom att justera dina cookieinställningar på deras webbplats. 
+URL: https://info.tradera.com/anvandaravtal-2014-2019/

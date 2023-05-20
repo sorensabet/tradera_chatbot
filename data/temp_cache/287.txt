@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med koncernbolag enligt Tradera?
+ANSWER: Enligt informationen på sidan används koncernbolag för att tillhandahålla gemensamt innehåll och tjänster, upptäcka och förebygga potentiellt olagliga handlingar och överträdelser av policys samt ge vägledning om deras produkter, webbplatser, applikationer, verktyg, tjänster och kommunikation i enlighet med tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vill Tradera använda min information för marknadsföringsändamål?
+ANSWER: Enligt texten kan koncernbolag komma att använda din information för att skicka marknadsföringsmeddelanden endast om du har samtyckt till detta och gett ditt samtycke på ett sätt som uppfyller tillämpliga regler.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Är det tillåtet för andra Tradera-användare att se min e-postadress?
+ANSWER: Ja, om du är involverad i en transaktion med en annan användare kan den andra användaren se din e-postadress och begära ut dina kontaktuppgifter och postadress för att slutföra affären.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Varför kan Tradera dela min information med andra Tradera-användare?
+ANSWER: Tradera delar din information med andra användare i enlighet med vad som tillåts av dig eller genom din användning av deras webbplatser, tjänster, applikationer eller verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka typer av underleverantörer hjälper Tradera att bedriva verksamheten?
+ANSWER: Tradera får hjälp av underleverantörer som hjälper dem att bedriva verksamheten, som exempelvis kundservice, bedrägeriutredningar, fakturaindrivning, lojalitetsprogram och drift av webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan jag välja att inte dela min information med Tradera?
+ANSWER: Ja, du kan välja att inte dela din information med Tradera genom att inte använda deras webbplatser, tjänster, applikationer eller verktyg. Men om du använder deras tjänster och webbplatser, samlar de in information om dig och ditt användande av deras tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Varför behöver Tradera min information för att bedriva verksamheten?
+ANSWER: Tradera behöver din information för att kunna bedriva verksamheten, exempelvis för att hantera transaktioner och lösa kundsupportärenden, men också för att tillhandahålla relevanta annonser och förbättra deras tjänster.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka länder kan andra Tradera-användare vara bosatta i?
+ANSWER: Andra Tradera-användare kan vara bosatta i ditt land eller andra länder, i enlighet med vad som tillåts av dig eller genom din användning av deras webbplatser, tjänster, applikationer eller verktyg.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av information samlar Tradera in om mig?
+ANSWER: Tradera kan samla in information om dig och ditt användande av deras tjänster, såsom ditt namn, användarnamn, e-postadress, telefonnummer, köphistorik, betalningsinformation, IP-adress, webbläsartyp och enhetsinformation.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan Tradera skicka min information till andra tredje parter utan mitt samtycke?
+ANSWER: Nej, Tradera skickar inte din information till andra tredje parter utan ditt samtycke eller enligt vad som krävs enligt tillämpliga regler och förfaranden.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

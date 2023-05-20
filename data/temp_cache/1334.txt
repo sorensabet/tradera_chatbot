@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med användaravtalet?
+\ANSWER: Syftet med användaravtalet är att säkerställa att användarna på Tradera förstår reglerna och deras ansvar när de använder plattformen. Användaravtalet innehåller också bestämmelser som skyddar både användarna och Tradera.
+URL: https://info.tradera.com/sv/anvandaravtal/
+
+QUESTION: Vad är olika kategorier på Tradera?
+\ANSWER: Det finns olika kategorier på Tradera som användarna kan använda för att navigera och hitta vad de letar efter. Några av de olika kategorierna inkluderar kläder, elektronik, hem och trädgård, sport och fritid osv.
+URL: https://www.tradera.com/
+
+QUESTION: Hur kan jag skapa en annons på Tradera?
+\ANSWER: Du kan skapa en annons på Tradera genom att klicka på "Skapa annons" på sidan "Skapa annons". Du måste välja en kategori och fylla i information om artikelns skick, pris, betalningsalternativ och leveransmetod.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är "My overview" på Tradera?
+\ANSWER: "My overview" är en flik på Tradera där användare kan se alla sina transaktioner. Det ger användare möjlighet att spåra sina köp och försäljningar, se sin betalningshistorik och övervaka sina inloggningar på plattformen.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är "My wish list" på Tradera?
+\ANSWER: "My wish list" är en flik på Tradera där användarna kan spara objekt som de vill köpa senare. De kan lägga till eller ta bort objekt från sin önskelista och när ett objekt finns tillgängligt får de ett meddelande.
+URL: https://www.tradera.com/
+
+QUESTION: Vad är kraven för att använda Tradera?
+\ANSWER: För att använda Tradera måste du vara minst 18 år gammal och ha en giltig e-postadress. Du måste också godkänna användaravtalet och överensstämma med plattformens regler.
+URL: https://info.tradera.com/sv/anvandaravtal/
+
+QUESTION: Hur kan jag kontakta Traderas kundtjänst?
+\ANSWER: Du kan kontakta Traderas kundtjänst genom att klicka på "Kontakta oss" på sidfoten på Tradera. Du kan sedan fylla i en webbformulär eller använda chattfunktionen för att få hjälp.
+URL: https://www.tradera.com/
+
+QUESTION: Vilka betalningsalternativ är tillgängliga på Tradera?
+\ANSWER: Det finns flera olika betalningsalternativ tillgängliga på Tradera, inklusive banköverföring, Swish, PayPal och Klarna. Vilka betalningsalternativ som är tillgängliga beror dock på säljarens preferenser.
+URL: https://www.tradera.com/
+
+QUESTION: Hur fungerar leverans på Tradera?
+\ANSWER: En säljare på Tradera ansvarar för att skicka objektet till köparen. Om köparen har valt ett spårningsbart alternativ kommer säljaren att tillhandahålla ett spårningsnummer. Köparen har sedan en viss tidsperiod att reklamera om objektet inte har levererats eller om det inte matchar beskrivningen.
+URL: https://www.tradera.com/
+
+QUESTION: Hur kan jag säkerställa att jag betalar för en äkta artikel på Tradera?
+\ANSWER: På Tradera är det upp till köparen att göra sin egen forskning och bedömning av objektet innan de köper det. Om det är en dyrbar eller autentisk vara kan det vara klokt att kontrollera säljarens betyg och feedback från tidigare affärer. Om det är möjligt kan du också be säljaren om ett äkthetsintyg eller verifieringsbevis.
+URL: https://www.tradera.com/

@@ -1,0 +1,39 @@
+QUESTION: What happens if the Seller has not provided accurate payment information?
+ANSWER: In case the Seller has not provided accurate payment information, Tradera will not be able to pay the Seller and will contact them to request the necessary information. Once the Seller provides the necessary information, they will typically be paid within two business days.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's policy regarding payment to a Seller if there is suspicion that the Seller will not fulfill their obligations?
+ANSWER: Tradera reserves the right to withhold payment if there is a suspicion that the Seller will not fulfill their obligations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can a Seller contact Tradera on various matters related to a transaction?
+ANSWER: Yes, a Seller can contact Tradera on various matters related to a Transaction, even if the payment services are not provided by Tradera.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the Seller's responsibility upon confirmation of payment from the Buyer?
+ANSWER: Upon Tradera's confirmation that the Buyer has made payment, the Seller needs to send the goods to the Buyer as described under the description of each payment method.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a Swedish Buyer chooses to pay by invoice or installment?
+ANSWER: If a Swedish Buyer chooses to pay by invoice or installment, they enter into an agreement with Paynova or Klarna, and it is not the Seller who has to agree to payment by invoice or installment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: How long does it typically take for a Seller to be paid once they have provided accurate payment information?
+ANSWER: Once a Seller has provided the necessary information to Tradera, they will typically be paid within two business days.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: If a Swedish Buyer chooses to pay via Paynova, who takes over the Seller's right to be paid by the Swedish Buyer?
+ANSWER: If a Swedish Buyer chooses to pay via Paynova, PayPal takes over the Seller's right to be paid by the Swedish Buyer in exchange for PayPal paying the Seller for the Transaction.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Who transfers the claim for payment to Klarna if a Swedish Buyer has chosen to pay via Klarna?
+ANSWER: Tradera transfers the claim for payment to Klarna if a Swedish Buyer has chosen to pay via Klarna.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Who is responsible for making payment to the Seller if a Swedish Buyer has chosen to pay via Klarna?
+ANSWER: Hyperwallet is responsible for making payment to the Seller if a Swedish buyer has chosen to pay via Klarna, and the Seller must accept this.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can a claim for payment be made against Klarna if a Swedish Buyer has chosen to pay via Klarna?
+ANSWER: No, a claim for payment cannot be made against Klarna if a Swedish Buyer has chosen to pay via Klarna. Instead, the claim must be made against Hyperwallet.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

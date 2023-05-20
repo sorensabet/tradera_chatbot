@@ -1,0 +1,39 @@
+QUESTION: Vilket avtal ingår du i när du beställer frakt för ditt föremål via Traderas webbplats?
+ANSWER: När du beställer frakt för ditt föremål via Traderas webbplats, ingår du avtal med Tradera gällande Traderas administration av din beställning och information om frakten till köpare av ditt föremål på Traderas webbplats.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka villkor gäller för Traderas administration av frakten?
+ANSWER: För Traderas administration av frakten gäller villkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Hur bör du betala för frakten?
+ANSWER: Din betalning av frakten ska ske enligt betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad händer om den verkliga fraktavgiften överstiger den beräknade fraktavgiften?
+ANSWER: Om den verkliga fraktavgiften överstiger den beräknade fraktavgiften kommer mellanskillnaden att faktureras dig i efterhand, till exempel genom att adderas till din nästkommande faktura från Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad händer om du fyller i felaktig information om ditt föremål på Traderas webbplats?
+ANSWER: Om du fyller i felaktig information om ditt föremål på Traderas webbplats, till exempel felaktiga mått eller vikt, kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften. Om den verkliga fraktavgiften överstiger den beräknade fraktavgiften kommer mellanskillnaden att faktureras dig i efterhand, till exempel genom att adderas till din nästkommande faktura från Tradera.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka transportföretag erbjuder Tradera för frakt inrikes?
+ANSWER: Tradera erbjuder frakt inrikes med PostNord genom deras tjänster Skicka lätt, Skicka hem, eller Postpaket.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilket transportföretag har en FAQ sektion på Traderas webbplats?
+ANSWER: DHL har en FAQ sektion på Traderas webbplats.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vad ska du göra om du letar efter DHLs FAQ sektion på Traderas webbplats?
+ANSWER: Om du letar efter DHLs FAQ sektion på Traderas webbplats bör du klicka på länken som leder till den.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vilka allmänna villkor har PostNord för sin fraktjänst?
+ANSWER: PostNord har sina allmänna villkor för sin fraktjänst.
+URL: https://info.tradera.com/fraktvillkor/
+
+QUESTION: Vem betalar för frakten när du beställer frakt för ditt föremål via Traderas webbplats?
+ANSWER: Du betalar för beställd frakt direkt till Tradera.
+URL: https://info.tradera.com/fraktvillkor/

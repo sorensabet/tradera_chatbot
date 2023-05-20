@@ -1,0 +1,39 @@
+QUESTION: Vilken faktor påverkar valet av fraktsätt för köpare och säljare?
+ANSWER: En faktor som påverkar valet av fraktsätt för både köpare och säljare är var närmsta ombud finns och vilken försäkring som ingår.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Var kan jag läsa mer om DB Schenker?
+ANSWER: Du kan läsa mer om DB Schenker genom att klicka på länken med samma namn på sidan om integrerade fraktsätt.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Var kan jag läsa mer om Postnord?
+ANSWER: Du kan läsa mer om Postnord genom att klicka på länken med samma namn på sidan om integrerade fraktsätt.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Var kan jag läsa mer om DHL?
+ANSWER: Du kan läsa mer om DHL genom att klicka på länken med samma namn på sidan om integrerade fraktsätt.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur vet jag vad frakten kommer att kosta som säljare?
+ANSWER: Som säljare kan du se fraktpriserna för olika fraktsätt genom att använda Traderas fraktkalkylator eller genom att gå till sidan "skapa annons" i Mitt Tradera.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad bör jag göra om jag skickar skrymmande gods?
+ANSWER: Om du skickar skrymmande gods rekommenderar Tradera att du kollar på speditörens webbplats för att se om det tillkommer extra kostnader. Det är också okej att ta ut en extra kostnad för emballage vid behov så länge kostnaden är rimlig.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Fungerar frakt med Postnord och DB Schenker på samma sätt vid försäljning inom EU som inom Sverige?
+ANSWER: Ja, vid försäljning inom EU fungerar bokning och betalning av frakt automatiskt på samma sätt som vid försäljning inom Sverige om fraktalternativen Postnord eller DB Schenker används.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilket blir fraktpriset vid försäljning inom EU?
+ANSWER: Fraktpriset vid försäljning inom EU sätts automatiskt baserat på vald vikt och mottagarens land om fraktalternativen Postnord eller DB Schenker används.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad behöver jag göra när jag ska samfrakta varor?
+ANSWER: När du ska samfrakta varor behöver du kolla upp fraktalternativen och deras priser för att välja det som passar bäst för dina varor.
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Kan jag ta ut extra kostnad för emballage vid behov?
+ANSWER: Ja, det är okej att ta ut en extra kostnad för emballage vid behov så länge kostnaden är rimlig.
+URL: https://info.tradera.com/fraktguiden/

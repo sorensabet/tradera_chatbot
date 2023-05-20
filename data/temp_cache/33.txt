@@ -1,0 +1,39 @@
+QUESTION: Kan andra personer som använder samma dator som jag se mina personliga uppgifter när jag besöker Traderas webbplatser?
+ANSWER: Ja. Om du besöker Traderas webbplatser genom en publik eller delad dator eller från en dator på ett Internet-café, så kan viss information om dig vara synlig för andra personer som använder datorn efter dig.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Rekommenderar Tradera att användare delar personliga och ekonomiska uppgifter med andra användare?
+ANSWER: Ja. Tradera ger användare möjlighet att lämna ut personliga och ekonomiska uppgifter till andra användare för att slutföra en transaktion och erhålla betalning. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera garantera att min personliga integritet och mina personuppgifter skyddas?
+ANSWER: Nej. Tradera kan inte garantera din personliga integritet eller skydd av dina personuppgifter och rekommenderar därför att du utvärderar din motparts integritetspolicy innan du genomför en transaktion och väljer att lämna ut dina personuppgifter.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka personuppgifter har Tradera tillgång till för att underlätta transaktioner och betalning?
+ANSWER: Tradera har endast begränsad tillgång till andra användares kontaktuppgifter, leveransuppgifter och ekonomiska uppgifter för att underlätta genomförandet av transaktioner och erhållande av betalning.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan jag begära att Tradera raderar mina personuppgifter från deras databas?
+ANSWER: Ja. Du måste ge andra användare möjlighet att begära att de raderas från din databas och att de ges möjlighet att få information om vilka uppgifter som du har samlat in om dem.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad rekommenderar Tradera att jag gör för att skydda min personliga integritet på deras webbplatser?
+ANSWER: Tradera rekommenderar att du beskriver dina rutiner för behandling av personuppgifter och respekterar andra användares personliga integritet. Du bör också utvärdera din motparts integritetspolicy innan du genomför en transaktion och väljer att lämna ut dina personuppgifter.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan andra användare begära att få information om vilka personuppgifter jag samlat in om dem?
+ANSWER: Ja. Du åtar dig att ge andra användare möjlighet att begära att de raderas från din databas och att de ges möjlighet att få information om vilka uppgifter som du har samlat in om dem.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Har Tradera några rutiner för behandling av personuppgifter som användare bör följa?
+ANSWER: Ja. Tradera rekommenderar att användare beskriver sina rutiner för behandling av personuppgifter och respekterar andra användares personliga integritet.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Tillåter Tradera obehöriga att få tillgång till mina personuppgifter?
+ANSWER: Nej. Tradera tillåter endast begränsad tillgång till andra användares kontaktuppgifter, leveransuppgifter och ekonomiska uppgifter för att underlätta genomförandet av transaktioner och erhållande av betalning.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Tradera garantera att mina personuppgifter inte kommer att säljas till tredje part?
+ANSWER: Informationen och personuppgifterna du lämnar ut till Tradera kommer endast att användas internt och inte säljas till utomstående tredje part. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

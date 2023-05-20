@@ -1,0 +1,39 @@
+QUESTION: Vilken information kan Tradera lämna ut i en utredning om bedrägeri?
+ANSWER: Tradera kan lämna ut information som är relevant och nödvändig för utredningen, såsom namn, personnummer, stad, stat eller provins, postadress, telefonnummer, e-postadress, historik för användarnamn, IP-adress, klagomål om bedrägeri samt bud- och säljhistorik.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av information kan rapporteras om mitt konto till kreditupplysningsföretag av Tradera?
+ANSWER: Information om ditt konto, uteblivna betalningar eller andra överträdelser av ditt konto som kan framgå i din kreditupplysning kan rapporteras av Tradera till kreditupplysningsföretag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken information kan Tradera lämna ut till rättighetsinnehavare i sitt VeRO Program?
+ANSWER: Tradera kan lämna ut information som namn, personnummer, hemadress, stad, stat, postadress, land, telefonnummer, e-postadress och företagsnamn till rättighetsinnehavare som deltar i deras VeRO-program om det krävs i samband med en utredning om bedrägeri, intrång i immateriella rättigheter, piratkopiering eller annan olaglig aktivitet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad händer med mina personuppgifter om Tradera skulle fusioneras med ett annat företag?
+ANSWER: Om Tradera fusioneras eller blir uppköpt av ett annat företag kommer de att kräva att det nya företaget följer deras Integritetspolicy vad gäller behandling av dina personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka företag kan Tradera lämna ut mina personuppgifter till om de skulle fusioneras eller bli uppköpta?
+ANSWER: Om Tradera skulle fusioneras eller bli uppköpt kan de lämna ut dina personuppgifter till det nya företaget.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka är de olika typerna av personuppgifter som Tradera kan lämna ut vid en utredning?
+ANSWER: De olika typerna av personuppgifter som Tradera kan lämna ut är namn, personnummer, stad, stat eller provins, postadress, telefonnummer, e-postadress, historik för användarnamn, IP-adress, klagomål om bedrägeri samt bud- och säljhistorik.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka företag kan använda mina personuppgifter om de lämnas ut från Tradera?
+ANSWER: Andra företag, såsom de som Tradera fusioneras med eller blir uppköpta av, kan använda dina personuppgifter om de lämnas ut från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka är de olika typerna av olaglig aktivitet som Tradera har rätt att utreda?
+ANSWER: De olika typerna av olaglig aktivitet som Tradera har rätt att utreda är bedrägeri, intrång i immateriella rättigheter och piratkopiering.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad kommer att hända med mina personuppgifter om de används eller lämnas ut för andra ändamål än vad som anges i integritetspolicyn?
+ANSWER: Om dina personuppgifter kommer att användas eller lämnas ut för andra ändamål än vad som anges i integritetspolicyn kan Tradera inte garantera att de kommer att skydda dina personuppgifter enligt denna policy.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan mina personuppgifter lämnas ut till andra Tradera-användare eller är det bara till utomstående företag som information om mitt konto kan lämnas ut?
+ANSWER: I en utredning om bedrägeri kan information om ditt konto lämnas ut till andra Tradera-användare eller utomstående företag som är bundna av sekretessavtal, i den utsträckning som Tradera anser det är nödvändigt eller lämpligt.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

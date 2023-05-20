@@ -1,0 +1,39 @@
+QUESTION: What types of purchases are prohibited on Tradera's platform?
+ANSWER: Tradera prohibits the purchase of real estate, vehicles (except for recreational vehicles, such as bicycles and hoverboards), customized objects, items equivalent to cash, event tickets, and goods and services that violate Tradera's Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: How can disputes between buyers and sellers be resolved on Tradera's platform?
+ANSWER: Disputes can be resolved through Tradera's dispute settlement procedure on "My Tradera". The dispute must be initiated within 30 days of the purchase, and any communication about the dispute must be made through Tradera's dispute settlement system on the platform. If the dispute is not resolved within ten days, the buyer can escalate it to Tradera. Tradera may ask both parties for supporting evidence to help resolve the dispute.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if a buyer fails to escalate a dispute to Tradera within ten days?
+ANSWER: If the buyer does not escalate the dispute to Tradera within ten days of initiating the dispute settlement procedure, the dispute settlement procedure will automatically be terminated in the seller's favor.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's dispute settlement system?
+ANSWER: Tradera's dispute settlement system allows buyers and sellers to communicate through the platform to resolve disputes. If the dispute cannot be resolved within ten days, the buyer can escalate the dispute to Tradera. Tradera may ask for supporting evidence to help resolve the dispute.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Is the purchase of customized objects allowed on Tradera's platform?
+ANSWER: The purchase of customized objects is generally prohibited under Tradera's Rules for Buyers and should only be purchased if authorized by the seller. If the recipient claims that the customized object has not arrived, the purchase may be allowed.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can buyers purchase items equivalent to cash on Tradera's platform?
+ANSWER: No, Tradera prohibits the purchase of items equivalent to cash, including gift cards.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: How long does a buyer have to initiate a dispute settlement procedure on Tradera's platform?
+ANSWER: A buyer has 30 days from the date of the purchase to initiate a dispute settlement procedure on Tradera's platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What types of vehicles are allowed for purchase on Tradera's platform?
+ANSWER: Only recreational vehicles, such as bicycles and hoverboards, are allowed for purchase on Tradera's platform. Motor vehicles, motorcycles, caravans, aircraft, and boats are prohibited.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What types of purchases are allowed on Tradera's platform?
+ANSWER: Tradera allows the purchase of various goods and services that do not violate Tradera's Rules for Sellers, such as electronics, fashion, home goods, and collectibles.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can buyers purchase event tickets on Tradera's platform?
+ANSWER: No, the purchase of event tickets, including sports and concert tickets, is prohibited on Tradera's platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

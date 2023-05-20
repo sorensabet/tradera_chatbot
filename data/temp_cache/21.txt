@@ -1,0 +1,39 @@
+QUESTION: Vad beskriver integritetspolicyn på Tradera?
+ANSWER: Integritetspolicyn beskriver hur vi samlar in, använder, sparar, lämnar ut och skyddar dina personuppgifter. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad räknas som personuppgifter i integritetspolicyn på Tradera?
+ANSWER: Personuppgifter är information som direkt eller indirekt kan hänföras till en specifik fysisk person. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Gäller integritetspolicyn på Tradera för alla deras tjänster?
+ANSWER: Integritetspolicyn gäller för webbplatsen www.tradera.com och för alla webbplatser, applikationer, tjänster och verktyg där det finns en hänvisning till denna Integritetspolicy, oavsett på vilket sätt du får åtkomst till eller använder dem. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad händer om integritetspolicyn på Tradera ändras?
+ANSWER: Om integritetspolicyn på Tradera ändras kommer det att publiceras på sidan och befintliga användare kommer att informeras om större förändringar via e-post. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka samtycker till insamling, användning, utlämning och lagring av personuppgifter på Tradera?
+ANSWER: Alla som accepterar integritetspolicyn på Tradera samtycker till insamling, användning, utlämning och lagring av personuppgifter på de sätt som beskrivs i policyn och i Traderas användaravtal. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan personuppgifter på Tradera användas för att identifiera en specifik fysisk person?
+ANSWER: Ja, personuppgifter på Tradera kan användas för att identifiera en specifik fysisk person. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan anonymiserad eller aggregerad information användas som personuppgifter på Tradera?
+ANSWER: Nej, Tradera anser inte att personuppgifter omfattar information som har anonymiserats eller aggregerats på så sätt att den varken med hjälp av annan information eller på annat sätt kan användas för att identifiera en specifik fysisk person. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan Traderas integritetspolicy gäller för sidor från tredje part?
+ANSWER: Integritetspolicyn på Tradera gäller inte sidor från tredje part på Traderas webbplats.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vad innehåller Traderas användaravtal?
+ANSWER: Traderas användaravtal beskriver villkoren för användning av Traderas tjänster och verktyg, inklusive beskrivning av insamling, användning, lagring och utlämning av personuppgifter enligt Traderas integritetspolicy. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilken information skyddas enligt integritetspolicyn på Tradera?
+ANSWER: Integritetspolicyn skyddar personuppgifter på Tradera, som direkt eller indirekt kan hänföras till en specifik fysisk person, genom beskrivning av insamling, användning, lagring och utlämning av dessa uppgifter. 
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

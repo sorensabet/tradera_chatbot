@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas betaltjänst?
+ANSWER: Traderas betaltjänst refererar till utbetalning till säljaren genom Nordea eller Hyperwallet efter att köparen har gjort en betalning till Traderas bankkonto. Den tillhandahålls av tredjeparter som Tradera har samarbeten med, och är i enlighet med lagen (2010:751) om betaltjänster. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Traderas betallösning?
+ANSWER: Traderas betallösning refererar till hela transaktionsförloppet från det att köparen gör en betalning via en av betalsätten i Traderas kassalösning till det att utbetalning till säljaren genomförs via Traderas betaltjänst. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är en transaktion?
+ANSWER: En transaktion på Traderas plattform refererar till en betalning för varor eller tjänster. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad menas med återbetalningsskyldigt belopp?
+ANSWER: Återbetalningsskyldigt belopp är det belopp som säljaren ska återbetala till Tradera i samband med en återbetalning av belopp som redan betalats ut till säljaren på grund av att ett köp ska gå åter. Beloppet utgör en del av eller hela transaktionen, plus eventuella avgifter som ålagts Tradera i samband med transaktionen, inklusive fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA eller MasterCard. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är inkluderat i transaktionens återbetalningsskyldiga belopp?
+ANSWER: Transaktionens återbetalningsskyldiga belopp inkluderar en del eller hela transaktionen, eventuella avgifter som ålagts Tradera i samband med transaktionen, fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA eller MasterCard. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är villkoren för att använda Traderas betallösning?
+ANSWER: Villkoren för att använda Traderas betallösning anges inte i det givna stycket, men det står att de följer av Villk. Detaljerade villkor bör hittas på Traderas webbplats eller genom att direkt kontakta företaget. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka tredje parter tillhandahåller betallösningen i samarbete med Tradera?
+ANSWER: De tredje parter som tillhandahåller betallösningen i samarbete med Tradera anges inte i det givna stycket. Det bör finnas detaljer om Traderas samarbetspartners på företagets webbplats eller genom direkt kontakt med företaget. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är lagen (2010:751) om betaltjänster?
+ANSWER: Lagen (2010:751) om betaltjänster är en svensk lag som reglerar betaltjänster och tjänster för pengahantering. Genom denna lag ska betaltjänster vara säkra, pålitliga och skydda användarnas pengar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka banker samarbetar Tradera betaltjänst med för utbetalningar till säljare?
+ANSWER: Tradera betaltjänst samarbetar med Nordea och Hyperwallet för utbetalningar till säljare. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan avgifter från andra transaktionsparter läggas till transaktionens återbetalningsskyldiga belopp?
+ANSWER: Ja, avgifter från andra transaktionsparter, inklusive fraktkostnader för returnering av en vara och avgifter som Tradera ålagts av sina partners som PayPal, Paynova, Klarna, VISA eller MasterCard, kan läggas till transaktionens återbetalningsskyldiga belopp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

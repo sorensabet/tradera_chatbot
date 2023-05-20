@@ -1,0 +1,39 @@
+QUESTION: What is the purpose of collecting personal data by Tradera?
+ANSWER: Tradera collects personal data to meet legal obligations such as fraud and money laundering prevention, tax legislation or to take actions permitted by law.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: How long does Tradera keep personal data?
+ANSWER: Tradera only keeps personal data securely and for as long as necessary, and as permitted by law.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What are a user's rights with respect to their personal data?
+ANSWER: A user has certain rights in respect of their personal data, subject to limitations set out in privacy regulations applicable in the EU/EEA. These include the right to information, access, rectification and completion, and the right to object.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the easiest way to find out what information Tradera processes about a user?
+ANSWER: The easiest way to find out what information Tradera processes about a user is by reading the Privacy statement.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can a user request an extract from Tradera's register summarizing their personal data?
+ANSWER: Yes, a user has the right to request an extract from Tradera's register. This is a summary of the personal data Tradera processes about the user.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can a user request rectification or completion of their personal data?
+ANSWER: Yes, a user can request rectification or completion of their personal data if the information changes, for example by changing their name or address. They can do this by visiting their My Tradera-page or by contacting Tradera.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What is the right to object in relation to personal data?
+ANSWER: The right to object in relation to personal data means that a user has the right to object to Tradera's processing of their personal data. They can do this by contacting privacy@tradera.com. Users also have the right to object and oppose the processing of their personal data for direct marketing measures. They may also object to processing carried out by Tradera on the basis of their legitimate interest.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Will a user be charged any fees for exercising their rights in respect of their personal data?
+ANSWER: Exercising a user's rights in respect of their personal data is not accompanied by any costs or fees.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: What does a user need to do to exercise their right to access Tradera's register summarizing their personal data?
+ANSWER: If a user wants to exercise their right to access Tradera's register summarizing their personal data, they need to contact Tradera with a request and identify themselves.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION: Can a user request access to personal data that does not refer to them?
+ANSWER: No, a user does not have the right to request access to personal data that does not refer to them.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

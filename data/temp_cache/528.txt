@@ -1,0 +1,39 @@
+QUESTION: Vilka är syftena med cookies på Tradera?
+ANSWER: Syftena med cookies på Tradera är för att passa innehåll, annonser, tillhandahålla funktioner för sociala medier och analysera trafiken. Dessa ändamål inkluderar också att förbättra användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Är det viktigt att ha cookies aktiverade på Tradera?
+ANSWER: Ja, det är viktigt att ha cookies aktiverade på Tradera eftersom de är nödvändiga för att Tradera ska fungera på ett optimalt sätt och förbättra din användarupplevelse på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Vad är nödvändiga cookies?
+ANSWER: Nödvändiga cookies är cookies som krävs för att Tradera ska fungera optimalt. Dessa cookies kan inte stängas av eftersom de är avgörande för webbplatsens funktionalitet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Hur används prestanda cookies på Tradera?
+ANSWER: Prestanda cookies används på Tradera för anonym mätning av hur webbplatsen används så att Tradera kan förbättra användarupplevelsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies är cookies som används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Kan jag avaktivera cookies på Tradera?
+ANSWER: Vissa cookies kan avaktiveras på Tradera, men nödvändiga cookies kan inte avaktiveras eftersom de är avgörande för webbplatsens funktionalitet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Vad är marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av Traderas annonseringspartners för riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Vad ger cookies Tradera möjligheten att göra?
+ANSWER: Cookies ger Tradera möjligheten att passa innehåll och annonser, tillhandahålla funktioner för sociala medier och analysera trafiken på webbplatsen. Dessa ändamål inkluderar också att förbättra användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Var kan jag ändra mina cookieinställningar på Tradera?
+ANSWER: Du kan ändra dina cookieinställningar på Tradera under "Inställningar för cookies", som finns tillgängligt på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/
+
+QUESTION: Var kan jag läsa mer om cookies på Tradera?
+ANSWER: Du kan läsa mer om cookies på Tradera genom att klicka på länken "Vad är det här? Läs mer" under "Inställningar för cookies".
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/lakemedelsrelaterade-objekt/

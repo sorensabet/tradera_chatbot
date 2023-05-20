@@ -1,0 +1,39 @@
+QUESTION: Vad händer om budtrissning utförs på Tradera?
+ANSWER: Om vi kan verifiera att budtrissning utförts, så kommer både säljarens och budgivarens konto att stängas av.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Vad händer om priset på en annons manipuleras genom budtrissning?
+ANSWER: Om priset på en annons manipuleras genom budtrissning och du vinner annonsen, så är du inte skyldig att fullfölja affären.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: På Tradera kan du hitta annonser inom olika kategorier. Kategorier som populära är exempelvis "Kläder, skor & accessoarer", "Sport & fritid" och "Hem & trädgård".
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/sa-handlar-du-pa-tradera/
+
+QUESTION: Vilka populära varumärken finns det på Tradera?
+ANSWER: På Tradera kan du hitta annonser från populära varumärken som exempelvis Filippa K, Acne, Nike och Adidas.
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/sa-handlar-du-pa-tradera/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är ett partnerskap mellan Tradera och PostNord och innebär att alla fraktsedlar som köps på Tradera bidrar till att minska utsläppen av koldioxid genom att klimatkompenseras.
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/sa-handlar-du-pa-tradera/
+
+QUESTION: Vilka regler gäller för att sälja som privatperson på Tradera?
+ANSWER: För att sälja som privatperson på Tradera så måste du bland annat ha fyllt 18 år, ha ett svenskt personnummer samt förstå och följa reglerna för köp och försäljning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/salj-som-privatperson/
+
+QUESTION: Vad gäller vid försäljning som företag på Tradera?
+ANSWER: Om du säljer som företag på Tradera så gäller specifika regler och du måste ha ett Organisationsnummer. Du är också skyldig att ange momsen i priset och följa andra regler för försäljning som företag.
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/salj-som-foretag/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera ger dig möjlighet att kalkylera fraktkostnader för ditt paket samt se vilka fraktalternativ som finns tillgängliga baserat på vikt, storlek och destination.
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/sa-handlar-du-pa-tradera/
+
+QUESTION: Vad kan man göra med den "Donera med Tradera"-funktionen?
+ANSWER: Med "Donera med Tradera"-funktionen kan du donera pengar till olika organisationer genom att lägga ett litet belopp i din varukorg när du shoppar på Tradera. Beloppet går sedan direkt till organisationen.
+URL: https://info.tradera.com/sakerhetscenter/kop-och-salj-pa-tradera/butik/
+
+QUESTION: Vad kan man kontakta Traderas kundtjänst för hjälp med?
+ANSWER: Du kan kontakta Traderas kundtjänst för hjälp med frågor kring köp och försäljning på Tradera, betalningar, leverans och annat som rör användningen av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/kontakt-hjalp/

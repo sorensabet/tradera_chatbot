@@ -1,0 +1,38 @@
+QUESTION: Vilka är de olika betalningsalternativen som Tradera erbjuder?
+ANSWER: Texten nämner inte de olika betalningsalternativen som Tradera erbjuder utan endast att om en betalning mot faktura eller avbetalning har genomförts  så kommer säljaren att skicka varan till köparen och att utbetalningen till säljarens bankkonto normalt sker inom 1-2 bankdagar efter att Tradera har erhållit korrekta uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om en säljare bryter mot gällande lagar vid en transaktion?
+ANSWER: Tradera har rätt att innehålla betalningar till säljare eller kräva att säljaren betalar om deras transaktion bryter mot gällande lagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om en transaktion resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med säljaren?
+ANSWER: Tradera har rätt att innehålla betalningar till säljare eller kräva att säljaren betalar om en transaktion resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är de olika tillfällen då Tradera har rätt att inneha eller återkräva betalningar från säljaren?
+ANSWER: Tradera har rätt att innehålla eller återkräva betalningar från säljaren inom ramen för deras tvistlösningssystem, vid transaktioner som kan misstänkas utgöra penningtvätt eller finansiering av terrorism eller vid transaktioner där säljaren har brutit mot gällande lagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad innebär det att säljaren ska meddela att betalning för köpet har genomförts?
+ANSWER: Om säljaren väljer att göra en betalning mot faktura eller avbetalning ska de meddela att betalningen för köpet har genomförts via email och i Mitt Tradera. Därefter kommer säljaren att skicka varan till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: När sker normalt en utbetalning till säljarens bankkonto?
+ANSWER: Normalt sker utbetalning till säljarens bankkonto inom 1-2 bankdagar efter att Tradera har erhållit korrekta uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: För vilka transaktioner kan Tradera behålla eller återkräva betalningar från säljaren?
+ANSWER: Tradera kan behålla eller återkräva betalningar från säljaren för transaktioner som resulterar i en fordran mot en person som Tradera skäligen kan anta dela ett ekonomiskt intresse med säljaren, för transaktioner som kan misstänkas utgöra penningtvätt eller finansiering av terrorism, för transaktioner där säljaren har brutit mot gällande lagar och inom ramen för deras tvistlösningssystem där Tradera anser att köparen har rätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur ska säljaren skicka varan till köparen?
+ANSWER: Texten nämner inte hur säljaren ska skicka varan till köparen utan endast att när säljaren har meddelat att betalning har genomförts så ska de skicka varan till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Varför har Tradera rätt att behålla eller återkräva betalningar från säljaren?
+ANSWER: Tradera har rätt att behålla eller återkräva betalningar från säljaren för att tillgodose deras rättigheter och skyldigheter enligt lagar och för att hantera eventuella tvister mellan köpare och säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan en köpare välja att betala mot faktura eller avbetalning?
+ANSWER: Texten nämner inte om köparen kan välja att betala mot faktura eller avbetalning utan endast att säljaren ska meddela att betalning har genomförts.

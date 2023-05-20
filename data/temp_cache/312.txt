@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med cookies på Tradera?
+ANSWER: Syftet med cookies på Tradera är att förbättra användarupplevelsen, mäta hur Tradera används och kunna erbjuda utökad funktionalitet och användaranpassning. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de behövs för att Tradera ska fungera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vilket syfte har marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för att visa riktade annonser som är relevanta för dig som användare.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, exempelvis sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan jag använda Tradera utan cookies?
+ANSWER: Nej, det går inte att använda Tradera utan cookies eftersom de är nödvändiga för att sajten ska fungera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad är prestandacookies på Tradera?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vilken typ av cookies kan stängas av på Tradera?
+ANSWER: Endast funktionella och marknadsföringscookies kan stängas av på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Hur kan jag anpassa cookie-inställningarna på Tradera?
+ANSWER: Du kan anpassa cookie-inställningarna på Tradera genom att gå till Inställningar för cookies längst ner på Traderas hemsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Varför krävs det cookies för att möjliggöra budgivning på Tradera?
+ANSWER: Cookies behövs för att Tradera ska kunna identifiera och spara dina val under budgivningsprocessen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan jag ändra cookie-inställningarna på Tradera efter att jag har godkänt dem?
+ANSWER: Ja, du kan ändra dina cookie-inställningar på Tradera när som helst genom att gå till Inställningar för cookies längst ner på hemsidan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/

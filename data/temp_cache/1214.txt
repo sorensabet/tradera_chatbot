@@ -1,0 +1,39 @@
+QUESTION: Vad är Villkor betalningar för kunder bosatta i Sverige?
+ANSWER: Villkor betalningar för kunder bosatta i Sverige är särskilda villkor som gäller istället för Allmänna villkor för betalningar för kunder som bor i Sverige. Dessa villkor kan hittas genom att klicka på länken som tillhandahålls i texten. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka åtaganden har Köparen och Säljaren när de använder Traderas kassalösning?
+ANSWER: När man som Köpare eller Säljare använder Traderas kassalösning så har man vissa åtaganden. Som Köpare måste man acceptera att man endast kan betala för köp av Säljaren med hjälp av Traderas kassalösning, medan Säljaren i sin tur måste acceptera att Köparen betalar med hjälp av Traderas kassalösning och att Säljaren ska ta betalt genom Traderas kassalösning när Säljaren säljer något på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem omfattas inte av dessa villkor?
+ANSWER: Traderas villkor för betalningar omfattar inte juridiska personer eller Köpare och Säljare som är bosatta utomlands. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är definitionerna i dessa villkor?
+ANSWER: I dessa villkor definieras "Klarna" som Klarna Bank AB, "Köpare(n)" som en fysisk person bosatt i annan jurisdiktion än Sverige samt en juridisk person som har gjort ett köp av Säljaren på Traderas Plattform, och "Mitt Tradera" som den inloggade miljö som tillhandahålls av Tradera och där bland annat Säljare kan sköta orderhantering och Köparen kan kontrollera sina köp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är Regler för Säljare?
+ANSWER: Regler för Säljare är de regler som en Säljare måste följa när denne säljer varor och/eller tjänster på Traderas Plattform. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Har Tradera sin egen betaltjänst?
+ANSWER: Nej, Tradera tillhandahåller inte sin egen betaltjänst till juridiska personer eller Köpare och Säljare bosatta utomlands. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer när man som Säljare säljer något på Traderas Plattform?
+ANSWER: När man som Säljare säljer något på Traderas Plattform så måste man acceptera att Köparen betalar med hjälp av Traderas kassalösning och att man som Säljare sedan tar betalt genom Traderas kassalösning. Detta regleras av Traderas villkor för betalningar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem kan använda Traderas kassalösning?
+ANSWER: Enbart Köpare kan använda Traderas kassalösning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka villkor gäller för köp av Säljaren på Traderas Plattform?
+ANSWER: När man som Köpare köper något av Säljaren på Traderas Plattform så gäller Traderas villkor för betalningar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad kan man göra i Mitt Tradera?
+ANSWER: I Mitt Tradera kan man som Säljare sköta orderhantering och som Köpare kontrollera sina köp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

@@ -1,0 +1,41 @@
+send purchase offers on active fixed price listings on Tradera.
+ 
+QUESTION: What is the Purchase Offer feature on Tradera?
+ANSWER: The Purchase Offer feature on Tradera allows buyers to send offers to sellers on active fixed price listings.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Can I send purchase offers on all listings on Tradera?
+ANSWER: No, you can only send purchase offers on active fixed price listings. Purchase offers are not available on listings where bidding is allowed and its currently not possible to send purchase offers on listings published with Prolister or Sello.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: How can I send a purchase offer to the seller?
+ANSWER: To send a purchase offer to the seller, you need to click on "Purchase offer" on the listing page and enter the amount that you are willing to pay for the item. Then you just need to wait and see if the seller accepts your offer.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Is a purchase offer binding?
+ANSWER: Yes, just like a regular bid on Tradera a purchase offer is binding if the seller accepts the offer within 24 hours. If the offer is declined or if the offer has expired then the offer is no longer binding.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: How long does a seller have to accept a purchase offer?
+ANSWER: Sellers have 24 hours to accept a purchase offer. If the offer is declined or if the offer has expired then the offer is no longer binding.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: What happens if a seller declines my purchase offer?
+ANSWER: If a seller declines your purchase offer, the offer is no longer binding.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Can I cancel a purchase offer after I have sent it?
+ANSWER: No, once a purchase offer has been sent it cannot be cancelled.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: What type of listings can I send a purchase offer on?
+ANSWER: Purchase offers are only available on active fixed price listings. They are not available on listings where bidding is allowed and its currently not possible to send purchase offers on listings published with Prolister or Sello.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: Do I have to pay for sending a purchase offer?
+ANSWER: No, sending a purchase offer is free of charge.
+URL: https://info.tradera.com/en/purchase-offer/
+
+QUESTION: How will I know if the seller accepts my purchase offer?
+ANSWER: You will receive a notification that the seller has accepted your purchase offer.
+URL: https://info.tradera.com/en/purchase-offer/

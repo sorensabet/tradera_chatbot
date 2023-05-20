@@ -1,0 +1,39 @@
+QUESTION: Vilka villkor gäller för Traderas fraktadministration?
+ANSWER: För Traderas administration av frakten gäller villkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vilka villkor gäller för frakttjänsten?
+ANSWER: För frakttjänsten tillämpas Nordiskt Speditörförbunds allmänna bestämmelser och DHL’s vid var tid gällande Transportvillkor som du godkänner i samband med din beställning av frakttjänsten. För DHL’s produkter tillämpas därutöver DHL’s vid varje tidpunkt gällande produktspecifika villkor.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Hur betalar man för frakten på Tradera?
+ANSWER: Du betalar för beställd frakt direkt till Tradera. Din betalning av frakten ska ske i enlighet med betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vad händer om man fyller i felaktig information om föremålet?
+ANSWER: Om du fyller i felaktig information gällande exempelvis mått eller vikt kommer den verkliga fraktavgiften inte motsvara den beräknade fraktavgiften. Om den verkliga fraktavgiften överstiger den beräknade fraktavgiften kommer mellanskillnaden att faktureras dig i efterhand t.ex. genom att adderas till din nästkommande faktura från Tradera.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Var kan jag hitta närmaste ombud?
+ANSWER: Här kan du hitta ditt närmaste ombud.
+URL: https://www.dhl.se/sv-se/home/kontakta-oss/hitta-ditt-ombud.html
+
+QUESTION: Vad är leveranstiden för Traderas frakttjänst?
+ANSWER: Traderas frakttjänst levererar ditt paket normalt inom 2-3 arbetsdagar.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vilka specifika villkor tillämpas för DHL's produkter?
+ANSWER: För DHL’s produkter tillämpas DHL’s vid varje tidpunkt gällande produktspecifika villkor.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vilka transportvillkor tillämpar DHL?
+ANSWER: För frakttjänsten tillämpas Nordiskt Speditörförbunds allmänna bestämmelser och DHL’s vid var tid gällande Transportvillkor som du godkänner i samband med din beställning av frakttjänsten.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vad är Nordiskt Speditörförbunds allmänna bestämmelser?
+ANSWER: Nordiskt Speditörförbunds allmänna bestämmelser är villkoren som gäller för frakttjänsterna som Tradera erbjuder och som du godkänner i samband med din beställning.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: När betalar man för frakttjänsten på Tradera?
+ANSWER: Du betalar för beställd frakt direkt till Tradera. Din betalning av frakten ska ske i enlighet med betalningsvillkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/dhl/

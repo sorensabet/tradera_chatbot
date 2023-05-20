@@ -1,0 +1,39 @@
+QUESTION 1: What is the importance of a unique password on a Tradera account?
+ANSWER: It is important to have a unique password on a Tradera account to ensure the security of the account and prevent anyone else from accessing it. By using unique numbers, letters, and special characters, the password becomes difficult to guess or crack, which reduces the risk of unauthorized access to personal data.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 2: Who is responsible for the actions taken using a compromised Tradera password?
+ANSWER: The account holder is responsible for all actions taken on their Tradera account using a compromised password, and they can also be subject to legally binding actions taken on their behalf. That is why it is necessary to immediately notify Tradera and change the account password once it has been compromised.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 3: How can one change their Personal Data on Tradera?
+ANSWER: The account holder can sign in to their account and edit their Personal Data in their profile settings. It is important to promptly update the Personal Data if it changes or is inaccurate and note that in some cases, once a public posting is made on the site, it may not be possible to change or remove it.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 4: What is the commitment of Tradera when transferring Personal Data outside of the EEA?
+ANSWER: Tradera is committed to providing appropriate protection for Personal Data wherever it is transferred outside of the EEA. They ensure that the data is stored and processed on secure servers and rely on Binding Corporate Rules for transfers of data within members of the PayPal corporate family.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 5: What kind of security controls does Tradera use to prevent unauthorized processing of Personal Data?
+ANSWER: Tradera uses physical, technical, and organizational security controls commensurate with the amount and sensitivity of Personal Data to prevent unauthorized processing, including but not limited to firewalls, data encryption, physical access controls to their data centers, and information access authorization controls.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 6: What happens to Personal Data when an account is closed on Tradera?
+ANSWER: Upon the account holder's request, and subject to the provisions in the privacy statement, Tradera will close the account and delete the Personal Data. However, some data may still be required to be retained for legal or accounting purposes.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 7: How do individuals access, review, and change their Personal Data on Tradera?
+ANSWER: Individuals can access, review, and change their Personal Data on Tradera by signing in to their account and editing their account profile settings. It is necessary to promptly update the Personal Data if it changes or is inaccurate.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 8: What happens if a public posting is made on the Tradera site?
+ANSWER: In some cases, once a public posting is made on the site, it may not be possible to change or remove it.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 9: Where are the servers that store and process Personal Data located?
+ANSWER: The servers that store and process Personal Data are located in Sweden and elsewhere in the world.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/
+
+QUESTION 10: What are Binding Corporate Rules in relation to Personal Data transfers within the PayPal corporate family?
+ANSWER: Binding Corporate Rules are a set of internal rules that ensure adequate protection and security of Personal Data when it is transferred within members of the PayPal corporate family.
+URL: https://info.tradera.com/en/privacy-statement-2018-2021/

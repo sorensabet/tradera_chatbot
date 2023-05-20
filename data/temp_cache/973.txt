@@ -1,0 +1,39 @@
+QUESTION 1: What kind of personal data could be accessed by Tradera when users associate their account with a third party managed account?
+ANSWER: The personal data that Tradera may access varies depending on the third party website, the user's privacy settings on that website and their consent.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 2: What is the purpose of collecting personal data according to the privacy statement?
+ANSWER: The purpose of collecting personal data is to provide users with access to Tradera's websites and services, to provide requested customer service, to offer users a safe and customised experience, and to prevent and detect fraudulent or illegal activities.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 3: What can Tradera use the collected personal data for?
+ANSWER: Tradera can use the collected personal data to manage user accounts, provide customer support, prevent and investigate fraudulent or illegal activities, customise services and improve advertising, contact users to resolve disputes, collect fees, and troubleshoot problems, verify information for accuracy, and provide other services requested by users.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 4: What legal obligation does Tradera have when processing personal data?
+ANSWER: Tradera must have an applicable legal ground, and their processing of personal data is based on legal obligations.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 5: How does Tradera collect personal data from third-party websites?
+ANSWER: Tradera collects personal data from third-party websites when users associate their third-party managed account with their Tradera account and grant Tradera access to the information.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 6: What kind of services does Tradera offer that require users to provide access to personal data stored by third-party websites?
+ANSWER: Tradera offers services that allow users to share information with third-party social media websites, and users may choose to provide Tradera with access to certain personal data stored by third-party websites.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 7: Can Tradera use personal data collected from third-party websites for purposes other than the ones described in the privacy statement?
+ANSWER: Yes, Tradera can use personal data collected from third-party websites for other purposes authorised by law.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 8: What is the user agreeing to when they associate their account managed by a third party with their Tradera account and grant Tradera access to their information?
+ANSWER: By associating an account managed by a third party with their Tradera account and granting Tradera access to their information, the user agrees that Tradera may collect, use, and store information from third-party websites in accordance with their privacy statement.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 9: What is Tradera's responsibility when it comes to user consent for accessing personal data from third-party websites?
+ANSWER: Tradera depends on the user's consent to access personal data from third-party websites, and they must respect the user's privacy settings on that third-party website.
+URL: https://info.tradera.com/en/integritetespolicy-eng/
+
+QUESTION 10: How does Tradera use personal data to customise the user's experience on their website?
+ANSWER: Tradera uses personal data to customise the user's experience on their website by measuring and improving their services, content, and advertising.
+URL: https://info.tradera.com/en/integritetespolicy-eng/

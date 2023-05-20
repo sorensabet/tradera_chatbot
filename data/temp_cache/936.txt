@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg modtage mine betalinger som sælger på Tradera?
+ANSWER: Som sælger kan du modtage dine betalinger på din PayPal- eller IBAN-konto. Uanset hvordan kunden betaler, vil du modtage pengene på den konto, som du vælger. Betalingen vil være på din konto 1-2 bankdage efter, at kunden har betalt. Der er ingen transaktionsgebyrer for hverken kunden eller sælgeren.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Hvilke betalingsmetoder kan jeg som kunde vælge på Tradera?
+ANSWER: Som kunde på Tradera kan du vælge den betalingsmetode, der passer dig bedst. Du kan betale via Betal nu, faktura eller delbetaling. Der er også mulighed for at få køberbeskyttelse for en sikrere handel. Der er ingen transaktionsgebyrer for hverken kunden eller sælgeren.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Er der transaktionsgebyrer for kunder og sælgere på Tradera's betalingsservice?
+ANSWER: Nej, der er ingen transaktionsgebyrer for hverken kunden eller sælgeren på Tradera's betalingsservice.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Er der mulighed for fakturabetaling på Tradera?
+ANSWER: Ja, som kunde på Tradera kan du betale via faktura inden for 1-2 bankdage efter, at kunden har betalt. Der er ingen transaktionsgebyrer for hverken kunden eller sælgeren.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Hvor lang tid tager det før sælger modtager betaling på Tradera's betalingsservice?
+ANSWER: Som sælger vil du modtage betalingen fra din PayPal- eller IBAN-konto inden for 1-2 bankdage efter, at kunden har betalt.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Kan sælgere tilbyde flere betalingsmetoder uden at skulle registrere ekstra konti?
+ANSWER: Ja, som sælger kan du tilbyde flere betalingsmetoder uden at skulle registrere ekstra konti. Du vil modtage betalingen på den konto, som du vælger, uanset hvordan kunden betaler.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Er der nogen fordele ved at vælge delbetaling som betalingsmetode på Tradera?
+ANSWER: Som kunde på Tradera kan du vælge delbetaling som betalingsmetode. Det giver dig mulighed for at betale over flere rater, og du vil alligevel modtage varen inden den fulde betaling er foretaget. Der er ingen transaktionsgebyrer for hverken kunden eller sælgeren.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Er der køberbeskyttelse på Tradera's betalingsservice?
+ANSWER: Ja, som kunde på Tradera's betalingsservice er der køberbeskyttelse, der sikrer dig en sikrere handel. Der er ingen transaktionsgebyrer for hverken kunden eller sælgeren.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Er der mulighed for betaling med PayPal på Tradera's betalingsservice?
+ANSWER: Ja, som sælger kan du modtage dine betalinger på din PayPal-konto på Tradera's betalingsservice. Du kan også som kunde vælge PayPal som betalingsmetode. Der er ingen transaktionsgebyrer for hverken kunden eller sælgeren.
+URL: https://info.tradera.com/da/traderabetalning/
+
+QUESTION: Hvor kan jeg finde betalingsvilkårene og -betingelserne på Tradera?
+ANSWER: Du kan finde betalingsvilkårene og -betingelserne for Tradera's betalingsservice på deres informationsside for Traderabetaling.
+URL: https://info.tradera.com/da/traderabetalning/

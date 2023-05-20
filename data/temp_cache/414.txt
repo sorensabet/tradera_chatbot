@@ -1,0 +1,39 @@
+QUESTION: Hvad er en godkendt kvittering til verifikation på Tradera?
+ANSWER: En godkendt kvittering til verifikation på Tradera kan enten være i fysisk form eller en PDF og skal indeholde sælgers navn og adresse, dato, navn på den eller de pågældende varer og pris.
+URL: https://info.tradera.com/da/godkant-kvitto-for-verifiering/
+
+QUESTION: Hvilke oplysninger skal indgå på en kvittering, før den er gyldig til verifikation på Tradera?
+ANSWER: Før en kvittering er gyldig til verifikation på Tradera, skal det fremgå af kvitteringen sælgers navn og adresse, dato, navn på den eller de pågældende varer, og pris.
+URL: https://info.tradera.com/da/godkant-kvitto-for-verifiering/
+
+QUESTION: Hvilken form kan en godkendt kvittering til verifikation på Tradera være i?
+ANSWER: En godkendt kvittering til verifikation på Tradera kan enten være i fysisk form eller en PDF.
+URL: https://info.tradera.com/da/godkant-kvitto-for-verifiering/
+
+QUESTION: Hvordan sender man en kvittering til Tradera for verifikation?
+ANSWER: For at sende en kvittering til Tradera for verifikation, skal man sørge for, at alle oplysninger er læsbare på kvitteringen, og at hele kvitteringen er inkluderet i billedet. Derefter kan man klikke på linket "Klik her for at indsende kvitteringen" for at uploade kvitteringen.
+URL: https://info.tradera.com/da/godkant-kvitto-for-verifiering/
+
+QUESTION: Hvad er de mest populære varemærker på Tradera?
+ANSWER: Tradera har en kategori dedikeret til de mest populære varemærker, og denne information kan findes under kategorierne på deres hjemmeside.
+URL: https://info.tradera.com/da/kategorier/
+
+QUESTION: Hvordan kan man som privatperson sælge på Tradera?
+ANSWER: Som privatperson kan man sælge på Tradera ved at oprette en annonce og følge de vejledninger, der tilbydes på deres hjemmeside.
+URL: https://info.tradera.com/da/sadan-saelger-du-som-privatperson/
+
+QUESTION: Hvad er fragt beregneren på Tradera?
+ANSWER: Fragt beregneren på Tradera er et værktøj, der kan hjælpe sælgere med at beregne fragtpriserne på deres varer og give købere en ide om de samlede omkostninger.
+URL: https://info.tradera.com/da/fragt-beregner/
+
+QUESTION: Hvad er handelsbetingelserne på Tradera?
+ANSWER: Handelsbetingelserne på Tradera beskriver de vilkår og betingelser, som gælder for køb og salg på Tradera, og kan findes på deres hjemmeside.
+URL: https://info.tradera.com/da/handelsbetingelser/
+
+QUESTION: Hvor kan man finde information om Traderas samarbejdspartnere?
+ANSWER: Information om Traderas samarbejdspartnere kan findes på deres hjemmeside under kategorien "Våra samarbeten".
+URL: https://info.tradera.com/da/vaara-samarbeten/
+
+QUESTION: Hvordan fungerer Traderas sikkerhedscenter?
+ANSWER: Traderas sikkerhedscenter har til formål at hjælpe brugere med at forstå, hvordan man kan handle sikkert på deres platform. Information om centeret og dets funktioner kan findes på deres hjemmeside.
+URL: https://info.tradera.com/da/sakerhetscenter/

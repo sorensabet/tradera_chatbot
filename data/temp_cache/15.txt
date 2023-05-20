@@ -1,0 +1,39 @@
+QUESTION: Vilken instans ska ta hand om tvister enligt användaravtalet?
+ANSWER: Tvister ska avgöras av svensk allmän domstol och, för kunder som inte är konsumenter, med Stockholms tingsrätt som första instans.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Finns det några krav för att stänga av sitt användarkonto hos Tradera?
+ANSWER: Ja, innan kontot avslutas måste du ha avslutat samtliga dina pågående försäljningar, budgivningar och köp och vi ska också ha erhållit betalning för alla utestående avgifter.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vilka bestämmelser gäller om en bestämmelse i användaravtalet anses ogiltig?
+ANSWER: Skulle någon bestämmelse i detta Användaravtal (eller del därav) vara ogiltig, ska bestämmelsen anses struken och övriga bestämmelser i Användaravtalet ska fortsätta att gälla.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Finns det några kriterier som måste uppfyllas för att öppna ett konto på Tradera?
+ANSWER: Ja, du måste vara minst 18 år gammal och ha en folkbokförd adress i Sverige för att öppna ett konto på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om jag avslutar mitt användarkonto på Tradera?
+ANSWER: Efter att du har avslutat ditt användarkonto så har du inte längre rätt att lägga bud, köpa eller lista nya föremål för försäljning.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan Tradera överlåta sina rättigheter och skyldigheter enligt användaravtalet?
+ANSWER: Ja, Tradera har rätt att överlåta sina rättigheter och skyldigheter enligt användaravtalet utan att i förväg inhämta ditt uttryckliga samtycke, förutsatt att vi överlåter detta Användaravtal på samma villkor eller villkor som inte är mindre förmånliga för dig.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan jag stänga av mitt användarkonto när som helst?
+ANSWER: Ja, du har rätt att avsluta ditt användarkonto hos Tradera när du vill, genom att meddela det till oss via vår kundservice.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Gäller Användaravtalet för alla krav, tvister eller andra frågor som uppkommer med anledning av Tradera?
+ANSWER: Ja, svensk rätt skall gälla för alla krav, tvister eller andra frågor som uppkommer med anledning av detta Användaravtal.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Kan jag lista föremål till försäljning på Tradera?
+ANSWER: Ja, du kan lista föremål till försäljning på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Är det obligatoriskt att vara konsument för att vända sig till Stockholms tingsrätt för tvister?
+ANSWER: Ja, tvister ska avgöras av svensk allmän domstol och, för kunder som inte är konsumenter, med Stockholms tingsrätt som första instans.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/

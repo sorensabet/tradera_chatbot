@@ -1,0 +1,39 @@
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är ett nordiskt e-handelsföretag där privatpersoner och företag kan köpa och sälja varor och tjänster på nätet.
+URL: https://info.tradera.com/en/
+
+QUESTION: Vilka kategorier finns på Tradera?
+ANSWER: På Tradera finns det flera kategorier av varor som man kan köpa och sälja, inklusive kläder, skor, accessoarer, elektronik, hem och trädgård, sport och fritid, samlingar och mycket mer.
+URL: https://info.tradera.com/sv/categories/
+
+QUESTION: Är det säkert att handla på Tradera?
+ANSWER: Ja, Tradera är en säker plats att handla på. Företaget använder sig av olika säkerhetsåtgärder som gör transaktionerna trygga för både köpare och säljare, inklusive betalningsskydd och verifiering av användarprofiler.
+URL: https://info.tradera.com/sv/security/
+
+QUESTION: Vilka regler gäller för att sälja på Tradera?
+ANSWER: För att sälja på Tradera krävs det att man följer vissa regler och policies. Dessa inkluderar att säljare måste vara ägare av de varor som de säljer, prissättning måste vara korrekt och säljare får inte använda falska eller vilseledande beskrivningar av varorna.
+URL: https://info.tradera.com/sv/rules/
+
+QUESTION: Kan man sälja som företag på Tradera?
+ANSWER: Ja, både privatpersoner och företag kan sälja på Tradera. Dock finns det vissa särskilda regler man som företagare måste följa, bland annat gällande momsregistrering.
+URL: https://info.tradera.com/sv/sell-as-business/
+
+QUESTION: Finns det en fraktberäknare på Tradera?
+ANSWER: Ja, Tradera har en fraktberäknare där man kan ange både vikt och mått på paketet för att få fram fraktkostnader.
+URL: https://frakt.tradera.com/
+
+QUESTION: Kan man skapa en butik på Tradera?
+ANSWER: Ja, man kan skapa en butik på Tradera om man är en säljare som har flera varor att sälja. Butiken ger säljaren möjlighet att synas mer på plattformen och använda vissa funktioner för e-handel, såsom att erbjuda rabatter och kampanjpriser.
+URL: https://info.tradera.com/sv/store/
+
+QUESTION: Finns det någon välgörenhet på Tradera?
+ANSWER: Ja, Tradera har en särskild sektion för välgörenhet där man som säljare kan donera delar av försäljningsvinsten till olika organisationer och projekt.
+URL: https://www.tradera.com/charity_causes
+
+QUESTION: Vilka populära varumärken finns på Tradera?
+ANSWER: På Tradera kan man hitta många populära varumärken, såsom Adidas, Nike, H&M, Apple, Samsung, Nikon, Ikea och många fler.
+URL: https://www.tradera.com/popular-brands
+
+QUESTION: Vilka alternativ finns för att få hjälp på Tradera?
+ANSWER: Om man behöver hjälp eller har frågor om Tradera kan man gå till Traderas supportsida, där man kan hitta svar på vanliga frågor och kontakta supportteamet via chatt eller e-post.
+URL: https://www.tradera.com/help#!contactus

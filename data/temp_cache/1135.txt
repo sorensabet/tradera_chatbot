@@ -1,0 +1,39 @@
+QUESTION: Vad ansvarar säljaren för?
+ANSWER: Säljaren ansvarar för alla åtgärder som vidtas genom användning av deras unika inloggning till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken integritetspolicy gäller för personuppgifter som Tradera hanterar?
+ANSWER: Det gäller Traderas ordinarie Integritetspolicy.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket företag hanterar personuppgifterna på Tradera?
+ANSWER: Personuppgifter kommer också hanteras självständigt av PayPal inom ramen för tjänsten Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om Tradera säger upp användaravtalet eller förvägrar säljaren att sälja på plattformen?
+ANSWER: Dessa Villkor upphör att gälla, utan skyldighet för Tradera till återbetalning. Vid upphörande av Villkoren har Tradera rätt att innehålla all utbetalning till Säljaren till dess att Tradera har verifierat antalet utestående Transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken annan part utöver Tradera ansvarar för personuppgifter på plattformen?
+ANSWER: PayPal inom ramen för tjänsten Hyperwallet hanterar också personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av händelse kan orsaka utebliven prestation utan ansvar för någon part?
+ANSWER: Om det är blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation, eller någon annan händelse utom människors kontroll.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad sker vid eventuell misstänkt missbruk av Traderas betallösning?
+ANSWER: Tradera skulle utreda eventuellt misstänkt missbruk av Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Skulle Tradera återbetala vid upphörande av avtalet?
+ANSWER: Nej, Tradera har ingen skyldighet till återbetalning vid upphörande av avtalet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av åtgärder kan vidtas med Säljarens unika inloggning till Tradera?
+ANSWER: Alla åtgärder som kan vidtas genom användning av Säljarens unika inloggning till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka symboler eller logotyper får inte användas av aren i sammanhang med Traderas varumärken?
+ANSWER: Aren åtar sig särskilt att aldrig använda tecken, logotyper, symboler eller annat som skulle kunna förväxlas med Traderas varumärken.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION 1: Vad är en Huskeliste? 
+\ANSWER: En Huskeliste är en funktion på Tradera där användaren kan spara annonser de är intresserade av för att besöka senare.
+URL: https://info.tradera.com/da/
+
+QUESTION 2: Hur kan man oprette en ny annonce på Tradera?
+\ANSWER: Man kan oprette en ny annonce på Tradera genom at klikke på "Opret ny annonce" på forsiden og derefter følge instruktionerne.
+URL: https://info.tradera.com/da/
+
+QUESTION 3: Hvordan kan man kontakte Traderas support?
+\ANSWER: Du kan kontakte Traderas support ved at klikke på "Kontakt os" og derefter vælge "Kontakt kundeservice". Her kan du sende en besked til Traderas supportteam.
+URL: https://info.tradera.com/da/
+
+QUESTION 4: Hvordan kan man beregne fragtprisen på Tradera?
+\ANSWER: Du kan beregne fragtprisen på Tradera ved at klikke på "Fragt beregner" på den side, hvor du opretter din annonce. Her kan du indtaste vægten på dit produkt og vælge den ønskede leveringsmetode for at få beregnet fragtprisen.
+URL: https://info.tradera.com/da/
+
+QUESTION 5: Hvad er Traderas handelsbetingelser?
+\ANSWER: Traderas handelsbetingelser beskriver de regler og betingelser, der gælder for køb og salg af varer på Tradera. Det omfatter blandt andet betalingsbetingelser, fragt, afbestilling og returpolitikker.
+URL: https://info.tradera.com/da/
+
+QUESTION 6: Hvordan kan man betale med Tradera?
+\ANSWER: På Tradera kan man betale med en række forskellige betalingsmetoder, herunder Mobilepay, bankoverførsel eller kortbetaling.
+URL: https://info.tradera.com/da/
+
+QUESTION 7: Hvordan kan man budgivning på Tradera?
+\ANSWER: For at byde på Tradera skal du oprette en konto og derefter vælge det ønskede produkt og klikke på "byd". Indtast derefter dit bud og bekræft det. Hvis dit bud er det vindende bud, vinder du auktionen.
+URL: https://info.tradera.com/da/
+
+QUESTION 8: Hvad er Traderas sikkerhedspolitik?
+\ANSWER: Traderas sikkerhedspolitik beskriver de tiltag, der er på plads for at sikre en sikker handelsoplevelse på Tradera. Sikkerhedstiltagene inkluderer blandt andet verifikation af brugere, beskyttelse af personlige oplysninger og mulighed for at rapportere mistænkelige aktiviteter.
+URL: https://info.tradera.com/da/
+
+QUESTION 9: Hvordan kan man sætte sit produkt til salg på Tradera?
+\ANSWER: For at sætte dit produkt til salg på Tradera skal du oprette en konto, vælge "Opret ny annonce" og derefter følge instruktionerne for at beskrive dit produkt og vælge en pris.
+URL: https://info.tradera.com/da/
+
+QUESTION 10: Hvilke varemærker er populære på Tradera?
+\ANSWER: På Tradera er der mange populære varemærker, herunder Adidas, H&M, Gucci, Nike og Zara.
+URL: https://info.tradera.com/da/

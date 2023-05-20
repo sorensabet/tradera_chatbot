@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annons och analys.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Kan nödvändiga inställningar stängas av på Tradera?
+ANSWER: Nej, nödvändiga inställningar kan inte stängas av på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad används prestandacookies för på Tradera?
+ANSWER: Prestandacookies på Tradera används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken typ av funktionalitet kan användare på Tradera anpassa sig till?
+ANSWER: Användare på Tradera kan anpassa sig till utökad funktionalitet och användaranpassning såsom vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad innebär det om jag godkänner cookies på Tradera?
+ANSWER: Om du godkänner cookies på Tradera innebär det att du ger Tradera rätt att använda cookies på din webbläsare.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka typer av cookies används på Tradera?
+ANSWER: De typer av cookies som används på Tradera är nödvändiga, prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att tillhandahålla funktioner för sociala medier, annonsering och analys samt för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Kan jag ändra mina inställningar för cookies på Tradera?
+ANSWER: Ja, du kan ändra dina cookiesinställningar på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad kan jag göra med mina cookiesinställningar på Tradera?
+ANSWER: Du kan ändra dina inställningar för cookies på Tradera för att anpassa dina preferenser för annonsering, sociala medier och analys.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Hur kan marknadsföringscookies användas på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonsörspartner för att rikta relevant annonsering till användare.
+URL: https://info.tradera.com/foretag/

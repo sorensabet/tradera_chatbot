@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av cookies är nödvändiga för att Tradera ska fungera?
+ANSWER: Nödvändiga cookies är de som krävs för att Tradera ska fungera och de kan inte stängas av. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Vad används prestanda-cookies för på Tradera?
+ANSWER: Prestanda-cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Vilka fördelar har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Vad används marknadsförings-cookies för på Tradera?
+ANSWER: Marknadsförings-cookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av eftersom de krävs för att Tradera ska fungera.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Kan användarupplevelsen på Tradera förbättras med hjälp av prestanda-cookies?
+ANSWER: Ja, prestanda-cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Vad är syftet med marknadsförings-cookies på Tradera?
+ANSWER: Marknadsförings-cookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Vilka fördelar kan man få om man tillåter funktionella cookies på Tradera?
+ANSWER: Funktionella cookies ger utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Kan marknadsförings-cookies stängas av på Tradera?
+ANSWER: Ja, marknadsförings-cookies kan stängas av på Tradera.
+URL: https://info.tradera.com/da/other-rules/

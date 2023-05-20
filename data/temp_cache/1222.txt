@@ -1,0 +1,39 @@
+QUESTION: Vad är Säljarskyddet och vad innebär det?
+\ANSWER: Säljarskyddet är en tjänst som tillhandahålls av Tradera för att skydda säljarna i transaktioner. Det innebär att om en köpare inte betalar eller inte är nöjd med varan, så kan säljaren få tillbaka pengarna från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka transaktioner kan strida mot Villkoren, Traderas Användaravtal eller Regler för Säljare?
+\ANSWER: Transaktioner som strider mot Villkoren, Traderas Användaravtal eller Regler för Säljare kan vara till exempel bedrägeri, kopiering av produkter eller säljande av förbjudna varor.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om man som köpare utnyttjar sin lagstadgade ångerrätt gentemot en näringsidkare som säljare?
+\ANSWER: Om en köpare utnyttjar sin ångerrätt gentemot en näringsidkare som säljare, ansvarar säljaren för att återbetala del eller hela beloppet till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är de frivilliga återbetalningarna som en säljare kan utföra?
+\ANSWER: De frivilliga återbetalningarna som en säljare kan utföra är om en transaktion helt eller delvis ska återbetalas av säljaren på grund av att säljaren och köparen har kommit överens om det (t.ex. om köparen har beviljats returrätt av säljaren eller köparen utnyttjat sin lagstadgade ångerrätt om köparen är konsument och säljaren är näringsidkare).
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem ansvarar för att betala tillbaka del eller hela beloppet till en köpare om det är en frivillig återbetalning?
+\ANSWER: Det är upp till säljaren att betala tillbaka del eller hela beloppet till köparen om det är en frivillig återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur ska en säljare betala tillbaka del eller hela beloppet till en köpare vid frivilliga återbetalningar?
+\ANSWER: En säljare måste utföra återbetalningar enbart via Traderas kassalösning och inte genom andra betalningsmetoder.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är den högsta summan som en säljare kan återbetala i en transaktion?
+\ANSWER: På grund av risken för bedrägerier, är möjligheten till återbetalning begränsad och säljaren får inte återbetala transaktioner som överstiger 1000 SEK. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad ska en säljare göra om de och köparen är överens om en retur eller prisreducering?
+\ANSWER: Om säljaren och köparen kommer överens om en retur eller prisreducering ska detta omgående regleras av säljaren som ska återbetala överenskommet belopp upp till 1000 SEK till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Varför är möjligheten till återbetalning begränsad för säljare?
+\ANSWER: Möjligheten till återbetalning är begränsad för säljare på grund av risken för bedrägerier.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur kan säljaren återbetala transaktioner som överstiger 1000 SEK?
+\ANSWER: För att återbetala transaktioner som överstiger 1000 SEK, ska säljaren använda sig av Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

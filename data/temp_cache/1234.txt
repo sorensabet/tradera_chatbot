@@ -1,0 +1,39 @@
+QUESTION: What are the Terms and Conditions of Tradera's payment solution for buyers and sellers residing abroad?
+ANSWER: The Terms and Conditions of Tradera's payment solution for buyers and sellers residing abroad are specifically described in the "Terms and Conditions - payments (companies and customers residing abroad) v 1.4" on the website.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What happens if Tradera doesn't provide its payment service to Buyers and Sellers residing abroad or legal persons?
+ANSWER:The service is not covered by the terms and conditions, and the Buyer can only pay for a purchase from the Seller by using Tradera's checkout solution. The Buyer's obligations and the Seller's obligations are set out in the Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the obligations of a Seller for accepting payment with the help of Tradera's checkout solution when selling something on Tradera's Platform?
+ANSWER: The Seller must accept that the Buyer pays with the help of Tradera's checkout solution and that the Seller shall take payment through Tradera's checkout solution when selling something on Tradera's Platform. The obligations are set out in the Terms and Conditions for Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the obligations of a Purchase from a Buyer for accepting payment with the help of Tradera's checkout solution when buying something on Tradera's Platform?
+ANSWER:The Buyer shall accept that it can only pay for a purchase from the Seller by using Tradera's checkout solution. The obligations are set out in the Terms and Conditions for Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What does it mean to accept payment through Tradera's checkout solution when selling something on Tradera's Platform?
+ANSWER: It means that the Seller must take payment through Tradera's checkout solution when selling something on Tradera's Platform. The obligations are set out in the Terms and Conditions for Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Are these Terms and Conditions only applicable to Buyers and Sellers residing in Sweden?
+ANSWER: No, these Terms and Conditions are applicable only to Buyers and Sellers residing outside Sweden, including legal persons.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Are there separate Terms and Conditions for customers residing in Sweden?
+ANSWER: Yes, for customers residing in Sweden, the Terms and Conditions – payments (customers residing in Sweden) apply.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Are there any payment services provided by Tradera to Buyers and Sellers residing abroad or legal persons?
+ANSWER: No, there are no payment services provided by Tradera to Buyers and Sellers residing abroad or legal persons.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the definition of a Buyer in these Terms and Conditions?
+ANSWER: In these Terms and Conditions, the "Buyer" refers to any natural person residing outside Sweden or any legal person who has made a purchase from Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the General Terms and Conditions according to the "Terms and Conditions - payments (companies and customers residing abroad) v 1.4"?
+ANSWER: The General Terms and Conditions are not specifically mentioned in the text, but may be referenced in the "Terms and Conditions - payments (companies and customers residing abroad) v 1.4". It would be necessary to view the document to determine what the General Terms and Conditions are.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

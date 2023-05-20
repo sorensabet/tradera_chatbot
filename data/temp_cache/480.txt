@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg kreditere gebyret?
+ANSWER: Du kan kreditere gebyret ved å enten melde inn ubetalte varer eller kontakte deres kundeservice. Når gebyret er kreditert, vil det vises som et positivt beløp på din saldo, og det vil bli utbetalt ved neste utbetaling.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Kan jeg betale en opprettet faktura med en kommende betaling?
+ANSWER: Nei, de har ikke muligheten til å tilby dette for øyeblikket.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hva vil skje med min bedriftskonto?
+ANSWER: De fleste bedrifter vil få mer informasjon senere.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION: Hva er de mest populære varemerkene på Tradera?
+ANSWER: Informasjon om de mest populære varemerkene kan bli funnet på siden "Populære varemerker".
+URL: https://info.tradera.com/da/kategorier/
+
+QUESTION: Hvordan kan jeg forhandle om prisen på en vare med selgeren?
+ANSWER: Det er ikke mulig å forhandle om prisen på en vare på Tradera. Prisen som blir oppgitt er den endelige prisen.
+URL: https://info.tradera.com/da/salgspriser-og-betalinger/
+
+QUESTION: Hvordan kan jeg beregne fraktkostnader?
+ANSWER: Du kan bruke "Fragt beregner" som er tilgjengelig på Tradera for å beregne fraktkostnader.
+URL: https://www.tradera.com/help/fragtberaknaren
+
+QUESTION: Hvordan kan jeg kontakte kundeservice?
+ANSWER: Informasjon om hvordan du kan kontakte Traderas kundeservice kan bli funnet på siden "Kontakt & hjelp".
+URL: https://www.tradera.com/help
+
+QUESTION: Er det trygt å handle på Tradera?
+ANSWER: Tradera tar sikkerhetsforholdene på alvor og har flere tiltak på plass for å sikre sikkerheten til kjøpere og selgere. Informasjon om sikkerhet kan bli funnet på siden "Sikkerhet".
+URL: https://info.tradera.com/da/sakerhetscenter/
+
+QUESTION: Hva er handelsbetingelsene for Tradera?
+ANSWER: Handelsbetingelsene for Tradera kan bli funnet på siden "Handelsbetingelser".
+URL: https://www.tradera.com/help/villkor
+
+QUESTION: Hvordan fungerer donasjonsprogrammet på Tradera?
+ANSWER: Informasjon om donasjonsprogrammet til Tradera kan bli funnet på siden "Velgørenhed".
+URL: https://www.tradera.com/info/om/velgorenhet

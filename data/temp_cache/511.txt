@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av information delar Tradera med sina partners?
+\ANSWER: Tradera delar information om användningsmönster på webbplatsen med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 2: Kan användaren stänga av Traderas nödvändiga funktioner?
+\ANSWER: Nej, de nödvändiga funktionerna som behövs för att Tradera ska fungera kan inte stängas av.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 3: Varför används Traderas prestandafunktioner?
+\ANSWER: Prestandafunktionerna på Tradera används för att mäta anonymt hur webbplatsen används, vilket hjälper till att förbättra användarupplevelsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 4: Vilken typ av funktionalitet erbjuder Tradera?
+\ANSWER: Tradera erbjuder utökad funktionalitet och användaranpassning, till exempel sparade inställningar eller möjlighet att logga in med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 5: Vilken typ av cookies använder Tradera?
+\ANSWER: Tradera använder olika typer av cookies som är nödvändiga för att webbplatsen ska fungera, för att mäta prestanda, för att erbjuda utökad funktionalitet och för marknadsföring.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 6: Vilken typ av information samlar Tradera in om användarnas användning av webbplatsen?
+\ANSWER: Tradera samlar anonymt in information om användarnas användningsmönster på webbplatsen för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 7: Används cookies för marknadsföring på Tradera?
+\ANSWER: Ja, Tradera använder cookies för marknadsföring.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 8: Vilka partners använder Tradera för sociala medier, annonsering och analys?
+\ANSWER: Tradera samarbetar med partners för sociala medier, annonsering och analys, men information om specifika partners finns inte angivet på webbsidan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 9: Kan användarna anpassa Tradera med hjälp av sociala medier?
+\ANSWER: Ja, användare kan anpassa Tradera genom exempelvis inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION 10: Vad är syftet med att Tradera delar information med sina partners?
+\ANSWER: Syftet med att Tradera delar informationen är för sociala medier, annonsering och analys för att förbättra användarupplevelsen på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/

@@ -1,0 +1,39 @@
+QUESTION 1: What is the topic of the page provided in the context?
+ANSWER: The page provided in the context talks about Freight and shipping fees on Tradera.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 2: Do the shipping fees need to be specified on Tradera?
+ANSWER: Yes, the page states that shipping fees must be specified.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 3: How can a user specify the shipping fees on Tradera?
+ANSWER: The page does not provide details on how to specify the shipping fees on Tradera.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 4: Is it possible to view the shipping fees on a product listing?
+ANSWER: The page does not provide information on whether it is possible to view the shipping fees on a product listing.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 5: Is there a standard shipping fee for all products on Tradera?
+ANSWER: No, the page does not mention a standard shipping fee for all products on Tradera.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 6: Can a user get a refund on the shipping fees paid?
+ANSWER: The page does not provide information on whether a user can get a refund on the shipping fees paid.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 7: Does Tradera provide international shipping?
+ANSWER: The page does not provide information on whether Tradera provides international shipping.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 8: Is free shipping available on Tradera?
+ANSWER: The page does not mention if free shipping is available on Tradera or not.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 9: How are the shipping fees determined on Tradera?
+ANSWER: The page does not mention how the shipping fees are determined on Tradera.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/
+
+QUESTION 10: Does Tradera offer any discounts on shipping fees?
+ANSWER: The page does not mention if Tradera offers any discounts on shipping fees.
+URL: https://info.tradera.com/en/freight-and-shipping-fees/

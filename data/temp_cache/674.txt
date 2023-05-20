@@ -1,0 +1,39 @@
+QUESTION: Var kan jag hitta mitt närmaste ombud?
+ANSWER: Du kan hitta ditt närmaste ombud genom att klicka på länken "Här kan du hitta ditt närmaste ombud" på sidan.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur följer jag mitt paket och hur får jag mitt spårningsnummer?
+ANSWER: Du kan följa ditt paket enkelt genom att gå till Mitt Tradera och söka efter spårningen från dina köpta eller sålda objekt via menyn Mer -> Orderinformation. Paketspårningen är inbyggd och du behöver inte hålla reda på något nummer för paketet. Spårningsnumret för paketet finns där tillsammans med aviseringar och påminnelser som har skickats till din köpare. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Hur lång tid tar det innan mitt paket levereras?
+ANSWER: Paketet levereras normalt inom 2-3 arbetsdagar. Det kan dock ta längre tid beroende på var i landet avsändaren och mottagaren befinner sig. Leveranser till och från ombud sker helgfria vardagar från måndag till fredag. Det kan också ta 1-2 dagar extra beroende på inlämningstiden. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka är villkoren för PostNord My Pack Collect?
+ANSWER: Villkoren för PostNord My Pack Collect finns beskrivna genom att klicka på länken "Klicka här för att läsa villkoren för PostNord My Pack Collect" på sidan.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka är villkoren för PostNord My Pack Home Small?
+ANSWER: Villkoren för PostNord My Pack Home Small finns beskrivna genom att klicka på länken "Klicka här för att läsa villkoren för PostNord My Pack Home Small" på sidan.
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag göra reklamation om leveranstiden överstiger 30 dagar?
+ANSWER: Ja, om leveranstiden överstiger 30 dagar kan du göra reklamation. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka slutliga leveranstider gäller för olika ombud?
+ANSWER: Olika ombud kan ha olika slutliga leveranstider. Det är bäst att fråga ditt ombud om vilka avgångstider som gäller. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan min köpare följa mitt paketspårning?
+ANSWER: Ja, din köpare kan följa samma paketspårning som du genom Mitt Tradera för dina bokade frakter. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Kan jag se aviseringar och påminnelser som har skickats till min köpare?
+ANSWER: Ja, du kan se aviseringar och påminnelser som skickats till din köpare genom att söka efter spårningen från dina köpta eller sålda objekt via menyn Mer -> Orderinformation i Mitt Tradera. 
+URL: https://info.tradera.com/postnord/
+
+QUESTION: Vilka dagar sker leveranser till och från PostNord ombud?
+ANSWER: Leveranser till och från PostNord ombud sker helgfria vardagar från måndag till fredag. 
+URL: https://info.tradera.com/postnord/

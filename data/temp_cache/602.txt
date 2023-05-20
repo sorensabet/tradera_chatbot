@@ -1,0 +1,39 @@
+QUESTION: Hvad er reglerne for at oprette en annonce på Tradera?
+ANSWER: For at oprette en annonce på Tradera, skal der være mindst ét billede af varen til salg, og annoncer, der ikke har en vare til salg eller ikke har et billede, er ikke tilladt. Annoncer, der udbreder bestemte synspunkter, værdier eller markedsføring, er også forbudt.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Er det tilladt at oprette annoncer uden billeder på Tradera?
+ANSWER: Nej, annoncer uden billeder er ikke tilladt på Tradera. For at oprette en annonce, skal der være mindst ét billede af varen til salg, og annoncer uden billeder anses for at være i strid med reglerne.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvilke annoncer er tilladt på Tradera?
+ANSWER: Annoncer, der indeholder en vare med en passende beskrivelse, hvor varen tydeligt fremgår og har et billede, en udbudspris og en forsendelsesmulighed, er tilladt på Tradera. Det er dog vigtigt at huske, at annoncer, der udbreder bestemte synspunkter, værdier eller markedsføring, og annoncer uden en vare eller billede, er ikke tilladt.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvad skal en annonce indeholde på Tradera?
+ANSWER: En annonce på Tradera skal indeholde mindst ét billede af varen til salg, en passende beskrivelse, en udbudspris og forsendelsesmuligheder. Annoncer, der ikke indeholder disse elementer, vil ikke blive godkendt.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvilke typer af annoncer er forbudte på Tradera?
+ANSWER: Annoncer, der ikke har en vare til salg eller ikke har et billede af varen, er forbudt på Tradera. Annoncer, der udbreder bestemte synspunkter, værdier eller markedsføring, og annoncer, der tilbyder at købe eller gøre en byttehandel, er også forbudte.
+URL: https://info.tradera.com/da/listings-with-no-item-for-sale/
+
+QUESTION: Hvad gør jeg, hvis jeg vil købe noget på Tradera?
+ANSWER: Hvis du vil købe noget på Tradera, kan du søge efter en vare i de forskellige kategorier af populære varemærker. Når du har fundet en vare, du gerne vil købe, skal du oprette en konto og følge instruktionerne for at foretage et køb.
+URL: https://info.tradera.com/da/how-to-buy-on-tradera/
+
+QUESTION: Kan jeg sælge som privatperson på Tradera?
+ANSWER: Ja, det er tilladt for privatpersoner at sælge på Tradera. Der er også en sælgerguide til rådighed for at hjælpe private sælgere med at oprette og sælge deres varer på platformen.
+URL: https://info.tradera.com/da/how-to-sell-on-tradera/
+
+QUESTION: Hvordan kan jeg som erhvervssælger sælge på Tradera?
+ANSWER: Hvis du ønsker at sælge som erhvervssælger på Tradera, er det nødvendigt at oprette en erhvervskonto og følge instruktionerne for at oprette og sælge dine varer.
+URL: https://info.tradera.com/da/how-to-sell-on-tradera/
+
+QUESTION: Kan jeg beregne forsendelsesomkostninger på Tradera?
+ANSWER: Ja, på Tradera er der en fragtberegner, som kan anvendes til at beregne forsendelsesomkostninger for varer, der sælges på platformen. Dette vil hjælpe købere med at vælge den mest økonomiske forsendelsesmulighed.
+URL: https://info.tradera.com/da/shipping-calculator/
+
+QUESTION: Hvor kan jeg finde yderligere information om sikkerhed på Tradera?
+ANSWER: Der er information om sikkerhed på Tradera under "Sikkerhed" i menuen "Kontakt & Hjælp" på hjemmesiden. Her kan du finde information om bedrageriforebyggelse og tips til at beskytte dig selv som køber eller sælger på platformen.
+URL: https://info.tradera.com/da/security/

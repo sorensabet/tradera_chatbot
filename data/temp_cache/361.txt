@@ -1,0 +1,39 @@
+QUESTION: Hvad er tilladt at gøre som sælger på Tradera?
+ANSWER: Det er tilladt at sælge varer, hvor sælgeren tilbyder justering af størrelsen eller navneskilt med inskription af navn efter salget. Dette er beskrevet i teksten under afsnittet "Tilladt" på hjemmesiden.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvad er forbudt at gøre som sælger på Tradera?
+ANSWER: Det er forbudt at sælge varer, hvor kunden først vælger størrelsen eller farven efter salget, eller have forskellige priser på flere varer i den samme annonce. Dette er beskrevet i teksten under afsnittet "Forbudt" på hjemmesiden.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvordan handler jeg på Tradera?
+ANSWER: Du kan handle på Tradera ved at søge efter en vare eller udforske varekategorierne på hjemmesiden. Når du har fundet en vare, du gerne vil købe, kan du byde på den eller købe den til en fast pris, hvis sælgeren tilbyder det. Yderligere instruktioner kan findes på Traderas hjemmeside under afsnittet "Købe".
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvad er de populære varemærker på Tradera?
+ANSWER: Tradera angiver ikke specifikke populære varemærker på hjemmesiden. Du kan finde et udvalg af varetyper og -kategorier, som du kan købe eller byde på.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvordan kan jeg være velgørende gennem min handel på Tradera?
+ANSWER: Tradera samarbejder med velgørenhedsorganisationer, der tager imod bidrag fra Tradera-sælgere. Hvis du er sælger, kan du donere en del af din salgsindtægt til en af ​​de organisationer, der er tilknyttet Tradera. Yderligere oplysninger findes på Traderas hjemmeside under afsnittet "Butik".
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvordan kan jeg kontakte Traderas kundeservice?
+ANSWER: Du kan kontakte Traderas kundeservice via hjemmesiden under afsnittet "Kontakt og Hjælp". Her kan du finde support til spørgsmål om køb, salg, betaling, fragt og andre emner. Derudover oplyses deres åbningstider og kontaktoplysninger på hjemmesiden.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvor kan jeg finde Traderas handelsbetingelser?
+ANSWER: Traderas handelsbetingelser kan findes på hjemmesiden under afsnittet "Sikkerhed" og derefter under "Handelsbetingelser". Her kan du læse om betalinger, fragt, reklamationer og andre regler, der gælder for købere og sælgere på Tradera.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvilken fragtberegner bruger Tradera?
+ANSWER: Tradera anvender sin egen fragtberegner på hjemmesiden. For at beregne prisen på fragt på en bestemt vare, skal du indtaste leveringsstedet og varens vægt og dimensioner.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Hvilke oplysninger deler Tradera med sine partnere?
+ANSWER: Tradera deler oplysninger om din brug af hjemmesiden med sine partnere for at tilpasse indhold og annoncer og analysere trafikken på hjemmesiden. Dette er beskrevet under afsnittet "Information om cookies" på hjemmesiden. Tradera deler imidlertid ikke personlige oplysninger som navn, adresse eller betalingsoplysninger med sine partnere.
+URL: https://info.tradera.com/da/buyers-choice-listings/
+
+QUESTION: Er det sikkert at handle på Tradera?
+ANSWER: Ja, Tradera har forskellige sikkerhedsforanstaltninger på plads for at beskytte både køber og sælger. For eksempel er alle betalinger til Tradera-sælgere sikret af Payson, som er en godkendt og sikker online-betalingsgateway. Yderligere oplysninger om tryghed og sikkerhed kan findes på hjemmesiden under afsnittet "Sikkerhed".
+URL: https://info.tradera.com/da/buyers-choice-listings/

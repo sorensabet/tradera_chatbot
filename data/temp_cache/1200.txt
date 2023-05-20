@@ -1,0 +1,39 @@
+QUESTION: What payment methods are available through Tradera's checkout solution?
+ANSWER: The payment methods available through Tradera's checkout solution are Swish, card payment, ApplePay, Google Pay, PayPal, payment by invoice, and credit. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Who provides the payment methods offered by Tradera's checkout solution?
+ANSWER: The payment methods are provided by third parties that Tradera cooperates with for this purpose, such as Swish, Klarna, PayPal with its services Hyperwallet, and Paynova. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is each separate payment method provided by Tradera itself?
+ANSWER: No, each separate payment method is provided by third parties that Tradera cooperates with for this purpose. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is the payment from the Buyer covered by Tradera's payment service?
+ANSWER: No, the payment from the Buyer is not covered by Tradera's payment service. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens if any issues regarding payment arise?
+ANSWER: Any issues regarding payment that arise shall be dealt by the Buyer and the payment solution provider in accordance with the terms and conditions concluded between the Buyer and the payment solution provider, unless otherwise set out in Tradera's Terms and Conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is Tradera responsible for delays, errors, damages or other matters relating to payment of items purchased through its checkout solution?
+ANSWER: No, Tradera is not responsible for delays, errors, damages or other matters relating to payment of items purchased by the Buyer via Tradera's checkout solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Does the Buyer have to comply with the terms and conditions applicable to the payment method chosen?
+ANSWER: Yes, the Buyer undertakes to comply with the terms and conditions applicable to the payment method chosen, which have been provided by a third party. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: May more parties be added to Tradera's checkout solution?
+ANSWER: Yes, more parties may be added if Tradera chooses to modify or further develop Tradera's checkout solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Does the Buyer have to enter into a separate agreement with the payment solution provider for each payment method?
+ANSWER: Depending on the payment method that the Buyer chooses, they may have to enter into a separate agreement with the relevant payment solution provider and accept the terms applicable to the payment method they choose to use. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What payment method has been specifically mentioned as an example of the Buyer's payment option on Tradera's platform?
+ANSWER: Klarna has been specifically mentioned as one of the payment options that the Buyer can select if they want to pay via Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

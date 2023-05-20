@@ -1,0 +1,39 @@
+QUESTION 1: Kan jag logga in på Tradera med mitt Facebook-konto?
+ANSWER: Ja, du kan logga in på Tradera med ditt Facebook-konto. Det står klart i texten att du kan använda Facebook-inloggning på Tradera.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 2: Vad är syftet med inloggning via Facebook på Tradera?
+ANSWER: Syftet med inloggning via Facebook på Tradera är för marknadsföring. Traderas annonseringspartners använder information från ditt Facebook-konto för att skapa riktade annonser relevanta för dig.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 3: Kan jag välja att inte använda inloggning via Facebook på Tradera?
+ANSWER: Ja, det är valfritt att använda inloggning via Facebook på Tradera. Om du hellre vill använda en annan inloggningsmetod går det bra.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 4: Använder Tradera min Facebook-information för annat än marknadsföring?
+ANSWER: Nej, Tradera använder endast din Facebook-information för marknadsföring. Information om dina köp eller sälj på Tradera delas inte med ditt Facebook-konto.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 5: Hur vet jag vilka annonsörer som har tillgång till min information via Facebook-inloggning på Tradera?
+ANSWER: Tradera listar de annonseringspartners som har tillgång till din Facebook-information i sina sekretessinställningar. Där kan du välja att avaktivera användningen av din information för riktade annonser.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 6: Kan jag ändra vilken information som används från mitt Facebook-konto för marknadsföring på Tradera?
+ANSWER: Ja, du kan ändra vilken information från ditt Facebook-konto som används för marknadsföring på Tradera genom att justera dina sekretessinställningar på Facebook.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 7: Är användningen av Facebook-inloggning säker på Tradera?
+ANSWER: Ja, användningen av Facebook-inloggning på Tradera är säker. Tradera följer de nödvändiga riktlinjerna för att skydda användares information på plattformen.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 8: Kan jag ändra mitt val av inloggningsmetod efter att jag har skapat mitt konto på Tradera?
+ANSWER: Ja, du kan välja att byta inloggningsmetod på Tradera när som helst genom att ändra inställningarna i ditt konto.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 9: Hur påverkar Facebook-inloggning min användning av Tradera-appen?
+ANSWER: Facebook-inloggning påverkar inte din användning av Tradera-appen. Du kan fortfarande använda appen precis som vanligt, oavsett vilken inloggningsmetod du väljer.
+URL: https://info.tradera.com/en/selling-at-tradera/
+
+QUESTION 10: Kan jag använda ett Facebook-konto för flera Tradera-konton?
+ANSWER: Nej, du kan inte använda samma Facebook-konto för flera Tradera-konton. Du behöver skapa ett nytt konto med en annan e-postadress eller använda en annan inloggningsmetod.
+URL: https://info.tradera.com/en/selling-at-tradera/

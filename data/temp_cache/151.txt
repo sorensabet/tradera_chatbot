@@ -1,0 +1,39 @@
+QUESTION 1: Vad är integrerat fraktalternativ?
+\ANSWER: Integrerat fraktalternativ innebär att spårningsinformationen läggs till automatiskt i orderinformationen och skapar många fördelar för både köpare och säljare.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 2: Vilka faktorer ska jag överväga när jag väljer en leverantör för frakt?
+\ANSWER: Det finns flera faktorer som spelar in när man väljer en leverantör för frakt, inklusive hur nära leverantören är för både köparen och säljaren, vilken typ av försäkring som ingår och storleken på försäkringsbeloppet.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 3: Rekommenderar Tradera att använda spårbar frakt?
+\ANSWER: Ja, om du skickar värdefulla objekt rekommenderar Tradera att du använder en spårbar fraktmetod med försäkring.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 4: Ska jag erbjuda flera fraktalternativ som säljare?
+\ANSWER: Ja, som säljare är det alltid bäst att erbjuda flera fraktalternativ för att minimera risken för att förlora potentiella köpare.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 5: Är det möjligt att förlora potentiella köpare om jag inte erbjuder flera fraktalternativ?
+\ANSWER: Ja, vissa köpare kan välja att inte köpa om de inte ser ett fraktalternativ som passar dem.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 6: Vad är fördelen med att använda en spårbar fraktmetod?
+\ANSWER: En spårbar fraktmetod gör att både säljaren och köparen kan följa paketets status och det minskar risken för att paketet försvinner eller skadas under transit.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 7: Ska jag använda försäkring när jag skickar dyra varor?
+\ANSWER: Ja, det rekommenderas att du använder försäkring när du skickar dyra varor för att minimera risken för förlust om något skulle hända med paketet under transit.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 8: Kan jag använda något annat än spårbar fraktmetod?
+\ANSWER: Ja, du kan använda en icke-spårbar fraktmetod om du vill, men ha i åtanke att det ökar risken för paketet att försvinna eller skadas under transit och du kan inte spåra paketet eller veta var det befinner sig under transport.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 9: Vilket ansvar har jag som säljare för att ordna frakt?
+\ANSWER: Som säljare är det ditt ansvar att ordna med frakt och att tillhandahålla information om fraktkostnader och alternativ för dina köpare.
+URL: https://info.tradera.com/en/fraktguiden/
+
+QUESTION 10: Finns det andra faktorer att tänka på vid val av leverantör för frakt?
+\ANSWER: Ja, du bör också ta hänsyn till priset på frakt, om leverantören har bra recensioner från andra kunder och om leverantören kan leverera paketet i tid.
+URL: https://info.tradera.com/en/fraktguiden/

@@ -1,0 +1,39 @@
+QUESTION: Hvilke billeder og beskrivelser er forbudt på Tradera?
+ANSWER: Det er ikke tilladt at have annoncer, hvor det ikke er varen, der er til salg, som er i fokus. Seksuelt eksplicitte billeder og groft og nedsættende sprogbrug er også forbudt.  Annoncer med billeder og beskrivelser, der kan betragtes som racistiske, som opildner til had eller på anden måde er stødende, er også forbudt.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Hvad er tilladt at annoncere på Tradera?
+ANSWER: Det er tilladt at have annoncer, hvor varen er i fokus og bliver beskrevet på en passende måde.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Hvad er Tradera?
+ANSWER: Tradera er en nordisk e-handelsplatform.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvordan kan man købe på Tradera?
+ANSWER: Der er ingen information om, hvordan man kan købe på Tradera i denne tekst, men der er en URL i slutningen af teksten 'Sådan handler du på Tradera', der kan henvise brugerne til en side med information om køb på Tradera.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvordan kan man sælge på Tradera som privatperson?
+ANSWER: Der er en URL i slutningen af teksten 'Sådan sælger du som privatperson', der kan give brugerne information om, hvordan man sælger på Tradera som privatperson.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvordan kan erhvervssælgere sælge på Tradera?
+ANSWER: Der er ingen information om, hvordan erhvervssælgere kan sælge på Tradera i denne tekst, men der er en generel side (URL) i slutningen af teksten omhandler generel information for erhvervssælgere på Tradera.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvilke kategorier kan man finde på Tradera?
+ANSWER: Der er ingen information om, hvilke kategorier man kan finde på Tradera i denne tekst, men der er en side (URL) med flere informationer omkring kategorierne på Tradera.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvilke populære varemærker kan man finde på Tradera?
+ANSWER: Der er ingen information i denne tekst om, hvilke populære varemærker man kan finde på Tradera, men der er en URL i slutningen af teksten, der kan give flere informationer om populære varemærker.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvordan beregner man fragten på Tradera?
+ANSWER: Der er en URL i slutningen af teksten 'Fragtberegneren', der kan henvise brugerne til en side med information om, hvordan man beregner fragten på Tradera.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hvad er handelsbetingelserne på Tradera?
+ANSWER: Der er en URL i slutningen af teksten 'Handelsbetingelser', der kan henvise brugerne til en side med information om handelsbetingelserne på Tradera.
+URL: https://info.tradera.com/da/

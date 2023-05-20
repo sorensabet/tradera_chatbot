@@ -1,0 +1,39 @@
+QUESTION: Hvorfor har Tradera en politik om anmeldelser fra brugere?
+ANSWER: Tradera har en politik om anmeldelser fra brugere for at forhindre falske anmeldelser og bedømmelser, der kan manipulere en bedømmelsesscore og påvirke troværdigheden som sælger. Det er også forbudt at foretage falske køb for at sabotere en sælgers anmeldelsesscore.
+URL: https://info.tradera.com/da/review-policy/
+
+QUESTION: Hvilke former for anmeldelser og indhold er ikke tilladt på Tradera?
+ANSWER: Personlige oplysninger og kontaktoplysninger, had mod etniske grupper, pornografisk materiale, links, billeder og scripts og reklame for konkurrerende virksomheder er forbudt i anmeldelser på Tradera.
+URL: https://info.tradera.com/da/review-policy/
+
+QUESTION: Hvad er eksempler på forbudte anmeldelser på Tradera?
+ANSWER: Eksempler på forbudte anmeldelser på Tradera inkluderer at manipulere en bedømmelsesscore ved at samle falske anmeldelser og bedømmelser for at undgå restriktioner eller påvirke ens troværdighed som sælger, foretage falske køb for at sabotere en sælgers anmeldelsesscore og afpresse din modpart med truslen om at give en dårlig anmeldelse.
+URL: https://info.tradera.com/da/review-policy/
+
+QUESTION: Er det tilladt at skrive en anmeldelse af en overstået auktion på Tradera?
+ANSWER: Ja, det er tilladt at skrive en anmeldelse af en overstået auktion på Tradera, så længe den overholder retningslinjerne for indhold i anmeldelser.
+URL: https://info.tradera.com/da/review-policy/
+
+QUESTION: Hvordan kan man handle på Tradera?
+ANSWER: Man kan handle på Tradera ved at vælge en kategori og købe eller byde på produkter og betale for dem. Der er også mulighed for at kontakte sælgeren eller anmelde en transaktion.
+URL: https://info.tradera.com/da/buy-on-tradera/
+
+QUESTION: Hvordan kan man sælge som privatperson på Tradera?
+ANSWER: Man kan sælge som privatperson på Tradera ved at oprette en konto og oprette en beskrivelse og pris for produktet, man ønsker at sælge. Derefter skal man besvare eventuelle spørgsmål fra potentielle købere og bekræfte en salgsaftale.
+URL: https://info.tradera.com/da/sell-as-a-private-person/
+
+QUESTION: Kan erhvervssælgere sælge på Tradera?
+ANSWER: Ja, det er tilladt for erhvervssælgere at sælge på Tradera, men der er visse krav, de skal opfylde, herunder at have en gyldig momsregistrering og en professionel konto.
+URL: https://info.tradera.com/da/sell-as-a-business/
+
+QUESTION: Hvordan beregner man fragtomkostningerne på Tradera?
+ANSWER: Man kan beregne fragtomkostningerne på Tradera ved hjælp af fragtberegneren, der er tilgængelig på produktets side.
+URL: https://info.tradera.com/da/postage-calculator/
+
+QUESTION: Hvad er nogle af de populære varemærker på Tradera?
+ANSWER: Nogle af de populære varemærker på Tradera inkluderer Apple, Nike, Nudie Jeans og Ray-Ban.
+URL: https://www.tradera.com/search?q=&newarticle=0&usedarticle=0&category=&closed=&expired=&buynow=&begindate=&enddate=&orderby=&sellers=&bidders=&minp=&maxp=&minbid=&maxbid=&picture=&location=&zipcode=&country=&region=&city=&province=&distance=&listingtype=&hasvideo=&newsearch=1&done=true&condition=&showbuy=&highprice=&lowprice=&vatpercent=&sellerType=&shipping=&freeshipping=&buyoutprice=&feature=&brand=Apple+%28%3APopular+brands%29&brand=Nike+%28%3APopular+brands%29&brand=Nudie+Jeans+%28%3APopular+brands%29&brand=Ray-Ban+%28%3APopular+brands%29
+
+QUESTION: Hvordan kan man oprette en butik på Tradera?
+ANSWER: Man kan oprette en butik på Tradera ved at oprette en konto og vælge indstillingerne for oprettelse af en butik. Der er også flere forskellige abonnementsmuligheder for butikker på Tradera.
+URL: https://info.tradera.com/da/open-a-store/

@@ -1,0 +1,39 @@
+QUESTION: Vilka betalsätt kan Köparen välja mellan?
+ANSWER: Köparen kan välja mellan Swish, kortbetalning, PayPal, betalning mot faktura och kredit.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är Säljaren tillåten att ta betalt för användning av Traderas betallösning?
+ANSWER: Nej, Säljaren har inte rätt att ta betalt för Köparens möjlighet att använda Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vem tillhandahåller de olika betalsätten för Traderas betallösning?
+ANSWER: De olika betalsätten tillhandahålls av tredje parter som Tradera samarbetar med. Dessa parter inkluderar Swish, Klarna, PayPal (med dess tjänst Hyperwallet) och Paynova. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Står de samarbetande parterna under någon form av tillsyn?
+ANSWER: Ja, de samarbetande parterna står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan fler parter tillkomma till Traderas betallösning i framtiden?
+ANSWER: Ja, fler parter kan tillkomma i framtiden om Tradera väljer att ändra eller vidareutveckla sin betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om Tradera misstänker oegentligheter vid en transaktion?
+ANSWER: Om Tradera misstänker oegentligheter vid en transaktion, såsom bedrägeri eller att Säljaren agerat i strid mot Villkoren, Användaravtalet eller andra Regler för Säljare, så kan Tradera återbetala betalningen till Köparen istället för att låta den gå till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Får en Säljare endast behöva ha kontakt med Tradera angående transaktioner?
+ANSWER: Ja, en Säljare behöver endast ha kontakt med Tradera i frågor som kan uppstå i samband med en transaktion, trots att betaltjänsterna i sig inte tillhandahålls av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Om en Säljare har agerat i strid mot Villkoren, Användaravtalet eller andra Regler för Säljare, kan denne ändå ta emot betalning?
+ANSWER: Om Tradera misstänker att en Säljare agerat i strid mot Villkoren, Användaravtalet eller andra Regler för Säljare, så kan Tradera återbetala betalningen till Köparen istället för att låta den gå till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Varför samarbetar Tradera med tredjeparter gällande betalning?
+ANSWER: Tradera samarbetar med tredjeparter för att tillhandahålla olika betalsätt för Köpare och för att säkerställa att betalningarna sker på ett tryggt och säkert sätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är betalning mot faktura en av betalsätten som Köparen kan använda sig av hos Tradera?
+ANSWER: Ja, betalning mot faktura är ett av de betalsätt som Köparen kan använda sig av hos Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

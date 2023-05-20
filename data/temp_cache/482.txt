@@ -1,0 +1,39 @@
+QUESTION: Hvordan fungerer auktioner på Tradera?
+\ANSWER: På Tradera fungerer auktioner ved at annoncerne starter med det samme, efter du har publiceret dem. Du som sælger kan vælge slutdatoen på auktionen, men start- og sluttidspunkter kan dog ikke være samme dag. Købere kan byde på dit produkt, og det højeste bud, når auktionen slutter, er vinderen af auktionen.
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Er det gratis at have 100 usolgte annoncer pr. måned på Tradera?
+\ANSWER: Nej, du skal betale et annoncegebyr pr. usolgt annonce, når du har nået grænsen på 100 annoncer i samme måned. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvordan betales de produkter, der bliver solgt på Tradera?
+\ANSWER: Købere kan betale for de produkter, de har købt på Tradera, med enten kreditkort, bankkonto eller ved hjælp af faktura, hvis du som sælger har denne mulighed aktiveret. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvor mange besøgende får Tradera om ugen?
+\ANSWER: Tradera får mere end 5 millioner besøgende om ugen. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvorfor bør man sælge på Tradera?
+\ANSWER: Man bør sælge på Tradera, fordi det ikke alene giver mulighed for at tjene penge på det, man ikke længere bruger, men også fordi det er en måde at tænke på miljøet og undgå spild. Samtidig er der stor sandsynlighed for, at der er købere på Tradera, der er interesserede i ens produkter. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Kan man vælge slutdatoen på en auktion på Tradera?
+\ANSWER: Ja, som sælger på Tradera kan man vælge slutdatoen på auktionen i en annonce. Bemærk dog, at start- og sluttidspunkter ikke kan ligge samme dag. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvordan fungerer Buy Now på Tradera?
+\ANSWER: Buy Now kan bruges som en fast pris på et produkt, som sælgeren har sat for salg. Købere kan købe produktet til den faste pris, uden at skulle byde på auktionen. Buy Now tilbydes ikke på alle produkter, afhængigt af sælgerens valg. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvad er Provisionsgebyr på Tradera?
+\ANSWER: Provisionsgebyret på Tradera svarer til 10% af den solgte annonce. Derudover betaler man et annoncegebyr pr. usolgt annonce, når man når grænsen på 100 annoncer. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Kan man have en butik på Tradera?
+\ANSWER: Ja, det er muligt at have en butik på Tradera. Hvis man vælger at oprette en butik, betaler man et fast månedligt gebyr, men derudover får man ekstra fordele som fx reduceret provisionsgebyr og mulighed for at uploade flere billeder pr. annonce. 
+URL: https://info.tradera.com/da/salja-pa-tradera/
+
+QUESTION: Hvor tit bliver der udført en handel på Tradera?
+\ANSWER: Der bliver udført en handel hver tredje sekund på Tradera. 
+URL: https://info.tradera.com/da/salja-pa-tradera/

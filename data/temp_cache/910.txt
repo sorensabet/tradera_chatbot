@@ -1,0 +1,39 @@
+QUESTION: What happens after payment has been made by the Buyer?
+ANSWER: After payment has been made by the Buyer, Tradera notifies the Seller via e-mail and in My Tradera that payment for the purchase has been made, and the Seller should then send the goods to the Buyer. Payments to the Seller's bank account will normally be made within 1-2 business days, provided that Tradera has received accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: In which cases does Tradera have the right to withhold and recover payments from the Seller?
+ANSWER: Tradera has the right to withhold payment to the Seller or require the Seller to pay the refundable amount to Tradera in several cases. These include disputes where Tradera considers that the Buyer is right, transactions resulting in the creation of a claim against someone who Tradera can reasonably assume shares a financial interest with the Seller, transactions that are reasonably suspected to constitute money laundering or violate applicable laws and regulations, transactions through which the Seller violates applicable law, transactions through which the Buyer acquires cash, transactions where the Seller has not complied with the terms and conditions of Tradera's prevailing Seller Protection, and transactions that are in violation of the terms and conditions, Tradera's User Agreement, or Rules for Sellers.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if a Transaction is to be fully or partly repaid by the Seller?
+ANSWER: If a Transaction is to be fully or partly repaid by the Seller on the basis of an agreement between the Seller and the Buyer, Tradera does not need to be involved. The repayment is solely the responsibility of the parties involved, and Tradera has no liability for the repayment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera notify the Seller when payment is made by invoice or installment?
+ANSWER: Yes, in case of payment by invoice or installment, Tradera notifies the Seller via e-mail and in My Tradera that payment for the purchase has been made, after which the Seller should send the goods to the Buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What should the Seller do after receiving notification from Tradera that payment has been made?
+ANSWER: After receiving notification from Tradera that payment has been made, the Seller should send the goods to the Buyer. Payments to the Seller's bank account will normally be made within 1-2 business days, provided that Tradera has received accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What is Tradera's role in voluntary repayments?
+ANSWER: Tradera does not need to be involved in voluntary repayments. If a Transaction is to be fully or partly repaid by the Seller on the basis of an agreement between the Seller and the Buyer, the repayment is solely the responsibility of the parties involved, and Tradera has no liability for the repayment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Is the Seller responsible for repayment in case of voluntary repayments?
+ANSWER: Yes, if a Transaction is to be fully or partly repaid by the Seller on the basis of an agreement between the Seller and the Buyer, the repayment is solely the responsibility of the parties involved, and Tradera has no liability for the repayment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: Does Tradera pay the Seller directly or hold the payment?
+ANSWER: Tradera pays the Seller directly after a purchase has been approved. If Tradera approves the purchase, the money will be paid to the Seller's account. If Tradera withholds payment from the Seller, it is usually for cases such as disputes where Tradera considers that the Buyer is right, transactions that are reasonably suspected to constitute money laundering or violate applicable laws and regulations, or where the Seller has violated applicable law or Tradera's terms and conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: How long does it take for payments to be made to the Seller's bank account?
+ANSWER: If payment is approved, payments to the Seller's bank account will normally be made within 1-2 business days, provided that Tradera has received accurate information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION: What happens if a Seller violates applicable law or Tradera's terms and conditions?
+ANSWER: Tradera has the right to withhold payment to the Seller or, if the Seller has already been paid, to require the Seller to pay the refundable amount to Tradera if a Seller violates applicable law or Tradera's terms and conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION 1: Varför används funktionella cookies på Tradera?
+\ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION 2: Vilket syfte har marknadsföringscookies på Tradera?
+\ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION 3: Hur kan användarupplevelsen på Tradera förbättras?
+\ANSWER: Tradera använder cookies för att förstå hur deras webbplats används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION 4: Vilken typ av cookies använder Tradera?
+\ANSWER: Tradera använder funktionella och marknadsföringscookies.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION 5: Vad är syftet med annonsering på Tradera?
+\ANSWER: Syftet med annonsering på Tradera är att skapa en plattform där säljare och köpare kan mötas och göra affärer med varandra.
+URL: https://info.tradera.com/om-tradera/
+
+QUESTION 6: Kan jag handla på Tradera utan att skapa ett konto?
+\ANSWER: Ja, det går att handla på Tradera utan att skapa ett konto, men du kan inte lägga upp egna annonser eller använda alla funktioner på webbplatsen.
+URL: https://info.tradera.com/anvandarvillkor/
+
+QUESTION 7: Är min personliga information säker på Tradera?
+\ANSWER: Ja, Tradera tar säkerheten för din personliga information på största allvar och använder flera olika säkerhetsåtgärder för att skydda den.
+URL: https://info.tradera.com/sakerhet-pa-tradera/
+
+QUESTION 8: Kan jag sälja vad som helst på Tradera?
+\ANSWER: Nej, det finns vissa begränsningar på vad som får säljas på Tradera, t.ex. vapen eller förfalskade varor.
+URL: https://info.tradera.com/vad-far-jag-salja-pa-tradera/
+
+QUESTION 9: Hur vet jag om en produkt på Tradera är äkta?
+\ANSWER: Det är säljarens ansvar att beskriva produkten korrekt och ärligt, men Tradera har också regler mot försäljning av förfalskade varor och kan ta bort annonser som bryter mot dessa regler.
+URL: https://info.tradera.com/vad-far-jag-salja-pa-tradera/
+
+QUESTION 10: Vilka betalningsmetoder accepterar Tradera?
+\ANSWER: Tradera accepterar betalningar med Swish, kortbetalning via Nets, direktbetalning via bank eller Tradera-konto och Klarna Faktura eller Delbetalning.
+URL: https://info.tradera.com/betalning-tradera/

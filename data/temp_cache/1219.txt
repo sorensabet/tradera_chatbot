@@ -1,0 +1,39 @@
+QUESTION: Vad händer om Tradera misstänker oegentligheter i en transaktion?
+ANSWER: Om Tradera misstänker oegentligheter i en viss transaktion, såsom bedrägeri eller att säljaren tidigare har agerat i strid mot villkoren, kan Tradera återbetala betalningen till köparen istället för att betala ut den till säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om säljaren inte har gett Tradera korrekta betalningsuppgifter?
+ANSWER: Om säljaren inte har försett Tradera med korrekta betalningsuppgifter kan Tradera inte betala ut till säljaren förrän de har fått den information som krävs. Då kommer säljaren få betalt inom två (2) bankdagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: När får säljaren betalt från Tradera som huvudregel?
+ANSWER: Som huvudregel får säljaren betalt inom två (2) bankdagar efter att Tradera har fått korrekta betalningsuppgifter från säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om säljaren inte skickar varan till köparen efter att Tradera har bekräftat att köparen har erlagt betalning?
+ANSWER: Om säljaren inte skickar varan till köparen efter att Tradera har bekräftat att köparen har erlagt betalning, så förbehåller Tradera sig rätten att innehålla betalningen så länge som det föreligger misstanke om att säljaren inte kommer att fullgöra sina åtaganden.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan en säljare kontakta Tradera angående olika frågor som kan uppstå i samband med en transaktion?
+ANSWER: Ja, i de flesta fall kan en säljare kontakta Tradera angående olika frågor som kan uppstå i samband med en transaktion, trots att betaltjänsten har används.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken rätt har Tradera om säljaren agerar i strid mot dessa Villkor, andra Regler för Säljare, eller Användaravtal?
+ANSWER: Om säljaren agerar i strid mot dessa Villkor, andra Regler för Säljare, eller Användaravtal förbehåller Tradera rätten att tillse att betalningen inte kommer säljaren tillhanda och istället återbetala den till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan Tradera betala ut till säljaren om denne inte har skickat varan?
+ANSWER: Ja, Tradera kan betala ut till säljaren även om denne inte har skickat varan, så länge som ingen misstanke föreligger om att säljaren inte kommer att fullgöra sina åtaganden.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad är en transaktion?
+ANSWER: En transaktion på Tradera är när en köpare och säljare kommer överens om att handla med varandra och genomför köpet och försäljningen via Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken roll har Tradera i en transaktion?
+ANSWER: Tradera granskar transaktioner för att upptäcka oegentligheter, förmedlar betalning mellan köpare och säljare, samt agerar som en neutral tredje part och tillhandahåller support till både köpare och säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om säljaren inte vill sälja varan efter att köparen har betalat?
+ANSWER: Om säljaren inte vill sälja varan efter att köparen har betalat, kan Tradera förbehålla sig rätten att innehålla betalningen så länge som det föreligger misstanke om att säljaren inte kommer att fullgöra sina åtaganden.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

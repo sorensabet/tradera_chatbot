@@ -1,0 +1,39 @@
+QUESTION: What happens if you do not pay for a won auction?
+ANSWER: Not paying for a won auction may lead to a report. If you get several reports your account might get suspended.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: How does the bid ladder work on Tradera?
+ANSWER: The bid ladder on Tradera decides what the next bid will increase by depending on the current price range of the item. It ranges from 1 SEK to 500 SEK.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: What is a reserved price on a Tradera listing?
+ANSWER: A reserved price is the lowest amount that the seller is willing to sell the listed item for. The seller may add a hidden reserved price which means that they will not sell the item for anything less than that price.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Can you place an auto bid on Tradera?
+ANSWER: Yes, you can place an auto bid on Tradera. If someone bids over your current bid, your auto bid will be increased based on the bid ladder. However, the auto bid can never go above the limit that you set.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Is your auto bid visible to other bidders on Tradera?
+ANSWER: No, your auto bid is not visible to other bidders on Tradera.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: How do you pay for a won auction on Tradera?
+ANSWER: When you win an auction or buy a store or fixed price item on Tradera, you will receive a winner's mail with the payment details. You can also pay directly on My Tradera or contact the seller directly by clicking the "contact" button.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Can you only pay for a Tradera listing with certain payment methods?
+ANSWER: Tradera offers multiple payment methods that you can use to pay for your purchase, including credit card, Swish, bank transfer, and PayPal.
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: What happens if your bid is lower than the reserved price on a Tradera listing?
+ANSWER: If your bid is lower than the reserved price on a Tradera listing, you will be notified. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: How does shipping work on Tradera?
+ANSWER: Different listings on Tradera have different shipping options. Sometimes the item is only available for pick up, while other times the seller may offer shipping. 
+URL: https://info.tradera.com/en/shoppa-2/
+
+QUESTION: Are bids binding on Tradera?
+ANSWER: Yes, bids on Tradera are always binding. 
+URL: https://info.tradera.com/en/shoppa-2/

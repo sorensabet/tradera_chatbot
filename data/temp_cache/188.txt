@@ -1,0 +1,39 @@
+QUESTION: Vilka rättigheter har köparen enligt konsumentköplagen?
+ANSWER: Enligt konsumentköplagen har köparen rätt att reklamera en vara och göra en återbetalningsansökan inom 3 år efter köpet om felet existerade vid tidpunkten för köpet.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Hur länge har köparen rätt att göra en återbetalningsansökan?
+ANSWER: Köparen har rätt att göra en återbetalningsansöka inom 3 år efter köpet om felet existerade vid tidpunkten för köpet.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Hur länge har köparen på sig att göra en återbetalningsansökan efter att ha upptäckt felet?
+ANSWER: Köparen ska göra en återbetalningsansökan om produkten inom 2 månader efter att hen upptäckte felet.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Vems ansvar är det att rätta till ett defekt föremål?
+ANSWER: Det är säljarens ansvar att rätta till ett defekt föremål.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Vem betalar returfrakten om en defekt produkt skickas tillbaka till säljaren?
+ANSWER: Om en defekt produkt skickas tillbaka till säljaren, är det säljaren som betalar för returfrakten.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Vilka alternativ finns det för att lösa en situation när en produkt är defekt?
+ANSWER: För att lösa situationen när en produkt är defekt, kan man välja mellan att korrigera felaktigheten, skicka en ny, felfri produkt till köparen, dra av priset, ge köparen kompensation för reparation, annullera köpet och återbetala pengarna.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Vilka krav gäller för att få göra en återbetalningsansökan?
+ANSWER: Inom 3 år efter köpet har köparen rätt att göra en återbetalningsansökan om felet existerade vid tidpunkten för köpet, och ansökan ska göras om produkten inom 2 månader efter att felet upptäcktes.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Gäller det även för köp mellan privatpersoner att köparen har rätt att göra en återbetalningsansökan?
+ANSWER: Nej, det här gäller inte för köp mellan privatpersoner.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Om en produkt är defekt, vad är säljarens skyldigheter?
+ANSWER: Säljarens skyldighet är att rätta till defekten.
+URL: https://info.tradera.com/en/refund-claim/
+
+QUESTION: Kan säljaren diskutera olika alternativ med köparen innan hen bestämmer sig för hur man vill lösa en situation när produkten är defekt?
+ANSWER: Ja, säljaren bör diskutera olika alternativ med köparen innan hen bestämmer sig för hur man vill lösa en situation när produkten är defekt.
+URL: https://info.tradera.com/en/refund-claim/

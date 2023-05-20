@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika situationerna där Tradera kan lämna ut användarinformation?
+ANSWER: Tradera kan lämna ut användarinformation i olika situationer såsom vid utredning av ett brott, vid uppmaning av till tillsynsmyndighet eller polismyndighet eller vid rapportering till kreditupplysningsföretag. Användarinformation kan inkludera namn, personnummer, stad, provins, telefonnummer, e-postadress, IP-adress, klagomål om bedrägeri, bud och säljhistorik.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka är användarnas rättigheter när det kommer till hanteringen av deras personuppgifter?
+ANSWER: Tradera respekterar användares rättigheter när det gäller hanteringen av deras personuppgifter. Användare har rätt att återkalla sitt samtycke för insamling av personuppgifter och kan be om att få radera sina personuppgifter från Traderas system. Användare har även rätt att få tillgång till sina personuppgifter och begära en rättelse av dessa uppgifter om de är felaktiga.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilket program på Tradera kan hjälpa rättighetsinnehavare att skydda sina immateriella egendomar?
+ANSWER: Rättighetsinnehavare kan delta i Traderas VeRO-program för att skydda sina immateriella egendomar. VeRO står för Verified Rights Owner och ger rättighetsinnehavare möjlighet att rapportera eventuella intrång i deras immateriella egendomar på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka typer av personuppgifter samlar Tradera in från användare?
+ANSWER: Tradera kan samla in olika typer av personuppgifter från användare såsom namn, personnummer, stad, provins, telefonnummer, e-postadress, IP-adress, klagomål om bedrägeri, bud och säljhistorik eller andra uppgifter som användaren själv ger till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur hanterar Tradera personuppgifter för använder från Europeiska unionen?
+ANSWER: Tradera överensstämmer med EU:s dataskyddsförordning när det handlar om hanteringen av användarnas personuppgifter från Europeiska unionen. Tradera använder ett tredje land, i detta fall USA, för lagring av Europeiska användares personuppgifter men säkerställer att lämpliga skyddsklausuler är på plats för skyddet av användarnas information. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan en användare begära att Tradera ska radera all deras personinformation från systemet?
+ANSWER: Ja, en användare har rätt att begära att Tradera raderar all deras personinformation från systemet. Användare kan även återkalla sitt samtycke för insamlande och hantering av deras personuppgifter om de inte vill att deras information används längre.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur länge sparar Tradera användares personuppgifter?
+ANSWER: Tradera sparar användares personuppgifter så länge som de är nödvändiga för Traderas verksamhet enligt gällande lagstiftning. När personuppgifterna inte längre behövs kommer de att raderas från systemet. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur skyddar Tradera användares personuppgifter mot obehörig åtkomst?
+ANSWER: Tradera använder tekniska och organisatoriska åtgärder för att skydda användares personuppgifter mot obehörig åtkomst. Dessa åtgärder inkluderar brandväggar, anti-virusprogram, kryptering av dataöverföring, skyddad serveråtkomst och begränsningar för vem som har åtkomst till systemen som hanterar personuppgifter på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan en användare välja vilka personuppgifter som delas med tredjeparter?
+ANSWER: Ja, en användare kan välja att inte dela vissa personuppgifter med Traderas tredjeparter. Användaren kan dock bli begränsad från att använda vissa funktioner på Tradera om vissa personuppgifter inte delas. Användaren kan även återkalla sitt samtycke för tredjepartsdelning av personuppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilken typ av rapportering sker till kreditupplysningsföretag?
+ANSWER: Tradera rapporterar information som kan finnas i en användares kreditupplysning till kreditupplysningsföretag. Detta inkluderar uteblivna betalningar eller andra överträdelser av användarens konto. Detta görs i den utsträckning som tillåts enligt lag. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

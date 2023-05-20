@@ -1,0 +1,39 @@
+QUESTION: What is Tradera?
+ANSWER: Tradera is a Nordic e-commerce company.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is the purpose of the Privacy Statement?
+ANSWER: The purpose of the Privacy Statement is to inform users about how Tradera collects and processes their personal data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What kinds of websites are governed by their own privacy statements?
+ANSWER: Third-party websites are governed by their own privacy statements.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is a Data Controller?
+ANSWER: Data Controller is Tradera Marketplace AB, the company that is responsible for the processing of your Personal Data and to deliver the services provided under the User Agreement.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What types of Personal Data does Tradera collect?
+ANSWER: Tradera collects the following types of Personal Data: device ID or unique identifier, geo-location, device type, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address and standard web log information.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: How does Tradera collect Personal Data?
+ANSWER: Tradera collects Personal Data automatically when users visit their sites, use applications, services, or tools, or interact with advertising or content.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Is it optional to share Personal Data with Tradera?
+ANSWER: Yes, it is optional to share Personal Data with Tradera. Users need to register for an account with Tradera to share their Personal Data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Does Tradera transfer Personal Data outside of Sweden?
+ANSWER: Yes, Tradera transfers and stores Personal Data on their servers located in Sweden or elsewhere in the world, such as in the United States.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: What is the purpose of Tradera collecting Personal Data?
+ANSWER: Tradera collects Personal Data to provide users with the use of and access to their sites, applications, services, and tools, to help them personalize and improve user experience, and for advertising purposes.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION: Whose responsibility is it to review the privacy statements of third-party websites?
+ANSWER: It is the user's responsibility to review the privacy statements of third-party websites before providing them with Personal Data.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

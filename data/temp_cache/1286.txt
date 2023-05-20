@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med Traderas användarvillkor?
+ANSWER: Syftet med Traderas användarvillkor är att ge företagsanvändare information om vilka villkor som gäller för att använda Traderas betallösning och Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: När träder ändringar i användarvillkoren i kraft?
+ANSWER: Ändringar i användarvillkoren träder i kraft 15 dagar från det datum då e-postmeddelandet med de föreslagna ändringarna skickades.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan Tradera bevilja en längre varselperiod vid föreslagna ändringar?
+ANSWER: Ja, Tradera kan bevilja en längre varselperiod om de föreslagna ändringarna kräver nödvändiga tekniska eller kommersiella anpassningar hos den berörda företagsanvändaren.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilken effekt får uppsägning av användarvillkoren för företagsanvändare?
+ANSWER: Uppsägning av användarvillkoren innebär att företagsanvändare inte längre kan använda Traderas betallösning och Tjänster, och detta får verkan inom 15 dagar efter mottagandet av meddelandet.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan företagsanvändare frångå varselperioden för uppsägning av användarvillkoren?
+ANSWER: Ja, varselperioden kan frångås av företagsanvändaren genom ett skriftligt meddelande eller genom en tydlig bekräftelse.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vem kan säga upp användarvillkoren?
+ANSWER: Företagsanvändare ska ha rätt att säga upp användarvillkoren, inklusive Villkor för Traderas betallösning, före varselperiodens utgång.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vem anses ha bekräftat att avstå från varselperioden vid saluföring av nya varor?
+ANSWER: Företagsanvändare som saluför nya varor i Tjänsterna ska anses ha bekräftat att avstå från varselperioden, såvida inte en längre uppsägningstid än 15 dagar gäller i enlighet med ovan, i vilket fall varselperioden inte kan frångås.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Gäller varselperioden vid rättslig skydd av Tradera?
+ANSWER: En varselperiod gäller inte om Tradera omfattas av en rättslig skydd.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Vilken information omfattas av Traderas användarvillkor?
+ANSWER: Traderas användarvillkor omfattar Villkor för Traderas betallösning (tillämplig för säljare) och villkor för att använda Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/
+
+QUESTION: Kan företagsanvändare säga upp användarvillkoren när som helst?
+ANSWER: Nej, företagsanvändare ska säga upp användarvillkoren före varselperiodens utgång, vilket är 15 dagar efter meddelandet, om de vill avsluta användningen av Traderas betallösning och Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2022-2023/

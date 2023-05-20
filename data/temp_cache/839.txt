@@ -1,0 +1,39 @@
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är en nordisk e-handelsplattform där privatpersoner och företag kan handla med varandra.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vem ansvarar för förluster i näringsverksamhet som orsakas av användning av Tradera?
+ANSWER: Enligt avtalet är Tradera och dess moderbolag, dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda inte ansvariga gentemot användaren för förlust i näringsverksamhet som orsakas av användning av Tjänsten eller inte kunnat använda Tjänsten.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan användarna kommunicera i realtid på Tradera?
+ANSWER: Tradera meddelar att uppdatering av bud och andra meddelandefunktioner i Traderas Tjänster inte sker i realtid, vilket innebär att kommunikationen inte är i realtid.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Är Tradera ansvarig för förseningar i dess Tjänster?
+ANSWER: Tradera meddelar att det inte kan garantera att Tjänsterna är tillgängliga utan avbrott och att uppdateringar av funktioner i dess Tjänster kan drabbas av förseningar som är utanför dess kontroll. 
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka är de indirekta skadorna som Tradera inte ansvarar för?
+ANSWER: Tradera och dess moderbolag, dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda ska inte ansvara för indirekta skador innefattande förlust i näringsverksamhet, förlust av data, utebliven vinst, uteblivna affärstillfällen, förlorat anseende eller avbrott i näringsverksamhet eller för andra skador som man inte rimligen kunnat förutse.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Tar Tradera ansvar för skador som orsakas av virus eller skadlig mjukvara som härrör från koppling till eller länkning till deras tjänster?
+ANSWER: Tradera och dess moderbolag, dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda tar inte ansvar för skador som orsakas av virus eller annan skadlig mjukvara som sprids genom att användaren kopplar upp sig mot eller länkar till deras Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Kan Tradera förutse alla skador som kan drabba användaren?
+ANSWER: Tradera och dess moderbolag, dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda tar inte ansvar för andra skador än de som de rimligen kunnat förutse.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Är användarna skyldiga att följa lagar och bestämmelser på Tradera?
+ANSWER: Enligt avtalet förbinder sig användarna att följa lagar och bestämmelser när de använder Traderas Tjänster.
+URL: https://info.tradera.com/anvandaravtal-2020-2022/
+
+QUESTION: Vilka typer av skador täcks av Traderas kundskydd?
+ANSWER: Traderas kundskydd täcker fel varor, skadade varor vid leverans, försändelser som inte har kommit fram och tillbaka-betalning. 
+URL: https://www.tradera.com/help/kundtjanst/kopskydd/
+
+QUESTION: Kan man anmäla oärliga användare på Tradera?
+ANSWER: Ja, man kan anmäla oärliga användare på Tradera genom att använda "Anmäl användare" knappen som finns på annonsidorna.
+URL: https://www.tradera.com/help/kundtjanst/rapportera-anvandare/

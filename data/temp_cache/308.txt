@@ -1,0 +1,39 @@
+QUESTION: Vilken regel gäller för bud på Tradera och varför finns denna regel?
+ANSWER: Bud som läggs på Tradera är bindande. Denna regel finns för att när man lägger ett bud eller gör ett köp förbinder man sig att genomföra det. Objektet ska betalas inom rimlig tid, så länge köpare och säljare inte kommit överens om annat. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/bud-ar-bindande/
+
+QUESTION: Vad händer om en medlem inte betalar för vunna auktioner eller fast pris-annonser?
+ANSWER: Medlemmar som upprepade gånger inte betalar för vunna auktioner eller fast pris-annonser kan komma att få sitt konto avstängt på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/bud-ar-bindande/
+
+QUESTION: Vilka objekt är inte tillåtna att sälja på Tradera?
+ANSWER: Det finns flera objekt som är ej tillåtna att sälja på Tradera, exempelvis relaterade objekt, annonser utan objekt till försäljning, vilseledande rubriker och objektsbeskrivningar, olämpliga bilder och objektsbeskrivningar, och mer. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ej-tillatna-objekt/
+
+QUESTION: Vad händer om man gör en förhandsförsäljning eller dropshipping på Tradera?
+ANSWER: Förhandsförsäljning och dropshipping är inte tillåtna på Tradera. Om man ändå försöker göra en sådan försäljning kan man få sitt konto avstängt eller polisanmälas för bedrägeri.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Går det att sälja objekt utanför Tradera?
+ANSWER: Det är inte tillåtet att sälja eller försöka sälja objekt utanför Tradera. Om man ändå försöker göra en sådan försäljning kan man få sitt konto avstängt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vad händer om man bryter mot reglerna på Tradera?
+ANSWER: Om man bryter mot reglerna på Tradera kan man få sitt konto avstängt eller polisanmälas för bedrägeri. Det är därför viktigt att man läser igenom och följer reglerna noggrant.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Vad är begränsning av identiska objekt på Tradera?
+ANSWER: Begränsning av identiska objekt innebär att man inte får lägga upp flera identiska objekt på Tradera samtidigt. Detta för att undvika trissbudgivning och göra auktionen mer rättvis.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Gäller ångerrätten när man handlar på Tradera?
+ANSWER: Ja, ångerrätten gäller när man handlar på Tradera. Ångerrätten ger köpare rätt att ångra sitt köp inom 14 dagar efter att de mottagit varan. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vad innebär frakt och avgifter på Tradera?
+ANSWER: Frakt och avgifter på Tradera är kostnaden för att skicka och leverera objektet till köparen. Det är viktigt att man tydligt specificerar och inkluderar dessa kostnader i annonserna samt kommunicerar klart och tydligt med köparen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Vad händer om man väljer fel kategori när man lägger upp en annons på Tradera?
+ANSWER: Om man väljer fel kategori när man lägger upp en annons på Tradera kan annonsen tas bort eller flyttas till rätt kategori av Traderas supportteam.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/

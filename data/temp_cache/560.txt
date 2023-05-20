@@ -1,0 +1,39 @@
+QUESTION: Hvad betyder OEM-software?
+ANSWER: OEM-software betyder Original Equipment Manufacturer og er software, der er lavet til brug sammen med en bestemt enhed eller computer.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvad er nogle af de forbudte varer, der ikke må sælges på Tradera?
+ANSWER: Nogle af de forbudte varer, der ikke må sælges på Tradera, omfatter beta-udgaver, tests og evalueringskopier, software, freeware og shareware på CD-R eller USB samt spilkonti, spilkarakterer, spilvaluta, virtuelle objekter og spilinvitationer eller andre onlinetjenester.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvorfor er der begrænsninger på salg af software og elektronisk leveret varer på Tradera?
+ANSWER: Der er begrænsninger på salg af software og elektronisk leveret varer på Tradera for at hjælpe brugerne med at følge love og reguleringer i forhold til salg af software. Der er også skadelig software, der kan skade Tradera eller vores brugere.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvilke restriktioner gælder for salg af akademisk software på Tradera?
+ANSWER: Den akademiske software, der kun må sælges af autoriserede forhandlere af uddannelsesmateriale, er tilladt med restriktioner på Tradera.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvad er nogle eksempler på akademisk software?
+ANSWER: Nogle eksempler på akademisk software inkluderer software, der anvendes i uddannelsesmæssige institutioner og er derfor kun tilgængelig for autoriserede forhandlere af uddannelsesmateriale.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvorfor er der restriktioner på salg af software, der kræver licens?
+ANSWER: Der er begrænsninger på salg af software, der kræver licens, fordi mange programmer kun har lov til at blive brugt på en bestemt enhed efter køb af en licens. Hvis det sælges uden en licens, er det ulovligt.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Er det tilladt at sælge hardware og software sammen på Tradera?
+ANSWER: Ja, hardware og software kan sælges sammen på Tradera, men kun hvis softwaren har en licens eller er freeware.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvorfor er det forbudt at sælge beta-udgaver, tests og evalueringskopier på Tradera?
+ANSWER: Det er forbudt at sælge beta-udgaver, tests og evalueringskopier på Tradera, fordi de normalt ikke har alle de funktioner, som den endelige version vil have, og det kan skade køberens oplevelse.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Kan spilkonti og virtuelle objekter sælges på Tradera?
+ANSWER: Nej, det er forbudt at sælge spilkonti, spilkarakterer, spilvaluta, virtuelle objekter og spilinvitationer eller andre onlinetjenester på Tradera.
+URL: https://info.tradera.com/da/software-and-electronic-media/
+
+QUESTION: Hvorfor er software, freeware og shareware på CD-R eller USB forbudt på Tradera?
+ANSWER: Software, freeware og shareware på CD-R eller USB er forbudt på Tradera, fordi der normalt kræves en licens eller begrænsninger for deres brug, og de kan nemt kopieres uden autorisation. De kan også være inficeret med skadelig software.
+URL: https://info.tradera.com/da/software-and-electronic-media/

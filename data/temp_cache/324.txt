@@ -1,0 +1,39 @@
+QUESTION 1: What are web beacons?
+\ANSWER: Web beacons are small images that may be on Tradera's website and are used in conjunction with cookies to identify users and user behavior.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 2: What are similar technologies?
+\ANSWER: Similar technologies refer to technologies that store information in your browser or device using locally shared objects or local storage, such as flash cookies, HTML 5 cookies, and other web application software.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 3: Does Tradera store information with similar technologies?
+\ANSWER: Tradera does not use similar technologies to store information or to direct advertising to its users on or outside its web pages.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 4: What do Tradera's policies refer to when using the terms "cookies" or "similar technologies"?
+\ANSWER: Tradera's policies refer to any technologies that may be used to store information in a user's browser or device, or to collect information, or identify the user.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 5: Are all features of Tradera's website available without the use of cookies and similar technologies?
+\ANSWER: No, some of the features, services, applications, and tools offered by Tradera are available only through the use of cookies and similar technologies.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 6: Can users block, remove, or disable cookies and similar technologies on Tradera's website?
+\ANSWER: Yes, users always have the option to block, remove, or disable cookies and similar technologies if their browser, applications, or device allows it.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 7: What happens if users do not accept cookies or similar technologies on Tradera's website?
+\ANSWER: If users do not accept cookies or similar technologies, they may not be able to use certain features, services, applications, or tools on Tradera's website.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 8: Will users have to enter their password repeatedly if they do not accept cookies or similar technologies on Tradera's website?
+\ANSWER: Yes, users may need to enter their password repeatedly during their visit if they do not accept cookies or similar technologies on Tradera's website.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 9: What does Tradera use cookies and similar technologies for?
+\ANSWER: Tradera uses cookies and similar technologies to store relevant information in a user's browser or device, and later use that information to identify the user in its servers or internal systems.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION 10: Does Tradera protect its cookies and similar technologies?
+\ANSWER: Yes, where possible, Tradera protects its cookies and similar technologies to ensure that only it and/or the service providers it has approved can interpret them.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/

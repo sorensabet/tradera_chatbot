@@ -1,0 +1,39 @@
+QUESTION: Vad händer om utbetalningen granskas eller mitt konto behöver verifieras?
+ANSWER: Om utbetalningen granskas eller om ditt konto måste verifieras så dröjer utbetalningen tills granskningen/verifikationen har gått igenom.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Varför står inte varan som betald i min sålda lista även om köparen har betalat?
+ANSWER: Om köparen har betalat med Swish underrättas inte Tradera om detta, och säljaren behöver markera betalningen som genomförd själv.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Var hittar jag mina utbetalningar på Tradera?
+ANSWER: Dina utbetalningar kan hittas under fliken Betalningar och Avgifter där du kan få en översikt över både kommande och genomförda utbetalningar, samt avgifter som dragits.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Varför är nettoutbetalningar föredraget än fakturor i slutet av månaden?
+ANSWER: Dina avgifter dras av från ditt saldo innan Tradera betalar ut till dig för att du inte ska behöva få en faktura i slutet på månaden.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vad är PSD2 direktivet, och vad innebär det för min verifikation?
+ANSWER: PSD2 direktivet är ett EU-direktiv som kräver att alla företags- och privatkonton som har sålt för mer än 2000 Euro inom ett år behöver verifieras. Under verifikationen kommer utbetalningar att pausas tills dess att verifikationen är klar.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Hur vet jag när en köpare har betalat för en produkt?
+ANSWER: Du kommer att meddelas via mejl när köparen har betalat för varan.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Kan jag skicka varan innan jag har fått utbetalningen?
+ANSWER: Ja, om köparen har betalat och du har blivit meddelad via mejl att varan kan skickas så kan du skicka varan redan då.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Var hittar jag information om mina avgifter på Tradera?
+ANSWER: Information om dina avgifter kan hittas under fliken Betalningar och Avgifter tillsammans med översikter över dina utbetalningar.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Hur verifierar jag mitt konto på Tradera?
+ANSWER: Konton som behöver verifieras i enlighet med EU's PSD2 direktiv kommer att få instruktioner om hur de ska verifiera sitt konto. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/
+
+QUESTION: Vad ska jag göra om beloppet jag har fått utbetalt inte stämmer med vad varan såldes för?
+ANSWER: Det är förmodligen så att Tradera redan har dragit av sina avgifter från saldot innan utbetalningen gjorts. Läs mer om avgifter och nettoutbetalningar på Traderas hemsida.
+URL: https://info.tradera.com/salja-pa-tradera/hur-far-jag-betalt/

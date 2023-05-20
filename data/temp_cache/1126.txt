@@ -1,0 +1,39 @@
+QUESTION: Vad händer om en köpare väljer att betala mot faktura eller avbetalning?
+ANSWER: Om en köpare väljer att betala mot faktura eller avbetalning ingår Köparen ett avtal med Paynova. Säljaren får betalt på samma sätt som om Köparen valt att betala med kort eller PayPal. Efter att Paynova genomfört en kreditkontroll av Köparen betalas Pengar ut till PayPal, och efter att Tradera godkänt Transaktionen betalas sedan pengar ut till Säljarens konto. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Hur betalas pengar ut till säljarens bankkonto vid försäljning?
+ANSWER: Pengar betalas ut till säljarens bankkonto inom 1-2 dagar efter att en granskning av Transaktionen gjorts och godkänts av Tradera, och förutsatt att Tradera har erhållit korrekta uppgifter. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan en säljare välja att inte acceptera betalning via PayPal?
+ANSWER: Säljaren accepterar att PayPal övertar säljarens rätt att få betalt från köparen i utbyte mot att PayPal erlägger betalning till säljaren för Transaktionen. Det verkar alltså som att säljare inte har möjlighet att välja bort betalning via PayPal. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken service används för kreditkontroll av köparen vid betalning mot faktura eller avbetalning?
+ANSWER: Efter att en köpare valt att betala mot faktura eller avbetalning så ingår Köparen ett avtal med Paynova som sedan genomför en kreditkontroll av Köparen.  
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om Tradera godkänner dåliga transaktioner?
+ANSWER: Pengar betalas inte ut till säljarens konto om Tradera inte godkänner Transaktionen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket företag betalar ut Pengar till PayPal?
+ANSWER: Pengarna betalas ut till PayPal (Hyperwallet) efter att Paynova har genomfört en kreditkontroll av köparen. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken typ av betalning är det som säljaren får om köparen väljer att betala mot faktura eller avbetalning?
+ANSWER: Säljaren får betalt på samma sätt som om köparen hade valt att betala med kort eller PayPal, även om köparen väljer att betala mot faktura eller avbetalning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan Tradera behålla en säljares betalning?
+ANSWER: Tradera har rätt att behålla en säljares betalning eller att kräva att säljaren betalar Återbetalningsskyldighet, om det skulle finnas någon anledning till detta. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Får säljaren besked vid utbetalning av betalning via fakturor eller avbetalning?
+ANSWER: Ja, Tradera meddelar via email och i Mitt Tradera att betalning för köpet har genomförts, så att säljaren är medveten om när betalning har gjorts. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket betalningssystem används om köparen väljer att betala med kort?
+ANSWER: Det framgår inte av texten vilket betalningssystem Tradera använder om en köpare väljer att betala med kort, men det nämns att säljaren får betalt på samma sätt som om köparen valt att betala med kort eller PayPal. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

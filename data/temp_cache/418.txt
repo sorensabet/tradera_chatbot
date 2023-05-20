@@ -1,0 +1,39 @@
+QUESTION 1: Vilket syfte har mätningen av hur Tradera används?
+ANSWER: Mätningen av hur Tradera används har som syfte att förbättra användarupplevelsen på Tradera. 
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 2: Vad är funktionella cookies?
+ANSWER: Funktionella cookies är cookies som används för att ge utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 3: Vem använder Traderas annonseringspartners riktade annonser?
+ANSWER: Traderas annonseringspartners använder riktade annonser som är relevanta för dig.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 4: Vad är syftet med marknadsföring cookies på Tradera?
+ANSWER: Syftet med marknadsföring cookies på Tradera är att användas av annonseringspartners för riktade annonser som är relevanta för Tradera användare.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 5: Vad är syftet med att använda cookies på Tradera?
+ANSWER: Syftet med att använda cookies på Tradera är att förbättra användarupplevelsen genom mätning av hur Tradera används och användaranpassning. Dessutom används cookies för att ge riktade annonser till Tradera användare av Traderas annonseringspartners.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 6: Kan jag som användare stänga av cookies på Tradera?
+ANSWER: Ja, som användare kan du stänga av cookies på Tradera i din webbläsares inställningar.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 7: Kommer min information att delas med tredje part genom användning av cookies på Tradera?
+ANSWER: Ja, genom användning av marknadsföringscookies på Tradera kommer din information att delas med tredje part i form av annonseringspartners som ger dig riktade annonser.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 8: Kan jag använda Tradera utan att tillåta cookies?
+ANSWER: Ja, du kan använda Tradera utan att tillåta cookies men viss funktionalitet och användaranpassning på Tradera kommer inte att vara tillgänglig.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 9: Vad händer om jag inte tillåter cookies på Tradera?
+ANSWER: Om du inte tillåter cookies på Tradera kommer du att kunna använda sidan, men viss funktionalitet och användaranpassning på Tradera kommer inte att vara tillgänglig.  
+URL: https://info.tradera.com/da/lar-kanna-saljaren/
+
+QUESTION 10: Vilken typ av cookies används på Tradera?
+ANSWER: Den typ av cookies som används på Tradera inkluderar mätning av hur Tradera används för att förbättra användarupplevelsen, funktionella cookies för utökad funktionalitet och användaranpassning, och marknadsföring cookies som används av Traderas annonseringspartners för riktade annonser relevanta för dig.
+URL: https://info.tradera.com/da/lar-kanna-saljaren/

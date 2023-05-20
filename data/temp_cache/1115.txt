@@ -1,0 +1,39 @@
+QUESTION: Kan man sende et købstilbud på en annonce med budgivning?
+ANSWER: Nej, det er ikke muligt at sende et købstilbud på annoncer, der har budgivning som mulighed.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvordan sender man et købstilbud på en aktiv køb nu annonce på Tradera?
+ANSWER: Du kan sende et købstilbud på en aktiv køb nu annonce på Tradera ved at trykke på "Send købstilbud"-knappen på annoncen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man forhandle prisen på en købstilbud-annonce på Tradera?
+ANSWER: Ja, man kan forhandle prisen på en købstilbud-annonce på Tradera efter at have modtaget et købstilbud fra køberen.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man sende et købstilbud på en lukket køb nu annonce på Tradera?
+ANSWER: Nej, det er ikke muligt at sende et købstilbud på en lukket køb nu annonce på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvor længe er et købstilbud på en køb nu annonce bindende?
+ANSWER: Et købstilbud på en køb nu annonce er bindende i 24 timer på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan mere end én person sende et købstilbud på den samme aktive køb nu annonce på Tradera?
+ANSWER: Ja, mere end én person kan sende et købstilbud på den samme aktive køb nu annonce på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man sende et købstilbud på en annonce, der er oprettet i en anden valuta end den lokale valuta?
+ANSWER: Ja, det er muligt at sende et købstilbud på en annonce, der er oprettet i en anden valuta end den lokale valuta på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man tilføje et kommentarfelt til sit købstilbud på Tradera?
+ANSWER: Nej, det er ikke muligt at tilføje et kommentarfelt til sit købstilbud på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Hvordan afgør man, om ens købstilbud på Tradera er blevet accepteret eller afvist?
+ANSWER: Du vil modtage en besked fra sælgeren på Tradera, der informerer dig om, hvorvidt dit købstilbud er blevet accepteret eller afvist.
+URL: https://info.tradera.com/da/koebstilbud/
+
+QUESTION: Kan man fortryde et købstilbud på en køb nu annonce på Tradera?
+ANSWER: Nej, det er ikke muligt at fortryde et købstilbud på en køb nu annonce på Tradera.
+URL: https://info.tradera.com/da/koebstilbud/

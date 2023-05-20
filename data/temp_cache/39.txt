@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med de nödvändiga kakorna som Tradera använder?
+ANSWER: Syftet med de nödvändiga kakorna som Tradera använder är för att Tradera ska fungera.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilket syfte har prestandakakorna som används av Tradera?
+ANSWER: Prestandakakorna som används av Tradera har syftet att mäta anonymt hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilket syfte har funktionella kakor som används av Tradera?
+ANSWER: Funktionella kakor som används av Tradera har syftet att erbjuda utökad funktionalitet och anpassning för användaren på Tradera, t.ex. sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilket syfte har marknadsföringskakorna som används av Tradera?
+ANSWER: Marknadsföringskakorna som används av Tradera har syftet att användas av Traderas annonseringspartners för att visa riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan användare stänga av de nödvändiga kakorna som Tradera använder?
+ANSWER: Nej, de nödvändiga kakorna som Tradera använder kan inte stängas av, eftersom de är nödvändiga för att Tradera ska fungera.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan användare stänga av prestandakakorna som Tradera använder?
+ANSWER: Prestandakakorna som Tradera använder kan inte stängas av av användaren, eftersom de anonymt mäter hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan användare stänga av funktionella kakor som Tradera använder?
+ANSWER: Användare kan inte stänga av funktionella kakor som Tradera använder, eftersom de är till för utökad funktionalitet och användaranpassning av Tradera.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Kan användare stänga av marknadsföringskakorna som Tradera använder?
+ANSWER: Användare kan stänga av marknadsföringskakorna som Tradera använder i sina webbläsarinställningar eller i inställningarna för Tradera-kontot.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Vilka företag använder Traderas marknadsföringskakor?
+ANSWER: Traderas annonseringspartners använder marknadsföringskakorna för att visa riktade annonser som är relevanta för användaren.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/
+
+QUESTION: Använder Tradera några andra typer av kakor förutom de nämnda?
+ANSWER: Ja, Tradera kan använda andra typer av kakor för att förbättra användarupplevelsen och säkerheten på Tradera.
+URL: https://info.tradera.com/integritetspolicy-2016-2018/

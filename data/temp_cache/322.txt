@@ -1,0 +1,39 @@
+QUESTION: What are cookies used for on Tradera's website?
+ANSWER: Cookies are used on Tradera's website for different purposes, such as providing extra functionality, directing personalized advertisements to customers, improving delivery, and enhancing the website's functionality. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Can customers block or disable cookies on Tradera's website?
+ANSWER: Yes, customers can block, delete, or disable cookies on Tradera's website if their device allows it. Customers can manage their cookies and preferences in their browser or device settings. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What other technologies besides cookies are used on Tradera's website?
+ANSWER: Besides cookies, Tradera's website uses web beacons and other similar technologies to store information and provide better, faster, and safer experiences. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What is the purpose of the Cookie Policy provided by Tradera on their website?
+ANSWER: The Cookie Policy provided on Tradera's website is meant to help customers understand more about cookies and how they are used on the website, services, applications, tools, or message management. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: When was Tradera's policy on cookies and similar technologies last modified?
+ANSWER: Tradera's policy on cookies and similar technologies was last modified on December 1, 2015. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Who can use cookies on Tradera's website?
+ANSWER: Tradera or service providers who they have approved can use cookies on Tradera's website. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What measures does Tradera use to prevent unauthorized processing of personal data?
+ANSWER: Tradera uses physical, technical, and organizational security measures relating to the amount and sensitivity of personal data to prevent unauthorized processing, such as unauthorized access and use, loss, deletion, or damage to personal data collected through their cookies. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are session-based cookies?
+ANSWER: Session-based cookies are cookies and similar technologies that will only remain on a customer's device while their browser is active. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are persistent cookies?
+ANSWER: Persistent cookies are cookies and similar technologies that will remain on a customer's device for an extended period of time. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What is the purpose of cookies being used for marketing purposes?
+ANSWER: Cookies used for marketing purposes on Tradera's website are intended to direct personalized advertisements to customers. 
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/

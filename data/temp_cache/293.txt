@@ -1,0 +1,39 @@
+QUESTION: Vilka säkerhetsåtgärder används för att skydda användarens personuppgifter från obehörig behandling?
+ANSWER: Fysiska, tekniska och organisatoriska säkerhetsåtgärder används för att förhindra obehörig behandling, inklusive brandväggar, kryptering av data, inpasseringskontroll vid datacenters och behörighetskontroller.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kan man begära avslutande av sitt konto och radering av personuppgifter?
+ANSWER: Ja, användare kan begära avslutande av sitt konto och radering av personuppgifter och dessa kommer tas bort så att de inte visas för andra användare.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas eller anonymiseras?
+ANSWER: Vanligtvis kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas eller anonymiseras så snart som möjligt efter det att kontot har stängts eller inaktiverats.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vad händer om konton inte används eller används i strid med Traderas användaravtal?
+ANSWER: Tradera kan stänga eller inaktivera konton som inte används eller konton som används i strid med användaravtalet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka personuppgifter samlas in från användare på Tradera?
+ANSWER: Tradera samlar in personuppgifter som namn, adress, e-postadress, telefonnummer och betalningsinformation från användare för att kunna tillhandahålla tjänster på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur länge bevaras personuppgifter som är hänförliga till stängda konton eller konton som inte används?
+ANSWER: Tradera kan komma att bevara personuppgifter hänförliga till stängda eller inaktiva konton, men radering av uppgifter sker baserat på kontostatus och i enlighet med tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Vilka åtgärder vidtas vid obehörig åtkomst av personuppgifter?
+ANSWER: Fysiska, tekniska och organisatoriska säkerhetsåtgärder används för att förhindra obehörig behandling, inklusive obehörig åtkomst, tillägnande och användning av användarens personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Finns det några undantag när Tradera bevarar personuppgifter hänförliga till stängda eller inaktiva konton eller konton som inte används?
+ANSWER: Tradera kan bevara personuppgifter hänförliga till stängda eller inaktiva konton eller konton som inte används om de har ett berättigat affärsintresse och inte är förpliktigade att ta bort uppgifterna enligt lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Var kan jag läsa om Traderas integritetspolicy?
+ANSWER: Information om Traderas integritetspolicy kan hittas på deras "Säkerhetscenter" -sida.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/
+
+QUESTION: Hur använder Tradera personuppgifter som samlas in från användare?
+ANSWER: Tradera använder personuppgifter som samlas in från användare för att tillhandahålla tjänster på Tradera, för att kommunicera med användare och för att förhindra bedrägerier och överträdelser av användaravtalet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2018-2021/

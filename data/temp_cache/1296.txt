@@ -1,0 +1,39 @@
+QUESTION: Hur avslutar jag mitt användarkonto hos Tradera?
+ANSWER: Du kan avsluta ditt användarkonto hos Tradera genom att meddela det till Kundservice. Innan kontot avslutas måste du ha avslutat alla pågående försäljningar, budgivningar och köp och betalat alla utestående avgifter.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om jag inte avslutar mina pågående försäljningar, budgivningar och köp innan jag avslutar mitt Tradera-konto?
+ANSWER: Innan du avslutar ditt Tradera-konto, måste du ha avslutat alla pågående försäljningar, budgivningar och köp och betalat alla utestående avgifter. Annars har du inte rätt att lägga bud, köpa eller lista nya föremål för försäljning. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera begränsa, stänga eller säga upp användarkonton?
+ANSWER: Ja, Tradera kan begränsa, stänga eller säga upp användarkonton om användare orsakar problem eller risker för skadeståndsskyldighet, gör intrång i tredje mans rätt, agerar i strid med ändamålet med Användaravtalet eller Traderas policys eller kränker Traderas anställda eller användare.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vilka åtgärder kan Tradera vidta om användare orsakar problem eller risker för skadeståndsskyldighet?
+ANSWER: Om användare orsakar problem eller risker för skadeståndsskyldighet, kan Tradera begränsa, stänga eller säga upp användarkonton, begränsa eller förbjuda tillgång till och användning av Traderas tjänster, stoppa bud och ta bort annonser, fördröja eller ta bort innehåll som finns på webbplatsen, ta bort särskilda statusuppdateringar som hör till ett konto, minska eller ta bort rabatter och vidta tekniska samt rättsliga åtgärder för att hindra användare från att använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Var kan jag få hjälp om jag vill avsluta mitt Tradera-konto?
+ANSWER: Om du vill avsluta ditt Tradera-konto, kan du meddela det till Kundservice.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om jag agerar i strid med Traderas policys eller kränker deras anställda eller användare?
+ANSWER: Om du agerar i strid med Traderas policys eller kränker deras anställda eller användare, kan Tradera begränsa, stänga eller säga upp ditt användarkonto, begränsa eller förbjuda tillgång till och användning av Traderas tjänster och vidta tekniska samt rättsliga åtgärder för att stoppa dig från att använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera ta bort innehåll som finns på webbplatsen?
+ANSWER: Ja, Tradera kan ta bort innehåll som finns på webbplatsen om det bryter mot Traderas policys eller om Tradera anser att användaren agerar i strid med ändamålet med Användaravtalet eller Traderas policys eller kränker Traderas anställda eller användare.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera reducera eller ta bort rabatter för användare som orsakar problem eller risker för skadeståndsskyldighet?
+ANSWER: Ja, Tradera kan reducera eller ta bort rabatter för användare som orsakar problem eller risker för skadeståndsskyldighet eller som agerar i strid med Traderas policys eller kränker Traderas anställda eller användare.
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Kan Tradera begränsa eller förbjuda tillgång till och användning av sina tjänster?
+ANSWER: Ja, Tradera kan begränsa eller förbjuda tillgång till och användning av sina tjänster om användare orsakar problem eller risker för skadeståndsskyldighet, gör intrång i tredje mans rätt, agerar i strid med ändamålet med Användaravtalet eller Traderas policys eller kränker Traderas anställda eller användare. 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad händer om jag gör intrång i tredje mans rätt som Tradera användare?
+ANSWER: Om du som Tradera-användare gör intrång i tredje mans rätt, kan Tradera begränsa, stänga eller säga upp ditt användarkonto, begränsa eller förbjuda tillgång till och användning av Traderas tjänster och vidta tekniska samt rättsliga åtgärder för att stoppa dig från att använda Traderas tjänster.
+URL: https://info.tradera.com/anvandaravtal/

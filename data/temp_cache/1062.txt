@@ -1,0 +1,39 @@
+QUESTION: Hvad er Bilprovningen?
+ANSWER: Bilprovningen er en svensk myndighed, som er ansvarlig for at udstede køretøjscertifikater i overensstemmelse med svenske love og reguleringer. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke dokumenter skal sælgeren angive i forbindelse med et salg af et køretøj?
+ANSWER: Sælgeren skal angive hvilken dokumentation, såsom certifikater, der indgår i salget i overensstemmelse med svenske love og reguleringer. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er de svenske love og reguleringer vedrørende bilinspektion af køretøjer?
+ANSWER: De svenske love og reguleringer kræver, at køretøjer bliver godkendt af myndighederne for at blive registreret og kørt på vejene i Sverige. Bilinspektion er en af kravene for at køretøjet kan blive godkendt. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvilke krav er der til annoncer for køretøjer på Tradera?
+ANSWER: Annocen for et køretøj må ikke være skrevet på en måde, der antyder, at køretøjet er lovligt at køre i uden inspektion, når køretøjs-reservedelen er blevet installeret. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvad er tidsplanen for, hvornår køretøjer skal inspiceres?
+ANSWER: Der er ingen fast tidsplan for, hvornår køretøjer skal inspiceres i henhold til svenske love og reguleringer. Når køretøjet skal inspiceres påvirkes af forskellige faktorer, såsom bilens alder, køretøjets kategori og anvendelsesområde. 
+URL: https://info.tradera.com/da/other-rules/
+
+QUESTION: Hvem kan sælge på Tradera?
+ANSWER: Både privatpersoner og virksomheder kan sælge på Tradera. 
+URL: https://info.tradera.com/da/sell/
+
+QUESTION: Hvordan fungerer fragtberegneren på Tradera?
+ANSWER: Fragtberegneren på Tradera udregner priser på forsendelser baseret på fragtvægt, modtageradresse og antallet af stykker.  
+URL: https://info.tradera.com/da/shipping-calculator/
+
+QUESTION: Hvilke kategorier kan man finde på Tradera?
+ANSWER: På Tradera kan man finde forskellige kategorier, såsom bil, motorcykel, computer og elektronik, tøj og tilbehør, sport og fritidsaktiviteter, møbler og dekoration, og mange andre kategorier. 
+URL: https://www.tradera.com/
+
+QUESTION: Hvor kan jeg finde varemærker på Tradera?
+ANSWER: Du kan finde populære varemærker ved at søge på Tradera eller gennemse kategorierne på hjemmesiden.  
+URL: https://www.tradera.com/
+
+QUESTION: Hvor kan jeg kontakte Traderas kundeservice?
+ANSWER: Du kan kontakte Traderas kundeservice gennem forbindelsen til Kontakt & Hjælp på Traderas hjemmeside.  
+URL: https://www.tradera.com/

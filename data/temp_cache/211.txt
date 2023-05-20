@@ -1,0 +1,39 @@
+QUESTION: Varför är det viktigt att ha ett säkert lösenord för sitt Tradera-konto?
+ANSWER: Det är viktigt att ha ett säkert lösenord för sitt Tradera-konto för att skydda sig från att någon obehörig får tillgång till kontot.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Hur många tecken bör ett säkert lösenord på Tradera bestå av?
+ANSWER: Ett säkert lösenord på Tradera bör bestå av minst 8-12 tecken.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Vilka slags tecken bör ett säkert lösenord på Tradera innehålla?
+ANSWER: Ett säkert lösenord på Tradera bör innehålla både siffror, stora och små bokstäver, samt gärna tecken som exempelvis %, &, # och ?.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Vad ska man undvika att inkludera i sitt Tradera-lösenord?
+ANSWER: Man ska undvika att inkludera personlig information såsom namn eller födelsedatum, samt undvika att använda sitt alias som lösenord på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Varför bör man undvika att använda samma eller liknande lösenord på flera sajter?
+ANSWER: Man bör undvika att använda samma eller liknande lösenord på flera sajter på grund av att bedragare då har lättare att få tillgång till många av dina lösenordsskyddade konton.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Hur kan man ta fram ett lösenord som både är säkert och lätt att komma ihåg?
+ANSWER: En enkel metod för att ta fram ett lösenord som är både säkert och lätt att komma ihåg är att använda sig av exempelvis en fras som man själv lätt kan komma ihåg och sedan ta den första bokstaven i varje ord och kombinera dem med siffror eller tecken.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Vilken var Traderas gamla slogan och hur kan man använda den för att ta fram ett säkert lösenord?
+ANSWER: Traderas gamla slogan lyder: "En lyckad auktion har två vinnare". Man kan använda den genom att ta den första bokstaven i varje ord och kombinera dem med siffror eller tecken, vilket resulterar i exempelvis lösenordet Tgsl:1lah2v.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Vilka är några tips för att välja ett säkert lösenord för sitt Tradera-konto?
+ANSWER: Några tips för att välja ett säkert lösenord för sitt Tradera-konto är att använda minst 8-12 tecken, inkludera både siffror, stora och små bokstäver samt gärna tecken som exempelvis %, &, # och ?, undvika personlig information, undvika att använda samma eller liknande lösenord på andra sajter och använda en enkel metod om man har svårt att komma på ett säkert lösenord.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Kan man använda sitt namn eller födelsedatum som lösenord på Tradera?
+ANSWER: Nej, man bör inte använda sitt namn eller födelsedatum som lösenord på Tradera eftersom det är personlig information som är lätt för någon annan att gissa sig till.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/
+
+QUESTION: Vad ska man göra om man misstänker att någon obehörig har tillgång till ens Tradera-konto?
+ANSWER: Om man misstänker att någon obehörig har tillgång till ens Tradera-konto bör man omedelbart byta lösenordet och kontakta kundtjänst för Tradera för att få hjälp med att säkra kontot.
+URL: https://info.tradera.com/sakerhetscenter/sakra-losenord/

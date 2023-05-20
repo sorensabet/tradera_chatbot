@@ -1,0 +1,39 @@
+QUESTION: Vilket tvistlösningssystem tillhandahåller Tradera?
+ANSWER: Tradera tillhandahåller ett tvistlösningssystem som användarna kan använda vid meningsskiljaktigheter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken kommunikationsplattform ska användas vid tvistlösning?
+ANSWER: Kommunikationen om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken är tidsgränsen för att börja ett tvistlösningsförfarande?
+ANSWER: Ett tvistlösningsförfarande måste inledas i Mitt Tradera inom 30 dagar från det att köpet genomfördes.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur länge har köparen och säljaren på sig att försöka hitta en lösning på tvisten?
+ANSWER: Köpare och Säljare har tio (10) dagar från att tvistlösningsförfarandet inleddes för att försöka hitta en lösning på problemet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Köparen inte eskalerar tvisten till Tradera inom tio dagar?
+ANSWER: Om Köparen inte eskalerar tvisten till Tradera inom tio (10) dagar från att tvistlösningsförfarandet inleddes så kommer tvistlösningsförfarandet automatiskt avslutas till Säljarens fördel.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad gör Tradera när en tvist eskaleras till dem?
+ANSWER: När en tvist eskaleras till Tradera så kontaktar Tradera både Köpare och Säljare för att skaffa sig en uppfattning om vad som har hänt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka är orsakerna bakom en meningsskiljaktighet mellan köparen och säljaren?
+ANSWER: En meningsskiljaktighet kan exempelvis bero på att Köparen inte fått leverans av en betald vara eller att den levererade varan enligt Köparen skiljer sig väsentligt från Säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är första steget vid tvistlösning mellan köparen och säljaren?
+ANSWER: Efter att ett tvistlösningsförfarande har inletts ska Köpare och Säljare först kommunicera med varandra genom Traderas tvistlösningssystem för att försöka hitta en lösning på problemet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken person kan eskalera tvisten till Tradera?
+ANSWER: Köparen kan eskalera tvisten till Tradera om Köparen och Säljaren inte kommer fram till en lösning inom tio (10) dagar från att tvistlösningsförfarandet inleddes.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om Köparen och Säljaren kommer fram till en lösning efter tio dagar?
+ANSWER: Om Köpare och Säljare kommer fram till en lösning inom tio (10) dagar från att tvistlösningsförfarandet inleddes, så behöver Köparen inte eskalera tvisten till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

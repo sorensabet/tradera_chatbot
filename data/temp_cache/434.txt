@@ -1,0 +1,39 @@
+QUESTION: Hvilke forholdsregler skal man tage for at beskytte sig mod svindel på Tradera?
+ANSWER: Selv om der er øget sikkerhed på Tradera, skal man stadig beskytte sig selv ved at være forsigtig med sine personlige koder, adgangskoder og MitID. Man bør være forsigtig med at give sine personlige oplysninger videre til uautoriserede personer.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Hvordan kan en svindler forsøge at narre en til at give sine personlige oplysninger på Tradera?
+ANSWER: En svindler kan prøve at kontakte en med falske e-mailbeskeder eller SMS-koder for at narre en til at give personlige oplysninger og adgangskoder.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Hvilke betalingsmetoder kan sælgerne bruge på Tradera?
+ANSWER: Sælgere på Tradera kan bruge integrerede betalingsmetoder som Traderabetaling, eller betalingsmetoder som bankoverførsel eller Swish. Hvis man bruger Swish-betalinger, vil Tradera nogle gange automatisk udfylde betalingsoplysningerne.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Kan sælgere på Tradera kontakte kunderne for at få dem til at betale?
+ANSWER: Nej, hvis man er en sælger på Tradera med en integreret betalingsmetode som Traderabetaling, behøver man aldrig at kontakte kunden, før vedkommende kan betale. Tradera giver automatisk kunden mulighed for at betale via hjemmesiden. Hvis man sælger med en betalingsmetode som bankoverførsel eller Swish, behøver man kun at give betalingsoplysningerne til kunden.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Hvilken type integration har Tradera med bankoverførsler?
+ANSWER: Tradera har en integration med bankoverførsler, hvor sælgerne kan give deres betalingsoplysninger til kunderne, som derefter kan foretage betalingen uden for Tradera.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Vil Tradera nogensinde bede om min adgangskode?
+ANSWER: Nej, Tradera vil aldrig bede om ens adgangskode. Hvis man giver sin adgangskode eller en SMS-kode til en uautoriseret person, er der en risiko for, at svindlere vil forsøge at få adgang til ens konto eller personlige oplysninger. 
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Hvad er MitID, og hvorfor skal man beskytte det?
+ANSWER: MitID er en personlig id-kodeløsning, som giver sikker adgang til forskellige offentlige digitale tjenester i Sverige. Man skal beskytte MitID for at undgå, at svindlere og uautoriserede personer får adgang til ens personlige oplysninger.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Er der en integritetspolitik for Tradera?
+ANSWER: Ja, Tradera har en integritetspolitik, som beskriver, hvordan ens personlige oplysninger vil blive behandlet. 
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Er det sikkert at bruge cookies på Tradera?
+ANSWER: Ja, det er sikkert at bruge cookies på Tradera. Cookies bruges til at forbedre hjemmesidens funktionalitet og give brugerne en bedre oplevelse.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION: Hvordan kan man forhindre falske e-mailbeskeder?
+ANSWER: Man kan forhindre falske e-mailbeskeder ved at være opmærksom på afsenderadressen og indholdet af beskeden. Hvis noget virker mistænkeligt eller beder om personlige oplysninger, skal man ikke klikke på nogen links og kontakte Traderas kundeservice for at undersøge beskeden.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/

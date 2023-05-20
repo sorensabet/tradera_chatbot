@@ -1,0 +1,39 @@
+QUESTION: Hur lägger jag till mitt kontonummer och Swish-nummer?
+ANSWER: Du kan lägga till ditt Swishnummer och kontonummer/Paypal-konto genom att gå in på "Utbetalningar" i "Mitt Tradera", skriva in dina uppgifter och spara dem med BankID.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Hur och var lägger jag in mitt kontonummer/Paypal-konto och Swish-nummer för Tradera utbetalningar?
+ANSWER: Du kan lägga till ditt kontonummer/Paypal-konto och Swish-nummer genom att gå till fliken "Utbetalningar" i "Mitt Tradera" och skriva in uppgifterna.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad ska jag lägga till för att Tradera ska kunna genomföra utbetalningar till mig?
+ANSWER: För att Tradera ska kunna genomföra utbetalningar till dig behöver du lägga till ditt kontonummer/Paypal-konto och Swish-nummer.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jag lägga till mitt kontonummer/Paypal-konto och Swish-nummer på Tradera om jag inte bor i Sverige?
+ANSWER: Ja, även om du inte bor i Sverige kan du lägga till ditt kontonummer/Paypal-konto och Swish-nummer på Tradera. Klicka på "Klicka här" på sidan för att komma till Traderas guide för internationella konton.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Kan jag lägga till mitt kontonummer och Paypal-konto separat?
+ANSWER: Nej, du kan bara lägga till ett kontonummer eller Paypal-konto. 
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Måste jag lägga till ett Swish-nummer för att kunna få Traderas utbetalningar?
+ANSWER: Nej, du behöver inte lägga till ett Swish-nummer för att kunna få Traderas utbetalningar.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vad gör jag om jag inte kan mitt kontonummer utantill när jag ska lägga till det på Tradera?
+ANSWER: Om du inte har ditt kontonummer tillgängligt kan du använda tjänsten Tink för att importera det till Tradera. Du hittar Tink-knappen på Traderas sida för att lägga till ditt kontonummer/Paypal-konto.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilken typ av betalningsinformation måste jag lägga till på Tradera?
+ANSWER: För att Tradera ska kunna genomföra utbetalningar till dig behöver du lägga till ditt kontonummer/Paypal-konto och Swish-nummer.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Vilka är fördelarna med att lägga till mitt Paypal-konto på Tradera?
+ANSWER: Fördelarna med att lägga till ditt Paypal-konto på Tradera är att du kan ta emot snabba och enkla betalningar från köpare över hela världen.
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/
+
+QUESTION: Var kan jag hitta vanliga frågor och svar om Traderas betalningsfunktion?
+ANSWER: Du kan hitta vanliga frågor och svar om Traderas betalningsfunktion på Traderas webbsida under sektionen "Vanliga frågor och svar".
+URL: https://info.tradera.com/traderabetalning/aktivera-traderabetalning/

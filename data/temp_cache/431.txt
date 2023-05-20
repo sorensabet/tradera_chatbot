@@ -1,0 +1,39 @@
+QUESTION: Hvordan fungerer køb på Tradera?
+ANSWER: Køb på Tradera fungerer anderledes end typiske former for onlineshopping, da de fleste køb på Tradera er fra en anden person og ikke en virksomhed. Tradera har udarbejdet en guide for at forklare, hvordan køb og betalinger fungerer. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvad er Traderabetaling?
+ANSWER: Traderabetaling er navnet på Traderas integrerede betalingsmuligheder. De fleste sælgere på Tradera bruger Traderabetaling til at modtage betalinger for solgte varer. Betalingsmulighederne inkluderer kreditkort, PayPal og Paynova (kun for svenske brugere). 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvornår er Traderas køberbeskyttelse tilgængelig?
+ANSWER: Traderas køberbeskyttelse er på nuværende tidspunkt kun tilgængelig, når du betaler med Paynova. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvordan kan jeg ændre min leveringsadresse?
+ANSWER: Hvis du vil have din vare sendt til en anden adresse, skal du klikke på "Mit Tradera" og opdatere din leveringsadresse, før forsendelsen bliver booket. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvordan får jeg kontakt med sælgeren, hvis jeg har købt flere varer fra den samme sælger?
+ANSWER: Hvis du har købt flere varer fra den samme sælger, er det altid en god idé at kontakte sælgeren for at høre, om der er mulighed for en samlet forsendelse.
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvilke betalingsmuligheder er inkluderet i Traderabetaling?
+ANSWER: Kreditkort, PayPal og Paynova (kun for svenske brugere) er de betalingsmuligheder, der er en del af Traderabetaling. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvornår bliver mine forsendelsesoplysninger sendt til sælgeren?
+ANSWER: Når du vinder en auktion eller køber en vare, sender Tradera automatisk dine forsendelsesoplysninger til sælgeren. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvor kan jeg læse mere om Traderas køberbeskyttelse?
+ANSWER: Du kan læse mere om Traderas køberbeskyttelse ved at følge det givne link. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvordan kan jeg betale på Tradera?
+ANSWER: De fleste sælgere på Tradera bruger Traderabetaling, som er Traderas integrerede betalingsmuligheder, til at modtage betalinger for solgte varer. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg har vundet en auktion på Tradera?
+ANSWER: Hvis du har vundet en auktion på Tradera, skal du betale for varen inden for den angivne tid, og derefter kan du arrangere forsendelsen med sælgeren. 
+URL: https://info.tradera.com/da/shoppa-2/vunnit-auktion-kopt-vara-2/

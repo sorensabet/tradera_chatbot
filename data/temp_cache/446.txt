@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med cookies på Tradera's webbplats? 
+ANSWER: Syftet med cookies på Tradera's webbplats är att de är nödvändiga för att Tradera ska fungera korrekt, för att Tradera ska kunna mäta användarupplevelsen, för att ge utökad funktionalitet och användaranpassning och även att tillåta annonseringspartners att visa riktade annonser till användare.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 2: Vad är de olika typerna av cookies på Tradera's webbplats?
+ANSWER: De olika typerna av cookies på Tradera's webbplats är nödvändiga, prestanda, funktionella och marknadsföringscookies.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 3: Kan användare stänga av nödvändiga cookies på Tradera's webbplats?
+ANSWER: Nej, nödvändiga cookies på Tradera's webbplats kan inte stängas av eftersom de är nödvändiga för att Tradera ska fungera korrekt.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 4: Vad är syftet med prestandacookies på Tradera's webbplats?
+ANSWER: Syftet med prestandacookies på Tradera's webbplats är att ge Tradera möjlighet att anonymt mäta hur Tradera används av användarna så att Tradera kan förbättra användarupplevelsen.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 5: Vad är syftet med funktionella cookies på Tradera's webbplats?
+ANSWER: Syftet med funktionella cookies på Tradera's webbplats är att ge användare utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 6: Kan användare stänga av prestanda- och funktionella cookies på Tradera's webbplats?
+ANSWER: Ja, användare kan stänga av prestanda och funktionella cookies på Tradera's webbplats genom att ändra sina cookieinställningar.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 7: Vad är syftet med marknadsföringscookies på Tradera's webbplats?
+ANSWER: Syftet med marknadsföringscookies på Tradera's webbplats är att annonseringspartners ska kunna visa användare riktade annonser som är relevanta för dem.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 8: Kan användare stänga av marknadsföringscookies på Tradera's webbplats?
+ANSWER: Ja, användare kan stänga av marknadsföringscookies på Tradera's webbplats genom att ändra sina cookieinställningar.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 9: Varför är det viktigt att ha inställningar för cookies på Tradera?
+ANSWER: Det är viktigt att ha inställningar för cookies på Tradera eftersom det gör att användare kan anpassa Tradera-upplevelsen till sina egna behov och önskemål och också dra nytta av cookies som krävs.
+URL: https://info.tradera.com/da/kom-igang/
+
+QUESTION 10: Kan användare ändra sina inställningar för cookies på Tradera's webbplats?
+ANSWER: Ja, användare kan ändra sina inställningar för cookies på Tradera's webbplats genom att gå till menyn "Cookieinställningar" längst ned på Traderas webbplats och välja de inställningar de föredrar.
+URL: https://info.tradera.com/da/kom-igang/

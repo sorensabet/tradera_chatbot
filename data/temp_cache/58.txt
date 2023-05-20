@@ -1,0 +1,39 @@
+QUESTION: How do I register a PayPal account for Tradera?
+ANSWER: To register a PayPal account for Tradera, you need to visit the PayPal registration page and sign up for a PayPal account. The email address for your Tradera account needs to be the same as your PayPal email address as well as the name and address.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: What do I need to know about the PayPal verification process?
+ANSWER: You are charged about $1.50 for the verification process and then a PayPal code is generated and processed to your bank account which you will be able to view on your online statement, usually instantly. Once you get the code, you are prompted to log into PayPal and enter the code, which then in turn verifies your account and then you get your $1.50 back.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: Can Tradera create a PayPal account for me?
+ANSWER: No, Tradera cannot create a PayPal account for you. To create a PayPal account for your Tradera account, you need to follow the steps outlined on the Tradera information page for PayPal registration.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: How do I proceed if I already have a verified PayPal account?
+ANSWER: If you already have a verified PayPal account, you can contact Tradera's Customer Service by chat and they will be able to help you get started.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: What is the cost of the PayPal verification process?
+ANSWER: You are charged about $1.50 for the PayPal verification process. Once you enter the code generated and processed to your bank account, you will get your $1.50 back.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: How do I ensure my email address is the same for both my Tradera and PayPal account?
+ANSWER: To ensure your email address is the same for both your Tradera and PayPal account, you need to make sure to use the same email address for both accounts during the PayPal registration process. Additionally, the name and address associated with each account should match.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: Can I create a Tradera account without a PayPal account?
+ANSWER: No, you need to create a PayPal account to register for a Tradera account.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: How many businesses and shoppers use PayPal worldwide?
+ANSWER: PayPal is used by 7 million businesses and 169 million shoppers worldwide.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: What is the purpose of the PayPal registration page provided by Tradera?
+ANSWER: The PayPal registration page provided by Tradera is meant to guide users through the process of creating a PayPal account which is required to create a Tradera account.
+URL: https://info.tradera.com/register-as-a-foreigner/
+
+QUESTION: How can I access more instructions concerning the PayPal verification process?
+ANSWER: To access more instructions concerning the PayPal verification process, you need to access the Tradera information page on the PayPal verification process.
+URL: https://info.tradera.com/register-as-a-foreigner/

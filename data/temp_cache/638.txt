@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av länkar får man lägga upp på Tradera?
+ANSWER: Man får länka till en blogg, Facebook eller annan sida där det inte sker någon försäljning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Får man sälja gamla kataloger på Tradera?
+ANSWER: Ja, man får sälja gamla kataloger och kataloger med samlarvärde på Tradera så länge rubrik eller beskrivning inte innehåller några varumärken ur katalogen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vilka böcker får man sälja på Tradera?
+ANSWER: Böcker som innehåller förteckningar och information får säljas på Tradera, förutsatt att böckerna har ett ISBN-nummer och att de läggs upp i den relevanta kategorin för böcker.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Finns det några guider om hur man handlar på Tradera?
+ANSWER: Ja, det finns en guide på Traderas sida som förklarar hur man handlar på Tradera.
+URL: https://www.tradera.com/help/buying-on-tradera
+
+QUESTION: Vilka populära varumärken kan du hitta på Tradera?
+ANSWER: På Tradera kan du hitta populära varumärken som IKEA, Apple, H&M, Acne Studios och många fler.
+URL: https://www.tradera.com/
+
+QUESTION: Vilken typ av frakt erbjuder Tradera?
+ANSWER: Tradera erbjuder Grön frakt, vilket innebär att de samarbetar med fraktbolag som tar hänsyn till miljön.
+URL: https://www.tradera.com/green-shipping
+
+QUESTION: Kan företag sälja på Tradera?
+ANSWER: Ja, företag kan sälja på Tradera. 
+URL: https://www.tradera.com/help/selling-on-tradera
+
+QUESTION: Vilken typ av fraktkostnad kan man få för en Tradera-order?
+ANSWER: För att beräkna fraktkostnaden för en Tradera-order kan man använda fraktkalkylatorn som finns på Traderas sida.
+URL: https://www.tradera.com/shipping-costs
+
+QUESTION: Hur donerar man pengar till välgörenhet med Tradera?
+ANSWER: Man kan donera pengar till en valfri organisation genom att sälja en produkt och skänka allt eller en del av försäljningsintäkterna till välgörenhet på Tradera.
+URL: https://www.tradera.com/tradera-donations
+
+QUESTION: Finns det en integritetspolicy för Tradera?
+ANSWER: Ja, det finns en integritetspolicy som beskriver hur Tradera samlar in och hanterar personuppgifter.
+URL: https://www.tradera.com/privacy-policy

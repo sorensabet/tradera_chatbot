@@ -1,0 +1,39 @@
+QUESTION: Vilka används de nödvändiga cookies för på Tradera?
+ANSWER: De nödvändiga cookies används för att Tradera ska fungera ordentligt.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vad används prestandacookiesen för på Tradera?
+ANSWER: Prestandacookiesen används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av webbplatsen med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Var kan jag hitta information om cookies på Tradera?
+ANSWER: Du kan hitta information om cookies på Tradera genom att klicka på "Information om cookies" längst ned på deras hemsida.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vilka cookies kan stängas av på Tradera?
+ANSWER: Tyvärr kan inga cookies stängas av på Tradera då alla cookies är nödvändiga för att Tradera ska fungera.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vilka cookies används av Traderas annonspartners?
+ANSWER: Annonspartners använder marknadsföringscookies för att rikta annonser som är relevanta för dig.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vad är användaravtalen på Tradera?
+ANSWER: Användaravtalen på Tradera är villkoren för att använda Tradera och alla dess tillhörande tjänster.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Var kan jag hitta Traderas användaravtal?
+ANSWER: Du kan hitta Traderas användaravtal genom att klicka på "Användaravtal" längst ned på Traderas hemsida.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Vad är integritetspolicyn på Tradera?
+ANSWER: Integritetspolicyn på Tradera är reglerna för hur Tradera behandlar personuppgifter.
+URL: https://info.tradera.com/lamna-omdome/
+
+QUESTION: Var kan jag hitta Traderas integritetspolicy?
+ANSWER: Du kan hitta Traderas integritetspolicy genom att klicka på "Integritetspolicy" längst ned på Traderas hemsida.
+URL: https://info.tradera.com/lamna-omdome/

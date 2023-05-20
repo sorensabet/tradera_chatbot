@@ -1,0 +1,39 @@
+QUESTION: What happens if a complaint cannot be solved through Tradera's internal complaint-handling system?
+ANSWER: If a complaint cannot be resolved through Tradera's internal complaint-handling system, the third-line support function will be involved to finally resolve the dispute. Tradera is also willing to engage lawyers to attempt to reach an agreement with business users on the settlement of any disputes arising in relation to the provision of the Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can users make requests to resolve disputes through mediation or arbitration?
+ANSWER: Yes, Tradera will consider reasonable requests to resolve disputes by way of alternative dispute resolution methods, such as mediation or arbitration.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Which lawyers will Tradera engage to attempt to reach an agreement with business users on the settlement of disputes?
+ANSWER: Tradera is willing to engage the lawyers Anders Arthur or Fredrik Norburg to attempt to reach an agreement with business users on the settlement of any disputes arising in relation to the provision of the Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Which law applies to all claims, disputes or other issues arising from this User Agreement?
+ANSWER: Swedish law shall apply to all claims, disputes or other issues arising from this User Agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Where will disputes be resolved for customers who are not consumers?
+ANSWER: Disputes shall be resolved by a Swedish court of general jurisdiction and, for customers who are not consumers, with the Stockholm District Court as the court of first instance.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What happens if a provision of the User Agreement is held to be invalid?
+ANSWER: If any provision of the User Agreement (or part thereof) is held to be invalid, such provision shall be considered struck out and the other provisions of the User Agreement shall remain in full force and effect.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does Tradera have the right to transfer its rights and obligations under the User Agreement without the user's prior express consent?
+ANSWER: Yes, Tradera has the right to transfer its rights and obligations under the User Agreement without the user's prior express consent, provided that the transfer is on the same terms or on terms which are no less favourable to the user.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are the headings in the User Agreement for?
+ANSWER: The headings in the User Agreement are for convenience of reference only and shall not affect or limit the content of the provisions.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: If Tradera refrains from taking action when there is a breach of contract, does that mean they waive their rights to take action in connection with other or similar breaches of contract?
+ANSWER: No, if Tradera refrains from taking action when there is a breach of contract, it does not entail that they waive their rights to take action in connection with other or similar breaches of contract. They do not provide any undertaking that they will take action for all breaches of this User Agreement.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What should users do if they have a dispute with third parties or other users of the Services?
+ANSWER: If users have a dispute regarding services provided by third parties via Tradera's sites or with one or more users of the Services, they will indemnify and hold Tradera (and its parent, subsidiaries, affiliates) harmless.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

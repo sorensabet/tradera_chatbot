@@ -1,0 +1,39 @@
+QUESTION: Vilka företag omfattas av ansvarsbegränsningen i Traderas användaravtal?
+ANSWER: Traderas moderbolag, dotterbolag, andra närstående bolag, företrädare, tjänstemän, ombud och anställda omfattas av ansvarsbegränsningen enligt användaravtalet.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad är man som användare skyldig att ansvara för enligt Traderas användaravtal?
+ANSWER: Användare av Traderas tjänst är skyldiga att hålla sig till användaravtalets regler och ansvara för eventuella kostnader som kan uppstå genom användningen av tjänsten.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad kan Tradera inte hållas ansvariga för enligt användaravtalet?
+ANSWER: Tradera kan inte hållas ansvariga för indirekta skador som orsakas av bland annat användningen av tjänsten, prissättning, virus eller annan skadlig mjukvara som sprids genom att koppla upp sig mot tjänsten, tredje mans innehåll eller agerande, avstängning eller annan åtgärd som vidtas rörande användarens konto eller brott mot avsnittet Missbruk av Tradera.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad är användaren skyldig att informera Tradera om gällande användaravtalet?
+ANSWER: Användaren är skyldig att informera Tradera om eventuella förändringar i användaravtalet, särskilt om det gäller personuppgifter eller betalningsinformation.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om man bryter mot något av reglerna i Traderas användaravtal?
+ANSWER: Om man bryter mot något av reglerna i Traderas användaravtal kan ens konto stängas av eller andra åtgärder vidtas. I vissa fall kan man även bli åtalad för brott enligt svensk lag.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad görs med användarens personuppgifter enligt användaravtalet?
+ANSWER: Användarens personuppgifter används främst för att kunna tillhandahålla Traderas tjänster och följa lagstadgade krav på bokföring. Uppgifterna kan även användas för marknadsföring och statistiska ändamål.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vilken information delas Tradera med tredje part enligt användaravtalet?
+ANSWER: Tradera delar endast information med tredje part om det är nödvändigt för att kunna tillhandahålla tjänsten eller om det krävs enligt lag. Annars delas ingen information med tredje part utan användarens samtycke.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vilken åldersgräns gäller för att använda Traderas tjänster enligt användaravtalet?
+ANSWER: Användare av Traderas tjänster ska vara minst 18 år gamla eller ha föräldrarnas eller vårdnadshavarnas tillstånd för att använda tjänsten.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Vad händer om man inte kan genomföra en affär efter en vunnen auktion på Tradera?
+ANSWER: Om man inte kan genomföra en affär efter att ha vunnit en auktion på Tradera kan man bli avstängd från tjänsten och bli skyldig att betala en avgift till Tradera.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/
+
+QUESTION: Hur kan användare av Traderas tjänster kontakta Traderas support?
+ANSWER: Användare av Traderas tjänster kan kontakta Traderas support via e-post eller genom att använda formuläret på Traderas hemsida.
+URL: https://info.tradera.com/anvandaravtal-2014-2019/

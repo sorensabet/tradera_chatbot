@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med betalningsvillkoren hos Tradera?
+ANSWER: Syftet med betalningsvillkoren hos Tradera är att reglera hur betalningar ska betalas, hur sena betalningar hanteras, vilka kostnader som får dras av, och vilka betalsätt som accepteras på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka kostnader kan Tradera dra av från Säljarens betalning?
+ANSWER: Tradera kan dra av försäljningskostnader, Återbetalningsskyldigt belopp och avgifter som överenskommits mellan Säljaren och Tradera enligt separat avtal från Säljarens betalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad händer om Säljaren inte ger korrekta betalningsuppgifter till Tradera?
+ANSWER: Om Säljaren inte ger korrekta betalningsuppgifter till Tradera kommer Tradera inte att kunna betala Säljaren. Tradera kommer att kontakta Säljaren för att begära den utestående informationen. När Tradera väl har fått den information som krävs för att genomföra betalning kommer Säljaren som huvudregel att få betalt inom två (2) bankdagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka betalsätt kan Köpare använda på Tradera?
+ANSWER: Köpare kan använda olika betalsätt på Tradera, inklusive Swish, banköverföring, samt betalning med kredit-/betalningskort via Stripe.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Hur fungerar Swish-betalningar på Tradera?
+ANSWER: När en Köpare vill betala med Swish på Tradera, går betalningen direkt från Köparens konto till Säljarens konto. Traderas betallösning underlättar transaktionen genom att fylla i Säljarens telefonnummer.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Återbetalningsskyldigt belopp hos Tradera?
+ANSWER: Återbetalningsskyldigt belopp hos Tradera kan uppstå när en köpare har betalat för en vara, men Säljaren inte uppfyller sina skyldigheter. Till exempel om en Köpare aldrig får varan eller om varan är falsk eller defekt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Tradera hålla betalning om det finns misstanke om att Säljaren inte kommer att fullgöra sina åtaganden?
+ANSWER: Ja, Tradera kan hålla betalning om det finns misstanke om att Säljaren inte kommer att fullgöra sina åtaganden.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken skyldighet har Säljaren när en Köpare har erlagt betalning?
+ANSWER: Säljaren är skyldig att omedelbart efter att Tradera bekräftat att Köparen har erlagt betalning, i enlighet med vad som beskrivs i mer detalj nedan under beskrivningen av respektive betalsätt, skicka varan till Köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka två (2) bankdagar måste Säljaren vänta på betalning från Tradera?
+ANSWER: Som huvudregel kommer Säljaren att få betalt inom två (2) bankdagar efter att Tradera har fått den information som krävs för att genomföra betalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Säljaren och Tradera ingå avtal om avgifter som får dras av från betalningar?
+ANSWER: Ja, Säljaren och Tradera kan ingå avtal om avgifter som får dras av från Säljarens betalningar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

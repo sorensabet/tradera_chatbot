@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av information finns i "Information" -avsnittet på Traderas webbplats?
+ANSWER: Informationen om Traderas webbplats Brugeraftale, Fortrolighedspolitik och Cookies finns tillgängliga under "Information"-avsnittet på Traderas webbplats.
+URL: https://info.tradera.com/da/
+
+QUESTION: Kan jag sälja som företag genom Tradera?
+ANSWER: Ja, det finns en särskild sektion på webbplatsen för Erhvervssælgere som vänder sig till företagssäljare. Där kan företagssäljare sälja sina produkter.
+URL: https://info.tradera.com/da/saelg/saledsomvirksomhed
+
+QUESTION: Hur kan jag beräkna den totala kostnaden för mina inköp inklusive frakt från Tradera?
+ANSWER: Traderas Frakt beregner verktyg på webbplatsen hjälper dig att beräkna den totala kostnaden för inköpen inklusive fraktkostnaderna. Du behöver bara ange inköpspriset och leveransadressen för att få en uppskattning av den totala kostnaden.
+URL: https://www.tradera.com/frakt-berakna
+
+QUESTION: Är det möjligt att donera en del av min försäljning till välgörenhet på Tradera?
+ANSWER: Ja, Tradera har en Velgørenhed sektion på sin webbplats där du kan välja att donera en del av din försäljning till välgörenhet. Du kan välja från en lista med organisationer som stöds av Tradera.
+URL: https://www.tradera.com/velgoerende-formal
+
+QUESTION: Vilka populära varumärken finns på Tradera?
+ANSWER: Det finns en sektion på Traderas webbplats som heter Populære varemærker som listar de mest populära varumärkena bland Traderas försäljningsobjekt.
+URL: https://www.tradera.com/populaere-varemaerker
+
+QUESTION: Vilket socialt medium använder Tradera för annonsering och marknadsföring?
+ANSWER:Traderas annonseringspartners använder sig av sociala medier för marknadsföring, inklusive Facebook, Twitter, Pinterest och Instagram.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vilken typ av funktioner för sociala medier erbjuder Tradera?
+ANSWER: Utöver att erbjuda funktioner för delning via sociala medier erbjuder Tradera också funktioner för att logga in med ditt Facebook-konto.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hur kan jag kontakta kundtjänst på Tradera?
+ANSWER: Du kan kontakta Traderas kundtjänst genom att besöka Kontakt & Hjälp-sektionen på webbplatsen och skicka ett meddelande genom deras kontaktformulär eller genom att ringa deras kundtjänstnummer.
+URL: https://www.tradera.com/help/kontakt
+
+QUESTION: Vad är Traderas handelsvillkor?
+ANSWER: Traderas handelsvillkor listas under "Sikkerhed" och inkluderar information om betalning, leverans, reklamationer och returer. Det är viktigt att läsa och förstå handelsvillkoren innan du genomför någon transaktion på Tradera.
+URL: https://info.tradera.com/da/saerlige-vilkar-for-enkelte-varer/
+
+QUESTION: Var kan jag hitta vanliga frågor och svar (FAQ) om Tradera?
+ANSWER: En sektion på Traderas webbplats, Ofte stillede spørgsmål, innehåller svar på vanliga frågor om Tradera såsom hur man säljer, köper, betalar och hanterar reklamationer.
+URL: https://info.tradera.com/da/ofte-stillede-spoergsmaal/

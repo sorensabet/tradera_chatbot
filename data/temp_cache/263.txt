@@ -1,0 +1,39 @@
+QUESTION: Vad ska jag göra om jag har betalat via faktura och har frågor om affären? 
+ANSWER: Om du har betalat via faktura och har frågor om affären, kan du kontakta Tradera. De kan hjälpa dig med pågående eller avslutad tvist, återbetalning och andra frågor som rör säljare eller köpare. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Vart ska jag vända mig om jag har frågor om min faktura när jag har betalat via Paynova? 
+ANSWER: Vid frågor om fakturan som rör kreditupplysning, omfrågandekopia, ej godkänt fakturaköp, betalstatus, återbetalning eller för att avsluta delbetalning, ska du kontakta PayNova. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Kan jag logga in på mitt Paynova-konto för att göra ändringar i fakturan?  
+ANSWER: Ja, genom att logga in på ditt Paynova-konto kan du göra ändringar i fakturan som att se alla dina fakturor, göra om fakturan till delbetalning eller flytta fram förfallodatum. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Vad ska jag göra om jag inte är nöjd med en affär jag har gjort via Paynova? 
+ANSWER: Om affären inte har gått som tänkt, rekommenderar Paynova att man först kontaktar säljaren för att lösa ärendet. Om ni inte kan komma överens kan du starta en tvist. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Vad är köparskyddet och hur kan jag nyttja det?  
+ANSWER: Köparskyddet är en försäkring som ger köpare en extra trygghet när de handlar på faktura. Om affären inte går som tänkt och du inte kan komma överens med säljaren, kan du starta en tvist. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Hur loggar jag in på mitt Paynova-konto? 
+ANSWER: Du kan logga in på ditt Paynova-konto genom att gå till deras webbsida och ange ditt personnummer och verifiera dig med BankID. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Vilka frågor kan jag vända mig till Paynova med om jag har betalat via faktura? 
+ANSWER: Om du har betalat via faktura, kan du vända dig till Paynova för frågor gällande kreditupplysning, omfrågandekopia, ej godkänt fakturaköp, betalstatus, återbetalning eller om du vill avsluta delbetalning. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Hur kan jag hitta min faktura om jag har betalat med Paynova och vill se den? 
+ANSWER: Du kan hitta din faktura genom att logga in på Paynovas hemsida med ditt personnummer och verifiera dig med BankID. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Vilka tips och råd kan jag följa när jag handlar på faktura?  
+ANSWER: Information om tips och råd för att handla på faktura finns inte tillgängligt på denna sida. 
+URL: https://info.tradera.com/paynova/
+
+QUESTION: Hur kan jag starta en tvist om en affär jag har gjort via faktura?  
+ANSWER: Om du har betalat via faktura och affären inte har gått som tänkt eller du inte kan komma överens med säljaren, kan du starta en tvist. Läs mer om hur du gör det här. 
+URL: https://info.tradera.com/paynova/

@@ -1,0 +1,39 @@
+QUESTION: Vad är cookies och webb-beacons?
+ANSWER: Cookies och webb-beacons är tekniker som används för att lagra information om användare på webbplatser eller i tjänster, applikationer och verktyg. Dessa används bland annat för att identifiera användare, hantera personliga inställningar och visa riktad reklam.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad använder Tradera cookies och webb-beacons för?
+ANSWER: Tradera använder cookies och webb-beacons för att identifiera användare, hantera personliga inställningar, visa riktad reklam och sammanställa anonym statistik och analyser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka användare kan Tradera visa riktad reklam för?
+ANSWER: Tradera kan visa riktad reklam för användare som har uttryckt intresse för vissa typer av produkter eller som har klickat på annonser på Traderas eller tredje mans webbplatser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad innebär samarbetet mellan Tradera och andra företag eller tjänsteleverantörer?
+ANSWER: Samarbetet mellan Tradera och andra företag eller tjänsteleverantörer innebär att dessa företag eller tjänsteleverantörer kan placera tredje mans-cookies, webb-beacons och liknande teknik på Traderas webbplatser eller i deras tjänster, applikationer och verktyg för att lagra information, leverera innehåll och reklam samt sammanställa anonym statistik och analyser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan användare neka användning av cookies och webb-beacons på Traderas webbplatser?
+ANSWER: Ja, användare kan neka användning av cookies och webb-beacons på Traderas webbplatser genom att ändra inställningarna i sin webbläsare. Dock kan detta påverka funktionaliteten på webbplatsen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken typ av information kan lagras med hjälp av cookies och webb-beacons?
+ANSWER: Med hjälp av cookies och webb-beacons kan information som användares personliga inställningar, intressen och tidigare visade föremål lagras. Denna information används för att förbättra hur innehållet presenteras på Traderas webbplatser och för att visa riktad reklam.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilket syfte har användning av cookies och webb-beacons på Traderas webbplatser?
+ANSWER: Syftet med användning av cookies och webb-beacons på Traderas webbplatser är att förbättra användarens upplevelse genom att hantera personliga inställningar och visa relevant innehåll och annonser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan Tradera använda informationen som lagras med hjälp av cookies och webb-beacons för att identifiera enskilda personer?
+ANSWER: Nej, Tradera kan inte använda informationen som lagras med hjälp av cookies och webb-beacons för att identifiera enskilda personer.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan samarbetande företag eller tjänsteleverantörer på Traderas webbplatser identifiera enskilda personer med hjälp av cookies och webb-beacons?
+ANSWER: Nej, samarbetande företag eller tjänsteleverantörer på Traderas webbplatser kan inte identifiera enskilda personer med hjälp av cookies och webb-beacons.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Använder Tradera förstahands- eller tredje mans-cookies och webb-beacons?
+ANSWER: Tradera kan använda både förstahands- och tredje mans-cookies och webb-beacons.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

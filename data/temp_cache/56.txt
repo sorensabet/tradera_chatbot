@@ -1,0 +1,39 @@
+QUESTION: Vilken information om cookies tillhandahåller Tradera?
+ANSWER: Tradera tillhandahåller information om hur kakor används för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafik. De delar också information om användning av webbplatsen med partners för sociala medier, annonsering och analys. Nödvändiga kakor krävs för att Tradera ska fungera, medan prestandakakor används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. Funktionella kakor används för utökad funktionalitet och användaranpassning på Tradera, t.ex. sparade inställningar eller inloggning med Facebook. Marknadsföringskakor används av Traderas annonseringspartners för relevanta riktade annonser.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vilka är Traderas säkerhetsregler?
+ANSWER: Dessa regler finns på en särskild webbsida där man kan läsa om åtgärder och tips för att undvika bedrägerier på Tradera, samt vilken typ av information som samlas in och hur den används.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vad är Användaravtalet på Tradera?
+ANSWER: Användaravtalet på Tradera är ett avtal mellan en användare och Tradera som reglerar användningen av webbplatsen och detaljerar ansvarsfördelningen mellan parterna.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vilken typ av information kan man hitta på Traderas Information-sida?
+ANSWER: På Traderas Information-sida kan man hitta information om Traderas köp- och säljprocess, betalningsalternativ, information för säljare och köpare samt instrumentpaneler, säkerhet och användaravtal.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vad är Traderas Integritetspolicy?
+ANSWER: Traderas Integritetspolicy är ett dokument som beskriver hur Tradera samlar in, använder och skyddar personlig information, t.ex. hur de hanterar kreditkortsuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Hur kan jag kontakta Traderas support?
+ANSWER: För att kontakta Traderas support kan man antingen använda den livechattfunktion som erbjuds på webbplatsen eller ringa till deras kundservice. Alternativt kan man använda kontaktformuläret som finns på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vad är Traders fraktpriser?
+ANSWER: Traderas fraktpriser är ofta lägre till följd av deras samarbete med PostNord, vilket möjliggör leveranser på ett snabbt och smidigt sätt.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Tradera?
+ANSWER: Tradera erbjuder flera betalningsalternativ för kunder, t.ex. direktbank, Swish och PayPal. Även betalning genom faktura kan ibland vara möjligt beroende på säljarens villkor.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vad kan jag göra om jag har problem med köp på Tradera?
+ANSWER: Om man skulle stöta på problem med sitt köp på Tradera finns det flera steg man kan vidta. Först kan man försöka lösa problemet direkt med säljaren, alternativt kan man rapportera problemet till Tradera eller kontakta kundtjänst som kan undersöka saken ytterligare.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/
+
+QUESTION: Vad är Traderas Twitter-konto användbart för?
+ANSWER: Traderas Twitter-konto kan var användbart för att följa Tradera och få information om nya produktlanseringar, kampanjer och rabatter, samt för att få veta om eventuella problem som kan påverka användarna av webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/lar-kanna-saljaren/

@@ -1,0 +1,39 @@
+QUESTION: Who transfers the right to receive payment from the Buyer to Tradera when the Buyer chooses to pay via Klarna?
+ANSWER: The Seller transfers the right to receive payment from the Buyer to Tradera when the Buyer chooses to pay via Klarna.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Who is responsible for the payment to the Seller if a claim for payment cannot be made against Klarna?
+ANSWER: Tradera is responsible for the payment to the Seller if a claim for payment cannot be made against Klarna.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Who enters into an agreement with Paynova or Klarna if the Buyer chooses to pay by invoice or installment?
+ANSWER: The Buyer enters into an agreement with Paynova or Klarna if the Buyer chooses to pay by invoice or installment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Is it the Seller who has to agree to payment by invoice or installment?
+ANSWER: No, it's not the Seller who has to agree to payment by invoice or installment, but the Seller is paid in the same way as if the Buyer had chosen to pay by card or PayPal.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What happens once Tradera has carried out its check of the Transaction and it has been approved?
+ANSWER: Once Tradera has carried out its check of the Transaction and it has been approved, a payout from Tradera to the Seller's account will be carried out.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How is the Seller notified that payment for the purchase has been made even in the case of payment by invoice or installment?
+ANSWER: The Seller is notified via e-mail and in My Tradera that payment for the purchase has been made even in the case of payment by invoice or installment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: How long does it take normally for payments to the Seller's bank account to be made in case of payment by invoice or installment?
+ANSWER: Payments to the Seller's bank account will normally be made within 1–2 business days, provided that Tradera has received accurate information, in case of payment by invoice or installment.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What rules regarding money laundering and terrorist financing does Tradera need to comply with as a payment institution?
+ANSWER: Tradera is obliged to comply with the Swedish Money Laundering and Terrorist Financing (Prevention) Act 2017:630 as a payment institution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: What kind of information can Tradera request from the Buyer and the Seller to comply with applicable rules regarding money laundering and terrorist financing?
+ANSWER: Tradera may request information from the Buyer and the Seller to establish, among other things, identity and purpose of the use of Tradera's payment service, to comply with the applicable rules regarding money laundering and terrorist financing.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/
+
+QUESTION: Why does Tradera require information from the Buyer and the Seller regarding identity and purpose of the use of Tradera's payment service?
+ANSWER: To comply with the applicable rules regarding money laundering and terrorist financing, Tradera requires information from the Buyer and the Seller to establish identity and purpose of the use of Tradera's payment service.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-4/

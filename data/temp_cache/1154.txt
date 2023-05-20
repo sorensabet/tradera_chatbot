@@ -1,0 +1,39 @@
+QUESTION: Vilka stöd har säljaren från Tradera i händelse av en tvist?
+ANSWER: En säljare har rätt till Traderas säljarskydd under vissa förutsättningar. Genom att följa villkoren för Traderas säljarskydd kan säljaren behålla erhållen betalning, även om köparen påstår att köparen aldrig mottagit en vara eller att varan inte är i enlighet med säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan säljaren behålla pengarna vid en tvist med köparen?
+ANSWER: Ja, en säljare kan behålla en betalning genom att följa villkoren för Traderas säljarskydd i vissa situationer, även om köparen påstår att de inte har mottagit varan eller att varan inte är enligt beskrivningen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan besluten av Tradera överklagas?
+ANSWER: Nej, Traderas beslut i ett ärende kan inte överklagas till Tradera, men det står säljare och köpare fritt att nå en annan lösning på en tvist i ett annat forum.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka försäljningar omfattas inte av Traderas säljarskydd?
+ANSWER: Försäljning av fastigheter, fordon (inklusive motorfordon, motorcyklar, husvagnar, flygplan och båtar), anpassade objekt (såvida inte mottagaren påstår att objekten inte kommit fram), objekt som motsvarar kontanter (inklusive presentkort), och biljetter till evenemang omfattas inte av Traderas säljarskydd.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är ett tvistlösningsförfarande inom Tradera?
+ANSWER: Tvistlösningsförfarande inom Tradera är en process där säljare och köpare med hjälp av Tradera försöker hitta en lösning på en tvist gällande en försäljning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan säljaren sälja fastigheter på Tradera?
+ANSWER: Nej, säljning av fastigheter omfattas inte av Traderas säljarskydd och därför kan de inte säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Om köparen påstår att varan inte stämmer överens med säljarens beskrivning, kan säljaren ändå behålla betalningen?
+ANSWER: Ja, om säljaren har följt villkoren för Traderas säljarskydd vid försäljningen, kan säljaren behålla betalningen även om köparen påstår att varan inte stämmer överens med säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan säljaren sälja biljetter till Evenemang på Tradera?
+ANSWER: Nej, säljning av biljetter till evenemang såsom sport- eller konsertbiljetter omfattas inte av Tradera säljarskydd och kan därför inte säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka försäljningar omfattas av Tradera säljarskydd?
+ANSWER: Försäljningar av varor (förutom de som är undantagna enligt föreskrifterna) omfattas av Tradera säljarskydd. Säljarskyddet finns till för att hjälpa säljaren om köparen påstår att varan inte har mottagits eller inte är enligt beskrivningen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan säljaren sälja fordon på Tradera?
+ANSWER: Nej, försäljning av fordon (inklusive, motorfordon, motorcyklar, husvagnar, flygplan och båtar), utom privata bärbara lätta fordon som används i rekreationssyfte som cyklar och hoverboards med hjul omfattas inte av Traderas säljarskydd och kan därför inte säljas på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

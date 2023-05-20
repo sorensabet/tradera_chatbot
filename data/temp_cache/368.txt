@@ -1,0 +1,39 @@
+QUESTION: Hvad sker der, hvis kunden anmoder om en pris på samlet forsendelse?
+ANSWER: Når kunden anmoder om en pris på samlet forsendelse, vil sælgeren modtage en meddelelse, der beder dem om at angive en forsendelsespris for ordren. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvordan angiver jeg prisen på den samlede forsendelse?
+ANSWER: Når du har fået en anmodning om en pris på samlet forsendelse, kan du gå til listen over solgte varer for at angive forsendelsesprisen for ordren. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvordan bliver køberen informeret om, at prisen på samlet forsendelse er angivet?
+ANSWER: Når forsendelsesprisen er angivet, vil køberen modtage en besked om, at prisen på forsendelse er blevet angivet, og at det er tid til at betale for ordren. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Kan sælgeren markere ordren som betalt, inden prisen på samlet forsendelse er blevet angivet?
+ANSWER: Indtil prisen på samlet forsendelse er blevet angivet, kan kun sælgeren markere ordren som betalt. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Kan sælgeren ændre prisen på forsendelse til nul, hvis der er aftalt afhentning af ordren?
+ANSWER: Ja, hvis I har aftalt afhentning af ordren, kan sælgeren ændre prisen på forsendelse til 0,-. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvad sker der, hvis køberen spørger om, hvornår tiden er gået?
+ANSWER: Hvis køberen spørger om, hvornår tiden er gået, vil sælgeren modtage en meddelelse, der beder dem om at angive en forsendelsespris for ordren, eller bekendtgøre, at prisen er angivet. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvem kan anmode om en pris på samlet forsendelse?
+ANSWER: Kunden kan anmode om en pris på samlet forsendelse, når vedkommende er færdig med at handle. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvor kan jeg finde en liste over solgte varer?
+ANSWER: Du kan finde en liste over solgte varer på Traderas hjemmeside. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvornår vil jeg modtage en meddelelse om at angive en forsendelsespris?
+ANSWER: Du vil modtage en meddelelse, der beder dig om at angive en forsendelsespris for ordren, hvis køberen anmoder om en pris på samlet forsendelse, eller spørger om, hvornår tiden er gået. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvad sker der, hvis jeg ikke angiver en forsendelsespris?
+ANSWER: Hvis du ikke angiver en forsendelsespris, vil køberen ikke være i stand til at fuldføre købet, og ordren vil ikke blive afsendt. 
+URL: https://info.tradera.com/da/samfrakt-saljare/

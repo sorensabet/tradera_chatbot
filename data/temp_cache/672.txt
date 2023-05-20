@@ -1,0 +1,39 @@
+QUESTION: Vad händer om högsta budgivaren drar sig ur auktionen?
+ANSWER: Om högsta budgivaren drar sig ur auktionen är det upp till den näst högsta budgivaren att avgöra om man vill genomföra affären. Eventuella nya bud efter att högsta budgivaren dragit sig ur är bindande.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Hur rapporterar man en köpare som inte fullföljer affären?
+ANSWER: För att rapportera en köpare som inte fullföljer affären går man till "Mina Sålda". Där kan man rapportera utebliven betalning om köparen inte fullföljt affären. Det rekommenderas att man försöker kontakta sin motpart innan man rapporterar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/utebliven-betalning-eller-frakt/
+
+QUESTION: Vad händer efter att man rapporterat en köpare som inte fullföljer affären?
+ANSWER: Efter att man rapporterat en köpare som inte fullföljer affären skickas ett varningsmail som informerar om att det inte är tillåtet att inte betala för en vunnen affär. Om köparen har fler rapporter om obetalda varor kan kontot komma att stängas av. Avstängningstiden varierar beroende på flera olika faktorer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/utebliven-betalning-eller-frakt/
+
+QUESTION: Vad är budtrissning på Tradera?
+ANSWER: Budtrissning är när säljaren själv eller någon denne känner, bjuder upp priset på en annons för att uppnå högre försäljningspris. Detta kan innebära att köparen får betala mer för ett objekt än vad hen skulle ha gjort om priset inte hade trissats upp.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vilka är de tillåtna aspekterna av budgivning på Tradera?
+ANSWER: Det är tillåtet att bjuda på annonser du har för avsikt att köpa på Tradera. Däremot är det inte tillåtet att buda på familjemedlemmar, vänner, kollegor eller andra närståendes annonser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Hur rapporterar man budtrissning på Tradera?
+ANSWER: För att rapportera budtrissning på Tradera går man till annonsen i fråga och klickar på "Anmäl till granskning" längst ner på annonsen. Därefter väljer man "annan orsak" och anger varför man misstänker budtrissning i beskrivningen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad händer vid budtrissning på Tradera?
+ANSWER: Om budtrissning misstänks på Tradera, kan inblandade personers konton komma att stängas av.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vad är "Mina sålda" på Tradera?
+ANSWER: "Mina sålda" är en del av Traderas plattform där man hittar en översikt över de varor man sålt på Tradera. Här kan man även rapportera utebliven betalning om köparen inte fullföljt affären.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/utebliven-betalning-eller-frakt/
+
+QUESTION: Kan man se sina tidigare köp på Tradera?
+ANSWER: Ja, man kan se sina tidigare köp på Tradera genom att klicka på "Mina köp" i menyn längst upp på sidan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/hur-koper-jag-pa-tradera/
+
+QUESTION: Hur handlar man på Tradera?
+ANSWER: För att handla på Tradera behöver man skapa ett konto, söka efter objekt man är intresserad av och lägga bud på dem. Om man vinner auktionen får man ett meddelande av säljaren med information om betalning och leverans. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/hur-koper-jag-pa-tradera/

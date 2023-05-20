@@ -1,0 +1,39 @@
+QUESTION: Vilka integrerade fraktalternativ finns tillgängliga på Tradera? 
+ANSWER: Du kan hitta mer information om de olika speditörerna på fraktväljaren när du skapar din annons. 
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Är det möjligt att sälja utanför Sverige via Tradera? 
+ANSWER: Ja, det är möjligt att sälja inom EU, men om du vill sälja utanför EU måste du ordna frakten utanför Tradera och tänka på tullavgifter som kan tillkomma.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Kan jag använda samma alias på Tradera och Klocksnack? 
+ANSWER: Ja, så länge aliaset inte redan är upptaget på Tradera. Om du vill byta alias på Tradera kan du göra det genom att klicka på "inställningar" i din profil.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Hur kan jag ändra mitt användarnamn på Tradera? 
+ANSWER: För att ändra ditt användarnamn på Tradera klickar du på din profil högst upp i högra hörnet, väljer "inställningar" och sedan "profilinställningar". 
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Vad är avgiften för att sälja en klocka på Tradera? 
+ANSWER: Avgiften för att sälja en klocka på Tradera är 10% av försäljningspriset, med ett maxtak på 200 kr. Observera att extra kostnader för tillval kan tillkomma.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Vilka betalningsalternativ finns tillgängliga på Tradera? 
+ANSWER: Du kan betala genom något av de integrerade betalningsalternativen när du vinner en budgivning eller köper en klocka till fast pris.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Finns det någon rekommendation för köpskydd när man köper på Tradera? 
+ANSWER: Ja, Tradera rekommenderar att du lägger till köpskydd vid köp av en klocka. 
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Kan jag sälja min klocka till någon utanför EU via Tradera? 
+ANSWER: Ja, du kan sälja din klocka utanför EU via Tradera, men du måste ordna frakten själv och tänka på att tullavgifter kan tillkomma.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Hur snabbt kan jag få min klocka om jag köper den på Tradera? 
+ANSWER: Leveranstiden för din klocka beror på vilket fraktalternativ du väljer. Mer information om leveranstider hittar du i fraktväljaren när du gör din beställning.
+URL: https://info.tradera.com/klocksnack/
+
+QUESTION: Kan jag köpa flera klockor på Tradera samtidigt? 
+ANSWER: Ja, du kan köpa flera klockor på Tradera samtidigt genom att lägga till dem i din varukorg och sedan betala för dem tillsammans.
+URL: https://info.tradera.com/klocksnack/

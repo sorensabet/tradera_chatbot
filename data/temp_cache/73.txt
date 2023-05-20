@@ -1,0 +1,39 @@
+QUESTION: Vilken information kan vara synlig för andra användare på Tradera?
+ANSWER: Andra personer kan se användarens bud, köp, annonserade föremål, butiksfasad, omdömen och meddelanden.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera lämna ut personuppgifter till polismyndigheter utan ett domstolsbeslut?
+ANSWER: Nej, i syfte att försöka skydda användarnas personliga integritet kommer Tradera inte att lämna ut personuppgifter till polismyndighet, annan myndighet eller annan tredje man utan ett domstolsföreläggande, domstolsbeslut eller krav enligt något liknande förfarande, förutom om de i god tro bedömer att utlämnande av information är nödvändig för att förhindra fysisk skada, ekonomisk förlust, anmäla misstänkt olaglig aktivitet eller för att skydda användarna från ohederliga personer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan lagar och regler i andra länder ha samma nivå för skydd av personuppgifter som lagen i ens eget land?
+ANSWER: Det är möjligt att andra länders lagar och regler inte har samma eller motsvarande nivå för skydd för personuppgifter som lagarna i ens eget land.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Varför kan andra länder begära att ens personuppgifter lämnas ut?
+ANSWER: Statsmakter, domstolar, polismyndigheter eller tillsynsmyndigheter i andra länder kan ha rätt att begära att ens personuppgifter lämnas ut enligt lagarna i dessa länder.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka åtgärder tar Tradera för att skydda personuppgifter?
+ANSWER: Tradera använder avtal och andra metoder för att skydda användarnas personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad är syftet med att skydda användarnas personuppgifter på Tradera?
+ANSWER: Syftet med att skydda användarnas personuppgifter på Tradera är att försöka skydda deras personliga integritet.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken information visas genomgående på Tradera?
+ANSWER: Användarens användarnamn visas genomgående på Tradera och kan kopplas till all deras aktivitet på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka kan se användarens aktiviteter på Tradera?
+ANSWER: Andra användare på Tradera kan se användarens bud, köp, annonserade föremål, butiksfasad, omdömen och meddelanden.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: När kan Tradera lämna ut information för att skydda användarna?
+ANSWER: Tradera kan lämna ut information i god tro bedömer att utlämnande av information är nödvändig för att förhindra fysisk skada, ekonomisk förlust, för att anmäla misstänkt olaglig aktivitet eller för att på annat sätt skydda användarna från ohederliga personer.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka kan se användarens bud på Tradera?
+ANSWER: Andra användare på Tradera kan se användarens bud.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

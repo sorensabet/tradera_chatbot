@@ -1,0 +1,39 @@
+QUESTION: Can I change the recipient's address after handing in the parcel?
+ANSWER: No, if you have already handed in your parcel you cannot change the recipient's address. However, the recipient is able to change their own address using the link provided in the context.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Can I use a box address as the sender's address?
+ANSWER: No, only regular addresses are accepted as a sender's address. This is because the parcel needs to be returned in case the recipient does not receive it, and returns can only be made to a regular address.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How will I know when my parcel is delivered?
+ANSWER: You will receive an SMS message to the phone number you have registered with Tradera when your parcel is delivered to the vendor. The SMS will contain the shipping number, which you can use to collect your parcel. You can track your parcel and change your address using the link provided in the context.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Can I change the delivery address for my parcel?
+ANSWER: Yes, you can change your delivery address as well as other delivery options using the link provided in the context.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How long will my parcel be kept at the vendor before being returned to sender?
+ANSWER: Your parcel will be kept at the vendor for 14 days before being returned to sender. If you need to prolong this period, you can do so using the link provided in the context.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: What kind of ID do I need to collect my parcel?
+ANSWER: To collect your parcel, you will need a valid ID and the tracking ID provided in the delivery notification via SMS or email. If someone else is collecting the parcel on your behalf, you will need to bring IDs for both individuals. The acceptable forms of ID are listed in the context.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: How can I cancel a shipment if I haven't handed in the parcel yet?
+ANSWER: If you haven't handed in your parcel yet, you can contact Tradera's customer service to cancel the shipment.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Will I receive a receipt for my parcel?
+ANSWER: Yes, once your parcel has been scanned you will receive a receipt via email.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: Can I contact DHL if I can't find an answer to my question?
+ANSWER: Yes, if you can't find an answer to your question, you can contact DHL at 0771-345 345 or via chat/email using the link provided in the context.
+URL: https://info.tradera.com/en/dhl/
+
+QUESTION: What are the acceptable forms of ID for collecting parcels?
+ANSWER: The acceptable forms of ID for collecting parcels are SIS-marked ID-card or service card, ID-card granted by the tax ministry, national ID-card granted by the Swedish police, Swedish driver's license, EU passport, national ID card for any country in the Schengen zone, foreign passport, and Nordic driver's license. 
+URL: https://info.tradera.com/en/dhl/

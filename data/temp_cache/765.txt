@@ -1,0 +1,39 @@
+QUESTION: Vilka cookies använder Tradera på sin webbplats?
+ANSWER: Tradera använder cookies för att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafik på webbplatsen. De använder Nödvändiga, Prestanda, Funktionella och Marknadsföring cookies för olika ändamål. Nödvändiga cookies används för att Tradera ska fungera och kan inte stängas av, Prestanda cookies används för att mäta hur Tradera används, Funktionella cookies används för utökad funktionalitet och användaranpassning, och Marknadsföring cookies används av annonseringspartners för relevanta annonser till användaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad är syftet med Nödvändiga cookies på Traderas webbplats?
+ANSWER: Syftet med Nödvändiga cookies på Traderas webbplats är att se till att Tradera kan fungera korrekt och för att ge en bättre användarupplevelse för besökarna, t.ex. genom att spara användarinloggningsuppgifter och andra inställningar på webbplatsen. Dessa cookies kan inte stängas av utan att påverka Traderas funktionalitet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Varför använder Tradera cookies för annonsering?
+ANSWER: Tradera använder cookies för annonsering för att ge användarna mer relevanta annonser baserat på deras intressen och användning av Traderas webbplats. De använder Marknadsföring cookies för att tillhandahålla dessa annonser i samarbete med sina annonseringspartners.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Kan man stänga av Prestanda cookies på Traderas webbplats?
+ANSWER: Ja, det är möjligt att stänga av Prestanda cookies på Traderas webbplats genom att ändra inställningarna för cookies. Dock kan detta påverka kvaliteten på användarupplevelsen på sidan eftersom Tradera använder Prestanda cookies för att mäta hur webbplatsen används och för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilka är fördelarna med att använda Funktionella cookies på Traderas webbplats?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera. Genom att använda dessa cookies kan Tradera spara vissa inställningar och erbjuder även möjligheten att logga in med Facebook. Dessa cookies är användbara för att skapa en mer personlig användarupplevelse på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad är syftet med Traderas partners för sociala medier?
+ANSWER: Traderas partners för sociala medier används för att anpassa innehåll och annonser baserat på användarnas surfvanor. Genom att använda dessa partners, kan Tradera erbjuda mer riktade annonser och en bättre användarupplevelse på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Kan användare på Tradera välja vilka annonser de vill se?
+ANSWER: Användare kan inte välja specifika annonser på Traderas webbplats. Dock använder Tradera cookies för annonsering, vilket gör det möjligt för användare att se mer relevanta annonser baserat på deras intressen och användning av webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Hur kan användare ändra inställningar för cookies på Traderas webbplats?
+ANSWER: Användare kan ändra inställningar för cookies på Traderas webbplats genom att klicka på "Ändra inställningar" längst ner i bannermeddelandet om cookies. Där kan användarna välja vilka typer av cookies som ska användas på webbplatsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Kan Marknadsföring cookies spåra användares surfaktivitet utanför Traderas webbplats?
+ANSWER: Ja, Marknadsföring cookies kan spåra användares surfaktivitet utanför Traderas webbplats för att erbjuda mer relevanta annonser. Dessa cookies spårar användarens sidvyer och klick på andra webbplatser och används sedan för att anpassa annonser baserat på den informationen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad händer om jag inte godkänner användning av cookies på Traderas webbplats?
+ANSWER: Om du inte godkänner användning av cookies på Traderas webbplats kommer webbplatsen fortfarande att fungera men du kommer inte att få en skräddarsydd användarupplevelse och annonser kommer inte att vara lika relevanta för dina intressen och surfvanor. Däremot kommer Tradera inte att kunna samla in information om din användning av webbplatsen genom cookies.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/

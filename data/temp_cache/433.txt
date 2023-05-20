@@ -1,0 +1,39 @@
+QUESTION 1: Vad är SMS-koder och MitID som beskrivs på Traderas informationssida?
+ANSWER: På Traderas informationssida beskrivs SMS-koder och MitID som två olika säkerhetslösningar som används för att verifiera användares identiteter vid transaktioner på Tradera. 
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION 2: Vad är en säkerhetscenter och vad innefattar det?
+ANSWER: Säkerhetscenter är en sida på Traderas hemsida som innehåller information om säkerhet på Tradera. Här hittar man allt från säkra lösenord till information om hur man undviker bedrägerier på Tradera.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION 3: Hur kan jag undvika att blivit utsatt för bedrägerier på Tradera?
+ANSWER: För att undvika bedrägerier på Tradera finns det flera tips som ges på säkerhetscenter-sidan, bl.a. att ha starka lösenord, inte betala innan varan har levererats och att endast kommunicera genom Traderas egen meddelandefunktion.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION 4: Varför behöver jag ett säkert lösenord när jag använder Tradera?
+ANSWER: Eftersom det finns en risk för bedrägerier på Tradera är det viktigt att ha ett starkt och säkert lösenord för att skydda sin personliga information och sina transaktioner på plattformen.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION 5: Varför är det viktigt att verifiera sin identitet när man gör transaktioner på Tradera?
+ANSWER: Genom att verifiera sin identitet med hjälp av SMS-koder eller MitID kan Tradera säkerställa att en transaktion görs av en riktig person, vilket minskar risken för bedrägerier på plattformen.
+URL: https://info.tradera.com/da/sms-codes-and-bankid/
+
+QUESTION 6: Vad är rättighetsinnehavare och hur påverkar de användare på Tradera?
+ANSWER: Rättighetsinnehavare är personer eller företag som äger rättigheter till t.ex. varumärken eller andra immateriella tillgångar. Rättighetsinnehavare kan ansöka om att Tradera tar bort annonser som bryter mot deras rättigheter.
+URL: https://info.tradera.com/da/security-center/
+
+QUESTION 7: Vad är en huskelista på Tradera?
+ANSWER: En huskelista är en funktion på Tradera där man kan spara annonser som man är intresserad av för senare igenkänning och följande upp.
+URL: https://info.tradera.com/da/my-watchlist/
+
+QUESTION 8: Hur skapar jag en ny annons på Tradera?
+ANSWER: För att skapa en ny annons på Tradera måste man klicka på "Opret ny annonce" på Traderas hemsida och sedan följa de steg som beskrivs på sidan.
+URL: https://info.tradera.com/da/create-an-ad/
+
+QUESTION 9: Kan man kontakta Traderas kundservice om man har problem?
+ANSWER: Ja, man kan kontakta Traderas kundservice genom att besöka deras kontaktsida och fylla i ett kontaktformulär eller ringa dem på det angivna telefonnumret.
+URL: https://www.tradera.com/content/kontakta-oss
+
+QUESTION 10: Vad är Traderas arbete?
+ANSWER: Traderas arbete är att tillhandahålla en plattform där användare i Norden kan köpa och sälja varor och tjänster på ett säkert sätt. Tradera jobbar också för att avskaffa förfalskade varor och bedrägerier på plattformen.
+URL: https://info.tradera.com/da/about-tradera/

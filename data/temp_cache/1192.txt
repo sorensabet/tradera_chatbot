@@ -1,0 +1,39 @@
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the Buyer?
+ANSWER: If a dispute settlement procedure is terminated in favor of the Buyer, the Buyer will be entitled to a refund, either in full or in part, of the amount paid by the Buyer for an item. Tradera will refund the amount to the Buyer and reserves the right to invoice the Seller for the amount of refund owed. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens if a dispute settlement procedure is terminated in favor of the Seller?
+ANSWER: If a dispute settlement procedure is terminated in favor of the Seller, the Buyer will not be entitled to a refund through Tradera's dispute settlement procedure. However, the Buyer and Seller are free to find another solution to a dispute in another forum. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is Tradera's seller protection and what products are covered under it?
+ANSWER: Tradera's seller protection is a program that makes it possible for a Seller to keep the payment received under certain conditions, even if the Buyer claims that they have never received an item or that the item is not in accordance with the Seller's description. However, the following products are not covered under Tradera's seller protection: sale of properties, sale of vehicles except for private portable light vehicles used for recreational purposes, sale of customized objects, and sale of items equivalent to cash like gift cards. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can a Buyer get a refund if the purchase is not covered by Tradera's buyer protection?
+ANSWER: If the purchase is not covered by Tradera's buyer protection, and it relates to a product not covered by clause 6(d), Tradera will terminate the dispute without further investigation, and the Buyer will not be entitled to a refund. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens if the recipient claims that the customized object has not arrived and it was sold through Tradera?
+ANSWER: If the recipient claims that a customized object sold through Tradera has not arrived, the sale will be covered by Tradera's buyer protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can a Seller be invoiced for the refund owed to the Buyer if a dispute settlement is terminated in favor of the Buyer?
+ANSWER: Yes, Tradera reserves the right to invoice the Seller for the amount of refund owed if a dispute settlement procedure is terminated in favor of the Buyer. The Seller will receive the invoice in the same way as Tradera invoices for sales commission and other costs related to a sale on Tradera's Platform. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can a Seller keep the payment received if the Buyer claims they never received an item or that the item is not in accordance with the description?
+ANSWER: A Seller can keep the payment received if they comply with Tradera's terms and conditions for seller protection. However, the specific product needs to be covered by the seller protection program. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Can a dispute settlement procedure be appealed to Tradera?
+ANSWER: No, Tradera's decision in a dispute cannot be appealed to Tradera. However, the Buyer and Seller are free to find another solution to the dispute in another forum. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is the purpose of Clause 6(d) in Tradera's buyer protection policy?
+ANSWER: Clause 6(d) in Tradera's buyer protection policy describes products that are not covered by Tradera's buyer protection. If the purchase relates to a product not covered under clause 6(d), Tradera will terminate the dispute without further investigation, and the Buyer will not be entitled to a refund. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Does Tradera cover the sale of vehicles or properties under its seller protection program?
+ANSWER: No, Tradera's seller protection program does not cover the sale of properties or vehicles except for private portable light vehicles used for recreational purposes like bicycles and wheeled hoverboards. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

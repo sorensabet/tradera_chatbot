@@ -1,0 +1,39 @@
+QUESTION 1: Vilken typ av cookies använder Tradera för att förbättra användarupplevelsen?
+ANSWER: Tradera använder tre typer av cookies för att förbättra användarupplevelsen: Nödvändiga cookies för att Tradera ska fungera; Prestanda cookies för att mäta hur Tradera används; och Funktionella cookies för utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+ 
+QUESTION 2: Kan jag stänga av alla cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av då de är nödvändiga för att Tradera ska fungera. De andra cookies kan dock stängas av via webbläsarinställningarna.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 3: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att förbättra användarupplevelsen, mäta hur Webbplatsen används, och för att ge användare utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 4: Vad används Prestanda cookies för på Tradera?
+ANSWER: Prestanda cookies används för att mäta hur Tradera används, så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 5: Kan jag inaktivera Funktionella cookies på Tradera?
+ANSWER: Ja, Funktionella cookies kan stängas av via webbläsarinställningarna om man inte vill ha utökad funktionalitet och användaranpassning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 6: Använder Tradera även cookies för marknadsföring?
+ANSWER: Ja, Tradera använder cookies för marknadsföring, dessa används av Traderas annonseringspartners för riktade annonser relevanta för användarna.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 7: Vad händer om jag avaktiverar cookies på Tradera?
+ANSWER: Om man avaktiverar cookies på Tradera kan vissa delar av Webbplatsen sluta fungera eller visas felaktigt, och man kan inte dra nytta av utökad funktionalitet och användaranpassning som de Funktionella cookies erbjuder.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 8: Kan jag ändra inställningarna för cookies på Tradera?
+ANSWER: Ja, inställningarna för cookies kan ändras i webbläsarens inställningar.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 9: Är cookies säkra att använda på Tradera?
+ANSWER: Ja, cookies är säkra att använda på Tradera eftersom personuppgifter inte lagras i cookie-filerna. Cookies kan heller inte användas för att sprida virus eller skadlig kod.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/
+
+QUESTION 10: Hur kan jag veta vilka cookies som används på Tradera?
+ANSWER: Tredjepartscookies som används på Tradera kan identifieras genom att gå till webbläsarens inställningar och söka efter cookies. Därefter kan man se vilka cookies som är aktiva på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/privatkonto-pa-tradera/

@@ -1,0 +1,39 @@
+QUESTION 1: What information does Tradera collect when registering for an account?
+ANSWER: Tradera collects personal information such as name, email address, phone number, mobile telephone number, personal identification number, physical contact information, and, in some cases, financial information such as bank account numbers when registering for an account.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 2: What additional information can be provided to Tradera via social media sites or services?
+ANSWER: Users can provide additional information about themselves to Tradera through social media sites or services.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 3: What type of information is collected based on a user's activities on Tradera's sites?
+ANSWER: Transactional information is collected based on a user's activities on Tradera's sites, such as bidding, buying, selling, and item and content generated or related to their account.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 4: What type of information does Tradera collect in regards to shipping and shipping services?
+ANSWER: Tradera collects information such as shipping, billing, payment, and other relevant information when a user purchases or ships an item on their site. Additionally, relevant shipping information such as tracking updates may be stored by the chosen shipping partner.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 5: What type of information is gathered during community discussions and chats?
+ANSWER: Information provided in the context of community discussions, chats, dispute resolution, correspondence through Tradera's sites, or correspondence sent to them is collected.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 6: What additional documents may Tradera ask users to submit for authentication purposes?
+ANSWER: Tradera may ask users to send them a government-issued identity document or other documentation to verify their identity or address, or to answer additional questions to help verify their identity or ownership of an item listed.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 7: What types of supplemental information may Tradera collect about a user from third parties?
+ANSWER: Tradera may receive or collect supplemental information about a user from third parties such as merchants, data bureaus, and data providers. This may include demographic and navigation information, credit check information, and additional information about the user from a credit bureau, as permitted by law.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 8: How does Tradera offer sign-on services for accessing their website and related sites?
+ANSWER: Tradera offers sign-on services that allow users to use third-party login credentials to access their websites and related sites.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 9: Can users choose to provide Tradera with access to certain personal data stored by third-party websites?
+ANSWER: Yes, users may choose to provide Tradera with access to certain personal data stored by third-party websites. This personal data varies by website and is controlled by the user's privacy settings on that website and their consent.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 10: Can Tradera collect additional information about a user's online behavior from third-party websites?
+ANSWER: Yes, Tradera may collect additional information about a user's online behavior from third-party websites, such as navigation information and demographic information, as permitted by law.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

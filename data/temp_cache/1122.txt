@@ -1,0 +1,39 @@
+QUESTION: Vad är ett "återbetalningsskyldigt belopp" på Tradera?
+ANSWER: Ett "återbetalningsskyldigt belopp" på Tradera är det belopp som en säljare ska återbetala till Tradera i samband med en återbetalning av belopp som redan betalats ut till säljaren på grund av att ett köp ska gå åter. Beloppet utgör en del av eller hela transaktionen, plus eventuella avgifter som ålagts Tradera i samband med transaktionen, inklusive fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, VISA eller MasterCard.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka villkor gäller för att använda Traderas betallösning?
+ANSWER: För att använda Traderas betallösning vid försäljning på Traderas Plattform, åtar sig säljaren att följa de villkor som Tradera fastställt. Säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka betalsätt kan köparen använda på Traderas betallösning?
+ANSWER: På Traderas betallösning kan köparen använda olika sätt att betala för varorna. Vilket betalsätt som köparen väljer kommer dock inte få någon betydelse för när säljaren får betalt, förutom vid betalningar med Swish då säljaren får betalt direkt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka avgifter kan Tradera åläggas i förhållande till sina samarbetspartners?
+ANSWER: I förhållande till sina samarbetspartners, såsom PayPal, Paynova, VISA eller MasterCard, kan Tradera åläggas avgifter som inkluderas i det återbetalningsskyldiga beloppet som säljaren ska betala tillbaka till Tradera vid en återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är Traderas roll i att låta säljaren få betalt genom betallösningen på plattformen?
+ANSWER: Tradera åtar sig att, på de villkor som följer av villkoren, låta säljaren få betalt genom Traderas betallösning vid försäljning på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Kan säljaren använda ett annat betalsätt än de alternativ som finns tillgängliga genom Traderas betallösning?
+ANSWER: Nej, säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas betallösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad innebär betallösningen på Tradera för säljaren?
+ANSWER: Betallösningen på Tradera innebär att säljaren får betalt genom Traderas plattform vid försäljning på plattformen. Säljaren måste följa de villkor som Tradera fastställt och använda betallösningen vid försäljning på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: När får säljaren betalt genom Traderas betallösning?
+ANSWER: Vilket betalsätt som köparen väljer kommer inte få någon betydelse för när säljaren får betalt, förutom vid betalningar med Swish då säljaren får betalt direkt. Annars får säljaren betalt när köparen har bekräftat att varan har mottagits och godkänts eller när köparen inte har gjort någon anmärkning inom viss tid.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är åtagandet för säljaren vad gäller betallösningen på Traderas plattform?
+ANSWER: Säljaren åtar sig att följa de villkor som Tradera fastställt och att använda Traderas betallösning vid försäljning på Traderas Plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om ett köp ska gå åter på Traderas plattform?
+ANSWER: Vid en återbetalning av belopp som redan betalats ut till säljaren på grund av att ett köp ska gå åter, ska säljaren återbetala det återbetalningsskyldiga beloppet till Tradera, som utgör en del av eller hela transaktionen, plus eventuella avgifter som ålagts Tradera i samband med transaktionen, inklusive fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, VISA eller MasterCard.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med nödvändiga cookies på Tradera?
+ANSWER: Syftet med nödvändiga cookies på Tradera är att se till att webbplatsen fungerar korrekt och säkert.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Kan prestandacookies lagra personlig information på Tradera?
+ANSWER: Prestandacookies på Tradera samlar endast anonym information för att mäta hur Tradera används och kan inte lagra personlig information.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Vilket syfte har funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för att erbjuda utökad funktionalitet och anpassning av användarupplevelsen på Tradera, exempelvis genom sparade inställningar och möjligheten att logga in med Facebook.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Varför används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies på Tradera används av annonseringspartners för att visa relevanta annonser för användaren.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Kan användare stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, det är inte möjligt att stänga av nödvändiga cookies på Tradera, eftersom de är viktiga för att säkerställa att webbplatsen fungerar korrekt och säkert.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Hur påverkar prestandacookies användarupplevelsen på Tradera?
+ANSWER: Prestandacookies påverkar inte direkt användarupplevelsen på Tradera, men de hjälper till att mäta hur webbplatsen används så att Tradera kan förbättra användarupplevelsen i framtiden.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Kan användare ta bort funktionella cookies från Tradera?
+ANSWER: Ja, användare kan ta bort funktionella cookies från Traderas webbplats genom webbläsarens inställningar.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Är marknadsföringscookies på Tradera säkra?
+ANSWER: Ja, marknadsföringscookies på Tradera är säkra och används endast av betrodda annonseringspartners för att visa relevanta annonser för användaren.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Kan Tradera sälja användares personliga information till tredje part?
+ANSWER: Nej, Tradera säljer inte användares personliga information till tredje part.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: Hur påverkar funktionella cookies användaranpassningen på Tradera?
+ANSWER: Funktionella cookies påverkar användaranpassningen på Tradera genom att erbjuda utökad funktionalitet, till exempel genom sparade inställningar och möjligheten att logga in med Facebook.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

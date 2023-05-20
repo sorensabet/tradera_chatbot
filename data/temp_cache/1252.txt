@@ -1,0 +1,39 @@
+QUESTION: Vad är falska e-postmeddelanden eller SMS?
+ANSWER: Falska e-postmeddelanden eller SMS, även kallat phishing, innebär att någon försöker lura en person genom att skicka falska meddelanden. Meddelandena utger sig för att vara från en legitim källa, oftast ett företag eller liknande, i syfte att stjäla känslig information såsom lösenord, kreditkortsinformation, eller annan känslig information.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Vilka exempel kan antyda att ett meddelande är falskt?
+ANSWER: Några exempel på att ett meddelanden kan vara falskt inkluderar: uppmaning att lämna ut lösenord eller kreditkortsuppgifter, direkt i meddelandet eller via en länk, uppmaning att klicka dig vidare till en inloggningssida, försök att lura dig att varan har betalats utanför Tradera, eller angivning av att man bokat frakt eller en kurir och du behöver bekräfta genom att trycka på en länk.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Vad är Syftet med Traderas arbete?
+ANSWER: Syftet med Traderas arbete är att säkerställa att användare kan handla och sälja säkert på deras plattform.
+URL: https://info.tradera.com/information/
+
+QUESTION: Vilka försiktighetsåtgärder kan användas för att skydda dig själv mot falska meddelanden?
+ANSWER: Några försiktighetsåtgärder som kan användas för att skydda dig själv mot falska meddelanden inkluderar att aldrig delge din personliga information eller känslig data till någon utanför Tradera, se till att alltid bekräfta att avsändaren är legitim, och att inte klicka på länkar eller bifogade filer i meddelanden om du är osäker på deras äkthet.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Behöver Tradera din kreditkortsinformation?
+ANSWER: Nej. Tradera begär aldrig ut känslig information som lösenord eller kreditkortsinformation. 
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Vad händer om du lämnar ut din känsliga information till en bedragare eller i ett falskt meddelande?
+ANSWER: Om du lämnar ut din känsliga information till en bedragare eller i ett falskt meddelande, kan de använda den för att stjäla din identitet, genomföra skadliga transaktioner och mycket mer. Det är därför viktigt att aldrig delge din känsliga information till någon utanför Tradera.
+URL: https://info.tradera.com/falska-e-postmeddelanden/
+
+QUESTION: Vad är en integritetspolicy?
+ANSWER: En integritetspolicy beskriver hur ett företag samlar in, använder, lagrar och skyddar användarens personliga information. 
+URL: https://info.tradera.com/integritetspolicy/
+
+QUESTION: Vad är användaravtal?
+ANSWER: Användaravtal är ett avtal som beskriver reglerna som gäller för användare som använder en plattform eller tjänst (i detta fall, Tradera). 
+URL: https://info.tradera.com/anvandaravtal/
+
+QUESTION: Vad är cookies?
+ANSWER: Cookies är små textfiler som lagras på din dator eller mobiltelefon när du besöker en webbplats. De används för att samla in information om ditt besök på webbplatsen och för att anpassa din upplevelse av webbplatsen.
+URL: https://info.tradera.com/cookies-pa-tradera/
+
+QUESTION: Vilka samarbeten har Tradera?
+ANSWER: Tradera har samarbeten med flera olika företag, inklusive PostNord, Estrid, Klarna, och flera andra varumärken. 
+URL: https://info.tradera.com/vara-samarbeten/

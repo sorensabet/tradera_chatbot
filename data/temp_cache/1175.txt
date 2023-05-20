@@ -1,0 +1,44 @@
+QUESTION: Vad krävs för att köparen ska kunna visa att det föreligger fel i varan eller tjänsten som säljaren har utfört?
+ANSWER: Köparen är ansvarig för att påvisa att det föreligger ett fel i varan eller tjänsten som säljaren har utfört genom att tillhandahålla ytterligare dokumentation kring varan eller Transaktionen. Köparen måste bevisa med dessa dokument att varan skiljer sig från säljarens beskrivning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om köparen inleder ett tvistlösningsförfarande för en produkt som inte omfattas av Traderas köparskydd enligt ovan?
+ANSWER: Om köparen inleder ett tvistlösningsförfarande för en produkt som inte omfattas av Traderas köparskydd enligt ovan, kommer Tradera att avsluta tvisten utan vidare undersökning, och köparen har inte rätt till någon återbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om ett tvistlösningsförfarande avslutas till köparens fördel?
+ANSWER: Om ett tvistlösningsförfarande avslutas till köparens fördel, har köparen rätt till återbetalning av, delar av eller hela, det belopp som köparen har betalat för en vara.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om ett tvistlösningsförfarande avslutas till säljarens fördel?
+ANSWER: Om ett tvistlösningsförfarande avslutas till säljarens fördel har köparen inte rätt till återbetalning inom ramen för Traderas tvistlösningsförfarande. Det står dock säljare och köpare fritt att nå en annan lösning på en tvist i ett annat forum.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan Traderas beslut i ett ärende överklagas till Tradera?
+ANSWER: Nej, Traderas beslut i ett ärende kan inte överklagas till Tradera, men det står säljare och köpare fritt att nå en annan lösning på en tvist i ett annat forum.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är säljarens åtaganden i förhållande till köparskydd?
+ANSWER: Genom att acceptera Villkor accepterar säljaren att:
+a) Säljaren garanterar att en såld vara överensstämmer med beskrivningen på Tradera.
+b) Säljaren ansvarar för att varan som hen säljer lagligen kan säljas, att varan inte är förfalskad, och att ingen tredje part har rättigheter till varan som hindrar försäljning.
+c) Säljaren ansvarar för att leverera varan till köparen.
+d) Säljaren ansvarar för att hantera eventuella reklamationer eller problem som kan uppstå efter försäljning, med mindre annat avtalats mellan köpare och säljare.
+e) Säljaren ansvarar för att följa de riktlinjer som anges av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilka konsekvenser kan uppstå om säljaren inte uppfyller sitt åtagande enligt köparskyddsvillkoren?
+ANSWER: Om säljaren inte uppfyller sitt åtagande enligt köparskyddsvillkoren kan köparen återkräva det belopp som de har betalat för varan inom sex månader från köpdagen genom att öppna en tvist på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om köparen inte betalar inom den angivna tiden för en vunnen auktion eller ett köp?
+ANSWER: Om köparen inte betalar inom den angivna tiden för en vunnen auktion eller ett köp, kan Tradera avsluta affären, radera transaktionen och återannonsera varan samt blockera köparens konto.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan en säljare avsluta en auktion eller ta bort en vara från sin webbplats innan det att auktionen avslutas?
+ANSWER: En säljare kan inte avsluta en auktion eller ta bort en vara från sin webbplats bara för att hen har erhållit ett högt bud eller fått reda på att budgivningen inte ökar, och säljaren kan inte ta bort en vara under pågående auktion.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan en säljare lägga en vara till försäljning som hen inte äger rättigheterna till eller produkter som är olagliga att sälja?
+ANSWER: Nej, en säljare kan inte lägga en vara till försäljning som hen inte äger rättigheterna till eller produkter som är olagliga att sälja på Tradera. Säljaren ansvarar för att vara som hen säljer lagligen kan säljas, att varan inte är förfalskad, och att ingen tredje part har rättigheter till varan som hindrar försäljning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

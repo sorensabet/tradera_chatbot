@@ -1,0 +1,39 @@
+QUESTION: Vad är osåldavgifter?
+ANSWER: Osåldavgifter är avgifter som du som säljare måste betala till Tradera om du inte lyckas sälja din vara inom en viss tidsram. Information om osåldavgifter tillhandahålls på denna informationssida.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Om majoriteten av mina köpare betalat med Swish, kommer jag att få osåldavgifter?
+ANSWER: Ja, du kommer att få osåldavgifter om majoriteten av dina köpare betalat med Swish och du inte lyckats sälja varan inom tidsperioden. Mer information om osåldavgifter finns tillgängligt på denna informationssida.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Kan jag undvika butiksavgiften?
+ANSWER: Ja, du kan undvika att betala butiksavgiften om du har en väntande utbetalning som täcker kostnaden eller om du inte har en butik. Ifall du har en butik och inte har en väntande utbetalning, kommer kostnaden att skickas till dig via faktura. 
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Kan jag få en faktura istället för att betala direkt?
+ANSWER: Ja, om du har en butik så kan butiksavgiften hamna på faktura om du inte har en väntande utbetalning som täcker butikskostnaden.
+URL: https://info.tradera.com/salja-pa-tradera/hur-betalar-jag-for-annonsen-till-tradera/
+
+QUESTION: Kan jag donera med Tradera?
+ANSWER: Ja, du kan donera med Tradera. Mer information om hur du kan donera finns tillgängligt på denna informationssida.
+URL: https://info.tradera.com/donera-with-tradera/
+
+QUESTION: Vilka kategorier finns tillgängliga på Tradera?
+ANSWER: Tradera erbjuder flera kategorier för varor som säljs på plattformen. Mer information om olika kategorier finns tillgängligt på denna informationssida.
+URL: https://www.tradera.com/categories
+
+QUESTION: Vilka populära varumärken säljs på Tradera?
+ANSWER: På Tradera säljs flera populära varumärken. Mer information om dessa varumärken finns tillgängligt på denna informationssida.
+URL: https://www.tradera.com/popular-brands
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Grön frakt innebär att Tradera verkar för en mer miljövänlig frakt genom att uppmuntra till att säljare använder sig av mer hållbara fraktalternativ. Mer information om Grön frakt finns tillgängligt på denna informationssida.
+URL: https://info.tradera.com/salja-pa-tradera/gron-frakt/
+
+QUESTION: Vad är en fraktkalkylator och hur fungerar den?
+ANSWER: Fraktkalkylatorn hjälper dig att beräkna fraktkostnader för att skicka varor från en bestämd plats till en annan. Mer information om hur fraktkalkylatorn fungerar finns tillgängligt på denna informationssida.
+URL: https://info.tradera.com/salja-pa-tradera/hur-fungerar-fraktkalkylatorn/
+
+QUESTION: Vilka kontaktalternativ finns tillgängliga för att nå Traderas kundtjänst?
+ANSWER: Du kan nå Traderas kundtjänst på flera olika sätt, inklusive e-post, telefon och chatt. Mer information om kontaktalternativ finns tillgängligt på denna informationssida.
+URL: https://www.tradera.com/help/contact

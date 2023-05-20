@@ -1,0 +1,39 @@
+QUESTION: Vilka koncernbolag kan använda min information för marknadsföring?
+ANSWER: Endast de koncernbolag som jag har gett mitt samtycke till och som använder mina personuppgifter i enlighet med deras egna integritetspolicys och företagets globala standard för behandling av personuppgifter kan använda min information för marknadsföring.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera använda mina personuppgifter för fakturaindrivning?
+ANSWER: Ja, underleverantörer som hjälper Tradera att driva sin verksamhet kan också använda mina personuppgifter för fakturaindrivning.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan andra Tradera-användare se mina kontaktuppgifter under en transaktion?
+ANSWER: Ja, om jag är involverad i en transaktion med en annan användare kan den andra användaren se min e-postadress och begära mina kontaktuppgifter och min postadress för att slutföra affären.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera använda mina personuppgifter för lojalitetsprogram?
+ANSWER: Ja, underleverantörer som hjälper Tradera att driva sitt lojalitetsprogram kan också använda mina personuppgifter för detta ändamål.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan andra Tradera-användare se mina personuppgifter utan min tillåtelse?
+ANSWER: Nej, andra Tradera-användare kan bara se mina kontaktuppgifter om jag är involverad i en transaktion med dem och jag har godkänt att de får se mina uppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka är några exempel på underleverantörer som Tradera kan använda för att driva sin verksamhet?
+ANSWER: Underleverantörer som kan hjälpa Tradera att driva sin verksamhet kan innefatta kundservice, bedrägeriutredningar, fakturaindrivning, lojalitetsprogram och drift av webbplatser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera lämna ut mina personuppgifter till tredje part utan mitt samtycke?
+ANSWER: Tradera kan lämna ut mina personuppgifter till en annan tredje part om jag har uttryckligen samtyckt till det eller om jag har informerats om och samtyckt till att det är nödvändigt i samband med användningen av en särskild tjänst.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka myndigheter kan Tradera lämna ut mina personuppgifter till?
+ANSWER: Tradera kan lämna ut mina personuppgifter till tillsynsmyndigheter, polismyndigheter eller annan behörig tredje part om det krävs för att besvara frågor i samband med en brottsutredning eller påstådd olaglig aktivitet eller annan aktivitet som kan medföra ansvar för Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan andra Tradera-användare se min information om jag inte är involverad i en transaktion med dem?
+ANSWER: Nej, andra Tradera-användare kan inte se min information om vi inte är involverade i en transaktion med varandra.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan Tradera använda mina personuppgifter för bedrägeriutredningar?
+ANSWER: Ja, underleverantörer som hjälper Tradera att bedriva sin verksamhet kan också använda mina personuppgifter för bedrägeriutredningar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/

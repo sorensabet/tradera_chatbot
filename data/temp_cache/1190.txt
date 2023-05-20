@@ -1,0 +1,39 @@
+QUESTION: What payment methods are allowed on Tradera?
+ANSWER: Users can only use Tradera's payment solution to make payments for purchases on Tradera, and no other payment methods are allowed. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is the limit for refunds and can the seller refund a transaction exceeding the limit?
+ANSWER: The extent of refunds is limited, and the Seller may not refund transactions exceeding 1000 SEK. In order to refund transactions in excess of 1000 SEK, the Seller must first contact Tradera's customer service to receive instructions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What is Buyer Protection?
+ANSWER: Under certain conditions, a Buyer has buyer protection which allows Buyers to have disputes handled, and to have the amount they have paid in a transaction refunded. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: When does a Seller agree to Tradera's buyer protection and dispute settlement procedures?
+ANSWER: By accepting the Terms and Conditions, the Seller agrees to the terms and conditions of Tradera's buyer protection and dispute settlement procedures in accordance with the prevailing terms and conditions. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens if the Seller does not promptly respond to the Buyer's complaint through the dispute settlement procedure provided by Tradera on My Tradera?
+ANSWER: If the Seller does not promptly notify Tradera of the responses and supporting documents requested by Tradera, Tradera may find that the Buyer shall be entitled to a refund for a product without the Seller having given his/her opinion. If the Seller has already been paid, Tradera may then send an invoice to the Seller for the amount of refund owed to the Seller, and the Seller shall then be obliged to pay this amount to Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What are the obligations of the Seller in relation to Tradera's buyer's protection?
+ANSWER: The Seller must fulfill his/her obligations in relation to Tradera's buyer's protection, regardless of the payment method by which the Buyer has chosen to pay. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What purchases are not covered by Tradera's buyer protection?
+ANSWER: Certain types of purchases are never covered by Tradera's buyer protection. These are Purchase of properties (including, without limitation, residential properties); Purchase of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircraft, and boats), except for private portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards; Purchase of customized objects (unless the recipient claims that the objects have not arrived). 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How should the Seller respond to a Buyer's complaint through the dispute settlement procedure provided by Tradera on My Tradera?
+ANSWER: The Seller should promptly respond to the Buyer's complaint through the dispute settlement procedure provided by Tradera on My Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: How does the risk of fraud affect refunds on Tradera?
+ANSWER: Due to the risk of fraud, the extent of refunds is limited, and the Seller may not refund transactions exceeding 1000 SEK. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/
+
+QUESTION: What happens if the Buyer claims that the objects have not arrived after the purchase of customized objects?
+ANSWER: In the case of purchasing of customized objects, if the recipient claims that the objects have not arrived, then it is covered by Tradera's buyer protection. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-1-3/

@@ -1,0 +1,39 @@
+QUESTION: What does Tradera recommend the seller to do when sending goods to buyers?
+ANSWER: Tradera recommends the Seller to send the goods with traceability and choose a mode of transport in which the goods sold are insured during transport up to the value of the goods. The Seller should also describe the goods in a satisfactory manner in the advertisement and deliver the goods to the carrier in the same condition as described in the advertisement. The Seller should have sent the goods to the Buyer in an appropriate manner; i.e., delivery should take place with all ordered goods being packaged and shipped in a manner that minimizes the risk of damage to the products.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are the requirements for the mode of transport chosen by the seller?
+ANSWER: The mode of transport chosen by the seller must insure the transported goods up to the value of the goods. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the responsibility of the seller when describing goods in the advertisement?
+ANSWER: The Seller should describe the goods in a satisfactory manner in the advertisement and provide photographs so that the Buyer can examine the goods and their condition before entering into the contract with the Seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Is there a cost for using Tradera's checkout solution and payout solution?
+ANSWER: No, there is no cost for using Tradera's checkout solution and payout solution as long as the seller acts in accordance with these Terms and Conditions.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Will Tradera invoice the seller if the seller acts in a way that leads to Tradera refunding transactions to the buyer?
+ANSWER: Yes, Tradera may invoice the seller for a recoverable amount if the seller acts in a way that leads to Tradera refunding transactions to the buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What are Tradera's intellectual property rights regarding everything developed by them that sellers have access to on their platform?
+ANSWER: Tradera reserves the right of ownership of all intellectual property rights in everything developed by Tradera to which the Seller has access under the Terms and Conditions and on Tradera's Platform.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What should sellers not use in order to avoid confusion with Tradera's trademark?
+ANSWER: Sellers should not use any characters, logos, symbols, or anything else that could be confused with Tradera's trademark.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's Privacy Policy regarding personal data?
+ANSWER: Tradera's ordinary Privacy Policy applies to personal information handled by Tradera in connection with these Terms and Conditions. Personal data will also be handled independently by PayPal within.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What can sellers do to minimize the risk of damage to products during shipment?
+ANSWER: Delivery should take place with all ordered goods being packaged and shipped in a manner that minimizes the risk of damage to the products.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the seller's responsibility in terms of delivering goods to the buyer?
+ANSWER: The Seller must deliver the goods to the carrier in the same condition as the Seller has described them in the advertisement and sent them to the Buyer in an appropriate manner.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

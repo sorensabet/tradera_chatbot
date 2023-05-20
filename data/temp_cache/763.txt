@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av produkter är tillåtna att sälja på Tradera?
+ANSWER: På Tradera är det tillåtet att sälja djur- och växtrelaterade produkter. Det finns dock restriktioner och regler som måste följas.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilka är några exempel på djur- och växtrelaterade objekt som omfattas av reglerna på Tradera?
+ANSWER: Några exempel på djur- och växtrelaterade objekt som omfattas av reglerna på Tradera är rävsaxar, mediciner avsedda för djur, växter och växtdelar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilket ansvar har en säljare som befinner sig utanför EU när det gäller att följa reglerna för djur- och växtrelaterade objekt?
+ANSWER: En säljare som befinner sig utanför EU ansvarar för att produkten som säljs följer Jordbruksverkets riktlinjer när det gäller djur- och växtrelaterade objekt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Får växter och växtdelar säljas på Tradera utan ett hälsocertifikat?
+ANSWER: Växter och växtdelar får säljas på Tradera så länge ett tydligt hälsocertifikat framgår i annonsen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Var kan jag hitta mer information om Jordbruksverkets riktlinjer för djur- och växtrelaterade objekt?
+ANSWER: Besök Jordbruksverkets hemsida om du vill veta mer om deras riktlinjer för djur- och växtrelaterade objekt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vilka djur- och djurdelar är tillåtna att sälja på Tradera?
+ANSWER: Det är tillåtet att sälja uppstoppade djur och djurdelar, men det finns begränsningar för arter som omfattas av CITES-listan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Får produkter som står på CITES-listan annonseras ut på Tradera?
+ANSWER: Produkter som står på CITES-listan får inte annonseras ut på Tradera, men det är tillåtet att sälja dem om de åtföljs av ett s.k. CITES-intyg, som utfärdats av Jordbruksverket.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad händer om en säljare inte följer reglerna för djur- och växtrelaterade produkter på Tradera?
+ANSWER: Om en säljare inte följer reglerna för djur- och växtrelaterade produkter på Tradera kan de stängas av från plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Vad är CITES-listan?
+ANSWER: CITES-listan är en lista över utrotningshotade arter som skyddas av internationella avtal. Produkter som omfattas av denna lista får inte annonseras ut på Tradera utan ett s.k. CITES-intyg.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/
+
+QUESTION: Var kan jag hitta mer information om EU:s förordning om handeln med vilda djur och växter?
+ANSWER: Besök EU:s hemsida om du vill veta mer om deras förordning om handeln med vilda djur och växter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/djur-och-vaxtrelaterade-objekt/

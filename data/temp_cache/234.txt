@@ -1,0 +1,43 @@
+QUESTION: What is Tradera's buyer protection fee?
+ANSWER: Tradera's buyer protection fee is 6% of the selling price with a minimum amount of 5 SEK and a maximum of 750 SEK, and it is included in the invoice fee.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What happens if I delay payment on my invoice or installment payments?
+ANSWER: If you delay the payment on your invoice or installment payments, you will be charged a reminder fee, default interest of 24%, and an administration fee of 29 SEK may be added if the payment is delayed even further. If the payment is delayed for a third time, the claim might be transferred to a dunning service where additional dunning fees may be added.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: How much is the reminder fee for late payments on Tradera?
+ANSWER: The reminder fee for late payments on Tradera is 60 SEK, and a payment period of 10 days is added, along with 24% default interest.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: How is the original invoice sent to the buyer?
+ANSWER: The original invoice is sent by e-mail, regardless of whether the buyer chooses invoice or installments. Reminder fee invoices are sent by post to the buyer's home address.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What is the credit interest on Tradera?
+ANSWER: The credit interest on Tradera is 9.95%.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What is the maximum amount of Tradera's buyer protection fee?
+ANSWER: The maximum amount of Tradera's buyer protection fee is 750 SEK.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: Is the reminder fee for late payments added to the original invoice?
+ANSWER: No, the reminder fee for late payments is not added to the original invoice. Instead, reminder fee invoices are sent by post to the buyer's home address.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What is the administration fee on delayed payments?
+ANSWER: If a payment is delayed even further, an administration fee of 29 SEK will likely be added.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: What fees are added for late payments on Tradera?
+ANSWER: For late payments on Tradera, a reminder fee, default interest of 24%, and possibly an administration fee of 29 SEK will be added. If the payment is delayed for a third time, the claim might be transferred to a dunning service where additional dunning fees may be added.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: Is Tradera's buyer protection fee included in all payment options?
+ANSWER: Yes, Tradera's buyer protection fee is included in all payment options.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/
+
+QUESTION: How much is the minimum amount for Tradera's buyer protection fee?
+ANSWER: The minimum amount for Tradera's buyer protection fee is 5 SEK.
+URL: https://info.tradera.com/en/traderabetalning/handla-pa-faktura/

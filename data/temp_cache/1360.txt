@@ -1,0 +1,39 @@
+QUESTION: Vad är reservationspris på Tradera?
+ANSWER: Reservationspris är det lägsta pris som säljaren accepterar för en produkt på Tradera. Om högsta bud inte når upp till detta pris efter auktionsslutet så behåller säljaren produkten.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är osåltavgift på Tradera?
+ANSWER: Osåltavgift är en avgift som debiteras om produkten inte säljs på Tradera. Om man publicerar fler än 100 annonser under en och samma faktureringsperiod så debiteras mellan 2,40 kr och 8 kr (exkl. moms) per osåld annons beroende på kategori från och med annons nummer 101.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken är den minsta tidsperioden för en auktion på Tradera?
+ANSWER: Den minsta tidsperioden för en auktion på Tradera är 3 dagar.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilken är den längsta tidsperioden för en auktion på Tradera?
+ANSWER: Den längsta tidsperioden för en auktion på Tradera är 14 dagar.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Kan man lägga till flera varor i lagersaldo för auktion på Tradera?
+ANSWER: Nej, man kan endast lägga till en (1) vara i lagersaldo för auktionsannonser på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka kategorier har 2,40 kr i osåltsavgift på Tradera?
+ANSWER: Följande kategorier har 2,40 kr i osåltsavgift på Tradera: Antikt & Design, Frimärken, Konst, Mynt & Sedlar, Samlarsaker, Vykort & Bilder, Böcker & Tidningar, DVD & Videofilmer, Musik, Trädgård och växter.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vilka kategorier har 8 kr i osåltsavgift på Tradera?
+ANSWER: Övriga kategorier än de som nämndes tidigare har 8 kr i osåltsavgift på Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad innebär Egenvald sluttid på Tradera?
+ANSWER: Egenvald sluttid innebär att säljaren på Tradera kan själv välja när auktionen ska sluta. Det kostar 8 kr att göra detta.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad är fastpris på Tradera?
+ANSWER: Fastpris, även kallat Köp nu, innebär att säljaren på Tradera kan sätta en fast pris på produkten och kunden kan köpa produkten direkt till det priset, istället för att vänta på en auktion.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Vad händer om högsta budet inte når upp till reservationspris efter auktionsslut på Tradera?
+ANSWER: Om högsta bud inte når upp till reservationspris efter auktionsslut på Tradera så behåller säljaren produkten och den säljs alltså inte.
+URL: https://info.tradera.com/foretag/

@@ -1,0 +1,39 @@
+QUESTION: Vad är Traderas betallösning?
+ANSWER: Traderas betallösning är en webbplats med olika betalningsalternativ som köpare från tid till annan kan använda på Traderas plattform, såsom Swish, kreditkort, PayPal och andra betalningsmetoder som Tradera kan lägga till efter hand. Betaltjänsterna på Traderas betallösning tillhandahålls av tredje parter som Tradera har avtal med.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är en transaktion på Traderas plattform?
+ANSWER: En transaktion på Traderas plattform är en betalning för varor eller tjänster som görs på plattformen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad är Tillbaka betalningsansvarigt belopp på Tradera?
+ANSWER: Tillbaka betalningsansvarigt belopp på Tradera är det belopp som säljaren ska återbetala till Tradera om en återbetalning av en betalning behöver ske. Beloppet består av en del eller hela transaktionen, plus eventuella avgifter som Tradera ålagts i samband med transaktionen, inklusive fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA, eller MasterCard.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka betalningsalternativ erbjuds på Traderas plattform?
+ANSWER: På Traderas plattform kan köpare använda olika betalningsalternativ, såsom Swish, kreditkort, PayPal och andra betalmetoder som Tradera kan lägga till efter hand. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka är de betalningsvillkor som gäller på Traderas plattform?
+ANSWER: De betalningsvillkor som gäller på Traderas plattform finns närmare beskrivna på deras webbplats. Det är viktigt att läsa igenom dessa villkor noga innan man genomför en betalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilken typ av avtal avses med "Traderas Användaravtal"?
+ANSWER: ”Traderas Användaravtal” avser Traderas vid var tid gällande villkor för användande av Traderas plattform och andra tjänster.
+URL: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+
+QUESTION: Vilka betaltjänster tillhandahålls av tredje parter på Traderas betallösning?
+ANSWER: Betaltjänsterna på Traderas betallösning tillhandahålls av tredje parter som Tradera har avtal med. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka avgifter kan åläggas Tradera i samband med transaktionen?
+ANSWER: Avgifter som kan åläggas Tradera i samband med transaktionen inkluderar fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA, eller MasterCard. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka villkor följer av Traderas användaravtal?
+ANSWER: Traderas användaravtal gäller vid var tid för användning av Traderas plattform och andra tjänster. För att använda plattformen och dess tjänster är det viktigt att läsa och följa dessa villkor. 
+URL: https://info.tradera.com/sakerhetscenter/anvandaravtal/
+
+QUESTION: Vad förväntas av Säljaren när man använder Traderas betallösning?
+ANSWER: Säljaren på Traderas plattform förväntas följa betalningsvillkoren och tillåta att betalsumman lossnar från Traderas betalningssystem till Säljarens konto. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

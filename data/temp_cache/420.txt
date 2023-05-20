@@ -1,0 +1,39 @@
+QUESTION: Hvad kan en rettighedshaver bede Tradera om at gøre?
+ANSWER: En rettighedshaver kan bede Tradera om at fjerne en annonce, hvis den indeholder en vare eller andet materiale, der overtræder ophavsrettigheder. 
+URL: https://info.tradera.com/da/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Hvilke typer overtrædelser kan føre til fjernelse af en annonce?
+ANSWER: Overtrædelser af ophavsret i forhold til et mærke eller immaterielle rettigheder, såsom kopivare eller mærkevaremisbrug, kan føre til fjernelse af en annonce. 
+URL: https://info.tradera.com/da/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Hvad skal en person, der vil verificeres som rettighedshaver, gøre?
+ANSWER: En person, der vil verificeres som rettighedshaver, skal fuldføre en verificeringsproces for at sikre, at personen, der rapporterer, er autoriseret til at gøre det.
+URL: https://info.tradera.com/da/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Hvorfor kan Tradera ikke kræve at blive oplyst om den præcise årsag til overtrædelsen, når en annonce lukkes?
+ANSWER: Identifikatorer kan være en industrihemmelighed, og derfor kan Tradera ikke kræve at blive oplyst om den præcise årsag til overtrædelsen, når en annonce lukkes.
+URL: https://info.tradera.com/da/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Hvilken information kan Tradera give en sælger, hvis en annonce fjernes?
+ANSWER: Tradera vil give en sælger en e-mailadresse, som de kan bruge til at kontakte rettighedshaveren, hvis en annonce fjernes. 
+URL: https://info.tradera.com/da/information-om-rattighetsinnehavare-pa-tradera/
+
+QUESTION: Hvad viser kategorierne på Tradera?
+ANSWER: Kategorierne på Tradera viser forskellige typer af produkter, der er til salg på platformen, såsom elektronik, tøj og tilbehør. 
+URL: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+
+QUESTION: Hvad kan man sælge som privatperson på Tradera?
+ANSWER: Som privatperson kan man sælge forskellige typer af varer på Tradera, så længe man ikke sælger dem i kommercielt omfang.
+URL: https://info.tradera.com/da/sadan-saelger-du-som-privatperson/
+
+QUESTION: Hvordan kan man beregne fragtomkostninger på Tradera?
+ANSWER: Man kan beregne fragtomkostninger på Tradera ved at bruge fragtberegneren, som viser forskellige fragtpriser baseret på produktets størrelse og vægt, samt destinationen for forsendelsen. 
+URL: https://info.tradera.com/da/fragtberegner/
+
+QUESTION: Hvor kan man finde information om Traderas handelsbetingelser?
+ANSWER: Man kan finde information om Traderas handelsbetingelser på hjemmesiden under "Handelsbetingelser". 
+URL: https://info.tradera.com/da/information-om-tradera/ 
+
+QUESTION: Hvad er Traderas velgørenhedsprogram?
+ANSWER: Traderas velgørenhedsprogram giver sælgere mulighed for at donere en del af salgsprisen på deres produkter til velgørende organisationer. 
+URL: https://om.tradera.com/tradera-supporterar/velgorenhet/

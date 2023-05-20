@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg udskyde betalingen på Tradera?
+ANSWER: Hvis sælgeren tilbyder Tradera Pay, så kan du vælge at betale med en faktura eller delbetaling via Paynova. Denne betalingsmulighed kommer altid med køberbeskyttelse. Hvis sælgeren ikke tilbyder Tradera Pay, skal du kontakte vedkommende for eventuelt at indgå en aftale om dette.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvilken køberbeskyttelse inkluderes altid i Tradera Pay?
+ANSWER: Køberbeskyttelse inkluderes altid i Tradera Pay, når du vælger at betale med faktura eller delbetaling via Paynova.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvem kan jeg spørge om fortrydelsesret, hvis jeg køber fra en privat sælger på Tradera?
+ANSWER: Da private enkeltpersoner er undtaget fra fortrydelsesretten, anbefales det, at du spørger sælgeren. 
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvem kan jeg kontakte, hvis sælgeren ikke tilbyder Tradera Pay?
+ANSWER: Hvis sælgeren ikke tilbyder Tradera Pay, kan du kontakte sælgeren for at indgå en aftale om dette.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvordan køber jeg varer på Tradera?
+ANSWER: Du kan købe varer på Tradera ved at finde den ønskede vare, indtaste dit bud, og vente på slutningen af auktionen. Hvis dit bud er det højeste, vinder du auktionen og kan betale for varen.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Kan jeg sælge som privatperson på Tradera?
+ANSWER: Ja, du kan sælge som privatperson på Tradera. Der findes en separat guide til, hvordan du sælger som privatperson på Tradera.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Gælder der en fortrydelsesret, hvis jeg køber fra en erhvervssælger på Tradera?
+ANSWER: Hvis sælgeren er en virksomhed, er det den almindelige fortrydelsesret, der gælder.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvad er de mest populære varemærker på Tradera?
+ANSWER: Du kan finde de mest populære varemærker på Tradera på siden "Populære varemærker".
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvordan beregner jeg fragtomkostningerne?
+ANSWER: Du kan beregne fragtomkostningerne ved hjælp af Traderas fragtberegner. Hvis der ikke er en fragtberegner, anbefales det, at du spørger sælgeren.
+URL: https://info.tradera.com/da/shoppa-2/
+
+QUESTION: Hvilke betalingsmuligheder findes der på Tradera?
+ANSWER: Betalingsmulighederne på Tradera afhænger af, hvad sælgeren tilbyder. Hvis sælgeren tilbyder Tradera Pay, kan du vælge at betale med en faktura eller delbetaling via Paynova. 
+URL: https://info.tradera.com/da/shoppa-2/

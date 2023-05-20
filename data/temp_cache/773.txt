@@ -1,0 +1,39 @@
+QUESTION: Hvilke typer selv-forsvars våben kan ikke sælges på Tradera?
+ANSWER: Tradera forbyder salg af visse selv-forsvals våben. Det inkluderer tåregas, springknive og dolke, kamuflerede knive der skal ligne andre objekter, såsom kreditkort, bæltespænder, læbestifter og kuglepenne.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvilken type ammunition er forbudt på Tradera?
+ANSWER: Visse typer ammunition er forbudt at sælge på Tradera, inklusiv  ammunition og skydevåben, der kan bruges én gang, såsom nødblus og signalvåben, skarp ammunition og redskaber til at fremstille ammunition.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvilke militærvåben er forbudt at sælge på Tradera?
+ANSWER: Tradera forbyder salg af militærudstyr såsom våben, ammunition og reservedele, selvom militærsymboler og øvrig tilknytning til militæret er blevet fjernet. Det inkluderer granater, inklusive granater beregnet til militærtræning, geværgranater, håndgranater, replikaer af granater og reservedele, tilbehør til mortérer, miner og replikaer af miner.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvilke typer luftvåben kan sælges på Tradera?
+ANSWER: Luftpistoler er tilladte på Tradera, så længe anslagsenergien er mindre end 10 joule.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvad er tilladte konkurrencevåben på Tradera?
+ANSWER: Tilladte konkurrencevåben på Tradera inkluderer konkurrencebuer, paintball-tilbehør og kanoner uden fangehuller.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvor mange skud skal magasiner højst have for at være tilladt på Tradera?
+ANSWER: Magasiner med høj kapacitet, som har mere end ti skud, er forbudte på Tradera.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Er det tilladt at sælge replikaer af krigsmateriel på Tradera?
+ANSWER: Tradera forbyder salg af krigsmateriel, såsom våben, ammunition og reservedele, selvom militærsymboler og øvrig tilknytning til militæret er blevet fjernet. Dette inkluderer replikaer af granater og reservedele, tilbehør til mortérer, miner og replikaer af miner.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvordan regulerer Tradera salget af knive?
+ANSWER: Tradera har regler for hvilke typer knive der kan sælges på deres platform. Forbudte knive inkluderer springknive og dolke, alle knive, der har indbygget hurtig udløsning og er beregnet til at stikke med, og kamuflerede knive der skal ligne andre objekter, såsom kreditkort, bæltespænder, læbestifter og kuglepenne. Tilladte knive inkluderer lommeknive, universalknive, såsom køkkenknive, bestik og tolleknive.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Hvordan regulerer Tradera salget af ammunition?
+ANSWER: Salg af visse typer ammunition er forbudte på Tradera, inklusiv ammunition og skydevåben, der kan bruges én gang, såsom nødblus og signalvåben, skarp ammunition og redskaber til at fremstille ammunition.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/
+
+QUESTION: Er salg af militærudstyr tilladt på Tradera?
+ANSWER: Tradera forbyder salg af militærudstyr inklusiv våben, ammunition og reservedele, selvom militærsymboler og øvrig tilknytning til militæret er blevet fjernet. Dette inkluderer granater, inklusive granater beregnet til militærtræning, geværgranater, håndgranater, replikaer af granater og reservedele, tilbehør til mortérer, miner og replikaer af miner. Varer fra militære overskudslagre er tilladt.
+URL: https://info.tradera.com/da/weapons-and-weapon-related-items/

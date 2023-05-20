@@ -1,0 +1,39 @@
+QUESTION: Vilka är budreglerna på Tradera?
+ANSWER: Bud på Tradera är bindande. När du lägger ett bud på en auktion samtycker du till att köpa varan om du vinner auktionen. Om du av någon anledning inte kan eller vill fullfölja köpet kan det påverka ditt konto på Tradera och negativt påverka din rykte.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/bud-ar-bindande/
+
+QUESTION: Kan man ångra ett bud som lagts på Tradera?
+ANSWER: Nej, man kan inte ångra ett bud som lagts på Tradera. Bud på Tradera är bindande och innebär att om du vinner auktionen samtycker du till att köpa varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/bud-ar-bindande/
+
+QUESTION: Vad händer om man vinner en auktion på Tradera men inte betalar?
+ANSWER: Om du vinner auktionen men inte betalar kan det påverka ditt konto och din rykte negativt. Du kan även bli avstängd från att handla på Tradera. Det är därför viktigt att endast lägga bud om du verkligen är intresserad av att köpa varan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/auktionens-slarvregler/
+
+QUESTION: Vad är Grön frakt på Tradera?
+ANSWER: Grön frakt är en tjänst som Tradera erbjuder som gör det lättare för säljare och köpare att handla hållbart och miljövänligt. Tjänsten gör det möjligt för köpare att välja att få sina varor skickade med klimatkompenserade frakter och för säljare att göra sina paket mer miljövänliga genom att använda återvunna material och rätt storlek på paketet.
+URL: https://www.tradera.com/page/21a1b4c
+
+QUESTION: Hur säljer man som privatperson på Tradera?
+ANSWER: För att sälja som privatperson på Tradera behöver du registrera dig som användare och skapa ett konto. Sedan kan du lägga upp annonser för de varor du vill sälja och följa stegen för att beskriva varan, ange pris, välja fraktalternativ etc. När någon köper din vara på Tradera får du som säljare en notis via mail att en köpare vunnit din auktion och ni kan därefter kommunicera med varandra om betalning och leverans.
+URL: https://info.tradera.com/sokerhet/salja-pa-tradera/sa-saljer-du-som-privatperson/
+
+QUESTION: Kan man sälja som företag på Tradera?
+ANSWER: Ja, man kan sälja som företag på Tradera. För att sälja som företag krävs det dock att man har ett Traderakonto för företag samt att man har ett svenskt organisationsnummer och ett svenskt bankkonto. Därefter följer man stegen för att lägga upp annonser och sälja som vanligt på Tradera.
+URL: https://info.tradera.com/sokerhet/salja-pa-tradera/salj-som-foretag/
+
+QUESTION: Vad är fraktkalkylatorn på Tradera?
+ANSWER: Fraktkalkylatorn på Tradera är ett verktyg som gör det lättare för både säljare och köpare att beräkna fraktpris för olika typer av leveranser. Genom att ange avsändarens och mottagarens postnummer samt vikt och storlek på paketet kan man få en uppskattning på vad fraktkostnaden kommer bli.
+URL: https://www.tradera.com/page/88aeb20b
+
+QUESTION: Vad är "Donera med Tradera"?
+ANSWER: "Donera med Tradera" är en tjänst som gör det möjligt för säljare på Tradera att donera en del av intäkterna från sina försäljningar till olika välgörenhetsorganisationer. Säljaren kan välja att donera en viss andel av försäljningspriset till organisationen som står för frakten, eller så kan man välja att donera en valfri summa till en välgörenhetsorganisation som man själv väljer.
+URL: https://www.tradera.com/page/de02c17d
+
+QUESTION: Vad är Traderas integritetspolicy?
+ANSWER: Traderas integritetspolicy beskriver hur Tradera hanterar och skyddar användares personuppgifter enligt gällande dataskyddslagar. Policyt beskriver bl.a. vilken typ av information som Tradera samlar in, hur informationen används, och vilka rättigheter användare har när det gäller insamling av deras personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/integritetspolicy/
+
+QUESTION: Vad är "Vanliga frågor och svar" på Tradera?
+ANSWER: "Vanliga frågor och svar" är en del av Traderas kundtjänst som ger svar på de mest frekventa frågorna som Traderas användare har. Här kan man hitta svar på allt från hur man skapar en annons till hur man betalar eller hanterar försändelser.
+URL: https://www.tradera.com/page/5b8e8fa9

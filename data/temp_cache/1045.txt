@@ -1,0 +1,39 @@
+QUESTION: Vad är Klarna Resell?
+\ANSWER: Klarna Resell är en funktion som låter Klarna-användare sälja vidare sina tidigare köp från både Tradera och andra e-handlare. Funktionen gör det enkelt att sälja dina gamla köp med bara ett knapptryck.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Hur loggar jag in på Klarna för att se min faktura?
+\ANSWER: Du kan enkelt logga in på Klarnas hemsida eller direkt i din Klarna-app för att se dina fakturor. Om du inte har använt Klarna tidigare så kommer ditt konto att skapas automatiskt vid ditt första köp.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Hur omvandlar jag min faktura till delbetalning på Klarna?
+\ANSWER: Om du vill omvandla din faktura till delbetalning så kan du logga in på Klarnas hemsida eller i din Klarna-app för att göra det. Där kan du välja hur mycket du vill dela upp fakturan i och vilken betalningsplan som passar dig.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad ska jag göra om en affär inte går som planerat?
+\ANSWER: Om en affär inte går som planerat så rekommenderas det att du i första hand kontaktar säljaren för att lösa eventuella problem. Om ni inte kan komma överens så kan du starta en tvist, läs mer om hur du gör det på sidan.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad är köparskyddet hos Klarna?
+\ANSWER: Köparskyddet hos Klarna är en försäkring för att garantera att du får tillbaka dina pengar om en affär går fel. Det är rekommenderat att du kontaktar säljaren i första hand för att lösa problem, men om ni inte kan komma överens så kan du använda köparskyddet för att få tillbaka pengarna.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad är fördelen med att använda Klarna på Tradera?
+\ANSWER: Fördelen med att använda Klarna på Tradera är att du kan dela upp betalningar och göra säkra köp. Du kan även enkelt se dina fakturor och hantera eventuella dispyter direkt genom Klarna.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Kan jag sälja vidare produkter jag köpt genom Klarna på Tradera?
+\ANSWER: Ja, med Klarna Resell kan du enkelt sälja vidare produkter du köpt genom Klarna på Tradera eller andra e-handlare. Funktionen gör det enkelt att sälja dina gamla köp med bara ett knapptryck.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad är delbetalning på Klarna?
+\ANSWER: Delbetalning på Klarna är när du delar upp betalningen av en faktura i mindre betalningar. Du kan själv välja hur mycket du vill dela upp fakturan i och vilken betalningsplan som passar dig.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Vad gör jag om jag vunnit en tvist men inte fått kreditering för köparskyddskostnaden?
+\ANSWER: Precis som med andra försäkringar så kvarstår premien för köparskyddet även om du har använt det. Så om du har vunnit en tvist men inte fått kreditering för köparskyddet så beror det på att premien fortfarande kvarstår.
+URL: https://info.tradera.com/klarna/
+
+QUESTION: Var kan jag hitta min faktura?
+\ANSWER: Du kan enkelt hitta din faktura genom att logga in på Klarnas hemsida eller direkt i Klarna-appen. Om du inte är kund sedan tidigare så skapas ditt konto automatiskt vid första köpet.
+URL: https://info.tradera.com/klarna/

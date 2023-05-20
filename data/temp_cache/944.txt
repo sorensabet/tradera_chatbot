@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's buyer protection?
+\ANSWER: Tradera's buyer protection is an option for buyers to have their purchase protected when using certain payment options. Klarna, Paynova, and PayPal payments automatically come with buyer protection, while other payment options can have buyer protection added for an additional fee.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: How much does Tradera's buyer protection cost?
+\ANSWER: Tradera's buyer protection costs 5% of the total amount, with a minimum of 5 SEK and a maximum of 750 SEK.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Which payment options come with automatic buyer protection on Tradera?
+\ANSWER: Klarna, Paynova, and PayPal payments on Tradera come with automatic buyer protection.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Is buyer protection optional for all payment options on Tradera?
+\ANSWER: No, buyer protection is not optional for all payment options on Tradera. Only Klarna, Paynova, and PayPal come with automatic buyer protection, while buyer protection is optional for other payment options.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: What payment options can have buyer protection added on Tradera?
+\ANSWER: Credit/debit card, Google Pay, Apple Pay, and Swish payments that are made directly to Tradera as the recipient can have buyer protection added for an additional fee.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Is Swish payment directly to the seller covered by Tradera's buyer protection?
+\ANSWER: No, Swish payment directly to the seller is not covered by Tradera's buyer protection. 
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: How do I use Tradera's buyer protection if I paid with PayPal?
+\ANSWER: If you paid with PayPal, you need to start the dispute from your PayPal account. You need to create a dispute for the listing that you wish to use the buyer protection on, escalate the dispute to Tradera, and then Tradera will handle the dispute. You may be asked to provide additional information, and the dispute is usually resolved within 14 days.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Is Tradera's buyer protection available for both private and business sellers?
+\ANSWER: Yes, Tradera's buyer protection is available for both private and business sellers.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: What is the maximum amount of money that can be covered by Tradera's buyer protection?
+\ANSWER: The maximum amount of money that can be covered by Tradera's buyer protection is 750 SEK.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: What is the minimum amount of money that Tradera's buyer protection costs?
+\ANSWER: The minimum amount of money that Tradera's buyer protection costs is 5 SEK.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/

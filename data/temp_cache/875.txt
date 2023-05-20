@@ -1,0 +1,39 @@
+QUESTION 1: What happens if Tradera cannot pay the seller?
+ANSWER: If Tradera cannot pay the seller, they will contact the seller to request the outstanding information, and once they have received the necessary information, the seller will, as a general rule, be paid within two business days.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 2: Under what circumstances will Tradera withhold payment from the seller?
+ANSWER: Tradera reserves the right to withhold payment if there is a suspicion that the seller will not fulfill his/her obligations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 3: How does the Swish payment method work on Tradera's platform?
+ANSWER: When a buyer wishes to pay by Swish, the payment goes directly from the buyer's account to the seller's account. Tradera's payment solution facilitates the transaction by automatically filling in the seller's telephone number in the Swish app, and the buyer can then authorize the payment directly.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 4: What happens when a buyer pays by card or PayPal on Tradera's platform?
+ANSWER: If a buyer pays by card or PayPal, the money will first be deposited in PayPal's (Hyperwallet) bank account. Tradera will then verify the transaction, and if it is approved by Tradera, PayPal will pay the money to the seller. Once the buyer has paid, Tradera will notify the seller via e-mail and in My Tradera that payment has been made. The goods should then be sent by the seller to the buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 5: How does payment by invoice or installments work on Tradera's platform?
+ANSWER: When selling on the platform, if the buyer has chosen to pay via Paynova, the seller accepts that PayPal takes over the seller's right to be paid by the buyer in exchange for PayPal to pay the seller for the transaction. When selling on the platform, if the buyer has chosen to pay via Klarna, the seller transfers the right to receive payment from the buyer to Tradera, and Tradera transfers such claim to Klarna.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 6: How quickly should the seller send the goods to the buyer after Tradera confirms the payment from the buyer?
+ANSWER: Upon Tradera's confirmation that the buyer has made a payment, the seller shall immediately send the goods to the buyer.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 7: Does Tradera guarantee payment to the seller?
+ANSWER: Tradera does not guarantee payment to the seller. However, they withhold payment as long as there is a suspicion that the seller will not fulfill his/her obligations.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 8: Does Tradera automatically fill in the seller's telephone number in the Swish app for the buyer?
+ANSWER: Yes, Tradera's payment solution automatically fills in the seller's telephone number in the Swish app for the buyer, which facilitates the transaction.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 9: What is the role of PayPal in card and PayPal payments on Tradera's platform?
+ANSWER: In card and PayPal payments, the money is first deposited in PayPal's (Hyperwallet) bank account. Tradera then verifies the transaction, and if it is approved, PayPal will pay the money to the seller.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 10: What happens if the seller chooses to sell on the platform and the buyer chooses to pay via Klarna?
+ANSWER: If the seller chooses to sell on the platform and the buyer chooses to pay via Klarna, the seller transfers the right to receive payment from the buyer to Tradera, and Tradera transfers such claim to Klarna.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/

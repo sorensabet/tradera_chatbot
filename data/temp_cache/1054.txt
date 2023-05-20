@@ -1,0 +1,39 @@
+QUESTION 1: Vilka cookies är nödvändiga för att Tradera ska fungera?
+ANSWER: Enligt informationen på webbsidan är nödvändiga cookies de som krävs för att Tradera ska fungera och de kan inte stängas av.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 2: Vad används prestandacookies för på Tradera?
+ANSWER: Prestandacookies används för att mäta anonymt hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 3: Vad erbjuder funktionscookies på Tradera?
+ANSWER: Funktionscookies på Tradera erbjuder utökad funktionalitet och användaranpassning på plattformen, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 4: Vad används marknadsföringscookies för på Tradera? 
+ANSWER: Marknadsföringscookies används på Tradera av annonseringspartners för att rikta annonser som är relevanta för användaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 5: Kan användare stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, enligt informationen på Traderas hemsida kan inte nödvändiga cookies stängas av eftersom de krävs för att Tradera ska fungera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 6: Vad händer om användaren inte godkänner Traderas användning av cookies?
+ANSWER: Om användaren inte godkänner Traderas användning av cookies kommer vissa funktioner och tjänster på plattformen inte att fungera korrekt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 7: Vilka partners använder Tradera för sociala medier?
+ANSWER: Tradera har partners för sociala medier, annonsering och analys, men inga specifika namn eller företag anges på webbsidan.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 8: Vad är syftet med att använda cookies på Tradera?
+ANSWER: Syftet med att använda cookies på Tradera är att förbättra användarupplevelsen på plattformen genom att möjliggöra utökad funktionalitet, användaranpassning och riktade annonser.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 9: Kan användare själva välja vilka cookies de vill tillåta på Tradera?
+ANSWER: Ja, användare kan själva välja vilka cookies de vill tillåta på Tradera genom att ändra inställningarna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION 10: Var kan man läsa mer om cookies på Tradera?
+ANSWER: Man kan läsa mer om cookies på Tradera genom att klicka på länken "Vad är det här? Läs mer" på Traderas webbsida.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/

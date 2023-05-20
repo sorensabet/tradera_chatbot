@@ -1,0 +1,39 @@
+QUESTION: Vad är den vanligaste typen av annonser på Tradera och hur fungerar de?
+ANSWER: Den vanligaste typen av annonser på Tradera är auktioner med en fast sluttid där personen med högsta budet när auktionen avslutas vinner. Bud är bindande och kan leda till anmälan om man inte betalar för en vunnen auktion. Det finns även fastprisannonser och butiksannonser där du kan köpa varan direkt utan budgivning.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad bör man tänka på när man handlar på Tradera? 
+ANSWER: När man handlar på Tradera bör man läsa beskrivningen av varan noggrant och kontrollera skicket på eventuella bilder som finns i annonsen, då majoriteten av varorna som säljs på sidan är begagnade. Det finns också flera olika betalsätt att välja på och vid köp av dyrare varor rekommenderas det att man väljer till köparskyddet. Olika annonser kan dessutom ha olika fraktalternativ.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan man köpa varor utan budgivning på Tradera?
+ANSWER: Ja, det finns fastprisannonser och butiksannonser där man kan köpa varor direkt utan budgivning.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad är köparskyddet på Tradera och när rekommenderas det?
+ANSWER: Köparskyddet är en tjänst som Tradera erbjuder vid köp av dyrare varor, då det ger extra säkerhet för köparen. Vid eventuella tvister om varan eller betalningen kan köparskyddet hjälpa till att lösa situationen på ett smidigt sätt. Köparskyddet rekommenderas vid köp av dyrare varor.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vilka olika betalsätt kan man välja på när man handlar på Tradera?
+ANSWER: Det finns flera olika betalsätt att välja på när man handlar på Tradera, bland annat Swish, kortbetalning, Klarna faktura eller delbetalning samt banköverföring.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan man hämta varor själv istället för att få dem skickade?
+ANSWER: Ja, det kan hända att varor säljs med endast avhämtning som fraktalternativ.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Är budet på Tradera bindande?
+ANSWER: Ja, bud är bindande på Tradera och att inte betala för en vunnen auktion kan leda till anmälan. Vid flera anmälningar kan kontot komma att spärras.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Vad händer om man inte betalar för en vunnen auktion på Tradera?
+ANSWER: Om man inte betalar för en vunnen auktion på Tradera kan det leda till anmälan. Vid flera anmälningar kan kontot komma att spärras.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Kan man sälja både nya och begagnade varor på Tradera?
+ANSWER: Ja, både nya och begagnade varor kan säljas på Tradera, men majoriteten av varorna som säljs på sidan är begagnade.
+URL: https://info.tradera.com/shoppa/
+
+QUESTION: Var kan man hitta mer information om hur man handlar på Tradera?
+ANSWER: Mer information om hur man handlar på Tradera finns på deras hemsida under fliken "Köpa" samt i deras Villkor och regler.
+URL: https://info.tradera.com/shoppa/

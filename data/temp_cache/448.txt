@@ -1,0 +1,39 @@
+QUESTION: Vilka krav kan Tradera ställa på indiviudella Butiker?
+ANSWER: Förutom vid var tid gällande regler för säljare kan Tradera ställa ytterligare krav på individuella Butiker avseende bland annat leveranstid, typ av produkter till försäljning, och kvalitet på bilder och produktbeskrivning.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vad händer om man inte vidtar åtgärder inom 15 dagar när man blir uppmanad att rätta till något i butiken?
+ANSWER: Om man inte vidtar åtgärder inom 15 dagar efter att man har blivit uppmanad att rätta till något i butiken, har Tradera rätt att omedelbart begränsa eller förbjuda tillgång och användning av tilläggstjänsten. Tradera kan också ta bort annonser eller annat innehåll som hör till din Butik och vidta andra åtgärder för att hindra dig från att använda din Butik. 
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Var kan man hitta ytterligare villkor kring tilläggstjänsten Butik?
+ANSWER: Ytterligare villkor kring tilläggstjänsten Butik, såsom de prislistor som tillämpas, hittar du under Traderas sida om Butik.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vad är Butikstjänsten Tradera?
+ANSWER: Butikstjänsten Tradera tillhandahåller på marknadsplatsen www.tradera.com en komplett e-handelslösning för försäljning av produkter i webbutik (” Butiken ”), där du som säljare (” Butiksinnehavare ”) kan lägga upp annonser för försäljning.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vilka är kraven vid försäljning genom Butik på Tradera?
+ANSWER: Utöver vid var tid gällande regler för säljare kan Tradera ställa ytterligare krav på individuella Butiker avseende bland annat leveranstid, typ av produkter till försäljning, och kvalitet på bilder och produktbeskrivning.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vad är en Butiksinnehavare på Tradera?
+ANSWER: En Butiksinnehavare på Tradera är en säljare som använder Butikstjänsten för att lägga upp annonser för försäljning av produkter i webbutik på Tradera.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vilken är uppsägningstiden för tilläggstjänsten Butik?
+ANSWER: För tilläggstjänsten Butik gäller en generell ömsesidig uppsägningstid om 30 dagar.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vilken typ av e-handelslösning erbjuder Butikstjänsten Tradera?
+ANSWER: Butikstjänsten Tradera erbjuder en komplett e-handelslösning för försäljning av produkter i webbutik på marknadsplatsen www.tradera.com.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Var kan man hitta information om priser för tilläggstjänsten Butik?
+ANSWER: Ytterligare villkor kring tilläggstjänsten Butik, såsom de prislistor som tillämpas, hittar du under Traderas sida om Butik.
+URL: https://info.tradera.com/butiksavtal/
+
+QUESTION: Vilka åtgärder kan Tradera vidta om man inte vidtar åtgärder inom 15 dagar efter uppmaning att rätta till något i Butiken?
+ANSWER: Om man inte vidtar åtgärder inom 15 dagar efter att man har blivit uppmanad att rätta till något i butiken, har Tradera rätt att omedelbart begränsa eller förbjuda tillgång och användning av tilläggstjänsten. Tradera kan också ta bort annonser eller annat innehåll som hör till din Butik och vidta andra åtgärder för att hindra dig från att använda din Butik. 
+URL: https://info.tradera.com/butiksavtal/

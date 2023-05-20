@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att ha en regel kring annonser utan objekt till försäljning på Tradera?
+ANSWER: Syftet med att ha en regel om annonser utan objekt till försäljning är att säkerställa att alla annonser på Tradera innehåller ett faktiskt objekt för att undvika bedrägerier och vilseledande annonser. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Vad krävs för att en annons ska få säljas på Tradera?
+ANSWER: En annons behöver innehålla ett faktiskt objekt för att få säljas på Tradera och det krävs även en bild på varan i annonsen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/annonser-utan-objekt-till-forsaljning/
+
+QUESTION: Hur kan man undvika bedrägerier på Tradera?
+ANSWER: Man kan undvika bedrägerier på Tradera genom att följa reglerna på plattformen, vara försiktig med betalningar och läsa på om säljarens omdöme och historik innan man köper från dem.
+URL: https://info.tradera.com/sakerhetscenter/
+
+QUESTION: Vilka typer av objekt får man inte sälja på Tradera?
+ANSWER: Det finns flera typer av objekt som inte får säljas på Tradera, inklusive explosiva och drogrelaterade objekt, livsmedel, vapenrelaterade objekt, pornografiskt material, och förfalskade sedlar, mynt och frimärken.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-du-inte-far-salja/
+
+QUESTION: Får man sälja begagnade underkläder på Tradera?
+ANSWER: Nej, man får inte sälja begagnade underkläder på Tradera på grund av hygieniska skäl och att det är emot plattformens regler.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begagnade-underklader/
+
+QUESTION: Kan man sälja elektronisk utrustning på Tradera?
+ANSWER: Ja, man kan sälja elektronisk utrustning på Tradera, men det är viktigt att följa plattformens regler och se till att utrustningen är säker och fungerande.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/
+
+QUESTION: Vad ska man göra om man vill reklamera en vara man har köpt på Tradera?
+ANSWER: Om man vill reklamera en vara man har köpt på Tradera ska man kontakta säljaren först för att se om problemet kan lösas på plats. Om säljaren inte svarar eller om problemet inte kan lösas privat kan man använda Traderas reklamationsfunktion.
+URL: https://info.tradera.com/sakerhetscenter/reklamation/
+
+QUESTION: Får man sälja varor utanför Sverige på Tradera?
+ANSWER: Ja, man får sälja varor utanför Sverige på Tradera, men det kan finnas specifika regler och avgifter för internationell frakt som säljaren måste följa.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vad händer om man lägger ett bud på Tradera och vinner auktionen?
+ANSWER: Om man lägger ett bud på Tradera och vinner auktionen är budet bindande och man förväntas betala för objektet. Om man inte betalar kan man få en varning, kontosuspendering eller stämmas för att inte upprätthålla sin skyldighet att fullfölja köpet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Får man sälja förfalskningar på Tradera?
+ANSWER: Nej, man får inte sälja förfalskade varor på Tradera. Detta inkluderar förfalskade sedlar, mynt, frimärken, märkeskopior och andra kopior.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markeskopior-forfalskningar-och-andra-kopior/

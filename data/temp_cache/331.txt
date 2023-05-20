@@ -1,0 +1,39 @@
+QUESTION: Varför samlar ni in information från användarnas webbläsare eller enhet?
+ANSWER: Vi samlar in information från användarnas webbläsare eller enhet för att förbättra användarupplevelsen på våra webbplatser, tjänster, applikationer, meddelandetjänster och verktyg.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken typ av information samlar ni in med hjälp av cookies på er webbplats?
+ANSWER: Vi kan samla in information såsom IP-adress, webbläsarens typ och språk, dina tillgängliga operativsystem, skärmupplösning, aktiviteter på Tradera, tid och datum för dina besök, vilka sidor eller funktioner på Tradera som du använder och sökfrågor på Tradera.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är sessionscookies och hur används de?
+ANSWER: Sessionscookies finns kvar så länge webbläsaren är aktiv och ger oss möjlighet att koppla ihop dina handlingar under den aktuella webbläsarsessionen. Med hjälp av sessionscookies kan vi exempelvis se vilka artiklar du lägger i din varukorg när du handlar på vår webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är varaktiga cookies och hur används de?
+ANSWER: Varaktiga cookies lagras på din enhet mellan webbläsarsessioner, vilket gör att vi kan komma ihåg dina inställningar eller åtgärder på flera webbplatser. Exempelvis kan vi med hjälp av varaktiga cookies komma ihåg dina inställningar för att visa annonser som är relevanta för dig.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är förstahandscookies och hur skiljer de sig från tredjepartscookies?
+ANSWER: Förstahandscookies används av webbplatsen du besöker medan tredjepartscookies används av en tredje mans webbplats, skild från webbplatsen du besöker.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan jag inaktivera eller ta bort cookies från min webbläsare?
+ANSWER: Ja, cookies kan inaktiveras eller tas bort med verktyg som finns tillgängliga i de flesta webbläsare på marknaden. Detta kan dock påverka funktionaliteten på Tradera och i vissa fall hindra användarens förmåga att använda Tradera fullt ut.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är webb-beacons?
+ANSWER: Webb-beacons är små bildfiler som kan finnas på webbsidor, e-postmeddelanden eller annonser. De används oftast tillsammans med cookies och används för att mäta aktivitet på en webbplats eller för att spåra användare.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur används informationen som samlas in med hjälp av webb-beacons?
+ANSWER: Information som samlas in med hjälp av webb-beacons används vanligtvis för att spåra användares aktiviteter på en webbplats, mäta effektiviteten av annonser eller för att förbättra användarupplevelsen för användare av en webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är skillnaden mellan cookies och liknande teknik såsom fingerprinting?
+ANSWER: Cookies är små textfiler som lagras på din webbläsare eller enhet medan fingerprinting är en teknik för att förvärva enhetsspecifika attribut för att identifiera en enhet eller användare. Cookies kräver aktivt samtycke från användaren medan fingerprinting kan ske utan användarinvolvering.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Använder Tradera någon annan liknande teknik för att samla in information om användarna?
+ANSWER: Ja, vi kan använda liknande teknik som fingerprinting eller liknande teknik för att identifiera enheter för att förbättra användarupplevelsen på vår webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

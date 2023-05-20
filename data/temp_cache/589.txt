@@ -1,0 +1,39 @@
+QUESTION: Vilka dagar sker leveranser till och från ombud?
+ANSWER: Leveranser till och från ombud sker helgfria vardagar, måndag till fredag.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vad ska jag göra om min vara inte har kommit fram?
+ANSWER: Om din vara inte har kommit fram måste du starta en reklamation när leveranstiden överstiger 30 dagar. 
+URL: https://info.tradera.com/dhl/
+
+QUESTION: När måste jag starta en reklamation av innehållet i en försändelse?
+ANSWER: Reklamation av innehållet i en försändelse måste startas hos DHL senast 7 dagar efter att försändelsen hämtats ut.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vilket försäljningspris betalar Tradera ersättning för vid förlust eller skada av en vara?
+ANSWER: Vid förlust eller skada betalas ersättning för varan upp till varans försäljningspris på Tradera, dock max 5000 kr (försäkringen gäller endast för varor skickade inom Sverige).
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Är alla paket som skickas med DHL via Tradera försäkrade? 
+ANSWER: Ja, alla paket som skickas med DHL via Tradera är försäkrade.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vem ansvarar för att packa varor så att de inte skadas under transport?
+ANSWER: Avsändaren ansvarar för att paketera varan så att den klarar transporten. 
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Kan inlämnade paket ha olika avgångstider för olika ombud?
+ANSWER: Ja, inlämnade paket kan ha olika avgångstider för olika ombud, det är bäst att fråga ditt ombud om vilka avgångstider som gäller.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Hur lång tid måste jag vänta innan jag kan göra en reklamation om en ej mottagen vara?
+ANSWER: Reklamation av ej mottagen vara kan startas när leveranstiden överstigit 30 dagar.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Kan det ta längre tid beroende på var i landet avsändaren och mottagaren befinner sig?
+ANSWER: Ja, beroende på inlämningstid och var i landet avsändare och mottagare befinner sig kan det ta 1-2 dagar extra för leveransen.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Var kan jag göra en reklamation för en vara som inte har kommit fram eller har kommit fram skadad?
+ANSWER: Du kan göra en reklamation via länken på denna sida: https://info.tradera.com/dhl/
+URL: https://info.tradera.com/dhl/

@@ -1,0 +1,39 @@
+QUESTION: Hvad er usolgt gebyr på Tradera?
+ANSWER: Usolgt gebyr på Tradera er det beløb, som erhvervssælgere på Tradera skal betale, hvis deres vare ikke bliver solgt. Usolgt gebyr på Tradera er 8 SEK.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: What are the different categories available for selling on Tradera?
+ANSWER: The different categories available for selling on Tradera are Antikvitet & design, Frimærker, Kunst, Mønter & pengesedler, Samlervarer, Postkort & billeder, Bøger & blade, DVD & VHS, Musik, and Have & Planter.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: What is a butiksabonnement on Tradera?
+ANSWER: A butiksabonnement on Tradera is a subscription that can be added to an account of an e-commerce seller. It gives access to a different ad format called butiksannoncer. With a subscription, sellers can add stock balances to their products and keep ads active until the stock runs out or until they choose to close the ad. Buyers can add multiple items to their shopping cart and pay for all items at once. Having a subscription also allows for the username to be searchable on the Tradera website.
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: What is included in a business account on Tradera?
+ANSWER: A business account on Tradera includes access to 100 auctions or ads with fixed prices at all times. It is also possible to change settings related to a store and the publication of store ads via Sello. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: How can sellers add more information about their business on Tradera?
+ANSWER: Sellers on Tradera can add more information about their business by going to the tabs for sales terms and contact information. They can also change settings related to their store and the publication of store ads via Sello. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: What is Sello on Tradera?
+ANSWER: Sello is a service provided by Tradera that allows for settings related to a store and the publication of store ads to be changed. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: What is a butiksannonce on Tradera?
+ANSWER: A butiksannonce on Tradera is a type of ad format that can be accessed by adding a butiksabonnement to a seller's account. The ads allow for stock balances to be included and can be kept active until the stock runs out or until the seller chooses to close the ad. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: What happens if a seller's ad on Tradera doesn't sell?
+ANSWER: If a seller's ad on Tradera doesn't sell, the seller will be charged an usolgt gebyr (unsold fee) of 8 SEK. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: How do buyers purchase items on Tradera?
+ANSWER: Buyers on Tradera can add multiple items to their shopping cart and pay for all items at once. 
+URL: https://info.tradera.com/da/virksomhedskonto/
+
+QUESTION: Is it possible for an e-commerce seller's username to be searchable on Tradera's website?
+ANSWER: Yes, having a butiksabonnement on Tradera allows for an e-commerce seller's username to be searchable on Tradera's website.
+URL: https://info.tradera.com/da/virksomhedskonto/

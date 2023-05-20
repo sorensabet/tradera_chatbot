@@ -1,0 +1,39 @@
+QUESTION: What is the Sello sales tool and what does it offer?
+ANSWER: The Sello sales tool is a tool that offers easy publishing of listings and order management of your listings as well as sales documentation for accounting. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How can I start using Sello?
+ANSWER: To start using Sello, you need to register your account by clicking on the link provided in the text. Then, enter the same login information that you use on Tradera, and your Sello account will be automatically linked to your Tradera account. The first time you log in to Sello, all your active auctions, fixed price ads, and shop items from Tradera will be imported. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How should I make changes to my listings when using Sello?
+ANSWER: When using Sello, it is recommended that you make changes directly in Sello and not in “My Tradera” as it might be a risk getting unsynchronized items. Any changes made directly in Sello will be synced in “My Tradera”. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How can I get help with Sello?
+ANSWER: The easiest way to get help with Sello-related issues and questions is through the chat feature on Sello. The chat can be found in the bottom right corner when you are logged in to Sello. Questions can also be directed to Tradera's support for businesses. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How does Tradera Pay work for sellers?
+ANSWER: Tradera Pay allows sellers to offer more payment options without having to create extra accounts. Regardless of how the buyer chooses to pay, the money will go into the bank account specified by the seller. The money arrives in the seller’s bank account 1-2 business days after the listing is paid, and there are no transaction costs for the seller. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What payment options does Tradera Pay offer to buyers?
+ANSWER: Tradera Pay offers buyers the option to pay directly or by invoice and installment. Buyer protection is included when paying with Paynova. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: How long does it take for the money to arrive in the seller’s bank account after a listing is paid?
+ANSWER: After a listing is paid, the money arrives in the seller’s bank account within 1-2 business days. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: Does Sello offer sales documentation for accounting?
+ANSWER: Yes, Sello offers sales documentation for accounting. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What happens when a buyer chooses to pay with Tradera Pay?
+ANSWER: When a buyer chooses to pay with Tradera Pay, the money goes directly into the seller’s bank account specified during the listing. The buyer can choose to pay directly or by invoice and installment, and buyer protection is included when paying with Paynova. 
+URL: https://info.tradera.com/en/foretag/
+
+QUESTION: What payment options are available for payments with Tradera Pay?
+ANSWER: Tradera Pay allows payments to be made to the seller’s PayPal account or IBAN account. 
+URL: https://info.tradera.com/en/foretag/

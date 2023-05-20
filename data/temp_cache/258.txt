@@ -1,0 +1,39 @@
+QUESTION: Vilken typ av cookies skulle Tradera använda för att mäta användarupplevelsen anonymt?
+ANSWER: Tradera använder prestandacookies för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Kan användarna stänga av de nödvändiga cookies som används för att Tradera ska fungera?
+ANSWER: Nej, de nödvändiga cookies som används för att Tradera ska fungera kan inte stängas av. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilken typ av cookies skulle Tradera använda för att skapa målinriktade annonser för användarna?
+ANSWER: Tradera skulle använda marknadsföringscookies för att skapa målinriktade annonser för användarna.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilken typ av cookies skulle Tradera använda för att tillhandahålla utökad funktionalitet och anpassning för användarna?
+ANSWER: Funktionella cookies skulle användas av Tradera för utökad funktionalitet och anpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för olika ändamål, såsom att få Tradera att fungera, för att förbättra användarupplevelsen, för att tillhandahålla utökad funktionalitet och anpassning för användarna och för målinriktad annonsering.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Kan användarna ta bort cookies från Tradera?
+ANSWER: Ja, användare kan ta bort cookies från Tradera. I vanliga webbläsare kan användare radera cookies genom att följa webbläsarens anvisningar för att hantera cookies.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Kan Tradera dela användarnas personuppgifter med tredje part?
+ANSWER: Ja, Tradera kan dela användarnas personuppgifter med tredje part, t.ex. för att tillhandahålla tjänster eller marknadsföring. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilken typ av information kan Tradera samla in om användarna?
+ANSWER: Tradera kan samla in olika typer av information om användarna, t.ex. personuppgifter, teknisk information om enheten och nätverket, användaraktivitet och köptransaktionsinformation. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilka regler och rättigheter har användarna enligt lag när det gäller sina personuppgifter på Tradera?
+ANSWER: Användare har rätt att få tillgång till, rätta och radera personuppgifter som Tradera har om dem. Användare har också rätt att invända mot eller begränsa viss behandling av personuppgifter samt att begära dataportabilitet. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Kan användarna ångra eller avbryta sitt köp på Tradera?
+ANSWER: Ja, användare har rätt att ångra eller avbryta sitt köp på Tradera inom 14 dagar efter att de tagit emot varan. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/

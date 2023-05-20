@@ -1,0 +1,39 @@
+fraktpriset för internationell frakt inte inkluderas vid köp inom EU?
+\ANSWER: Fraktpriset för internationell frakt behöver inte inkluderas vid köp inom EU eftersom det svenska fraktpriset kommer räknas som en rabatt för köparen om säljaren erbjuder fri frakt till kunder inom EU. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad gör jag om jag ska skicka min försändelse utanför EU?
+\ANSWER: Om du ska skicka din försäljning utanför EU behöver du själv kolla upp och uppdatera fraktpriset innan köparen betalar. Du behöver även boka frakten direkt från speditörens hemsida. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur bokar jag frakt på Tradera?
+\ANSWER: För att boka frakt på Tradera behöver du först motta betalningen och därefter boka frakten från speditörens hemsida eller via Traderas fraktkalkylator. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad kostar frakt hos Tradera?
+\ANSWER: Priserna för frakt hos Tradera beror på vilken speditör du väljer och vikten på försändelsen. Du kan använda Traderas fraktkalkylator för att få en uppskattning av fraktkostnaden. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur påverkas priset för frakt om jag erbjuder fri frakt?
+\ANSWER: Om du erbjuder fri frakt till köpare inom EU kommer den svenska fraktkostnaden att dras bort som en rabatt för köparen. För köpare utanför EU sätts fraktpriset av säljaren i efterhand och därmed påverkas inte priset. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vad händer om jag inte bokar frakt direkt från speditören?
+\ANSWER: Om du inte bokar frakt direkt från speditören kan du inte skriva ut fraktsedeln som vanligt och lämna in försändelsen hos närmaste ombud. Det är därför viktigt att boka frakt på rätt sätt för att undvika problem med leverans och frakt. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Hur fungerar fraktpriset för butiksannonser?
+\ANSWER: Fraktpriset för butiksannonser baseras på fraktkostnaden som du har angett för frakt med speditör, och sedan kopplas detta ihop med närmaste viktklass. Om du t.ex. har angett en fraktkostnad på 59 kr med DB Schenker speditören så antar systemet att vikten på försändelsen är 1 kilo. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Kan jag manuellt ändra fraktkostnaden?
+\ANSWER: Ja, du kan manuellt ändra fraktkostnaden antingen via speditörens hemsida eller via Traderas fraktkalkylator. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilka speditörer kan jag använda för att skicka min försändelse?
+\ANSWER: Du kan använda olika speditörer för att skicka din försäljning på Tradera, till exempel PostNord, DB Schenker och DHL. 
+URL: https://info.tradera.com/fraktguiden/
+
+QUESTION: Vilka länder kan jag skicka min försändelse till från Tradera?
+\ANSWER: Du kan skicka försäljningar från Tradera både inom och utanför EU. För länder utanför EU behöver du kolla upp och uppdatera fraktpriset, samt boka frakten direkt från speditören. 
+URL: https://info.tradera.com/fraktguiden/

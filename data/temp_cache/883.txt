@@ -1,0 +1,37 @@
+QUESTION 1: What are Tradera's payment solution terms and conditions v. 1.3 and where can I find them?
+ANSWER: Tradera's payment solution terms and conditions v. 1.3 are available on their website. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 2: What is PayPal's Hyperwallet solution and what are its terms and conditions?
+ANSWER: PayPal's Hyperwallet solution is a payment solution used by Tradera's partners. The User Agreement and Privacy Policy for Hyperwallet can be found on their website.
+URL: https://www.hyperwallet.com/agreements-terms/ and https://www.hyperwallet.com/privacy-policy/
+
+QUESTION 3: What happens if a Seller uses Tradera's payment solution?
+ANSWER: By using Tradera's payment solution, the Seller accepts the terms and conditions of Tradera's partner PayPal's Hyperwallet solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 4: What is the role of Hyperwallet in Tradera's payment solution? 
+ANSWER: Hyperwallet is a payment solution used by Tradera's partners and is integrated into Tradera's payment solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 5: What is the User Agreement for Hyperwallet?
+ANSWER: The User Agreement for Hyperwallet is available on their website.
+URL: https://www.hyperwallet.com/agreements-terms/
+
+QUESTION 6: Where can I find the Privacy Policy for Hyperwallet?
+ANSWER: The Privacy Policy for Hyperwallet is available on their website.
+URL: https://www.hyperwallet.com/privacy-policy/
+
+QUESTION 7: How does using Tradera's payment solution affect the Seller's payment process?
+ANSWER: By using Tradera's payment solution, the Seller's payment will be processed through the payment solution and the Seller will be subject to the terms and conditions of the solution.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng/
+
+QUESTION 8: What payment options are available when using Tradera's payment solution?
+ANSWER: It is not specified in the given context what payment options are available with Tradera's payment solution.
+
+QUESTION 9: What are the payment terms and conditions for using PayPal's Hyperwallet solution?
+ANSWER: It is not specified in the given context what the payment terms and conditions are for using PayPal's Hyperwallet solution. 
+
+QUESTION 10: How can I contact Tradera's support team for questions about their payment solution?
+ANSWER: The context does not provide information on how to contact Tradera's support team for payment solution questions. However, customers can find contact information on the support page of Tradera's website.
+URL: https://www.tradera.com/help

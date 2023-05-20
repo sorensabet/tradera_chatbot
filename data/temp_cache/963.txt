@@ -1,0 +1,39 @@
+QUESTION: Vad är csv-import i ProLister? 
+ANSWER: CSV-import är en funktion som tillåter användare att importera sina egna annonslistor till ProLister. Guiden beskriver stegen som behövs för att importera en csv-fil.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Hur ska listan se ut för att kunna importeras till ProLister?
+ANSWER: Listan behöver följa ett visst format för att ProLister ska kunna tolka den. Den första raden i listan måste bestå av kolumnnamn, och listan behöver sparas som en fil med ändelsen csv. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken filändelse behöver filen ha för att kunna importeras till ProLister?
+ANSWER: Listan behöver sparas som en fil med ändelsen csv för att kunna importeras till ProLister.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Hur sparar man ett excel-dokument som en csv-fil?
+ANSWER: För att spara ett excel-dokument som en csv-fil väljer man "Spara som CSV UTF-8" när man sparar filen. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Kan jag skapa min lista i Google Sheets istället för Excel?
+ANSWER: Ja, det går bra att skapa listan i exempelvis Google Sheets istället för Excel.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilka kolumnnamn behövs för att ProLister ska kunna tolka listan?
+ANSWER: De kolumnnamn som behövs för att ProLister ska kunna tolka listan är "Rubrik", "Beskrivning", "Utropspris", "Bilder", "Referens" samt "Skick".
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Behöver jag ha flera flikar i mitt excel-dokument för att kunna importera en lista till ProLister?
+ANSWER: Nej, det räcker med att ha en flik med din annonslista i excel-dokumentet för att kunna importera listan till ProLister.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vad behöver jag göra innan jag importerar min lista till ProLister?
+ANSWER: För att kunna importera listan till ProLister behöver den följa ett visst format. I listan behöver den första raden bestå av kolumnnamn, och listan behöver sparas som en csv-fil.
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilka steg behöver man följa för att importera en csv-fil till ProLister?
+ANSWER: Guiden beskriver de stegen som behövs för att importera en csv-fil till ProLister. Det första steget är att skapa en lista med rätt kolumnnamn som sparats som en fil med ändelsen csv. 
+URL: https://info.tradera.com/prolister/csv/
+
+QUESTION: Vilken typ av information kan inkluderas i listan som importeras till ProLister?
+ANSWER: Listan kan inkludera information som "Rubrik", "Beskrivning", "Utropspris", "Bilder", "Referens" samt "Skick". 
+URL: https://info.tradera.com/prolister/csv/

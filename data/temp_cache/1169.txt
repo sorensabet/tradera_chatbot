@@ -1,0 +1,39 @@
+QUESTION: Vilken betaltjänst använder Tradera för att hantera utbetalningar till säljare?
+ANSWER: Tradera använder PayPal som betaltjänst för att hantera utbetalningar till säljare. Om köparen har valt att betala via Klarna, överlåter säljaren rätten att få betalt från köparen till Tradera som i sin tur överlåter fordringen till Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken typ av avtal ingår köparen vid betalning mot faktura eller avbetalning?
+ANSWER: Köparen ingår ett avtal med antingen Paynova eller Klarna vid betalning mot faktura eller avbetalning. Det är dock inte säljaren som behöver gå med på betalning mot faktura eller avbetalning, utan säljaren får betalt på samma sätt som om köparen hade valt att betala med kort eller PayPal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem ansvarar för att säljaren får utbetalning för en transaktion när köparen har valt att betala via Klarna?
+ANSWER: Ansvaret för att säljaren får utbetalning för en transaktion när köparen har valt att betala via Klarna åligger Tradera, som överlåter fordringen till Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken typ av kreditkontroll utförs av Paynova eller Klarna innan utbetalning görs till Traderas bankkonto?
+ANSWER: Innan utbetalning görs till Traderas bankkonto, genomför Paynova eller Klarna en sedvanlig kreditkontroll av köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer efter att Tradera har granskat en transaktion och godkänt den?
+ANSWER: Efter att Tradera har granskat en transaktion och godkänt den sker utbetalning från Tradera till säljarens konto. Dessutom meddelas säljaren via email och i Mitt Tradera att betalning för köpet har genomförts, och säljaren ska då skicka varan till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Är säljaren skyldig att godkänna betalning mot faktura eller avbetalning?
+ANSWER: Nej, säljaren är inte skyldig att godkänna betalning mot faktura eller avbetalning. Om köparen väljer att betala på det sättet, så får säljaren betalt på samma sätt som om köparen hade betalat med kort eller PayPal.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad innebär det att säljaren accepterar att utbetalning för en transaktion sker via Tradera?
+ANSWER: När säljaren accepterar att utbetalning för en transaktion sker via Tradera, innebär det att säljaren accepterar betalningsvillkoren som Tradera har fastställt. Säljaren godkänner då också att inte ställa krav på betalning gentemot Klarna, utan att Tradera har ansvaret för att utbetalning till säljaren genomförs.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om köparen väljer att betala mot faktura eller avbetalning?
+ANSWER: Om köparen väljer att betala mot faktura eller avbetalning, så får säljaren betalt på samma sätt som om köparen hade betalat med kort eller PayPal. Efter att Paynova eller Klarna genomfört en sedvanlig kreditkontroll av köparen, kommer utbetalning ske till Traderas bankkonto, och efter att Tradera har granskat transaktionen och godkänt den, sker utbetalning från Tradera till säljarens konto.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vem skickar varan till köparen efter att säljaren har mottagit betalning?
+ANSWER: Säljaren ska skicka varan till köparen efter att säljaren har mottagit betalning. Även vid betalning mot faktura eller avbetalning meddelar Tradera säljaren via email och i Mitt Tradera att betalning för köpet har genomförts och att säljaren ska skicka varan.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan säljaren ställa krav på betalning gentemot Klarna när köparen har valt att betala via Klarna?
+ANSWER: Nej, säljaren kan inte ställa krav på betalning gentemot Klarna när köparen har valt att betala via Klarna. Istället åligger det Tradera att hantera betalningsprocessen och se till att säljaren får utbetalning för transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

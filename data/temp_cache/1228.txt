@@ -1,0 +1,49 @@
+QUESTION: Vilka krav måste uppfyllas för att kunna utnyttja Traderas säljarskydd?
+ANSWER: För att kunna utnyttja Traderas säljarskydd måste säljaren skicka varorna till en av Tradera vid betalningstillfället godkända leveransadressen, och varor vars pris överstiger 200 kr måste ha överlämnats till köparen av säljaren eller en anlitad speditör. Säljaren måste också välja ett fraktsätt där de sålda varorna är försäkrade under frakten upp till varornas värde. Samtidigt ska säljaren beskriva samtliga varor på ett fullgott sätt i annonsen så att köparen kan undersöka varan och dess skick innan köparen ingår köpeavtalet med säljaren. Säljaren måste också avlämna varorna till speditören i samma skick som säljaren skickade dem.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om köparens leveransadress har ändrats efter att köpet är genomfört?
+ANSWER: Om köparens leveransadress har ändrats efter att köpet är genomfört, kommer Tradera meddela säljaren om detta genom den e-postbekräftelse som skickas när köparen har betalt för varan och informationen kommer också finnas tillgänglig i Mitt Tradera.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om köparen hävdar att den inte har mottagit leveransen?
+ANSWER: Om köparen hävdar att denne inte har mottagit leveransen, kommer Tradera be säljaren om underlag som bevisar att säljaren, eller den anlitade speditören, har avlämnat varorna till köparen. Tradera rekommenderar därför att säljare skickar varor med spårbarhet, t.ex. spårningsnummer från speditören.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken typ av fraktsätt måste säljaren välja för att omfattas av säljarskyddet hos Tradera?
+ANSWER: Säljaren ska välja ett fraktsätt där de sålda varorna är försäkrade under frakten upp till varornas värde för att omfattas av säljarskyddet hos Tradera.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken instans bestämmer om leveransadressen är godkänd eller inte?
+ANSWER: Tradera bestämmer om leveransadressen är godkänd eller inte vid betalningstillfället.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Var kan köparen hitta information om en eventuell ändring av leveransadress efter betalning för varan?
+ANSWER: Om köparens leveransadress har ändrats efter betalning så kommer informationen finnas tillgänglig i Mitt Tradera.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om säljaren inte skickar varorna till en godkänd leveransadress av Tradera vid betalningstillfället?
+ANSWER: Om säljaren inte skickar varorna till en godkänd leveransadress vid betalningstillfället kommer säljaren inte att omfattas av säljarskyddet hos Tradera.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken är gränsen för varor som måste överlämnas till köparen av säljaren eller en anlitad speditör för att omfattas av säljarskyddet hos Tradera?
+ANSWER: Varor vars pris överstiger 200 kr måste överlämnas till köparen av säljaren eller av en anlitad speditör för att säljaren ska omfattas av säljarskyddet hos Tradera.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Hur ska säljaren beskriva varorna för att köparen ska kunna undersöka varan och dess skick innan köparen ingår köpeavtalet med säljaren?
+ANSWER: Säljaren ska beskriva samtliga varor på ett fullgott sätt i annonsen så att köparen kan undersöka varan och dess skick innan köparen ingår köpeavtalet med säljaren.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken är minsta priset för varor som måste överlämnas till köparen av säljaren eller en anlitad speditör för att säljaren ska omfattas av säljarskyddet hos Tradera?
+ANSWER: Varor vars pris överstiger 200 kr måste överlämnas till köparen av säljaren eller av en anlitad speditör för att säljaren ska omfattas av säljarskyddet hos Tradera.
+
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

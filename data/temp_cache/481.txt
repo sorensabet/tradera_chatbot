@@ -1,0 +1,39 @@
+QUESTION 1: Vad används Tradera användardata till och hur hjälper det användarna?
+ANSWER: Tradera använder anonym användardata för att förbättra användarupplevelsen på plattformen. 
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 2: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Syftet med funktionella cookies på Tradera är att ge utökad funktionalitet och användaranpassning på Tradera, såsom att spara inställningar och logga in med Facebook.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 3: Varför använder Traderas annonsörer cookies för marknadsföring?
+ANSWER: Traderas annonsörer använder cookies för marknadsföring för att få riktade annonser som är relevanta för användarna.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 4: Hur använder Tradera cookies för att mäta användningen av plattformen?
+ANSWER: Tradera använder cookies för anonym mätning av hur Tradera används, för att kunna förbättra användarupplevelsen.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 5: Hur påverkar funktionella cookies säkerheten på Tradera?
+ANSWER: Funktionella cookies på Tradera påverkar inte säkerheten på plattformen.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 6: Kan användare hindra användning av cookies på Tradera?
+ANSWER: Ja, användare kan hindra användning av cookies på Tradera genom att ändra inställningar i webbläsaren.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 7: Vilken typ av data delas med Traderas annonsörer?
+ANSWER: Användardata kan delas med Traderas annonsörer för att få riktade annonser som är relevanta för användarna.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 8: Hur länge sparas cookies på Tradera?
+ANSWER: Cookies sparas på Tradera i olika tidsperioder, beroende på vilken typ av cookie det är.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 9: Kan Tradera använda cookies från andra webbplatser?
+ANSWER: Ja, Tradera kan använda cookies från andra webbplatser om de tillåter det.
+URL: https://info.tradera.com/da/nettoutbetalning/
+
+QUESTION 10: Vilken typ av information kan sparas i funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera kan spara typen av sparade inställningar eller inloggningsinformation.
+URL: https://info.tradera.com/da/nettoutbetalning/

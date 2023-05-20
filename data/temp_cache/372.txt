@@ -1,0 +1,39 @@
+QUESTION 1: Vilket syfte har “standa” cookies på Tradera?
+ANSWER: Cookie "standa" används för anonym mätning av hur Tradera används, så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 2: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 3: Hur används marknadsföringscookies på Tradera?
+ANSWER: Marknadsföringscookies används av Traderas annonseringspartners för riktade annonser som är relevanta för användare.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 4: Varför använder Tradera cookies?
+ANSWER: Tradera använder cookies för att förbättra användarupplevelsen och för att erbjuda utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 5: Kan jag själv ta bort cookies från Tradera?
+ANSWER: Ja, användare kan själva ta bort cookies från Tradera genom att rensa cacheminnet på webbläsaren eller genom att använda webbläsarens inställningar.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 6: Har Tradera några annonseringspartners?
+ANSWER: Ja, Tradera har annonseringspartners som använder marknadsföringscookies för att skapa riktade annonser.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 7: Vilken typ av information samlar Tradera in med hjälp av cookies?
+ANSWER: Tradera samlar in anonym information om hur användare interagerar med Traderas webbplats för att förbättra användarupplevelsen och erbjuda bättre funktioner.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 8: Finns det några andra cookies som Tradera använder?
+ANSWER: Utöver de nämnda cookie-kategorierna kan Tradera också använda tredjepartscookies för att erbjuda en bättre upplevelse och marknadsföra sin webbplats.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 9: Kan jag kontrollera vilka cookies som används på Traderas webbplats?
+ANSWER: Ja, användare kan kontrollera vilka cookies som används på Tradera genom att titta i webbläsarens cookie-inställningar eller i Traderas integritetspolicy.
+URL: https://info.tradera.com/da/utvardera-objektet/
+
+QUESTION 10: Är det säkert att använda Traderas webbplats med cookies aktiverade?
+ANSWER: Ja, det är säkert att använda Traderas webbplats med cookies aktiverade. Informationen som samlas in är anonym och används enbart för att förbättra användarupplevelsen och för att erbjuda bättre funktioner.
+URL: https://info.tradera.com/da/utvardera-objektet/

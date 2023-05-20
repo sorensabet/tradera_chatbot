@@ -1,0 +1,39 @@
+QUESTION: What can result in a suspension or restriction of a business user's use of the Services?
+\ANSWER: Breach of Tradera's User Agreement or Payment Solution Terms, offering goods or services that go against Tradera's ethical guidelines, providing inaccurate or misleading information, or acting in a manner that goes against relevant payment service terms can result in a suspension or restriction of a business user's use of Tradera's services.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: When will a business user be informed of a decision to suspend or restrict their use of the platform?
+\ANSWER: A decision on suspending or restricting a business user's use of the Services, in whole or in part, will be communicated to the concerned business user at the latest when the decision takes effect with a statement of the reasons for the decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What is the notice period for terminating a business user's use of the Services?
+\ANSWER: The notice period is 30 days prior to the effective date of the termination, unless the termination is caused by a legal or regulatory obligation, Tradera exercises a right of termination under national law, or Tradera can demonstrate that the business user has repeatedly infringed the terms and conditions.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What information might Tradera ask from a seller to determine if they are in breach of the User Agreement?
+\ANSWER: Tradera may obtain access information from the seller to determine whether they are in breach of the User Agreement, including Tradera's Payment Solution Terms.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Can Tradera terminate a business user's use of the Services without any notice?
+\ANSWER: Yes, if the termination is caused by a legal or regulatory obligation, Tradera exercises a right of termination under national law, or Tradera can demonstrate that the business user has repeatedly infringed the terms and conditions, then Tradera can terminate a business user's use of the Services without a 30-day notice period.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: When will a business user be informed of a decision to terminate their use of the services?
+\ANSWER: A decision on terminating a business user's use of the Services, in whole or in part, will be provided to the concerned business user at the latest 30 days prior to the effective date of the termination with a statement of the reasons for the decision.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What is the reason for Tradera obtaining access information from a seller?
+\ANSWER: Tradera may obtain access information from the seller to determine whether they are in breach of the User Agreement, including Tradera's Payment Solution Terms.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What happens if a business user violates Tradera's country-specific ethical guidelines?
+\ANSWER: If a business user offers goods or services that are contrary to Tradera's ethical guidelines or otherwise acts in a manner that can reasonably be deemed contrary to rules adopted by credit/debit card companies or payment service terms relevant to Tradera, then their use of the Services can be suspended or restricted.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: Can a business user's use of the Services be restricted or suspended in part?
+\ANSWER: Yes, Tradera can decide to suspend or restrict a business user's use of the Services in whole or in part.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION: What constitutes acting in a manner that goes against relevant payment service terms?
+\ANSWER: Acting in a manner that goes against relevant payment service terms can include providing inaccurate or misleading information, offering goods or services that go against Tradera's ethical guidelines, or acting in a manner that can reasonably be deemed contrary to rules adopted by credit/debit card companies or payment service terms.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/

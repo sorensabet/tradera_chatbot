@@ -1,0 +1,39 @@
+QUESTION: Kan jag använda en boxadress som avsändare?
+ANSWER: Nej, du behöver använda en fysisk adress som avsändare för att paketet ska kunna levereras även i ett returfall. Returer kan bara ske till en vanlig adress och inte till en boxadress.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Hur vet jag när paketet kan hämtas ut?
+ANSWER: Du får avisering via SMS till det mobilnummer som du har registrerat på Tradera när paketet finns hos ditt ombud. Du kan även följa ditt paket och ändra leveransadress på samma ställe.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Kan jag ändra leveransadressen för mitt paket?
+ANSWER: Ja, du kan ändra leveransadressen samt leveranssättet för ditt paket här.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Hur länge ligger paketet hos ombudet innan det skickas tillbaka?
+ANSWER: Paketet ligger kvar hos ombudet i 14 dagar innan det returneras till avsändaren. Du kan förlänga denna period genom att gå in här.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Vilka legitimationer är giltiga vid hämtning av paket?
+ANSWER: För att hämta ut ditt paket behöver du legitimera dig och ange paketets löpnummer. Både mottagarens och hämtarens legitimation behöver visas upp om paketet hämtas av någon annan än mottagaren. De legitimationer som gäller är: SIS-märkt ID-kort, tjänstekort och ID-kort utfärdat av Skatteverket.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Kan jag spåra mitt paket?
+ANSWER: Ja, du kan följa ditt paket och ändra leveransadress här.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Får jag avisering när paketet är hos mitt ombud?
+ANSWER: Ja, du får avisering via SMS till det mobilnummer som du har registrerat på Tradera när paketet finns hos ditt ombud.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Kan jag förlänga tiden som mitt paket ligger på ombudet?
+ANSWER: Ja, du kan förlänga tiden som paketet ligger hos ombudet genom att gå in här.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Kan jag hämta ut mitt paket på ett annat ombud eller en annan adress?
+ANSWER: Ja, du kan ändra din leveransadress samt leveranssätt här.
+URL: https://info.tradera.com/dhl/
+
+QUESTION: Varför behöver jag legitimera mig för att hämta ut mitt paket?
+ANSWER: Du behöver legitimera dig för att hämta ut paketet och ange paketets löpnummer för att säkerställa att paketet endast hämtas ut av rätt person. Om någon annan hämtar ut paketet behöver denna person även visa upp sin egen legitimation i kombination med mottagarens legitimation.
+URL: https://info.tradera.com/dhl/

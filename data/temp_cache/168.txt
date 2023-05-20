@@ -1,0 +1,39 @@
+QUESTION: Vilka sorts cookies används på Tradera?
+ANSWER: På Tradera används nödvändiga, prestanda, funktionella och marknadsförings-cookies.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Kan man stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad är syftet med prestanda-cookies på Tradera?
+ANSWER: Syftet med prestanda-cookies på Tradera är att anonymt mäta hur webbplatsen används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad är funktionella cookies på Tradera?
+ANSWER: Funktionella cookies på Tradera används för utökad funktionalitet och användaranpassning, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vilket syfte har marknadsförings-cookies på Tradera?
+ANSWER: Marknadsförings-cookies på Tradera används av annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Kan jag använda Tradera utan cookies?
+ANSWER: Nej, för att använda Tradera krävs att nödvändiga cookies accepteras.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Kan jag avaktivera mitt Tradera-konto?
+ANSWER: Ja, du kan begära att ditt Tradera-konto avaktiveras genom att kontakta Tradera kundtjänst.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Vad händer om mitt Tradera-konto avaktiveras av Tradera?
+ANSWER: Om ditt Tradera-konto avaktiveras av Tradera kommer du inte längre att kunna använda Tradera och dina annonser kommer att tas bort.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Kan mitt Tradera-konto avaktiveras om jag bryter mot användarvillkoren?
+ANSWER: Ja, Tradera har rätt att avaktivera ditt konto om du bryter mot användarvillkoren.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/
+
+QUESTION: Kan jag skapa ett nytt konto på Tradera efter att mitt konto har avaktiverats?
+ANSWER: Nej, om ditt Tradera-konto avaktiverats kan du inte skapa ett nytt konto.
+URL: https://info.tradera.com/en/vad-innebar-kontot-ar-avaktiverat-av-tradera-2/

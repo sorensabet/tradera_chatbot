@@ -1,0 +1,39 @@
+QUESTION: Vad räknas som förhandsförsäljning enligt Traderas regler?
+ANSWER: Enligt Traderas regler räknas det som förhandsförsäljning eller så kallad dropshipping när en säljare lägger ut en annons för en vara som man vid tillfället inte har i sin ägo och beställer varan först efter att köparen redan har betalat.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Varför har Tradera regler mot förhandsförsäljning och dropshipping?
+ANSWER: Anledningen till att Tradera har regler mot förhandsförsäljning och dropshipping är för att risken till missnöje och uteblivna leveranser ökar när säljare lägger ut en annons för en produkt som de inte har i sin ägo än.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Får man sälja produkter utanför Tradera?
+ANSWER: Tradera tillåter inte försäljning utanför deras plattform, dvs. säljare bör endast sälja sina varor genom Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad händer om man inte följer Traderas regler om förhandsförsäljning?
+ANSWER: Om en säljare inte följer Traderas regler kring förhandsförsäljning och dropshipping kan det leda till att deras annons tas bort och i vissa fall kan säljaren stängas av från plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är budtrissning och är det bindande?
+ANSWER: Budtrissning är en auktionsteknik som innebär att köpare lägger bud som är högre än tidigare bud och där högstbjudande vinner. Ja, på Tradera är budtrissning bindande vilket innebär att den som vinner auktionen måste köpa objektet.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Kan man sälja vapenrelaterade objekt på Tradera?
+ANSWER: Nej, vapenrelaterade objekt är ej tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/etsrelaterade-objekt/
+
+QUESTION: Vad gäller för frakt och avgifter på Tradera?
+ANSWER: Det är upp till säljaren att bestämma frakt och avgifter för sina varor, men kunderna ska informeras om dessa kostnader i annonsen innan köpet görs.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/frakt-och-avgifter/
+
+QUESTION: Kan man sälja identiska objekt på Tradera?
+ANSWER: Det är tillåtet att sälja identiska objekt på Tradera, men säljaren måste hantera försäljningen och hantera korrekt lagerhållning. Det är dock inte tillåtet att lägga upp mer än en annons för samma produkt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Finns det några begränsningar för vilka objekt som får säljas på Tradera?
+ANSWER: Ja, Tradera har en lista över otillåtna objekt som ej får säljas på plattformen. Det inkluderar vapenrelaterade objekt, olämpliga bilder och objektbeskrivningar, samt objekt utan verkliga produkter till försäljning.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/etsrelaterade-objekt/
+
+QUESTION: Kan man sälja produkter utanför Sverige på Tradera?
+ANSWER: Ja, det är tillåtet att sälja produkter utanför Sverige på Tradera så länge säljaren kan hantera frakt och avgifter.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/salja-utanfor-sverige/

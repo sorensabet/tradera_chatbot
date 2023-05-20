@@ -1,0 +1,39 @@
+QUESTION: Vilken kategori är det inte tillåtet att lägga upp en iPhone-telefon i?
+ANSWER: Det är inte tillåtet att lägga upp en iPhone-telefon i kategorin för iPhone-telefoner.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/
+
+QUESTION: Kan man lägga upp en dalahäst i kategorin för dalahästar?
+ANSWER: Ja, det är tillåtet att lägga upp en dalahäst i kategorin för dalahästar enligt texten.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/
+
+QUESTION: Vilken kategori bör en MacBook läggas upp i på Tradera?
+ANSWER: En MacBook bör läggas upp i kategorin för Apple – Bärbara datorer enligt texten.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/
+
+QUESTION: Vad är Grön frakt?
+ANSWER: Det finns ingen information om vad Grön frakt är i detta textavsnitt, men det finns en länk till den relevanta sidan på Traderas hemsida.
+URL: https://www.tradera.com/info/Grön-frakt
+
+QUESTION: Vad är de populäraste varumärkena på Tradera?
+ANSWER: Det finns ingen information om vilka de populäraste varumärkena på Tradera är i detta textavsnitt, men det finns en länk till sidan "Populära varumärken" på Traderas hemsida.
+URL: https://www.tradera.com/populara-varumarken
+
+QUESTION: Kan man sälja som privatperson på Tradera?
+ANSWER: Ja, det går att sälja som privatperson på Tradera. Det finns en länk till information om hur man säljer som privatperson på Tradera på sidan.
+URL: https://www.tradera.com/info/Sälj-i-buten-och-som-privatperson
+
+QUESTION: Kan man använda fraktkalkylatorn på Tradera?
+ANSWER: Ja, det går att använda fraktkalkylatorn på Tradera. Det finns en länk till fraktkalkylatorn på sidan.
+URL: https://www.tradera.com/frakt
+
+QUESTION: Vad är Tradera för något?
+ANSWER: Tradera är en nordisk e-handelsplattform enligt texten.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/
+
+QUESTION: Finns det någon kontaktinformation för Tradera tillgänglig på sidan?
+ANSWER: Ja, det finns kontaktinformation på sidan. Det finns en länk med texten "Kontakt & Hjälp" där man kan hitta Traderas kontaktinformation.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/felaktiga-kategorival/
+
+QUESTION: Kan man läsa om användaravtalet på Tradera någonstans?
+ANSWER: Ja, man kan läsa om Traderas användaravtal. Det finns en länk till användaravtalet på sidan.
+URL: https://www.tradera.com/anvandaravtal

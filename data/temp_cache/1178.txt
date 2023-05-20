@@ -1,0 +1,39 @@
+QUESTION: Hur ska säljaren bevisa leverans till köparen när säljaren omfattas av säljarskyddet?
+ANSWER: Säljaren måste ha bevis på att denne har avlämnat varorna till köparen eller en anlitad speditör för att omfattas av säljarskyddet. Om köparen hävdar att varorna inte mottagits, kommer Tradera att be om underlag som bevisar detta.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilket fraktsätt ska säljaren välja för att omfattas av säljarskyddet?
+ANSWER: Säljaren ska välja ett fraktsätt där de sålda varorna är försäkrade under frakten upp till varornas värde och skicka varorna med spårbarhet, till exempel ett spårningsnummer från speditören för att omfattas av säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilket ansvar har säljaren att beskriva varan i annonsen så att köparen kan undersöka varan och dess skick?
+ANSWER: Säljaren ska i text och genom fotografier beskriva samtliga varor på ett fullgott sätt i annonsen så att köparen kan undersöka varan och dess skick innan köparen ingår köpeavtalet med säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad ska säljaren göra för att försäkra sig om att varorna levereras till köparen på ett lämpligt sätt?
+ANSWER: Säljaren ska avlämna varorna till speditören i samma skick som säljaren har beskrivit dem i annonsen och ska skicka varorna på ett sätt som gör att risken för att produkterna skadas minimieras.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är transaktionskostnaden för betalningar gjorda med Traderas betallösning om säljaren agerar i enlighet med villkoren?
+ANSWER: Transaktionskostnaden för betalningar gjorda med Traderas betallösning är beroende på om säljaren har agerat i enlighet med villkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Ska säljaren ha skickat varorna till köparen innan betalning görs?
+ANSWER: Det framgår inte av den givna informationen om säljaren ska ha skickat varorna till köparen innan betalning görs eller efter betalning har gjorts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilket belopp måste överstiga för att säljaren ska omfattas av säljarskyddet?
+ANSWER: Om det sålda beloppet överstiger 200 kr, måste varorna ha överlämnats till köparen av säljaren eller en anlitad speditör för att säljaren ska omfattas av säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad gör Tradera om köparen hävdar att denne inte har mottagit varorna?
+ANSWER: Om köparen hävdar att denne inte har mottagit varorna, kommer Tradera att be säljaren om underlag som bevisar att säljaren, eller den anlitade speditören, har avlämnat varorna till köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vilken rekommendation ger Tradera till säljare när det kommer till spårbarhet vid frakt av varor?
+ANSWER: Tradera rekommenderar att säljare skickar varor med spårbarhet, till exempel spårningsnummer från speditören, för att bevisa leverans till köparen och omfattas av säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad innebär det att säljarskyddet gäller för säljare?
+ANSWER: Säljarskyddet innebär att om det sålda beloppet överstiger 200 kr och varorna har överlämnats till köparen av säljaren eller en anlitad speditör, så är säljaren skyddad av Tradera vid eventuella tvister med köparen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

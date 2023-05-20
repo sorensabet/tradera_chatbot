@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsalternativ kan köparen välja på Tradera?
+ANSWER: Köparen kan välja att betala med kort, PayPal, faktura eller avbetalning genom Paynova eller Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vem utbetalar pengarna till säljaren?
+ANSWER: Pengarna utbetalas till säljarens PayPal-konto via Hyperwallet efter att Tradera har godkänt transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Behöver säljaren gå med på betalning mot faktura eller avbetalning?
+ANSWER: Nej, säljaren behöver inte gå med på betalning mot faktura eller avbetalning då köparen ingår avtal med Paynova eller Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Ansvarar Klarna för att utbetalning till säljaren genomförs?
+ANSWER: Nej, ansvaret för att utbetalning till säljaren genomförs åligger Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: När får säljaren betalt efter att transaktionen har godkänts av Tradera?
+ANSWER: Pengarna betalas ut till säljarens bankkonto inom 1-2 bankdagar efter att transaktionen har godkänts av Tradera, förutsatt att korrekta uppgifter har lämnats.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket företag gör en kreditkontroll av köparen innan betalning sker?
+ANSWER: Antingen Paynova eller Klarna gör en kreditkontroll av köparen innan Pengar betalas ut till PayPal (Hyperwallet).
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur får säljaren information om att betalning har genomförts för köpet?
+ANSWER: Tradera meddelar säljaren via email och i Mitt Tradera att betalning har genomförts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Varför överlåter säljaren rätten att få betalt från köparen till Tradera?
+ANSWER: Säljaren överlåter rätten att få betalt från köparen till Tradera så att betalningen kan hanteras säkert och effektivt för båda parter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket företag sköter utbetalningarna till säljaren?
+ANSWER: Paynova eller Klarna sköter utbetalningarna till säljarens PayPal-konto via Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur sker utbetalning om köparen valt att betala mot faktura eller avbetalning?
+ANSWER: Efter att Paynova eller Klarna har genomfört en kreditkontroll av köparen betalas Pengar ut till PayPal (Hyperwallet). När Tradera har granskat transaktionen och godkänt den, betalas pengarna ut till säljarens konto.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

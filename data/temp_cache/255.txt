@@ -1,0 +1,39 @@
+QUESTION: Vad är ångerrätt och varför är det viktigt på Tradera?
+ANSWER: Ångerrätt är en lagstadgad rättighet för kunder att ångra sitt köp inom 14 dagar från det att varan har mottagits. Det är viktigt på Tradera att kunderna känner till sina rättigheter och att säljare följer lagen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/
+
+QUESTION: Vilka objekt får inte säljas på Tradera?
+ANSWER: Det finns flera objekt som inte får säljas på Tradera, såsom begagnade underkläder, drogrelaterade objekt, vapenrelaterade objekt, pornografiskt material och förfalskade sedlar.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ovriga-otillatna-regler/
+
+QUESTION: Får man lägga bud på Tradera utan att det är bindande?
+ANSWER: Nej, bud på Tradera är alltid bindande och kan inte dras tillbaka efter att en auktion har avslutats.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Vilka är följderna av att bryta mot Traderas regler?
+ANSWER: Om man bryter mot Traderas regler kan det leda till att ens konto stängs av eller avstängning från att sälja eller köpa på Tradera. Det kan även leda till rättsliga åtgärder.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/alla-regler/
+
+QUESTION: Kan man sälja drogrelaterade objekt på Tradera?
+ANSWER: Nej, drogrelaterade objekt är inte tillåtna att sälja på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/drogrelaterade-objekt/
+
+QUESTION: Vad händer om man säljer objekt utanför Tradera?
+ANSWER: Att sälja objekt utanför Tradera är inte tillåtet och kan leda till avstängning från att sälja eller köpa på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Vilka typer av betalningsmetoder accepteras på Tradera?
+ANSWER: På Tradera accepteras flera olika betalningsmetoder, såsom betalning via banköverföring, faktura eller kortbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalning-tradera/
+
+QUESTION: Kan man lägga bud på en vara innan auktionen har börjat?
+ANSWER: Nej, man kan inte lägga bud på en vara innan auktionen har börjat på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vilka är omdömesreglerna på Tradera?
+ANSWER: Omdömesreglerna på Tradera är att man inte får skapa flera konton, ger falska omdömen eller hota andra användare på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/omdomesregler/
+
+QUESTION: Får man sälja elektronisk utrustning på Tradera?
+ANSWER: Ja, man får sälja elektronisk utrustning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/elektronisk-utrustning/

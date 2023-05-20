@@ -1,0 +1,39 @@
+QUESTION: Är alla Bring försändelser bokade via Tradera försäkrade?
+ANSWER: Ja, alla Bring försändelser bokade via Tradera är försäkrade upp till 5000 DKK/6900 SEK.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Går det att spåra alla försändelser skickade med Bring via Tradera?
+ANSWER: Ja, alla försändelser via Bring är spårbara. Så fort paketet är skickat så får mottagaren ett mail med spårningsnummer.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Är det möjligt att ändra mottagaradressen på ett paket som har skickats via Bring?
+ANSWER: Nej, när paketet är skickat via Bring så går det inte längre att ändra mottagaradressen.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Hur länge ligger en försändelse kvar hos ombudet innan den returneras till avsändaren?
+ANSWER: Paketet ligger kvar hos ombudet i 14 dagar innan det returneras till avsändaren.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vilka legitimationshandlingar är giltiga vid utlämning av försändelse?
+ANSWER: Körkort, ID eller pass räknas som giltiga ID handlingar för utlämning av försändelser.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Kan jag be att mitt paket behålls hos ombudet längre om jag är bortrest?
+ANSWER: Paket skickade med Bring ligger kvar hos ombudet i 14 dagar. Om du kommer vara bortrest längre än så behöver du komma överens med säljaren så att paketet skickas iväg senare.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vad är Bring Kundeservice?
+ANSWER: Bring Kundeservice är Bring's kundservice för Danmark. 
+URL: https://info.tradera.com/bring/
+
+QUESTION: What is Bring Kundservice?
+ANSWER: Bring Kundservice is Bring's customer service for Sweden.
+URL: https://info.tradera.com/bring/
+
+QUESTION: Vad är Bring Villkor?
+ANSWER: Bring Villkor (Terms) är reglerna för att använda Bring's tjänster i Danmark.
+URL: https://info.tradera.com/bring/
+
+QUESTION: What is Bring Villkor?
+ANSWER: Bring Villkor (Terms) are the rules for using Bring's services in Sweden.
+URL: https://info.tradera.com/bring/

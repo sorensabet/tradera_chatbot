@@ -1,0 +1,39 @@
+QUESTION: Vilka ansvarar för betalningarna mellan Köpare och betallösningsleverantören?
+ANSWER: Köpare och betallösningsleverantören ansvarar för betalningarna mellan sig själva enligt de villkor eller avtal som har ingåtts mellan dem. Tradera ansvarar inte för förseningar, fel, skador eller annat som avser betalning eller utebliven betalning av föremål som Köpare köper via Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer efter att en Transaktion har godkänts av Tradera?
+ANSWER: Efter att en Transaktion har godkänts av Tradera kommer en utbetalning genom Traderas utbetalningslösning att göras till Säljare, antingen för en separat Transaktion eller som ett sammanslaget belopp som omfattar flera Transaktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka belopp kan Tradera dra av från utbetalningarna till Säljare?
+ANSWER: De belopp som Tradera drar av från utbetalningarna till Säljare kan avse försäljningskostnader, återbetalningsskyldigt belopp och avgifter till Tradera enligt separat avtal som har överenskommits mellan Säljaren och Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: När erhåller säljaren betalt från Tradera?
+ANSWER: Säljaren erhåller som huvudregel betalt inom en (1) till två (2) bankdagar efter att en Transaktion har genomförts, förutsatt att Säljaren har uppgett korrekta inbetalningsuppgifter till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan utbetalningstakten förändras av Tradera?
+ANSWER: Ja, utbetalningstakten kan komma att ändras av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om Säljaren har skyldigheter att betala till Tradera?
+ANSWER: Innan utbetalning till Säljaren sker kommer eventuella belopp som Säljaren är skyldig att betala till Tradera att dras av och mellanskillnaden kommer att betalas ut till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken betallösningsleverantör används på Tradera?
+ANSWER: Det står inte uttryckligen i texten vilken betallösningsleverantör som används på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Har Tradera något ansvar för förseningar eller fel i samband med betalningar?
+ANSWER: Nej, Tradera ansvarar inte för förseningar, fel, skador eller annat som avser betalning eller utebliven betalning av föremål som Köpare köper via Traderas kassalösning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Kan Säljaren få betalt separat eller som ett sammanslaget belopp från Tradera?
+ANSWER: Säljaren kan få betalt från Tradera antingen för en separat Transaktion eller som ett sammanslaget belopp som omfattar flera Transaktioner.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om Säljaren inte uppger korrekta inbetalningsuppgifter till Tradera?
+ANSWER: Om Säljaren inte uppger korrekta inbetalningsuppgifter till Tradera kan det påverka utbetalningstiden till Säljaren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

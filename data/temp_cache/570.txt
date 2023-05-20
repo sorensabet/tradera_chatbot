@@ -1,0 +1,39 @@
+QUESTION: Hvilke gavekort er ikke tilladt på Tradera?
+ANSWER: Gavekort fra virksomheder, der ikke kan betragtes som veletablerede, er ikke tilladt på Tradera.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Er det tilladt at sælge gavekort der har overskredet udløbsdatoen?
+ANSWER: Det er tilladt at sælge gavekort eller billetter, der har overskredet udløbstidspunktet eller tidspunktet for begivenheden, og hvor det tydeligt fremgår, at de er en samlervare.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvad er eksempler på varer, der er tilladt med restriktioner?
+ANSWER: Eksempler på varer, der er tilladt med restriktioner, er tjenester, der sælges og udbydes af veletablerede virksomheder, så længe Tradera har godkendt salget.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvilke gavekort er tilladt på Tradera?
+ANSWER: Eksempler på tilladte gavekort er biografgavekort eller gavekort fra etablerede rejsebureauer.
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvordan køber man på Tradera?
+ANSWER: Her kan du finde oplysninger om, hvordan man køber på Tradera: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvilke kategorier kan man finde på Tradera?
+ANSWER: Der kan findes forskellige kategorier af varer på Tradera, og du kan finde mere information om dem her: https://info.tradera.com/da/sadan-handler-du-pa-tradera/
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvordan kan man sælge som privatperson på Tradera?
+ANSWER: Der er information om, hvordan man kan sælge som privatperson på Tradera, tilgængelig her: https://info.tradera.com/da/sadan-saelger-du-som-privatperson/
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvor kan man finde beregning af fragt på Tradera?
+ANSWER: Fragtberegneren til både købere og sælgere er tilgængelig her: https://info.tradera.com/da/fragt-beregner/
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvad er handelsbetingelserne for Tradera?
+ANSWER: Traderas handelsbetingelser kan findes her: https://info.tradera.com/da/handelsbetingelser/
+URL: https://info.tradera.com/da/services-and-gift-cards/
+
+QUESTION: Hvor kan man finde Traderas kontaktinformation?
+ANSWER: Kontaktoplysninger til Tradera og hjælp vedrørende en given transaktion kan findes her: https://info.tradera.com/da/kontakt-og-hjaelp/
+URL: https://info.tradera.com/da/services-and-gift-cards/

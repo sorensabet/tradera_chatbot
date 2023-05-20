@@ -1,0 +1,39 @@
+QUESTION: Vad är Villkoren som Tradera kan säga upp med omedelbar verkan?
+ANSWER: Villkoren som Tradera kan säga upp med omedelbar verkan inkluderar om säljaren av någon anledning kan antas vara på obestånd, säljaren bryter mot Villkoren eller om Tradera har anledning att anta att Säljaren kommer att bryta mot Villkoren, Säljaren förser Tradera med felaktig eller missledande information eller döljer relevanta omständigheter, eller Säljaren erbjuder varor eller tjänster som står i strid med Traderas vid var tid gällande etiska policy för respektive land, eller annars agerar på ett sätt som rimligen, direkt eller indirekt, kan anses stå i konflikt med vedertagna regler från kortföretagen eller från deras branschorganisation.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad innebär uppsägning av Villkoren enligt Punkt 10 i säkerhetscentret?
+ANSWER: Vid uppsägning av Villkoren i enlighet med Punkt 10 (b) i Traderas säkerhetscenter har Tradera rätt att innehålla all utbetalning till Säljaren tills dess att Tradera har verifierat antalet utestående Transaktioner och samtliga ångerfrister har passerat eller eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är en ångerfrist?
+ANSWER: En ångerfrist är en tid då kunden kan ändra sig och återkalla ett köp utan att ange någon särskild anledning. Det är en skyldighet som följer av konsumentskyddslagstiftning och kan variera mellan olika EU-länder.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka är de etiska policyerna som Säljaren måste följa på Tradera?
+ANSWER: Säljaren på Tradera måste följa vid var tid gällande etiska policy för respektive land. Informationen tillhandahålls på begäran från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka konsekvenser kan det få om Säljaren bryter mot Villkoren?
+ANSWER: Om Säljaren bryter mot Villkoren kan Tradera säga upp Villkoren med omedelbar verkan, innehålla all utbetalning till Säljaren tills dess att Tradera har verifierat antalet utestående Transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad innebär obestånd?
+ANSWER: Obestånd innebär att en person eller företag inte längre har tillräckliga resurser för att betala sina skulder eller upprätthålla sin verksamhet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är syftet med säkerhetscentret på Tradera?
+ANSWER: Syftet med säkerhetscentret på Tradera är att upprätthålla en säker och tillförlitlig handelsplattform för köpare och säljare genom att tillhandahålla information om användarvillkor, betalningssäkerhet och åtgärder vid eventuella tvister.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilken information kan Säljaren inte dölja enligt Villkoren?
+ANSWER: Säljaren får inte försöka dölja eller tillhandahålla felaktig eller missledande information eller dölja relevanta omständigheter från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer med utestående transaktioner vid uppsägning enligt Punkt 10 (b)?
+ANSWER: Vid uppsägning enligt Punkt 10 (b) kan Tradera inneha all utbetalning till Säljaren tills Tradera har verifierat antalet utestående transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas betallösning har utretts.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka regler måste Säljaren följa för kortföretagen eller deras branschorganisation?
+ANSWER: Säljaren måste följa vedertagna regler från kortföretagen eller deras branschorganisation.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

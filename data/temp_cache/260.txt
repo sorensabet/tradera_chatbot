@@ -1,0 +1,39 @@
+QUESTION: Vad är en falsk e-post?
+\ANSWER: En falsk e-post är en e-post som ser ut att komma från en pålitlig källa, men i själva verket är den skickad av bedragare i syfte att lura personer att lämna ut konfidentiell information eller installera skadlig programvara på sina datorer eller mobila enheter.
+URL: https://info.tradera.com/en/fake-emails/
+
+QUESTION: Vad ska man göra om man misstänker att man har fått en falsk e-post från Tradera?
+\ANSWER: Om man misstänker att man har fått en falsk e-post från Tradera bör man kontakta Traderas kundtjänst omedelbart på abuse@tradera.com för att rapportera detta och få ytterligare råd om hur man ska gå vidare. 
+URL: https://info.tradera.com/en/fake-emails/
+
+QUESTION: Kan man sälja på Tradera som privatperson?
+\ANSWER: Ja, man kan sälja på Tradera som privatperson. 
+URL: https://info.tradera.com/en/sell-private-seller/
+
+QUESTION: Vad gör man om man vill sälja som företagare på Tradera?
+\ANSWER: Om man vill sälja som företagare på Tradera behöver man registrera ett konto för företagssäljare och därefter följa de steg som anges för att lägga upp annonser och hantera försäljningar på plattformen. 
+URL: https://info.tradera.com/en/sell-as-business/
+
+QUESTION: Har Tradera en fraktberäknare för säljare?
+\ANSWER: Ja, Tradera har en fraktberäknare för säljare som man kan använda för att beräkna fraktkostnader åt köpare. 
+URL: https://info.tradera.com/en/shipping-calculator/
+
+QUESTION: Kan man skapa en butik på Tradera?
+\ANSWER: Ja, man kan skapa en butik på Tradera för att sälja flera olika produkter och skapa en mer enhetlig försäljningsupplevelse för köpare. 
+URL: https://info.tradera.com/en/store/
+
+QUESTION: Vilka välgörenhetsändamål stödjer Tradera?
+\ANSWER: Tradera stödjer en rad olika välgörenhetsändamål, inklusive organisationer som arbetar med barn, cancerforskning och miljöskydd. 
+URL: https://info.tradera.com/en/charity-causes/
+
+QUESTION: Hur kan man komma i kontakt med Traderas kundtjänst?
+\ANSWER: Man kan komma i kontakt med Traderas kundtjänst genom att använda kontaktformuläret på deras webbplats eller skicka ett e-postmeddelande till deras kundtjänstadress på kundtjanst@tradera.com. 
+URL: https://info.tradera.com/en/contact-help/
+
+QUESTION: Har Tradera några specifika säkerhetsregler för köp och försäljning på deras plattform?
+\ANSWER: Ja, Tradera har säkerhetsregler för köp och försäljning på deras plattform, som inkluderar rekommendationer om att använda Traderas betalningssystem, att inte skicka personlig information via e-post och att rapportera eventuella bedrägerier till Tradera kundtjänst. 
+URL: https://info.tradera.com/en/security-rules/
+
+QUESTION: Var kan man hitta svar på vanliga frågor om att köpa och sälja på Tradera?
+\ANSWER: Man kan hitta svar på vanliga frågor om att köpa och sälja på Tradera genom att besöka deras FAQ-sida på deras webbplats. 
+URL: https://info.tradera.com/en/faq/

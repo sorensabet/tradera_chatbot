@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsalternativ erbjuder Tradera? 
+ANSWER: Tradera erbjuder flera betalningsalternativ för sina svenska kunder. Dessa inkluderar Swish, Banköverföring, Tradera Pay och Kreditkortsbetalningar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag avbryta min betalning på Tradera? 
+ANSWER: En påbörjad betalning på Tradera kan inte avbrytas. Det är viktigt att vara säker på att man verkligen vill genomföra köpet innan man betalar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Hur länge har betalningsvillkoren varit i kraft på Tradera? 
+ANSWER: Senaste versionen av betalningsvillkoren (Villkor för betalningar (kunder bosatta i Sverige) v1.4) trädde i kraft i maj 2023. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad är Tradera Pay? 
+ANSWER: Tradera Pay är ett betalningssätt som erbjuds inom Tradera. Det gör det möjligt att enkelt och säkert betala sålda varor med hjälp av kreditkort. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag betala med utländsk valuta på Tradera? 
+ANSWER: Betalningar på Tradera accepteras endast i svenska kronor. Det går inte att betala med annan valuta. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Vad händer om jag inte betalar för en vara jag har köpt på Tradera? 
+ANSWER: Om en köpare inte betalar för en vara de har köpt på Tradera kan detta påverka deras konto negativt. Om köparen upprepar detta flera gånger kan detta leda till att kontot stängs av. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag betala med PayPal på Tradera? 
+ANSWER: Nej, för närvarande accepteras inte PayPal som betalningsalternativ på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag betala med faktura på Tradera?
+ANSWER: Nej, Tradera erbjuder inte fakturabetalning för sina svenska kunder. Det går dock att betala med Swish, Banköverföring, Tradera Pay och Kreditkortsbetalningar. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag ändra mitt betalningssätt efter att en auktion har avslutats? 
+ANSWER: Nej, det går inte att ändra betalningssätt efter att en auktion har avslutats. När en auktion avslutas förväntas köparen betala på det sätt som de har valt från början. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/
+
+QUESTION: Kan jag betala med mitt kreditkort på Tradera? 
+ANSWER: Ja, Tradera accepterar betalningar med kreditkort. Användare kan också betala med Tradera Pay, som är ett betalningssätt som går genom kreditkortsbetalning. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-4/

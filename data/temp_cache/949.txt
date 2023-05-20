@@ -1,0 +1,39 @@
+QUESTION: Vil jeg blive bedt om at verificere min konto hos Tradera?
+ANSWER: Ja, du kan blive bedt om at verificere din konto hos Tradera. Hvis det er påkrævet, at du færdiggør denne verificering, vil du få besked fra Mit Tradera. Klik på beskeden for at begynde verifikationsprocessen.
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Hvordan bliver min verifikationsproces behandlet?
+ANSWER: Din verifikationsproces vil blive behandlet af Traderas partner, Hyperwallet, i overensstemmelse med GDPR (General Data Protection). Dette gælder kun for brugere i EU.
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Skal jeg sende mine oplysninger et andet sted end via Traderas formular, hvis jeg bliver bedt om at verificere min konto?
+ANSWER: Nej, alle oplysninger skal sendes via Traderas formular, hvis du bliver bedt om at verificere din konto.
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Hvor lang tid tager verifikationsprocessen?
+ANSWER: Når alle de påkrævede oplysninger og dokumenter er indsendt, tager det normalt 1-2 bankdage at blive verificeret.
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Vil mine betalinger stoppe, mens min konto bliver verificeret?
+ANSWER: Det er ikke angivet i teksten, men det er sandsynligt, at dine betalinger vil blive midlertidigt suspenderet, mens din konto bliver verificeret. Det er bedre at kontakte Tradera Support for mere information.
+URL: https://info.tradera.com/da/kann-din-kund/
+
+QUESTION: Hvad er vilkårene for at bruge Traderabetaling?
+ANSWER: Det er ikke angivet i teksten, men Tradera anbefaler at læse vilkårene for Traderabetaling på deres betalingshjælpeside.
+URL: https://info.tradera.com/da/tradera-betaling/
+
+QUESTION: Hvor kan jeg læse om populære mærker på Tradera?
+ANSWER: Du kan læse om populære mærker på Tradera på deres 'Populære varemærker'-side.
+URL: https://www.tradera.com/popular-marks
+
+QUESTION: Kan jeg handle på Tradera som privatperson?
+ANSWER: Ja, du kan handle på Tradera som privatperson. Tradera har også oplysninger om, hvordan man sælger som privatperson.
+URL: https://info.tradera.com/da/saadan-saelger-du-som-privatperson/
+
+QUESTION: Kan jeg bruge Tradera til at sælge mine egne produkter som en virksomhedssælger?
+ANSWER: Ja, Tradera tillader virksomhedssælgere at sælge på deres platform. Tradera har også oplysninger om, hvordan man sælger som en virksomhedssælger.
+URL: https://info.tradera.com/da/saadan-saelger-du-som-virksomhed/
+
+QUESTION: Hvor finder jeg mere information om Tradera og deres handelsbetingelser?
+ANSWER: Du kan læse mere information om Tradera og deres handelsbetingelser på deres 'Handelsbetingelser'-side.
+URL: https://support.tradera.com/hc/da/categories/360001233793-Handelsbetingelser

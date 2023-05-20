@@ -1,0 +1,39 @@
+QUESTION: Vilka är minimiavgifterna på Tradera, och vilken informationskategori hittar man denna information under?
+ANSWER: Minimiavgifter på Tradera är 0 SEK och 3 SEK beroende på vilken typ av produkt som säljs på plattformen. Denna information hittas under kategorin "Priser och avgifter" på informationssidan om Tradera.
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Vilka listningar på Tradera har priser som inkluderar en avgift på 15%?
+ANSWER: Listningar på Tradera med priser som är högre än 30 SEK inkluderar en avgift på 15%. 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Kan jag sälja butiksvaror på Tradera?
+ANSWER: Nej, enligt informationssidan om Tradera, är plattformen endast för försäljning av begagnade samlarobjekt som inte längre finns att köpa i butiker. 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Vad är månadskostnaden för att ha en butik på Tradera? 
+ANSWER: Informationssidan om Tradera nämner inte en specifik månadskostnad för att ha en butik på plattformen. 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Behöver jag välja "använd" som produktens skick för att åtnjuta lägsta provision på Tradera?
+ANSWER: Ja, du behöver välja "använd" som produktens skick för att åtnjuta lägsta provision på Tradera. 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Vad är uppsägningstiden för att stänga en butik på Tradera?
+ANSWER: Uppsägningstiden för att stänga en butik på Tradera är en månad. 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Vilken information delar Tradera med sina partners?
+ANSWER: Tradera delar information om din användning av webbplatsen, inklusive din trafikmängd, med parter som används för sociala medier, annonsering och analys. 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Vad finns det för säljarkategorier på Tradera?
+ANSWER: Det finns två kategorier för försäljning på Tradera, "privat säljare" och "säljare som företag". 
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Har Tradera en kontaktsida där jag kan få hjälp?
+ANSWER: Ja, på Traderas hemsida finns en kontaktsida du kan använda för att få hjälp med eventuella frågor eller problem.
+URL: https://info.tradera.com/en/butik-privat/
+
+QUESTION: Vilka sociala plattformar tillhör Tradera?
+ANSWER: Tradera finns på Facebook, Twitter, Pinterest, Instagram och LinkedIn. 
+URL: https://info.tradera.com/en/butik-privat/

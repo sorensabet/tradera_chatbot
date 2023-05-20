@@ -1,0 +1,39 @@
+QUESTION: Vad är tillåtet att sälja på Tradera?
+ANSWER: På Tradera är det tillåtet att sälja varor och tjänster, inklusive böcker, kläder, smycken, hushållsartiklar, verktyg och mycket mer. Undantagna är dock vissa varor, som motorfordon och båtar samt försäljning av objekt som motsvarar kontanter, presentkort eller biljetter till evenemang som sport- eller konsertbiljetter.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilka varor och tjänster är förbjudna att sälja enligt Traderas Regler för Säljare?
+ANSWER: Försäljning av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare är inte tillåtna på Tradera. Detta inkluderar bland annat vapen, droger, piratkopierade produkter och andra illegal varor och tjänster.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur fungerar Traderas säljarskydd?
+ANSWER: För att en Säljare ska kunna nyttja Traderas säljarskydd måste de skicka varorna till den av Tradera vid betalningstillfället godkända leveransadressen. Säljaren måste skicka varorna till den adress som Tradera senast informerat Säljaren om för att Säljaren ska omfattas av säljarskyddet. För varor vars pris överstiger 200 kr måste Säljaren kunna påvisa att försändelsen skickats med spårbarhet, t.ex. ett spårningsnummer från speditören, för att kvalificera för säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad händer om Köparens leveransadress har ändrats efter att köpet är genomfört på Tradera?
+ANSWER: Om Köparens leveransadress har ändrats efter att köpet är genomfört kommer Tradera meddela Säljaren om detta genom den e-postbekräftelse som skickas när Köparen har betalt för varan och informationen kommer också finnas tillgänglig i Mitt Tradera. Säljaren måste sedan skicka varan till den adress som Tradera senast informerat Säljaren om för att Säljaren ska omfattas av säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vilket belopp måste varorna uppgå till för att Säljaren ska kunna omfattas av säljarskyddet på Tradera?
+ANSWER: Varor vars pris överstiger 200 kr måste Säljaren kunna påvisa att försändelsen skickats med spårbarhet t.ex. ett spårningsnummer från speditören, för att kvalificera för säljarskyddet på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan Säljaren begära att köparen återbetalar pengar vid retur av en produkt?
+ANSWER: Ja, om köparen returnerar en produkt till Säljaren på grund av att den inte är som beskrivet eller av annan anledning enligt Traderas Regler för Köpare, kan Säljaren begära återbetalning från Köparen av det belopp som Säljaren betalat tillbaka för Köparens ursprungliga betalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Gäller säljarskyddet på Tradera för varor med ett värde under 200 kr?
+ANSWER: Säljarskyddet på Tradera gäller för alla varor oavsett deras värde. För varor vars pris överstiger 200 kr måste Säljaren kunna påvisa att försändelsen skickats med spårbarhet t.ex. ett spårningsnummer från speditören, för att kvalificera för säljarskyddet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan försäljningen av anpassade objekt på Tradera leda till att Säljaren inte omfattas av säljarskyddet?
+ANSWER: Försäljning av anpassade objekt kan leda till att Säljaren inte omfattas av säljarskyddet på Tradera, såvida inte mottagaren påstår att objekten inte kommit fram.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är det tillåtet att sälja motorfordon och båtar på Tradera?
+ANSWER: Nej, motorfordon och båtar är undantagna från försäljning på Tradera, enligt sidan om betalningsvillkor på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Är det tillåtet att sälja presentkort eller biljetter till evenemang på Tradera?
+ANSWER: Nej, försäljning av objekt som motsvarar kontanter, inklusive presentkort, och biljetter till evenemang som sport- eller konsertbiljetter, är inte tillåtna på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

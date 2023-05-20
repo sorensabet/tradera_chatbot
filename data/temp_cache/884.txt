@@ -1,0 +1,39 @@
+QUESTION 1: Kan jag använda Swish för att betala för mina Tradera-köp?
+ANSWER: Ja, det går att använda Swish som en betallösning för Tradera-köp. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION 2: Vilka andra betalningsmetoder accepterar Tradera?
+ANSWER: Förutom Swish accepterar Tradera även betalning via banköverföring, kortbetalning och faktura.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION 3: Hur lång tid tar det att få tillbaka pengarna vid en återbetalning?
+ANSWER: Efter att säljaren godkänt att produkten har returnerats, brukar det ta några arbetsdagar innan Tradera registrerar återbetalningen. Därefter tar det några dagar för beloppet att synas på ditt konto. 
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION 4: Vilka länder kan använda Tradera som e-handelsplattform?
+ANSWER: Förutom Sverige fungerar Tradera som e-handelsplattform även i Danmark, Finland och Norge.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION 5: Hur fungerar betalning med faktura på Tradera?
+ANSWER: Om du vill betala med faktura behöver du ha betalningsanmärkningar. Faktura betalas i förskott och du får betalningsinformationen direkt i din orderbekräftelse.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION 6: Kan jag avbryta en pågående auktion på Tradera?
+ANSWER: Nej, det går inte att avbryta en auktion på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/salj-pa-tradera/
+
+QUESTION 7: Kan jag lämna negativ feedback som köpare på Tradera?
+ANSWER: Nej, som köpare kan du endast lämna positiv feedback på Tradera. 
+URL: https://info.tradera.com/sakerhetscenter/salj-pa-tradera/
+
+QUESTION 8: Kan jag returnera en produkt jag köpt på Tradera och få pengarna tillbaka?
+ANSWER: Ja, du har möjlighet att returnera produkten och få pengarna tillbaka om den inte överensstämmer med beskrivningen eller bilden i annonsen, och om säljaren har uppgett att retur accepteras.
+URL: https://info.tradera.com/sakerhetscenter/kop-pa-tradera/
+
+QUESTION 9: Kan jag sälja begagnade kläder på Tradera?
+ANSWER: Ja, du kan sälja begagnade kläder på Tradera så länge de är i gott skick och överensstämmer med beskrivningen i annonsen.
+URL: https://info.tradera.com/sakerhetscenter/salj-pa-tradera/
+
+QUESTION 10: Vad ska jag göra om jag inte har mottagit en vara jag köpt på Tradera?
+ANSWER: Om du inte har mottagit varan ska du kontakta säljaren och eventuellt öppna en tvist för att få hjälp av Tradera.
+URL: https://info.tradera.com/sakerhetscenter/kop-pa-tradera/

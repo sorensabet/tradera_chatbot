@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av transaktioner kan leda till att Tradera bryter mot tillämpliga lagar och regler?
+ANSWER: Enligt texten kan transaktioner som skäligen kan misstänkas utgöra penningtvätt eller på annat sätt vara i strid med tillämpliga lagar och regler leda till att Tradera bryter mot dessa.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka transaktioner bryter mot villkoren, Traderas användaravtal eller regler för säljare?
+ANSWER: Transaktioner som strider mot Villkoren, Traderas Användaravtal eller Regler för Säljare kan leda till att Tradera bryter mot dessa.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Säljaren bryta mot gällande lag och fortfarande genomföra en transaktion på Tradera?
+ANSWER: Nej, enligt texten kan transaktioner genom vilka Säljaren bryter mot gällande lag leda till att Tradera bryter mot tillämpliga lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka är fördelarna med att använda Traderas betalningstjänst?
+ANSWER: Det framgår inte av den här texten vilka fördelar det finns med att använda Traderas betalningstjänst, då texten handlar mer om vilka regler som gäller för transaktioner på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad ska Säljaren göra om en transaktion helt eller delvis ska återbetalas till Köparen?
+ANSWER: Enligt texten är det upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen om en transaktion helt eller delvis ska återbetalas.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Till vem är det upp till att betala tillbaka del av eller fullständigt belopp om en transaktion på Tradera ska återbetalas?
+ANSWER: Det är upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen om en transaktion på Tradera ska återbetalas.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vad räknas som en frivillig återbetalning på Tradera?
+ANSWER: Enligt texten räknas det som en frivillig återbetalning på Tradera om en transaktion helt eller delvis ska återbetalas av Säljaren på grund av att Säljaren och Köparen har kommit överens om det, t.ex. om Köparen har beviljats returrätt av Säljaren eller Köparen utnyttjat sin lagstadgade ångerrätt om Köparen är konsument och Säljaren är näringsidkare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan Köparen förvärva kontanter genom en transaktion på Tradera?
+ANSWER: Ja, enligt texten kan transaktioner genom vilka Köparen förvärvar kontanter (t.ex. valutaväxling, en check eller liknande) leda till att Tradera bryter mot tillämpliga lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Kan en Säljare strunta i Villkor för Traderas vid var tid gällande Säljarskydd?
+ANSWER: Nej, enligt texten kan transaktioner där Säljaren inte har följt Villkor för Traderas vid var tid gällande Säljarskydd leda till att Tradera bryter mot tillämpliga lagar och regler.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/
+
+QUESTION: Vilka är de olika typerna av transaktioner som Tradera kan bryta mot tillämpliga lagar och regler med?
+ANSWER: Enligt texten kan Tradera bryta mot tillämpliga lagar och regler med transaktioner som skäligen kan misstänkas utgöra penningtvätt eller på annat sätt vara i strid med tillämpliga lagar och regler, transaktioner genom vilka Säljaren bryter mot gällande lag, transaktioner genom vilka Köparen förvärvar kontanter, transaktioner där Säljaren inte har följt Villkor för Traderas vid var tid gällande Säljarskydd, transaktioner som strider mot Villkoren, Traderas Användaravtal eller Regler för Säljare, eller transaktioner där Köparen i egenskap av konsument har använt sin lagstadgade ångerrätt gentemot en Säljare som bedriver näringsverksamhet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-1-3/

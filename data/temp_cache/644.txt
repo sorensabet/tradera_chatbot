@@ -1,0 +1,39 @@
+QUESTION: Hvad må man linke til på sin Tradera-side?
+ANSWER: Ifølge teksten kan man linke til en blog eller Facebook-side, så længe der ikke foretages salg og hvis der ikke er et logo eller domæne i banneret, som man kan klikke på.
+URL: https://info.tradera.com/da/offering-to-buy-or-sell-outside-of-tradera/
+
+QUESTION: Kan man sælge bøger, der indeholder lister og oplysninger på Tradera?
+ANSWER: Ja, man kan sælge bøger, der indeholder lister og oplysninger, hvis bogen har et ISBN-nummer, såsom samlerbøger for frimærker eller lignende.
+URL: https://info.tradera.com/da/banned-and-restricted-items/
+
+QUESTION: Hvad er de mest populære varemærker på Tradera?
+ANSWER: Det fremgår ikke af teksten, hvor de mest populære varemærker på Tradera er angivet.
+URL: https://info.tradera.com/da/category/
+
+QUESTION: Hvordan handler man på Tradera?
+ANSWER: Teksten indeholder en fane kaldet "Købe" og en side, der hedder "Sådan handler du på Tradera", hvor der gives information om at søge efter varer, at byde på dem og betale for dem. 
+URL: https://info.tradera.com/da/buying-on-tradera/
+
+QUESTION: Hvad for en kategori af sælgere vil blive betegnet som erhvervssælgere på Tradera?
+ANSWER: Ifølge teksten er man en erhvervssælger på Tradera, hvis man har en butik på Tradera eller sælger på en sådan måde, at man mistænkes for at have erhvervsmæssige hensigter.
+URL: https://info.tradera.com/da/selling-on-tradera/
+
+QUESTION: Hvordan beregner man fragt på Tradera?
+ANSWER: Teksten indeholder en fane kaldet "Fragt beregner," hvor man kan indtaste information omkring fragtpriser baseret på vægt og destination.
+URL: https://info.tradera.com/da/shipping-on-tradera/
+
+QUESTION: Hvor kan man finde oplysninger om velgørenhed på Tradera?
+ANSWER: Der findes en fane på Tradera kaldet "Velgørenhed," hvor man kan læse mere om, hvordan man kan donere til velgørende formål gennem køb og salg på Tradera.
+URL: https://info.tradera.com/da/charity/
+
+QUESTION: Hvor kan man få hjælp og information angående sikkerhed på Tradera?
+ANSWER: Teksten indeholder en fane kaldet "Sikkerhed," hvor man kan læse om, hvordan man transager sikkert på Tradera, og hvordan man beskytter sig mod svindel og bedrageri.  
+URL: https://info.tradera.com/da/security/
+
+QUESTION: Hvor kan man finde handelsbetingelserne for at handle på Tradera?
+ANSWER: Der findes en fane på Tradera kaldet "Handelsbetingelser," hvor man kan læse mere omkring handelsbetingelserne for at handle på Tradera.
+URL: https://www.tradera.com/user-terms
+
+QUESTION: Kan man kontakte Tradera, hvis man har spørgsmål eller brug for hjælp?
+ANSWER: Ja, på Traderas hjemmeside findes der en fane kaldet "Kontakt & Hjælp," hvor man kan kontakte Tradera, hvis man har spørgsmål eller brug for hjælp.
+URL: https://info.tradera.com/da/contact-help/

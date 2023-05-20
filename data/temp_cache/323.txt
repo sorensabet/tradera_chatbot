@@ -1,0 +1,39 @@
+QUESTION: What are cookies?
+ANSWER: Cookies are small data files that are stored in the memory of your browser or device when you visit a website, or read a message. They allow a website to recognize a particular device or browser. There are different types of cookies, such as session cookies and persistent cookies, and they can be disabled or removed by tools that are available in most browsers on the market.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: How are cookies used on Tradera's website?
+ANSWER: Cookies are used on Tradera's website to collect information about visitors or users, so that the website can remember preferences or actions across multiple sites. Service providers may also place cookies on users' devices through Tradera's services (third-party cookies) to provide relevant advertisements.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are web beacons?
+ANSWER: Web beacons are small images that are embedded in web pages and emails, and are used to collect information such as the IP address of the device accessing the webpage or email. This information can be used to personalize content and advertising.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are the names and types of cookies used by Tradera?
+ANSWER: The specific names and types of cookies used by Tradera may change from time to time. Some of the types of cookies we use include session cookies and persistent cookies, and they can be first-party or third-party cookies.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: How long do session cookies remain active?
+ANSWER: Session cookies remain active only during the current browser session, as long as your browser is open and active.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are persistent cookies used for?
+ANSWER: Persistent cookies are stored on your device in between browser sessions, allowing websites to remember your preferences or actions across multiple sites.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are first-party cookies?
+ANSWER: First-party cookies are cookies that are set by the website you are visiting.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are third-party cookies?
+ANSWER: Third-party cookies are cookies that are used by a third-party website, separate from the website you are visiting. Service providers may place third-party cookies on users' devices through Tradera's services to provide relevant advertisements.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Can cookies be disabled or removed?
+ANSWER: Yes, cookies can be disabled or removed by tools that are available in most browsers on the market. Each browser you use must be set up separately.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: What are unique device identifiers?
+ANSWER: Unique device identifiers are specific numbers and characters assigned to a device when it accesses the Internet, such as an IP address. Service providers may collect information through these identifiers to identify users' devices and provide relevant advertisements.
+URL: https://info.tradera.com/en/cookies-webb-beacons-och-liknande-teknik/

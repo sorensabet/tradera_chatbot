@@ -1,0 +1,39 @@
+QUESTION: Vad är Bank ID?
+ANSWER: Bank ID är en e-legitimation som du använder för att styrka din identitet på Internet, exempelvis på banken, hos Försäkringskassan, och nu även på Tradera. Bank ID är Sveriges i särklass största e-legitimation och utfärdas av 12 banker och blir allt mer vanlig. 
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Var används Bank ID?
+ANSWER: Bank ID används för att styrka din identitet på Internet, exempelvis på banken, hos Försäkringskassan, och nu även på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vilka banker utfärdar Bank ID?
+ANSWER: Bank ID utfärdas av 12 banker.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad händer när jag verifierar mig med Bank ID hos Tradera?
+ANSWER: När du verifierar dig med Bank ID hos Tradera klickar du upp din applikation på din dator, telefon eller surfplatta och fyller i din sexsiffriga kod. Därefter skickas din identitet säkert till oss och verifieras mot den information vi har om dig så att vi kan styrka att det verkligen är du som loggar in.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Är Bank ID säkert att använda på Tradera?
+ANSWER: Ja, Bank ID är ett säkert sätt för dig att verifiera din identitet på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Kan jag använda Bank ID på min mobil eller surfplatta?
+ANSWER: Ja, du kan använda Bank ID på din mobil eller surfplatta för att verifiera din identitet på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Vad händer om jag inte har Bank ID?
+ANSWER: Om du inte har Bank ID kan du inte verifiera din identitet på Tradera och delta i auktioner eller handla. Det går dock att skaffa Bank ID hos din bank om du inte redan har det.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Är Bank ID obligatoriskt att använda på Tradera?
+ANSWER: Nej, det är frivilligt att använda Bank ID på Tradera. Du kan också använda dig av SMS-koder för att verifiera din identitet.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Kan någon annan använda mitt Bank ID för att logga in på min Tradera?
+ANSWER: Nej, ingen annan kan använda ditt Bank ID för att logga in på Tradera. När du verifierar din identitet med Bank ID skickas din identitet säkert till oss och verifieras mot den information vi har om dig så att vi kan styrka att det verkligen är du som loggar in.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/
+
+QUESTION: Hur många olika sätt finns det att verifiera min identitet på Tradera?
+ANSWER: Det finns två olika sätt att verifiera din identitet på Tradera: genom att använda Bank ID eller genom att använda SMS-koder.
+URL: https://info.tradera.com/sakerhetscenter/fragor-och-svar-bank-id/

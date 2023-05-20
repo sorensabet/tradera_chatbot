@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med Traderas användning av cookies?
+ANSWER: Syftet med Traderas användning av cookies är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och analysera trafiken på deras webbplats. Genom att använda cookies kan de också erbjuda utökad funktionalitet och användaranpassning.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 2: Varför kan de nödvändiga cookies inte stängas av på Tradera?
+ANSWER: De nödvändiga cookies på Tradera kan inte stängas av eftersom de är avgörande för att webbplatsen ska fungera som den ska. Dessa cookies används för att säkerställa grundläggande funktioner som att logga in och lägga varor i varukorgen.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 3: Vad används de prestanda-cookies för på Tradera?
+ANSWER: De prestanda-cookies som används på Tradera mäter anonymt hur Tradera används så att användarupplevelsen kan förbättras. Dessa cookies används för att optimera webbplatsens prestanda och göra användningen enklare och mer intuitiv för besökarna.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 4: Vilken typ av inställningar kan användare spara med hjälp av Traderas funktionella cookies?
+ANSWER: Med Traderas funktionella cookies kan användare spara vissa inställningar som konto- och betalningsinformation samt preferenser för vilket språk som ska användas på webbplatsen. De kan också använda Facebook för att logga in på Tradera.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 5: Varför använder Traderas annonseringspartners marknadsföringscookies?
+ANSWER: Traderas annonseringspartners använder marknadsföringscookies för att rikta annonser som är relevanta för användare. Dessa cookies samlar in information om användares webbläsnings- och köpbeteende för att kunna erbjuda annonser som är anpassade efter deras intressen och behov.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 6: Kan användare ändra sina inställningar för cookies på Tradera?
+ANSWER: Ja, användare kan ändra sina inställningar för cookies på Tradera, genom att klicka på “Ändra inställningar” på webbplatsens cookie-meddelande. Användare kan välja vilken typ av cookies som ska användas, acceptera eller avvisa all cookies eller radera nuvarande cookies.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 7: Vad händer om en användare avvisar alla cookies på Tradera?
+ANSWER: Om en användare avvisar alla cookies på Tradera kan det leda till att webbplatsen inte fungerar på ett optimalt sätt och vissa funktioner kan begränsas eller bli otillgängliga. Vissa inställningar kan också behöva ställas in manuellt vid varje besök på webbplatsen.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 8: Vilka partners delar Tradera sin användardata med?
+ANSWER: Tradera delar sin användardata med partner för sociala medier, annonsering och analys. Syftet är att anpassa innehåll, annonser och ge besökarna en bättre användarupplevelse på webbplatsen.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 9: Varför är det viktigt att läsa igenom Traderas information om cookies?
+ANSWER: Det är viktigt att läsa igenom Traderas information om cookies eftersom det ger användarna en förståelse för vilken typ av cookies som används och varför de används. Användarna kan också lära sig hur de kan ändra sina inställningar för cookies för att anpassa Traderas webbplats till deras egna behov och preferenser.
+URL: https://info.tradera.com/en/nettoutbetalning/
+
+QUESTION 10: Var kan man hitta mer information om cookies på Tradera?
+ANSWER: Mer information om cookies på Tradera finns på deras webbplats. Användare kan klicka på “Läs mer” på cookie-meddelandet på Traderas webbplatser för att läsa mer om vilken typ av cookies som används, och varför de används.
+URL: https://info.tradera.com/en/nettoutbetalning/

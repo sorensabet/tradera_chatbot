@@ -1,0 +1,39 @@
+QUESTION 1: Vilken information delas Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 2: Vad är syftet med annonser på Tradera?
+ANSWER: Annonser används för att Traderas annonseringspartners ska kunna rikta annonser relevanta för användare.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 3: Varför kan inte vissa cookies stängas av på Tradera?
+ANSWER: Vissa cookies är nödvändiga för att Tradera ska fungera och kan därför inte stängas av.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 4: Vilka cookies används för att mäta hur Tradera används?
+ANSWER: Prestandacookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 5: Varför delar Tradera information om användares webbplatsanvändning med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys för att förbättra användarupplevelsen.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 6: Vilka är de olika kategorierna av cookies på Traderas webbplats?
+ANSWER: De olika kategorierna av cookies på Traderas webbplats är nödvändiga, prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 7: Vad är syftet med funktionella cookies på Tradera?
+ANSWER: Funktionellacookies på Tradera används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 8: Varför används cookies på Traderas webbplats?
+ANSWER: Cookies används på Traderas webbplats för att kunna tillhandahålla funktioner för sociala medier, analysera trafik och förbättra användarupplevelsen.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 9: Vad är syftet med marknadsföringscookies på Tradera?
+ANSWER: Marknadsföring cookies på Tradera används av annonseringspartners för att rikta annonser relevanta för användare.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/
+
+QUESTION 10: Kan cookies stängas av på Tradera?
+ANSWER: Vissa cookies, såsom nödvändiga cookies, kan inte stängas av på Tradera, medan andra kan stängas av genom att ändra inställningarna.
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION: Vilka objekt är förbjudna att sälja på Tradera?
+ANSWER: På informationssidan som tillhandahålls finns en lista över objekt som är förbjudna att sälja på Tradera. Detta inkluderar drogrelaterade föremål, vapenrelaterade föremål, pornografiskt material, livsmedel, droger, vilseledande rubriker och objektbeskrivningar, falska sedlar/mynt/frimärken och så vidare. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/
+
+QUESTION: Varför är det otillåtet att sälja begagnade underkläder på Tradera?
+ANSWER: Det är otillåtet att sälja begagnade underkläder på Tradera av hygieniska skäl. Även om vissa begagnade underkläder är tillåtna att sälja på Tradera, finns det begränsningar gällande vilken typ av underkläder som får säljas.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begagnade-underklader/
+
+QUESTION: Vilka begagnade underkläder är tillåtna att sälja på Tradera?
+ANSWER: Vissa begagnade underkläder är tillåtna att sälja på Tradera, men det finns begränsningar gällande vilken typ av underkläder som får säljas. Exempel på otillåtna varor inkluderar begagnade trosor och kalsonger samt begagnade sportunderkläder (som suspensoarer). 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begagnade-underklader/
+
+QUESTION: Hur fungerar "Budtrissning" på Tradera?
+ANSWER: På Tradera kan köpare och säljare delta i "Budtrissning" för att avgöra det högsta budet på en vara. Budtrissning innebär att köpare lägger bud på en vara under en förutbestämd tidsperiod, och det högsta budet vinner auktionen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Är bud bindande på Tradera?
+ANSWER: Ja, när du lägger ett bud på Tradera är det bindande. Om du vinner auktionen måste du köpa varan av säljaren. Om du inte gör det kan du riskera en negativ feedback eller en betalningsanmärkning på ditt konto. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/budtrissning/
+
+QUESTION: Hur fungerar försäljning av objekt utanför Tradera?
+ANSWER: Försäljning av objekt utanför Tradera är inte tillåtet. Om en säljare försöker sälja en vara utanför Tradera (t.ex. genom att ge ut e-postadress eller telefonnummer), kan det leda till att säljaren stängs av från webbplatsen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forsaljning-utanfor-tradera/
+
+QUESTION: Kan jag sälja märkeskopior på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja märkeskopior eller förfalskningar på Tradera. Detta inkluderar alla typer av produkter, från kläder och väskor till skor och accessoarer.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/markekopior-forfalskningar-och-andra-kopior/
+
+QUESTION: Vilka typer av elektronisk media är tillåtna att sälja på Tradera?
+ANSWER: Programvaror och musik-CD-skivor är tillåtna att sälja på Tradera, men försäljning av piratkopierat material är inte tillåtet. Det är också viktigt att notera att försäljning av elektronisk media kräver en viss grad av kunskap för produkterna och därför görs på köparens eget ansvar. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/programvaror-och-elektronisk-media/
+
+QUESTION: Vad är dropshipping på Tradera?
+ANSWER: Dropshipping på Tradera innebär att du som säljare inte behöver ha direkt tillgång till varan du säljer. Istället beställer du varan direkt från en tredje part och vidarebefordrar den till köparen. Det är tillåtet att använda sig av dropshipping på Tradera, men det anses som en högriskmetod som kan resultera i en sämre köpupplevelse för köparen. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/forhandsforsaljning-och-dropshipping/
+
+QUESTION: Vad är ångerrätt på Tradera?
+ANSWER: Ångerrätt på Tradera ger köpare möjlighet att returnera varor inom 14 dagar efter att de har mottagits och få full återbetalning. Köpare ska informera säljaren om att de vill utöva sin ångerrätt och varan ska återlämnas i samma skick som det mottogs. Det finns dock undantag för vissa varor som inte kan returneras av hygienska, hälso- eller säkerhetsskäl. 
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/angerratt/

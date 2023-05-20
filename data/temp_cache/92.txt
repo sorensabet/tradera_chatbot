@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningssätt kan jag använda på Tradera?
+ANSWER: På Tradera kan du använda betalningssätt som tillhandahålls av betallösningsleverantörer som Tradera samarbetar med.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan betalningssätten som erbjuds på Tradera ändras?
+ANSWER: Ja, betalningssätten, som erbjuds på Tradera, kan ändras från tid till annan eftersom de erbjuds av betallösningsleverantörer som samarbetar med Tradera.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Hur kan jag hantera frågor som gäller betalning?
+ANSWER: Frågor som gäller betalning på Tradera ska hanteras av dig och betallösningsleverantören enligt villkoren för det betalningssätt som du har valt att använda.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vem ansvarar för eventuella problem som kan uppstå vid betalning på Tradera?
+ANSWER: Tradera ansvarar inte för förseningar, fel, skador eller annat som har att göra med betalning eller utebliven betalning av föremål som du köper eller säljer på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan Tradera garantera att dess tjänster är tillgängliga utan avbrott?
+ANSWER: Nej, Tradera kan inte garantera att dess tjänster är tillgängliga utan avbrott även om man strävar efter att upprätthålla god säkerhet och tillgång till Tradera och Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Uppdateras bud i realtid på Tradera?
+ANSWER: Nej, uppdatering av bud och andra meddelandefunktioner i Traderas Tjänster sker inte i realtid och kan drabbas av förseningar som är utanför Traderas kontroll.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan jag ingå ett separat avtal med betallösningsleverantörer om jag väljer att använda de betalningssätt som erbjuds på Tradera?
+ANSWER: Ja, om du väljer att använda de betalningssätt som erbjuds på Tradera så kommer du att ingå ett separat avtal med dessa betallösningsleverantörer och godkänna de villkor som gäller för det betalningssätt som du valt att använda.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kommer jag ha tillgång till Traderas tjänster utan några avbrott?
+ANSWER: Tradera kan inte garantera att dess tjänster är tillgängliga utan avbrott även om man strävar efter att upprätthålla god säkerhet och tillgänglighet till Tradera och Tjänsterna.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Kan Tradera ändra betalningsvillkoren utan förvarning?
+ANSWER: Ja, Tradera kan ändra betalningsvillkoren utan förvarning eftersom betalningssätten tillhandahålls av betallösningsleverantörer som Tradera samarbetar med.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/
+
+QUESTION: Vad är ansvarsområdet för Tradera?
+ANSWER: Ansvarsområdet för Tradera är att sträva efter att upprätthålla god säkerhet och tillgång till Tradera och Tjänsterna, men Tradera kan inte garantera att dessa tjänster är tillgängliga utan avbrott eller vara ansvarig för betalning eller utebliven betalning av föremål som köps eller säljs på Tradera.
+URL: https://info.tradera.com/anvandaravtal-2019-2020/

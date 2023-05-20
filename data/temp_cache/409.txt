@@ -1,0 +1,39 @@
+QUESTION: Vad är syftet med att använda cookies på Tradera?
+ANSWER: Syftet med att använda cookies på Tradera är att anpassa innehåll, annonser, tillhandahålla funktioner för sociala medier och för att analysera trafik. De används också för att mäta hur Tradera används så att användarupplevelsen kan förbättras. Dessutom används de av annonseringspartners för att skapa annonser som är relevanta för användarna.
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vilken typ av cookies kan jag hitta på Tradera?
+ANSWER: Du kan hitta fyra typer av cookies på Tradera: Nödvändiga, Prestanda, Funktionella och Marknadsföring.
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan jag stänga av nödvändiga cookies på Tradera?
+ANSWER: Nej, nödvändiga cookies på Tradera kan inte stängas av eftersom de krävs för att webbplatsen ska fungera.
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vilka är de andra typerna av cookies på Tradera?
+ANSWER: De andra typerna är Prestanda, Funktionella och Marknadsföring. Prestanda cookies används för anonym mätning av hur Tradera används så att användarupplevelsen kan förbättras. Funktionella cookies används för utökad funktionalitet och användaranpassning på Tradera, t.ex. vissa sparade inställningar eller inloggning med Facebook. Marknadsföring cookies används av Traderas annonspartners för riktade annonser relevanta för besökarna.
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vad händer om jag inte accepterar cookies på Tradera?
+ANSWER: Du kan välja att inte acceptera cookies på Tradera, men vissa funktioner kanske inte fungerar som de ska och du kanske inte får tillgång till allt innehåll på webbplatsen.
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hur kan jag ändra mina cookie-inställningar på Tradera?
+ANSWER: Du kan ändra dina cookie-inställningar på Tradera genom att klicka på "Ändra inställningar" längst ner på webbsidan och välja vilka typer av cookies du vill tillåta. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Vad händer när jag godkänner cookies på Tradera?
+ANSWER: När du godkänner cookies på Tradera tillåter du webbplatsen att samla in och använda data om ditt besök på webbplatsen, inklusive dina preferenser och beteenden, för att tillhandahålla en bättre användarupplevelse och riktade annonser.
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan jag radera cookies från Tradera?
+ANSWER: Ja, du kan radera cookies från Tradera genom att ändra dina webbläsarinställningar. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Är min personliga information säker på Tradera?
+ANSWER: Ja, Tradera tar säkerheten för personlig information mycket seriöst och har implementerat olika säkerhetsåtgärder för att skydda användarnas data. Det är dock viktigt att använda ett säkert lösenord och inte dela det med någon annan för att ytterligare öka säkerheten. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Är det säkert att logga in på Tradera med Facebook?
+ANSWER: Ja, det är säkert att logga in på Tradera med Facebook. När du använder Facebook för inloggning på Tradera delas ingen personlig information mellan Tradera och Facebook utan du godkänner bara användningen av dina Facebook-uppgifter för att verifiera din identitet och logga in på Tradera. 
+URL: https://info.tradera.com/da/secure-passwords/

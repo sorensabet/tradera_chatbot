@@ -1,0 +1,39 @@
+QUESTION: Vilka olika betalningsalternativ kan en köpare använda när de handlar på Tradera?
+ANSWER: Köparen kan betala med Swish, kort eller PayPal på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer efter att en köpare har betalat för ett köp på Tradera?
+ANSWER: Efter att köparen har betalat för sitt köp på Tradera, meddelar Tradera säljaren att betalningen har skett via e-post och i Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Hur länge tar det normalt för en säljare att få utbetalning för sina försäljningar på Tradera?
+ANSWER: Utbetalning till säljarens bankkonto görs normalt inom 1-2 bankdagar från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer om en säljare inte uppfyller sina åtaganden efter att en köpare har betalat för ett köp på Tradera?
+ANSWER: Säljaren är skyldig att omedelbart efter att Tradera har bekräftat att köparen har betalat fullgöra sina åtaganden, t.ex. att skicka varan på lämpligt sätt.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är transaktionskostnaden för en säljare som använder Traderas betallösning på Tradera?
+ANSWER: Transaktionskostnaden för säljaren är noll (0) kronor vid användande av Traderas betallösning på Tradera. Det tillkommer inte heller någon start-, månads- eller årsavgift.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Hur utför Tradera sina utbetalningar till säljaren - styckvis per försäljning eller som ett sammanslaget belopp?
+ANSWER: Tradera kommer att utföra utbetalning till säljaren, antingen styckvis per försäljning eller som ett sammanslaget belopp.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad garanterar Tradera för säljaren när en transaktion har godkänts?
+ANSWER: När Tradera har godkänt en transaktion garanterar Tradera att säljaren får betalt inom 1-2 bankdagar, förutsatt att bankkontonumret som säljaren angivit har blivit verifierat.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad händer när en säljare godkänner villkoren för användning av Traderas betallösning vid försäljning på Tradera?
+ANSWER: När säljaren godkänner villkoren för användning av Traderas betallösning vid försäljning på Tradera är transaktionskostnaden till Tradera noll (0) kronor. Det tillkommer inte heller någon start-, månads- eller årsavgift.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Mitt Tradera?
+ANSWER: Mitt Tradera är en tjänst på Traderas plattform där användare kan se sina köp- och säljaktiviteter, följa auktioner, lägga bud och hantera sin användarprofil.
+URL: https://info.tradera.com/allmant-om-tradera/mitt-tradera/
+
+QUESTION: Vad är Försäljning på Tradera?
+ANSWER: Försäljning på Tradera är när en användare säljer en produkt på Traderas plattform.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

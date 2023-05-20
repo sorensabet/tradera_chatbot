@@ -1,0 +1,39 @@
+1. QUESTION: Vad är tidsramen för reklamation av innehållet i en försändelse och var kan jag göra en reklamation?
+ANSWER: En reklamation av innehållet i en försändelse måste startas hos DB Schenker senast 7 dagar efter att försändelsen hämtats ut och den kan göras genom att gå till länken angiven på sidan.
+URL: https://info.tradera.com/dbschenker/
+
+2. QUESTION: Vem har ansvaret för att packa varorna ordentligt för att undvika skador?
+ANSWER: Avsändaren har ansvaret att paketera varan så att den klarar transporten och inte riskerar att skadas eller skada andra paket under transport.
+URL: https://info.tradera.com/dbschenker/
+
+3. QUESTION: Hur behöver varan packas för att undvika skada under transport?
+ANSWER: Innehållet behöver ha så mycket emballage som möjligt i kartongen för att ligga stabilt och inte röra sig. Paketen hanteras maskinellt och lappar eller text med AKTAS, GLAS och liknande ger inte ytterligare skydd.
+URL: https://info.tradera.com/dbschenker/
+
+4. QUESTION: Var kan jag hämta transportetiketten för min försändelse?
+ANSWER: Efter genomförd fraktbokning kan du direkt ladda ned din transportetikett som PDF, skriva ut den hos ombud via QR kod eller använda kod för utskrift hos ombud.
+URL: https://info.tradera.com/dbschenker/
+
+5. QUESTION: Skickas transportetiketten som PDF för frakt inom EU?
+ANSWER: Ja, transportetiketten skickas endast som PDF vid frakt inom EU.
+URL: https://info.tradera.com/dbschenker/
+
+6. QUESTION: Vad händer om paketet väger mer än den storlek jag har betalat för?
+ANSWER: Om paketet väger mer än det paket du valt kommer du som säljare att bli kontaktad för att betala mellanskillnaden.
+URL: https://info.tradera.com/dbschenker/
+
+7. QUESTION: Vilka betalningsalternativ erbjuder DB Schenker för leverans?
+ANSWER: Det framgår inte av texten vilka betalningsalternativ som erbjuds av DB Schenker.
+URL: https://info.tradera.com/dbschenker/
+
+8. QUESTION: Kan jag spåra min försändelse med DB Schenker?
+ANSWER: Ja, du kan spåra din försändelse med DB Schenker genom att använda spårningsnumret som du får vid genomförd fraktbokning.
+URL: https://info.tradera.com/dbschenker/
+
+9. QUESTION: Kan jag begära en annan tjänst än standardfrakt från DB Schenker?
+ANSWER: Det framgår inte av texten om det går att begära en annan tjänst än standardfrakt från DB Schenker.
+URL: https://info.tradera.com/dbschenker/
+
+10. QUESTION: Hur gör jag om mitt paket inte har anlänt som förväntat?
+ANSWER: Det framgår inte av texten vad du som kund ska göra om ditt paket inte har anlänt som förväntat.
+URL: https://info.tradera.com/dbschenker/

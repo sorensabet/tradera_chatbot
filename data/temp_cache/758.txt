@@ -1,0 +1,39 @@
+QUESTION: Vilka föremål är tillåtna att annonsera på Tradera?
+ANSWER: Det textavsnittet ger ingen uttömmande lista på tillåtna föremål, men det ger ganska detaljerade exempel på vad som är tillåtet att publicera på Tradera, såsom mobilskal och kläder.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/begransning-av-identiska-objekt/
+
+QUESTION: Finns det en fraktkalkylator på Tradera?
+ANSWER: Ja, Tradera har en fraktkalkylator tillgänglig.
+URL: https://info.tradera.com/kontakt-hjalp/fraktkalkylatorn/
+
+QUESTION: Hur kan man donera till organisationer med hjälp av Tradera?
+ANSWER: Det finns möjlighet att donera till utvalda organisationer med hjälp av Tradera.
+URL: https://info.tradera.com/kontakt-hjalp/donera-med-tradera/
+
+QUESTION: Finns det några populära varumärken som annonseras på Tradera?
+ANSWER: Det finns en kategori för populära varumärken på Tradera.
+URL: https://info.tradera.com/sa-fungerar-tradera/kategorier/
+
+QUESTION: Vilka sociala medieplattformar använder Tradera?
+ANSWER: Tradera använder Facebook, Twitter, Pinterest, Instagram och LinkedIn.
+URL: https://info.tradera.com/kontakt-hjalp/
+
+QUESTION: Kan företag sälja på Tradera?
+ANSWER: Ja, företag kan sälja på Tradera.
+URL: https://info.tradera.com/salj-som-foretag/
+
+QUESTION: Hur kan man kontakta Tradera?
+ANSWER: Det finns olika sätt att kontakta Tradera, såsom via deras kontaktformulär eller deras telefonnummer som är tillgängligt på deras hemsida.
+URL: https://info.tradera.com/kontakt-hjalp/
+
+QUESTION: Ger Tradera en förteckning över vanliga frågor och svar?
+ANSWER: Ja, Tradera har en avdelning för vanliga frågor och svar på deras hemsida.
+URL: https://info.tradera.com/sakerhetscenter/vanliga-fragor-och-svar/
+
+QUESTION: Har Tradera några kategorier för sina föremål?
+ANSWER: Ja, Tradera har flertalet kategorier för sina föremål.
+URL: https://info.tradera.com/sa-fungerar-tradera/kategorier/
+
+QUESTION: Vad är "Grön frakt" på Tradera?
+ANSWER: Grön frakt är ett initiativ på Tradera som syftar till att minska miljöavtrycket av frakt genom att använda förnyelsebara energikällor.
+URL: https://info.tradera.com/salj-som-foretag/gron-frakt/

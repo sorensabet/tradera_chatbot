@@ -1,0 +1,39 @@
+QUESTION: What is an integrated shipping method in Tradera?
+ANSWER: An integrated shipping method in Tradera means that the tracking information will be automatically updated in the user's Mitt Tradera when the shipment is booked. For DB Schenker, it also means that the shipment can be booked directly through Tradera without visiting another site.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the benefit of using DB Schenker for shipping items?
+ANSWER: Using DB Schenker provides benefits such as no size restrictions, tracking information for both the buyer and seller, and insurance up to 5000 kr within Sweden. Members can also receive discounts up to 70% through Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What benefits does DHL offer for shipping through Tradera?
+ANSWER: DHL offers benefits such as tracking information for both the buyer and seller, insurance up to 5000 kr within Sweden, and members can receive discounts up to 50% through Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What shipping options does Postnord provide through Tradera?
+ANSWER: Postnord provides a shipping label at the agent and offers both trackable and insured options for shipping through Tradera.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Why would users consider using Bussgods for shipping through Tradera?
+ANSWER: Users may consider using Bussgods for shipping through Tradera because they offer trackable shipping for both the buyer and seller, and members can receive discounts up to 40%.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: How can users receive up to 70% discount on shipping through Tradera?
+ANSWER: Members can receive discounts up to 70% on shipping through Tradera by using DB Schenker for their shipments.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: Is insurance provided for international shipping through Tradera?
+ANSWER: Information about international shipping insurance is not provided in the given text.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: How can users arrange for the pickup and delivery of larger shipments through Tradera?
+ANSWER: Users can arrange for the pickup and delivery of larger shipments through Tradera's agreement with DB Schenker. Contact sales@tradera.com for more information.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the limit for insurance coverage when shipping through DB Schenker?
+ANSWER: The limit for insurance coverage when shipping through DB Schenker is 5000 kr within Sweden.
+URL: https://info.tradera.com/foretag/
+
+QUESTION: What is the Fraktguide on Tradera and how can users access it?
+ANSWER: The Fraktguide on Tradera provides information about shipping methods and providers. Users can access it by following the link provided in the given text.
+URL: https://info.tradera.com/foretag/

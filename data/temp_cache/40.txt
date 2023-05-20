@@ -1,0 +1,39 @@
+QUESTION: Vilken sökstrategi kan användas om jag vill söka efter ord i en specifik ordning?
+ANSWER: Om du vill söka efter ord i en specifik ordning kan du använda dig av citationstecken i sökningen. Sökresultaten kommer då bara att visa resultat som innehåller orden i den exakta ordningen. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Hur kan jag söka efter något från en specifik säljare på Tradera?
+ANSWER: För att söka efter något från en specifik säljare på Tradera kan du använda sökfältet och ange säljarens användarnamn följt av det du söker. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Vad ska jag göra om jag är osäker på hur man stavar ett sökord?
+ANSWER: Om du är osäker på hur man stavar ett sökord kan du använda dig av asterisk (*) som en platsmarkör. Till exempel, om du söker efter något som börjar på "Mumin" men är osäker på om det är "Muminmugg" eller "Mumintroll", kan du söka på Mumin* så kommer resultaten visa alla träffar som inkluderar ordet "Mumin". 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Kan jag använda plustecken för att söka efter flera varianter av ett ord?
+ANSWER: Ja, du kan använda plustecken för att söka efter flera varianter av ett ord. Om du till exempel letar efter en klänning från Zara, kan du söka på +Zara +klänning för att se alla sökresultat som inkluderar båda orden. Plustecknet fungerar som en "och"-operator i sökningen. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Hur kan jag söka efter något men utesluta vissa ord som jag inte vill ha med i sökningen?
+ANSWER: Om du vill söka efter något men utesluta vissa ord som du inte vill ha med i sökningen kan du använda dig av minustecken. Till exempel, om du söker efter något från Disney men inte vill ha med filmen "Bilar" kan du söka på +Disney -Bilar. Minustecknet fungerar som en "och inte"-operator i sökningen. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Hur kan jag söka efter flera olika ord samtidigt på Tradera?
+ANSWER: Om du vill söka efter flera olika ord samtidigt på Tradera kan du separera orden med mellanslag eller kommatecken. Sökningen kommer visa träffar som inkluderar någon av orden. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Kan jag filtrera sökresultaten på säljarens geografiska plats?
+ANSWER: Ja, du kan filtrera sökresultaten på säljarens geografiska plats genom att klicka på "Avancerad sökning" och sedan välja säljarens plats under "Plats" i filtermenyn. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Vad gör jag om jag får för många sökträffar på Tradera?
+ANSWER: Om du får för många sökträffar på Tradera kan du förfina sökningen genom att använda dig av fler sökord eller mer specifika ord. Du kan också filtrera sökresultaten på kategori, pris, säljare med mera genom att använda dig av filtermenyn på sidan. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Kan jag söka efter ord som är liknande det jag söker efter?
+ANSWER: Ja, du kan söka efter ord som är liknande det du söker efter genom att lägga till en tilde (~) före ordet. Sökningen kommer då inkludera ord som liknar det angivna ordet. 
+URL: https://info.tradera.com/soktips-pa-tradera/
+
+QUESTION: Hur kan jag få bättre sökresultat på Tradera?
+ANSWER: För att få bättre sökresultat på Tradera kan du använda dig av söktipsen som finns beskrivna på sidan. Detta inkluderar sökning med citationstecken, plustecken, minustecken och asterisk. Du kan också förfina sökningen genom att använda filtermenyn på sidan. 
+URL: https://info.tradera.com/soktips-pa-tradera/

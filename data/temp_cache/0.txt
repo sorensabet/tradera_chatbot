@@ -1,0 +1,39 @@
+QUESTION: Vilken information delar Tradera med sina partners?
+ANSWER: Tradera delar information om användning av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/
+
+QUESTION: Vilka funktioner finns tillgängliga på Tradera för att säkerställa säkerheten för användare?
+ANSWER: Information kring säkerhetsfunktioner som används på Tradera finns tillgängliga på deras informationssida, såsom deras säkra betalningsmetoder och regler för säljare och budgivare.
+URL: https://info.tradera.com/
+
+QUESTION: Kan man som företag sälja på Tradera?
+ANSWER: Ja, det är möjligt att sälja som företag på Tradera. Det finns dock vissa regler som måste följas.
+URL: https://info.tradera.com/
+
+QUESTION: Hur fungerar fraktkalkylatorn på Tradera?
+ANSWER: Traderas fraktkalkylator hjälper användare beräkna fraktkostnader för föremål som säljs på webbplatsen baserat på storlek, vikt och destination.
+URL: https://info.tradera.com/
+
+QUESTION: Vilka betalningsmetoder accepterar Tradera?
+ANSWER: Tradera accepterar flera olika betalningsmetoder, inklusive Swish, klarna, kort och banköverföring.
+URL: https://info.tradera.com/
+
+QUESTION: Kan man donera med Tradera?
+ANSWER: Ja, det är möjligt att donera med Tradera via deras donationsfunktion. 
+URL: https://info.tradera.com/
+
+QUESTION: Finns det guider tillgängliga på Tradera?
+ANSWER: Ja, användare på Tradera kan hitta guider som hjälper till att navigera genom webbplatsens funktioner och poliser. 
+URL: https://info.tradera.com/
+
+QUESTION: Vilka regler ska följas när man säljer som privatperson på Tradera?
+ANSWER: Det finns tydliga regler för säljare på Tradera att följa när man säljer som privatperson. Dessa inkluderar att vara ärlig och noggrann i sin produktbeskrivning och att följa alla lagar och författningar som berör försäljning. 
+URL: https://info.tradera.com/
+
+QUESTION: Vad är "grön frakt" på Tradera?
+ANSWER: "Grön frakt" är Traderas initiativ för att minska miljöpåverkan från handel och frakt genom att erbjuda olika fraktalternativ, inklusive grön el och godstransport med mindre påverkan på miljön.
+URL: https://info.tradera.com/
+
+QUESTION: Finns det en FAQ på Tradera?
+ANSWER: Ja, det finns en FAQ på Traderas webbplats där användare kan hitta svar på vanliga frågor som rör webbplatsens funktioner och regler.
+URL: https://info.tradera.com/

@@ -1,0 +1,39 @@
+QUESTION 1: Who is responsible for payment issues, according to the User Agreement?
+ANSWER: Payment issues must be dealt with by the user and the payment solution provider. Tradera is not responsible or liable for any payment-related delays, defects, or losses.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 2: What is required of sellers when they sell an item on Tradera?
+ANSWER: When selling an item on Tradera, sellers must agree to the Payment Solution Terms that are applicable to them.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 3: What is Tradera's liability regarding the continuous operation of their Services?
+ANSWER: Tradera cannot guarantee the continuous operation of or access to their Services, and their liability is limited based on this.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 4: Is it possible to experience delays beyond Tradera's control?
+ANSWER: Yes, delays beyond Tradera's control may occur, and their bid updates and notification functionality may not occur in real-time.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 5: Is Tradera liable for indirect losses resulting from the users' use of their Services?
+ANSWER: No, Tradera (and its parent, subsidiaries, affiliates, representatives, officers, agents and employees) are not liable for any indirect losses that users may experience due to their use of the Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 6: What are examples of indirect losses that Tradera is not liable for?
+ANSWER: Examples of indirect losses that Tradera is not liable for includes loss occurring in business, loss of data, loss of profits, loss of business opportunity, loss of reputation or disruption to the business, or any other losses that we could not reasonably foresee.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 7: Is Tradera responsible for delays or disruptions in their Services?
+ANSWER: Tradera (and its parent, subsidiaries, affiliates, representatives, officers, agents and employees) is not responsible for any delays or disruptions in their Services.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 8: Can users encounter viruses or other malicious software by accessing or linking to Tradera's Services?
+ANSWER: Yes, accessing or linking to Tradera's Services can result in users obtaining viruses or other malicious software.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 9: What losses are caused by third parties that Tradera is not responsible for?
+ANSWER: Losses caused by items that are listed via Tradera's Services are not Tradera's responsibility.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/
+
+QUESTION 10: What is the "Abusing Tradera" section, and what actions does Tradera take with respect to it?
+ANSWER: The "Abusing Tradera" section is a set of actions that should not be carried out when using Tradera's Services. If there is a breach of this section, Tradera may take a suspension or other action regarding the user's account.
+URL: https://info.tradera.com/en/anvandaravtal-eng-2020-2022/

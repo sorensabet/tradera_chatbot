@@ -1,0 +1,39 @@
+QUESTION: Hvad skal jeg gøre, hvis min pakke er beskadiget eller bortkommet?
+ANSWER: Hvis en pakke er beskadiget eller bortkommet, skal du kontakte Bring Kundeservice for at starte en reklamation.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Er en pakke sendt med Bring altid forsikret?
+ANSWER: Ja, en pakke sendt med Bring for Tradera er altid forsikret.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvor lang tid tager det normalt at modtage en pakke fra Bring?
+ANSWER: Din pakke leveres normalt inden for 2-6 hverdage, men det afhænger af, hvornår sælgeren sender pakken, og hvor i landet sælgeren og køberen befinder sig.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvem er ansvarlig for at pakke en vare forsvarligt?
+ANSWER: Afsenderen er ansvarlig for at pakke varen forsvarligt, så der ikke opstår skader under transporten. 
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvilke anbefalinger er der til at undgå skader under transporten?
+ANSWER: Afsenderen skal sikre sig, at varen er pakket på en sådan måde, at indholdet eller andre pakker ikke bliver beskadiget under forsendelsen. Brug tilstrækkeligt emballagemateriale, så varen er ubevægelig i pakken. En anbefaling er, at pakken skal kunne klare et fald fra et bord.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Er det nyttigt at skrive sedler på pakken om glasvarer eller skrøbeligt indhold?
+ANSWER: Nej, sedler eller tekst om glasvarer eller skrøbeligt indhold eller lignende giver ingen ekstra beskyttelse, da pakkerne håndteres af maskiner.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan fungerer labelless forsendelse?
+ANSWER: Efter bestilling af fragt med Bring modtager du en kode, som kan skrives direkte på din pakke. Når pakken er indleveret i pakkeshoppen, håndterer Bring pakken, inden den sendes til modtageren. Med den labelless forsendelseskode er det ikke nødvendigt med en fysisk label på pakken.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Er det nødvendigt med en fysisk label på pakken i labelless forsendelse?
+ANSWER: Nej, det er ikke nødvendigt med en fysisk label på pakken i labelless forsendelse.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Hvordan kan jeg kontakte Bring Kundeservice?
+ANSWER: Du kan kontakte Bring Kundeservice, hvis din pakke er beskadiget eller bortkommet, ved at gå til Tradera's Bring informationsside og bruge de angivne kontaktoplysninger.
+URL: https://info.tradera.com/da/bring/
+
+QUESTION: Kan jeg spore min pakke, når den er sendt med Bring?
+ANSWER: Ja, du kan spore din pakkes status, når den er sendt med Bring, ved brug af det sporingsnummer, der er sendt til dig.
+URL: https://info.tradera.com/da/bring/

@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av personuppgifter kan CONTEXT komma att samla in?
+ANSWER: CONTEXT kan samla in personuppgifter på sina webbplatser eller tjänster för sina egna syften. Vilka typer av personuppgifter som samlas in beror på hur användarna interagerar med deras webbplatser och tjänster.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur behandlar CONTEXT användarnas personuppgifter som samlats in på deras webbplatser?
+ANSWER: CONTEXT behandlar användarnas personuppgifter enligt deras sekretesspolicy och de begränsningar de har etablerat i sina avtal med tjänsteleverantörer för användning och insamling av personuppgifter.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan tredje part använda cookies och webb-beacons på CONTEXTs webbplatser?
+ANSWER: Ja, tjänsteleverantörer och annan godkänd tredje part kan använda cookies och webb-beacons på CONTEXTs webbplatser under vissa förutsättningar, men det är förbjudet för tredje mans-innehåll som annonser, kommunikation mellan medlemmar, kommentarer och recensioner.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad ska man göra om man misstänker att tredje part samlar in personuppgifter eller använder spårningsteknik på CONTEXTs webbplatser?
+ANSWER: Om du misstänker att en annons eller annat innehåll från tredje man samlar in personuppgifter eller använder spårningsteknik på en av CONTEXTs webbplatser, så bör du rapportera det till abuse@tradera.com.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan annonsnätverk och -utbyte använda spårningsteknik på CONTEXTs webbplatser?
+ANSWER: Ja, CONTEXT kan anlita tredje man, inklusive annonsnätverk och -utbyte för att kunna erbjuda annonser. Dessa annonsnätverk och -utbyte kan använda cookies, webb-beacons och liknande teknik för att samla in information, inklusive enhetens identitet och IP-nummer.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är syftet med att anlita tredje man för att erbjuda annonser på CONTEXTs webbplatser?
+ANSWER: Syftet med att anlita tredje man, inklusive annonsnätverk och -utbyte, är att kunna erbjuda annonser till användare på CONTEXTs webbplatser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilka typer av cookies kan användas på CONTEXTs webbplatser?
+ANSWER: CONTEXTs webbplatser kan använda olika typer av cookies, inklusive sessionscookies, persistenta cookies, första part-cookies och tredje mans-cookies.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är syftet med sessionscookies och persistenta cookies på CONTEXTs webbplatser?
+ANSWER: Syftet med sessionscookies är att de tillfälligt sparas på användarens enhet medan denne besöker CONTEXTs webbplats. Persistenta cookies däremot sparas på enheten en längre tid för att underlätta användarupplevelsen vid framtida besök på webbplatsen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är syftet med första part-cookies och tredje mans-cookies på CONTEXTs webbplatser?
+ANSWER: Syftet med första part-cookies är att de sätts av CONTEXTs egna webbservrar på användarens enhet. Tredje mans-cookies sätts av annan part än CONTEXT på användarens enhet.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur kan användare på CONTEXTs webbplatser stänga av cookies?
+ANSWER: Användare på CONTEXTs webbplatser kan vanligtvis stänga av cookies i webbläsarens inställningar. Det kan dock medföra en försämring av funktionaliteten på webbplatsen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

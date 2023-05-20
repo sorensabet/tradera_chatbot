@@ -1,0 +1,39 @@
+QUESTION: Vad är Tradera?
+ANSWER: Tradera är en e-handelsplattform i Norden för köp och försäljning av både nya och begagnade varor.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vilka kan sälja varor på Tradera?
+ANSWER: Både privatpersoner och företag kan sälja varor på Tradera.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hur fungerar fraktberäknaren på Tradera?
+ANSWER: Fraktberäknaren på Tradera hjälper dig att räkna ut kostnaden för frakt av en vara utifrån dess vikt och destination.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vad är en Traderabutik?
+ANSWER: En Traderabutik är en säljares egna butik på Tradera där de kan lista alla sina varor på ett ställe och ge en enhetlig varupresentation.
+URL: https://info.tradera.com/da/
+
+QUESTION: Kan jag bidra till välgörenhet via Tradera?
+ANSWER: Ja, du kan bidra till välgörenhet genom att välja att skänka en del eller hela försäljningsvinsten till en av Traderas samarbetsorganisationer.
+URL: https://info.tradera.com/da/
+
+QUESTION: Hur kan jag kontakta Traderas kundtjänst?
+ANSWER: Du kan kontakta Traderas kundtjänst via mejl eller telefon. Kontaktuppgifterna finns på Traderas kontaktsida.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vilka säkerhetsåtgärder har Tradera på plats?
+ANSWER: Tradera genomför kontroller av både köpare och säljare för att minimera risken för bedrägeri. De erbjuder också säkra betalningsmetoder och arbetar tillsammans med polisen för att bekämpa brott på plattformen.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vilka handelsvillkor gäller på Tradera?
+ANSWER: Handelsvillkoren på Tradera innefattar bland annat krav på att varan ska beskrivas korrekt och att köpare och säljare ska betala inom en viss tidsram.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vad är en brugeravtal?
+ANSWER: En brugeravtal är ett avtal mellan dig som användare och Tradera som beskriver villkoren för att använda plattformen.
+URL: https://info.tradera.com/da/
+
+QUESTION: Vad är cookies på Tradera och varför används de?
+ANSWER: Cookies på Tradera är små textfiler som används för att samla in information om hur besökare använder plattformen. Detta används i sin tur för att förbättra användarupplevelsen och anpassa innehåll och annonser.
+URL: https://info.tradera.com/da/

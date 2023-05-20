@@ -1,0 +1,39 @@
+QUESTION: Vad ingår i avtalet när man beställer frakt via Traderas webbplats och vilka villkor gäller för frakttjänsten?
+ANSWER: När man beställer frakt via Traderas webbplats ingår man i avtal med Tradera angående administration av beställning och information om frakten till köpare. För frakttjänsten tillämpas PostNords produktspecifika villkor samt PostNords allmänna kundvillkor. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilket ansvar har säljaren när det gäller val av frakt och viktklass för föremålet som säljs?
+ANSWER: Säljaren ansvarar för att välja den fraktmetod och viktklass som passar föremålet som säljs. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilka villkor gäller för Traderas administration av frakten?
+ANSWER: För Traderas administration av frakten gäller villkoren i Traderas Användaravtal.
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vad händer om man överskrider mått eller vikt på föremålet som säljs?
+ANSWER: Om man överskrider mått eller vikt på föremålet som säljs kan det leda till extra kostnader. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilket företag tillämpar sina allmänna kundvillkor för PostNords produkter?
+ANSWER: PostNord tillämpar sina allmänna kundvillkor för sina produkter. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vad händer om man betalar för frakten direkt till Tradera?
+ANSWER: Om man beställer frakt via Traderas webbplats betalar man för frakten direkt till Tradera. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilken information på Traderas webbplats utgör underlag för de fraktsätt som Tradera föreslår?
+ANSWER: Informationen man fyller i om föremålet på Traderas webbplats utgör underlag för de fraktsätt som Tradera föreslår. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilket företag tillämpar sina produktspecifika villkor för frakttjänsten?
+ANSWER: PostNord tillämpar sina produktspecifika villkor för frakttjänsten. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilket företag är ansvarigt för administration av beställning och information om frakten till köpare?
+ANSWER: Tradera är ansvarigt för administration av beställning och information om frakten till köpare. 
+URL: https://info.tradera.com/postnord/my-pack-collect/
+
+QUESTION: Vilka åtaganden ingår i avtalet när man beställer frakt via Traderas webbplats?
+ANSWER: När man beställer frakt via Traderas webbplats ingår man i avtal med Tradera angående administration av beställning och information om frakten till köpare av föremålet på Traderas webbplats. 
+URL: https://info.tradera.com/postnord/my-pack-collect/

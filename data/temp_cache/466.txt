@@ -1,0 +1,39 @@
+QUESTION: Can I send a parcel to a box address?
+ANSWER: No, only regular addresses are accepted as returns can only be made to a regular address.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: How do I change the shipping address?
+ANSWER: You can change the shipping address in the checkout.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: How do I know when the parcel is delivered?
+ANSWER: You will receive an SMS to the phone number that you have registered at Tradera containing the tracking number.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Which IDs are valid for parcel collection?
+ANSWER: To collect your parcel, you need a valid ID and the tracking ID. You get the tracking ID in the delivery notification via SMS or E-mail. Valid IDs include SIS-marked ID-card or service card, ID-card granted by the tax ministry, National ID-card granted by the Swedish police, Swedish drivers license, EU passport, National ID card for any country in the Schengen zone, Foreign passport, Nordic drivers license.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: How long is the parcel kept at the vendor before being returned to the sender?
+ANSWER: The parcel is kept for 14 days before being returned.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: What should I do if I cannot collect my parcel within the allotted time period?
+ANSWER: If you can't collect your parcel within the allotted time period, contact the seller in advance and ask them to send it at a later date.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: How do I change the recipient's address?
+ANSWER: To change the recipient's address, the recipient needs to change the address before you book the shipping.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Can I leave the parcel at any vendor other than the one specified?
+ANSWER: Yes, you can leave the parcel at any vendor.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Will I receive a receipt for the parcel?
+ANSWER: You will receive a receipt by e-mail when handing in your parcel once it's been scanned.
+URL: https://info.tradera.com/en/postnord/
+
+QUESTION: Can someone else collect my parcel on my behalf?
+ANSWER: Yes, but to collect your parcel someone else will need to bring ID for both persons along with a valid ID and the tracking ID.
+URL: https://info.tradera.com/en/postnord/

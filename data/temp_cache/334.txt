@@ -1,0 +1,39 @@
+QUESTION: Vilka olika kategorier av användning av cookies och liknande teknik delas texten in i?
+ANSWER: Texten delar användning av cookies och liknande teknik in i tre kategorier: nödvändig för drift, prestanda och funktionalitet.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vilken teknik kan användas för att förhindra bedrägerier på Traderas webbplats?
+ANSWER: Cookies, webb-beacons eller annan liknande teknik kan användas för att identifiera otillåten användning av webbplatsen, förhindra bedrägerier och öka säkerheten på Traderas webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan cookies och liknande teknik användas för att förbättra innehåll, applikationer och tjänster på Traderas webbplats?
+ANSWER: Ja, cookies, webb-beacons och liknande teknik kan användas för att förbättra innehåll, applikationer, tjänster eller verktyg på Traderas webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Varför kan webb-beacons och liknande teknik användas på Traderas webbplatser?
+ANSWER: Webb-beacons och liknande teknik kan användas på Traderas webbplatser för att utvärdera prestandan på webbplatserna, applikationerna, tjänsterna och verktygen. De kan också användas som en del av analyser för att förstå hur besökare använder Traderas webbplatser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Vad är syftet med att använda cookies på Traderas webbplatser?
+ANSWER: Syftet med att använda cookies på Traderas webbplatser är att ge användarna tillgång till webbplatserna, tjänsterna, applikationerna och verktygen. Dessutom kan cookies användas för att identifiera otillåten användning av webbplatsen, förhindra bedrägerier och öka säkerheten på Traderas webbplats.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan cookies på Traderas webbplatser användas för att spara sökningar som en användare har gjort?
+ANSWER: Ja, cookies kan användas på Traderas webbplatser för att spara sökningar som en användare har gjort eller för att erbjuda liknande tjänster som kundvagnar.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan Tradera använda cookies för att följa upp om en användare har sett en länk eller ett föremål?
+ANSWER: Ja, cookies, webb-beacons och liknande teknik kan användas för att följa upp om en användare har sett en länk eller ett föremål på Traderas webbplatser.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Hur kan Tradera använda cookies för att avgöra om en användare använt meddelandetjänster?
+ANSWER: Cookies, webb-beacons och liknande teknik kan användas för att avgöra om en användare har använt meddelandetjänster på Traderas webbplatser, vilket kan hjälpa Tradera förbättra sina tjänster och användarupplevelsen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan Tradera använda cookies för att analysera hur besökare använder deras webbplatser?
+ANSWER: Ja, Tradera kan använda cookies, webb-beacons och liknande teknik för att analysera hur besökare använder deras webbplatser och för att understanding av denna information för att förbättra sina tjänster och användarupplevelsen.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/
+
+QUESTION: Kan användning av webb-beacons och liknande teknik på Tradera webbplatsen påverka användares integritet?
+ANSWER: Användning av webb-beacons och liknande teknik kan påverka användares integritet genom att samla in information om deras användning av webbplatsen. Dock har Tradera särskilda policy och legala krav för hur sådan information samlas in och används.
+URL: https://info.tradera.com/cookies-webb-beacons-och-liknande-teknik/

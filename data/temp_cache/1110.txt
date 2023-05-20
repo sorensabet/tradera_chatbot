@@ -1,0 +1,39 @@
+QUESTION: Kan jag använda prisförslag på alla annons typer på Tradera?
+ANSWER: Nej, du kan inte använda prisförslag på alla aktiva annonstyper på Tradera. Du kan bara använda prisförslag på köp-nu annonser som inte har lagts upp via Sello eller Prolister.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Varför visas inte förslå pris alternativet på mina annonser?
+ANSWER: För att se alternativet för prisförslag på dina annonser måste du slå på meddelanden i dina inställningar om du har ett företagskonto. Detta beror på att förfrågan skickas via meddelanden på Tradera.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Vilken är det bästa sättet att inte missa prisförslag?
+ANSWER: Det bästa sättet att inte missa prisförslag är att använda Traderas app, eftersom du får en push-notis så fort prisförslaget skickas, och snabbt kan svara på förfrågan.
+URL: https://info.tradera.com/prisforslag/
+
+QUESTION: Kan jag sälja på Tradera som privatperson?
+ANSWER: Ja, du kan sälja på Tradera som privatperson. De har emellertid också en del regler och riktlinjer som du måste följa när du säljer på webbplatsen.
+URL: https://info.tradera.com/salja-privatperson/
+
+QUESTION: Kan jag sälja på Tradera som företag?
+ANSWER: Ja, du kan sälja på Tradera som företag. Tradera har specifika riktlinjer som företag måste följa, så se till att du läser igenom dem noga innan du säljer på webbplatsen.
+URL: https://info.tradera.com/salja-foretag/
+
+QUESTION: Har Tradera en fraktkalkylator?
+ANSWER: Ja, Tradera har en fraktkalkylator som du kan använda för att beräkna fraktkostnaderna för dina varor.
+URL: https://www.tradera.com/kundtjanst/fraktkalkylator
+
+QUESTION: Vilka kategorier finns tillgängliga på Tradera?
+ANSWER: Tradera har många olika kategorier tillgängliga för försäljning, inklusive kläder och accessoarer, elektronik, hem och trädgård, sport och fritid, och mycket mer.
+URL: https://www.tradera.com/sok?q=
+
+QUESTION: Vilka populära varumärken finns tillgängliga på Tradera?
+ANSWER: Tradera har många populära varumärken tillgängliga för försäljning, inklusive Apple, Chanel, Nike, Rolex, och många fler.
+URL: https://www.tradera.com/sok?q=
+
+QUESTION: Var kan jag hitta information om Traderas regler?
+ANSWER: Du kan hitta information om Traderas regler under "Säkerhet" på Traderas webbplats.
+URL: https://info.tradera.com/regler/
+
+QUESTION: Var kan jag hitta kontaktinformation för Tradera?
+ANSWER: Du kan hitta kontaktinformation för Tradera under "Kontakta oss" på Traderas webbplats.
+URL: https://info.tradera.com/kontakt-hjalp/

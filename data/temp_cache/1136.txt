@@ -1,0 +1,39 @@
+QUESTION: Vad är force majeure i samband med betalningsvillkoren på Tradera?
+ANSWER: Force majeure innebär att en händelse utanför parters kontroll och som inte heller kunde ha förutsetts med rimliga medel, t.ex. naturkatastrofer, krig eller strejker, kan vara orsak till förseningar eller uteblivna betalningar. Parten som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen. Denna information står i stycke d) i betalningsvillkoren på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Hur länge pågår force majeure-händelser enligt betalningsvillkoren på Tradera?
+ANSWER: En force majeure-händelse pågår så länge det är nödvändigt och står inte specificerat i texten. Denna information kan förväntas av användare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad händer om force majeure-händelsen pågår i mer än 60 dagar enligt betalningsvillkoren på Tradera?
+ANSWER: Om force majeure-händelsen pågår i mer än sextio (60) dagar har vardera Part rätt att säga upp Villkoren enligt punkt d) i betalningsvillkoren på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket dokument reglerar fullständigt Parternas överenskommelse såvitt avser Traderas betallösning enligt betalningsvillkoren på Tradera?
+ANSWER: Betalningsvillkoren på Tradera reglerar fullständigt Parternas överenskommelse såvitt avser Traderas betallösning och ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Parterna gällande betallösningar på Traderas Plattform enligt punkt e) i betalningsvillkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket lands lagar och domstolar gäller vid tvist angående betalningsvillkoren på Tradera?
+ANSWER: Betalningsvillkoren på Tradera lyder under och ska tolkas i enlighet med svensk rätt. Parterna är överens om att tvist med anknytning till Villkoren ska avgöras av svensk allmän domstol, där Stockholms tingsrätt ska vara första instans. Detta står i punkt f) i betalningsvillkoren.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Var hittar man information om samarbetspartnern PayPals Hyperwallet-lösning i samband med betalningsvillkoren på Tradera?
+ANSWER: Genom att använda Traderas betallösning godkänner Säljaren inte bara betalningsvillkoren på Tradera utan även villkoren för Traderas samarbetspartner PayPals Hyperwallet-lösning. Informationen om användaravtal och integritetspolicy finns i stycke 12 i betalningsvillkoren och länkar finns där till både användaravtalet och integritetspolicyn.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilken version av betalningsvillkoren gäller enligt informationen på Tradera?
+ANSWER: Villkor för Traderas betallösning v 1.2 – juni gäller enligt informationen på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilka är de grundläggande villkoren en användare måste acceptera vid användning av Traderas betallösning enligt information på Tradera?
+ANSWER: Användare måste acceptera Traderas Användaravtal samt Villkoren som reglerar fullständigt Parternas överenskommelse såvitt avser Traderas betallösning och ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Parterna gällande betallösningar på Traderas Plattform. Detta står i punkt e) i betalningsvillkoren på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vad är PayPals Hyperwallet-lösning i samband med Traderas betallösning?
+ANSWER: PayPals Hyperwallet-lösning är en samarbetspartner till Traderas betallösning som säljare godkänner när de använder Traderas betallösning. Detta står i punkt 12 i betalningsvillkoren på Tradera. Mer information om tjänsten finns på användaravtalet och integritetspolicyn som länkas i samma stycke.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/
+
+QUESTION: Vilket ansvar har parten som åberopar force majeure enligt betalningsvillkoren på Tradera?
+ANSWER: Parten som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen, enligt samma stycke som force majeure beskrivs i betalningsvillkoren på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2020-2022/

@@ -1,0 +1,39 @@
+QUESTION: What options did Tradera exclude to prevent fraud?
+ANSWER: According to the text, Tradera excluded many options for people with dishonest intentions to commit fraud. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: How can fraudsters communicate with users to steal their information?
+ANSWER: The text mentions that fraudsters can try to communicate with users in order to steal their personal information. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: How does Tradera handle payments for sellers with integrated payment methods?
+ANSWER: According to the text, Tradera automatically gives the buyer the opportunity to pay via the website for sellers with integrated payment methods. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: What happens if a seller provides payment information to a buyer when selling through bank transfer or Swish?
+ANSWER: The text explains that if a seller is selling through bank transfer or Swish, they only need to provide their payment information to the buyer, who then makes the payment outside of Tradera. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: When does Tradera ask for BankID verification?
+ANSWER: The text states that Tradera only asks for BankID verification when members carry out an auction on the website themselves, such as when uploading a listing, trying to reset their password, or changing their account number in their Tradera Payment. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Who is eligible to use BankID on Tradera?
+ANSWER: As mentioned in the text, BankID only applies to members with a Swedish personal identity number. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: What should users do to protect themselves from fraud?
+ANSWER: According to the text, users should never give out their personal codes or passwords to unauthorized persons and should never use BankID at the request of anyone who contacts them. They should also contact Tradera's Customer Service if they are unsure about any requests. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: What should users do if someone wants them to take action quickly regarding BankID verification?
+ANSWER: The text advises users to not take action quickly if someone wants them to use BankID and wait a while instead. They should also contact Tradera's Customer Service if they are unsure about any requests. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: Can users initiate BankID verification themselves?
+ANSWER: Yes, the text mentions that users can initiate BankID verification themselves when carrying out an auction on the website, such as when uploading a listing, trying to reset their password, or changing their account number in their Tradera Payment. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/
+
+QUESTION: What can happen if users provide their password or SMS code to an unauthorized person?
+ANSWER: According to the text, if users provide their password or SMS code to an unauthorized person, there is a risk that a fraudster is trying to access their account or information. 
+URL: https://info.tradera.com/en/sms-codes-and-bankid/

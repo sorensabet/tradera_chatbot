@@ -1,0 +1,39 @@
+QUESTION: Vad betyder "Avgifter" enligt Villkoren? 
+ANSWER: "Avgifter" avser de avgifter som Tradera kan debitera Säljaren enligt Punkt 4.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är en Chargeback enligt dessa Villkor?
+ANSWER: En Chargeback avser en skuld som Tradera åläggs av andra betalningsföretag (t.ex. VISA eller MasterCard) enligt deras respektive regler och riktlinjer.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Konfidentiell Information enligt dessa Villkor?
+ANSWER: Konfidentiell Information avser innehållet i Villkoren och annan information av teknisk, kommersiell eller annan natur som har identifierats som konfidentiell eller som Part rimligen kan antas vilja hålla konfidentiell.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Köpare enligt dessa Villkor?
+ANSWER: Köpare avser en fysisk eller juridisk person som har gjort ett köp hos Säljaren på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad är Mitt Tradera och vad kan man göra där?
+ANSWER: Mitt Tradera avser den inloggade miljön som tillhandahålls av Tradera, där Säljaren kan sköta orderhantering.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Är det möjligt att Tradera ändrar utbetalningstakten?
+ANSWER: Ja, utbetalningstakten kan ändras av Tradera och det ankommer därför på Säljaren att hålla sig uppdaterad på information som kommer från Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad innebär det att misstanke föreligger om att Säljaren inte kommer att fullgöra sina åtaganden?
+ANSWER: Det innebär att betalning kommer att innehas så länge misstanken kvarstår.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vad kan Tradera debitera Säljaren enligt dessa Villkor?
+ANSWER: Tradera kan debitera avgifter enligt Punkt 4.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vem är Säljare enligt dessa Villkor?
+ANSWER: Säljare avser den juridiska eller fysiska person som säljer varor eller tjänster på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/
+
+QUESTION: Vilka uttryck har en särskild innebörd enligt dessa Villkor?
+ANSWER: Om inte annat skrivs så ska följande uttryck i Villkoren ha den mening de tillskrivs nedan: Avgifter, Chargeback(s), Konfidentiell Information, Köpare(n), Mitt Tradera och Säljare(n).
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-2019-2020/

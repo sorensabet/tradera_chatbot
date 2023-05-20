@@ -1,0 +1,39 @@
+QUESTION: Vilka regler gäller vid reklamation på Tradera?
+ANSWER: Informationen om reglerna vid reklamation kan hittas på Traderas säkerhetscenter. Där finns information om hur man går tillväga vid reklamation och vilka villkor som gäller.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/reklamation/
+
+QUESTION: Var kan jag hitta information om fraktkostnader på Tradera?
+ANSWER: Informationen om fraktkostnader finns på sidan "Fraktkalkylatorn" där du kan räkna ut kostnaden för att skicka ett paket i Sverige eller utomlands.
+URL: https://www.tradera.com/frakt
+
+QUESTION: Hur kan jag sälja på Tradera som privatperson?
+ANSWER: På Tradera kan du sälja som privatperson genom att registrera dig som användare på Tradera och sedan lägga upp dina annonser. Det finns särskilda villkor som gäller för privatpersoners försäljning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/att-salja-pa-tradera/salja-som-privatperson/
+
+QUESTION: Kan jag sälja på Tradera som företag?
+ANSWER: Ja, det är möjligt att sälja på Tradera som företag. Men det finns specifika regler och krav som gäller för företagsförsäljning på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/att-salja-pa-tradera/salja-som-foretag/
+
+QUESTION: Var kan jag hitta inspiration på Tradera?
+ANSWER: På Tradera finns en särskild sida som heter "Inspiration" där du kan titta på olika produkter och få inspiration till dina egna köp och försäljningar.
+URL: https://www.tradera.com/inspiration
+
+QUESTION: Hur kan jag donera till välgörenhet med Tradera?
+ANSWER: På Traderas sida "Butik" kan du köpa produkter där en del av försäljningspriset går till valda välgörenhetsorganisationer eller stiftelser.
+URL: https://www.tradera.com/butik
+
+QUESTION: Var kan jag hitta Traderas kontaktinformation?
+ANSWER: Du kan hitta Traderas kontaktinformation genom att gå till sidan "Kontakt & Hjälp". Där finns möjlighet att skicka frågor och meddelanden till Tradera.
+URL: https://www.tradera.com/hjalp/kontakt
+
+QUESTION: Vilka regler gäller för användande av Traderas webbplats?
+ANSWER: Traderas användaravtal innehåller information om vilka regler som gäller vid användande av webbplatsen. Där hittar du bland annat information om riktlinjer för annonsering och försäljning på Tradera.
+URL: https://www.tradera.com/om/avtal
+
+QUESTION: Vilka typer av cookies använder Tradera?
+ANSWER: Tradera använder olika typer av cookies som är nödvändiga för att webbplatsen ska fungera, för att förbättra användarupplevelsen och för att rikta relevant annonsering till användaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/cookies/
+
+QUESTION: Kan jag logga in på Tradera med mitt Facebook-konto?
+ANSWER: Ja, det är möjligt att logga in på Tradera med ett Facebook-konto för att utöka funktionaliteten och användaranpassningen på Tradera.
+URL: https://www.tradera.com/om/cookies

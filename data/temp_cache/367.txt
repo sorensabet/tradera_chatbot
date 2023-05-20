@@ -1,0 +1,39 @@
+QUESTION: Hvad er samlet forsendelse?
+ANSWER: Samlet forsendelse er en teknologi som gør det nemmere at sende flere annoncer som én samlet ordre ved at automatisere dele af administrationen. Samlet forsendelse giver også et bedre overblik over annoncer, der er blevet købt af den samme kunde.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvordan kan jeg aktivere samlet forsendelse?
+ANSWER: Du kan aktivere samlet forsendelse ved at gå til Mit Tradera – Sælgerindstillinger og derefter aktivere samlet forsendelse. Hvis du har en butik på Tradera, kan du også tilføje samlet forsendelse til butiksvarer, så du aktiverer samlet forsendelse på auktioner, køb-nu-annoncer og butiksvarer.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvordan ændrer jeg visningstilstanden på listen over solgte varer?
+ANSWER: Du skal sørge for, at visningstilstanden er indstillet til "normal" i listen over solgte varer under Mit Tradera for at se ordrerne der er købt af samme køber og kan sendes som samlet forsendelse. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvor kan mine kunder finde anbefalinger til andre annoncer, jeg har til salg?
+ANSWER: Når du bruger samlet forsendelse, vil dine kunder modtage anbefalinger om andre annoncer, som du har til salg på annoncesiderne, i e-mails og ved kassen.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Kan jeg bruge samlet forsendelse på mine butiksvarer?
+ANSWER: Ja, du kan aktivere samlet forsendelse på dine butiksvarer, så du kan bruge samlet forsendelse på auktioner, køb-nu-annoncer og butiksvarer.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvilke typer annoncer kan jeg bruge samlet forsendelse på?
+ANSWER: Du kan bruge samlet forsendelse på auktioner, køb-nu-annoncer og butiksvarer.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvor kan jeg finde mine solgte varer?
+ANSWER: Du kan finde dine solgte varer under Mit Tradera - solgte varer. 
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvor lang er perioden for samlet forsendelse?
+ANSWER: Perioden for samlet forsendelse er ikke oplyst på denne informationsside.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Hvilke fordele er der ved at bruge samlet forsendelse?
+ANSWER: Samlet forsendelse gør det nemmere at sende flere annoncer som én samlet ordre ved at automatisere dele af administrationen. Samlet forsendelse giver også et bedre overblik over annoncer, der er blevet købt af den samme kunde.Dette giver også din kunde anbefalinger til andre annoncer, du har til salg.
+URL: https://info.tradera.com/da/samfrakt-saljare/
+
+QUESTION: Kan kunder købe flere varer og få dem sendt sammen?
+ANSWER: Ja, når en køber har vundet flere annoncer indenfor perioden for samlet forsendelse, vil de blive vist som én ordre, og kunden kan tage imod samlet forsendelse. 
+URL: https://info.tradera.com/da/samfrakt-saljare/

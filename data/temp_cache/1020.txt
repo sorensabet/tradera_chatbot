@@ -1,0 +1,39 @@
+QUESTION: Vilka personuppgifter kan lämnas ut i händelse av otillåten aktivitet på Tradera?
+ANSWER: I händelse av otillåten aktivitet på Tradera kan namn, personnummer, hemadress, stad, stat, postadress, land, telefonnummer, e-postadress och företagsnamn lämnas ut enligt tillämplig lag.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kommer Tradera att kräva att nya företag fortsätter att följa dess integritetspolicy i händelse av en fusion eller uppköp?
+ANSWER: Ja, i händelse av att Tradera fusioneras eller blir uppköpt av ett annat företag, kommer de att kräva att det nya företaget följer Traderas integritetspolicy vad gäller behandling av kunders personuppgifter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kommer Tradera att informera mig om mina personuppgifter kommer att användas eller lämnas ut för andra ändamål än vad som anges i integritetspolicyn?
+ANSWER: Ja, om dina personuppgifter kommer att användas eller lämnas ut för andra ändamål än vad som anges i Traderas integritetspolicy, kommer de att informera dig om det och om tillämpligt, efterfråga ditt samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vad är ett Tradera-användar-ID?
+ANSWER: Ett Tradera-användar-ID är en unik identifierare som visas genomgående på Tradera och är därför tillgängligt för allmänheten. Användar-ID:t kan kopplas till all din aktivitet på Tradera, såsom dina bud, köp, annonserade föremål, butiksfasad, omdömen och meddelanden.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan andra användare se mina aktiviteter på Tradera?
+ANSWER: Ja, andra användare kan se dina bud, köp, annonserade föremål, butiksfasad, omdömen och meddelanden på Tradera. Om du kopplar ditt namn till ditt användarnamn, så kommer även de som har fått reda på ditt namn att kunna identifiera dig och dina aktiviteter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information kan andra personer se på min Tradera-profil?
+ANSWER: Andra användare kan se information som du väljer att visa i din Tradera-profil.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Vilken information anges i meddelanden som skickas till andra medlemmar om misstänkta aktiviteter och överträdelser av policys på Traderas webbplatser?
+ANSWER: Meddelanden som skickas till andra medlemmar om misstänkta aktiviteter och överträdelser av policys på Traderas webbplatser anger användarnamn och specifika produkter.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan mitt namn kopplas till mitt användarnamn på Tradera?
+ANSWER: Ja, om du kopplar ditt namn till ditt användarnamn på Tradera, så kan de som har fått reda på ditt namn identifiera dig och dina aktiviteter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Kan andra företag få tillgång till mina personuppgifter från Tradera?
+ANSWER: Ja, i vissa fall kan andra företag få tillgång till dina personuppgifter om Tradera fusioneras eller blir uppköpt av ett annat företag. I händelse av otillåten aktivitet kan viss personlig information också lämnas ut enligt tillämpliga lagar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/
+
+QUESTION: Har jag något inflytande över vem som kan se min aktivitet på Tradera?
+ANSWER: Ja, du kan själv välja vilken information som visas i din Tradera-profil, vilket begränsar den information som andra användare kan se. Dessutom kan du begränsa åtkomsten till din profil genom att ändra din profilinställningar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2021-2023/

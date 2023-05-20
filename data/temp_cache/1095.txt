@@ -1,0 +1,39 @@
+QUESTION: Vilken guide finns tillgänglig för att skapa en CSV-fil för uppladdning? 
+ANSWER: Informationen i texten ger en guide för att skapa en CSV-fil till ProLister.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad ska jag göra för att skapa en ny annons på Tradera?
+ANSWER: För att skapa en ny annons på Tradera kan du klicka på knappen "Ny annons" i din lista. Det kommer att öppna en ny flik med en tom annons där du kan fylla i alla detaljer.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur duplicerar jag en annons på Tradera?
+ANSWER: För att duplicera en annons på Tradera, kan du markera den eller de annonser du vill duplicera och sedan klicka på dupliceringsknappen i verktygsmenyn eller högerklicka och välja att duplicera. Duplicerade annonser visas alltid längst ned i listan. 
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad är det enklaste sättet att öppna en annons på Tradera?
+ANSWER: Det enklaste sättet att öppna en annons på Tradera är att klicka på pilen som ligger näst längst till vänster på annonsen. Alternativt kan du markera annonsen och klicka på "Redigera" i verktygsmenyn.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur kan jag redigera flera annonser samtidigt på Tradera?
+ANSWER: För att redigera flera annonser samtidigt på Tradera, kan du markera de annonser du vill redigera och sedan klicka på "Redigera" i verktygsmenyn eller högerklicksmenyn. Då visas en modal där du kan fylla i vad du vill ändra på de valda annonserna. 
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad händer om jag har olika fraktalternativ på annonser på Tradera och vill redigera dem?
+ANSWER: Om du har olika fraktalternativ på annonser på Tradera och vill redigera dem måste du se till att fylla i de alternativ som du vill ändra och behålla de tidigare inställningarna för de som inte fylls i.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Finns det några andra verktyg tillgängliga för Tradera-användare?
+ANSWER: Det finns inget i texten som ger information om andra verktyg tillgängliga för Tradera-användare.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Kan jag använda Tradera för att sälja fysiska produkter?
+ANSWER: Texten ger inte tillräcklig information för att besvara denna fråga.
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Vad ska jag göra om jag har problem med att skapa eller redigera annonser på Tradera?
+ANSWER: Texten ger ingen specifik information om vad man ska göra om man stöter på problem med att skapa eller redigera annonser på Tradera, men det kan vara en bra idé att kontakta Traderas kundtjänst för hjälp. 
+URL: https://info.tradera.com/prolister/
+
+QUESTION: Hur kan jag använda CSV-filer för att göra uppladdning på Tradera?
+ANSWER: Texten ger inte tillräcklig information för att besvara denna fråga.
+URL: https://info.tradera.com/prolister/

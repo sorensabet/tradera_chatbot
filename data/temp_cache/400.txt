@@ -1,0 +1,39 @@
+QUESTION 1: Vad är syftet med att samla information om användning av Tradera?
+ANSWER: Syftet med att samla information om användning av Tradera är att anonymt mäta hur webbplatsen används så att användarupplevelsen kan förbättras. Detta beskrivs under avsnittet "Prestanda" i cookie-inställningarna på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 2: Varför är vissa cookies inte möjliga att stänga av på Tradera-webbplatsen?
+ANSWER: Vissa cookies är nödvändiga för att Tradera ska fungera och kan därför inte stängas av. Detta beskrivs under avsnittet "Nödvändiga" i cookie-inställningarna på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 3: Hur kan jag ändra mina cookie-inställningar på Tradera?
+ANSWER: Du kan ändra dina cookie-inställningar på Tradera genom att klicka på "Ändra inställningar" under avsnittet "Inställningar för cookies" på webbplatsen. Detta ger dig möjlighet att anpassa vilka cookies som används för Tradera på din enhet.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 4: Vad händer om jag inte accepterar Traderas cookie-policy?
+ANSWER: Om du inte accepterar Traderas cookie-policy kan du inte använda webbplatsen fullt ut. Vissa funktioner kan vara begränsade eller inte fungera alls om du inte accepterar cookies. Detta beskrivs under avsnittet "Inställningar för cookies" på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 5: Kan jag använda min Facebook-inloggning på Tradera?
+ANSWER: Ja, du kan logga in på Tradera med ditt Facebook-konto genom att aktivera funktionen under avsnittet "Funktionella" i cookie-inställningarna på webbplatsen. Det här beskrivs också som "inloggning med Facebook".
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 6: Vilken typ av information delar Tradera med sina partners?
+ANSWER: Tradera delar information om din användning av deras webbplats med sina partners för sociala medier, annonsering och analys. Det här beskrivs under första meningen under context-avsnittet.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 7: Kan jag anpassa min användning av Tradera på något sätt?
+ANSWER: Ja, du kan anpassa din användning av Tradera genom att välja olika inställningar för cookies på webbplatsen. Detta beskrivs under avsnittet "Inställningar för cookies" på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 8: Vilka partners använder Tradera för annonsering?
+ANSWER: Tradera använder annonseringspartners för riktade annonser som är relevanta för dig. Detaljer om vilka partners som används specificeras dock inte på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 9: Finns det några cookies som Tradera använder som endast är avsedda för annonsering?
+ANSWER: Ja, Tradera använder cookies som är avsedda för marknadsföring. Dessa cookies används av annonseringspartners för riktade annonser som är relevanta för dig. Detta beskrivs under avsnittet "Marknadsföring" i cookie-inställningarna på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUESTION 10: Kan jag få tillgång till mer information om vad Traderas cookies gör?
+ANSWER: Ja, du kan läsa mer om Traderas cookies och vilka syften de har genom att klicka på "Läs mer" under avsnittet "Vad är det här?" på cookie-inställningarna på webbplatsen.
+URL: https://info.tradera.com/da/right-of-withdrawal/

@@ -1,0 +1,39 @@
+QUESTION: Vilka typer av cookies använder Tradera på sin webbplats?
+ANSWER: Tradera använder fyra olika typer av cookies på sin webbplats: nödvändiga cookies, prestanda-cookies, funktionella cookies och marknadsföringscookies.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Vad är syftet med prestanda-cookies på Traderas webbplats?
+ANSWER: Syftet med prestanda-cookies på Traderas webbplats är att anonymt mäta hur Tradera används så att användarupplevelsen kan förbättras.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Kan användare stänga av nödvändiga cookies på Traderas webbplats?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Traderas webbplats eftersom de är nödvändiga för att Tradera ska fungera.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Vilka är funktionella cookies på Traderas webbplats?
+ANSWER: Funktionella cookies på Traderas webbplats används för utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Vad är marknadsföringscookies på Traderas webbplats?
+ANSWER: Marknadsföringscookies på Traderas webbplats används av Traderas annonseringspartners för riktade annonser relevanta för användaren.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Går det att stänga av marknadsföringscookies på Traderas webbplats?
+ANSWER: Ja, det går att stänga av marknadsföringscookies på Traderas webbplats om användaren så önskar.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Vad innebär det att cookies är "nödvändiga" för att Tradera ska fungera?
+ANSWER: "Nödvändiga" cookies är de cookies som krävs för att Tradera ska fungera. De kan inte stängas av och finns alltid på Traderas webbplats.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Vilken typ av cookies används för att mäta hur Tradera används på webbplatsen?
+ANSWER: Prestanda-cookies används för att anonymt mäta hur Tradera används på webbplatsen.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Vilken typ av cookies används för utökad funktionalitet och användaranpassning på Traderas webbplats?
+ANSWER: Funktionella cookies används för utökad funktionalitet och användaranpassning på Traderas webbplats, till exempel vissa sparade inställningar eller inloggning med Facebook.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/
+
+QUESTION: Varför använder Tradera marknadsföringscookies på sin webbplats?
+ANSWER: Tradera använder marknadsföringscookies på sin webbplats för att ge användarna riktade annonser som är relevanta för dem.
+URL: https://info.tradera.com/da/unsuitable-pictures-or-descriptions/

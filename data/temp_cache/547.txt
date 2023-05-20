@@ -1,0 +1,39 @@
+QUESTION: Vilka objekt är förbjudna att sälja på Tradera?
+ANSWER: På denna sida beskrivs de objekt som är förbjudna att sälja på Tradera. Säljare bör undvika att sälja objekt som är pornografiska, våldsamma och/eller diskriminerande, produkter som är förbjudna i Sverige, eller varor som är kopierade eller förfalskade.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/objekt-som-kan-vacka-anstot/
+
+QUESTION: Vad är försäljningsavgiften på Tradera?
+ANSWER: Tradera tar ut en försäljningsavgift för varje såld artikel på sin plattform. Denna avgift beräknas på försäljningens slutpris och varierar mellan 4,9-7% beroende på varans kategori och säljarens status.
+URL: https://info.tradera.com/sakerhetscenter/salja-pa-tradera/pris-och-avgifter/
+
+QUESTION: Vad betyder "Köp nu"-knappen på Tradera?
+ANSWER: "Köp nu"-knappen på Tradera ger köparen möjlighet att köpa en vara omedelbart till fast pris, utan att behöva bevaka auktionen. Denna funktion är tillgänglig på vissa objekt där säljaren har valt att erbjuda denna möjlighet.
+URL: https://info.tradera.com/sakerhetscenter/kopa-pa-tradera/sa-koper-du-pa-tradera/
+
+QUESTION: Vilken betalningsmetod kan jag använda på Tradera?
+ANSWER: Tradera tillåter köpare och säljare att använda flera betalningsmetoder. Bland dessa finns exempelvis banköverföring, Swish och kortbetalning via betalningstjänster som PayPal och Klarna.
+URL: https://info.tradera.com/sakerhetscenter/kopa-pa-tradera/betalning-pa-tradera/
+
+QUESTION: Vad är "Mina Tradera"?
+ANSWER: "Mina Tradera" är Traderas användargränssnitt där du som användare har tillgång till din personliga information, köp och säljhistorik, bevakade objekt och sparade sökningar. Här kan du också hantera din profil, lägga till eller ta bort betalningsmetoder, samt spara och hantera din adressbok.
+URL: https://info.tradera.com/sakerhetscenter/anvandarvillkor-och-avtal/mitt-konto/
+
+QUESTION: Hur lägger jag upp en auktion på Tradera?
+ANSWER: För att lägga upp en auktion på Tradera krävs det att du skapar ett konto och loggar in på plattformen. Därefter kan du välja "Sälj" i menyn och följa stegen för att skapa en auktion. Du väljer varan du vill sälja, väljer en startpris och lägger upp en beskrivning av varan. När auktionen avslutas kommer du att meddelas om högsta budgivare och vidare information om transaktionen.
+URL: https://info.tradera.com/sakerhetscenter/salja-pa-tradera/
+
+QUESTION: Kan jag avbryta en pågående auktion på Tradera?
+ANSWER: Det är inte möjligt att avbryta en pågående auktion på Tradera, eftersom auktionen är bindande. Endast i undantagsfall, som exempelvis vid tekniska problem eller om varan inte längre finns tillgänglig för försäljning, kan du kontakta Traderas kundtjänst för att se om det finns möjlighet till en avbrytning.
+URL: https://info.tradera.com/sakerhetscenter/salja-pa-tradera/
+
+QUESTION: Vilka åtgärder vidtar Tradera vid oegentligheter på plattformen?
+ANSWER: Tradera arbetar aktivt för att säkerställa en trygg och säker handelsplats för sina användare. Vid misstanke om oegentligheter eller bedrägeri på plattformen vidtar Tradera olika åtgärder, till exempel att stänga av eller blockera användare eller att samarbeta med myndigheter vid behov.
+URL: https://info.tradera.com/sakerhetscenter/anvandarvillkor-och-avtal/sakerhet-pa-tradera/
+
+QUESTION: Varför kan jag inte lägga bud på vissa objekt på Tradera?
+ANSWER: Det kan finnas flera anledningar till varför det inte är möjligt att lägga bud på vissa objekt på Tradera. Till exempel kan det bero på att auktionen har nått sitt slut och att högsta budet ligger över ditt maxbud, eller att säljaren har valt att avsluta auktionen på egen hand. Det kan också finnas vissa begränsningar för vilka användare som har tillgång till vissa objekt.
+URL: https://info.tradera.com/sakerhetscenter/kopa-pa-tradera/sa-koper-du-pa-tradera/
+
+QUESTION: Vad händer om en vara jag köper på Tradera är skadad eller inte motsvarar beskrivningen?
+ANSWER: Om den vara du köper på Tradera är skadad eller inte överensstämmer med beskrivningen kan du reklamera den till säljaren. Om ni inte kan komma överens kan du vända dig till Tradera kundtjänst för support och hjälp i hanteringen av reklamationen.
+URL: https://info.tradera.com/sakerhetscenter/kopa-pa-tradera/koparbeskydd/

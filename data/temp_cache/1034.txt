@@ -1,0 +1,39 @@
+QUESTION 1: What are the purposes for which a user's personal data can be used according to Tradera's privacy statement?
+ANSWER: As per the privacy statement of Tradera, a user's Personal Data can only be used for Tradera transaction-related purposes that are not unsolicited commercial messages; using services offered through Tradera (such as payment, shipping, delivery and fraud complaints); or specific purposes to which the user expressly chooses or consents to.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 2: What kind of technologies can be used by Tradera to store information?
+ANSWER: Tradera or its authorized service providers may use cookies, web beacons, and other similar technologies for storing information to help provide the users with a better, faster and safer experience and for advertising purposes.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 3: What is the users' responsibility with respect to their Tradera account password and Personal Data?
+ANSWER: The password is the key to the user's Tradera account, and they are responsible for keeping it safe and not disclosing it to anyone. If the user loses control of their password, they may lose substantial control over their Personal Data. Therefore, if their password has been compromised for any reason, they must inform Tradera immediately and change their password.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 4: Does Tradera allow spam, spyware, or spoofing activities?
+ANSWER: No, Tradera and its users do not tolerate spam. If a user receives any Tradera-related spam or spoof email, they should forward it to abuse@tradera.com. Tradera may scan and filter messages to check for spam, viruses, phishing attacks, and other malicious activity or illegal or prohibited content, but does not permanently store messages sent through these tools.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 5: What is the process of accessing, reviewing, and changing personal data by a Tradera user?
+ANSWER: A Tradera user can see, review, and change most of their Personal Data by signing in to Tradera.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 6: What actions can be taken by a user to ensure that other users' information is collected ethically and fairly?
+ANSWER: In all cases, the user must give other users a chance to remove themselves from their database and a chance to review any information collected about them.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 7: What is the scope of Tradera's use of cookies, web beacons, and similar technologies on its services?
+ANSWER: Tradera or its authorized service providers use cookies, web beacons, and other similar technologies to store information and help the users have a better, faster, and safer experience and for advertising purposes. For more detailed information on the use of these technologies, the users can refer to Tradera's User Cookie Notice.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 8: What is the process to report Tradera-related spam or spoof emails?
+ANSWER: To report Tradera-related spam or spoof emails to Tradera, users should forward the email to abuse@tradera.com.
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 9: Does Tradera permanently store messages sent through email or messaging tools?
+ANSWER: No, Tradera does not permanently store messages sent through email or messaging tools. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/
+
+QUESTION 10: What are the guidelines for creating a strong Tradera account password?
+ANSWER: Tradera recommends using unique numbers, letters, and special characters to create a strong password. Users should not disclose their Tradera password to anyone. 
+URL: https://info.tradera.com/en/privacy-statement-2021-2023/

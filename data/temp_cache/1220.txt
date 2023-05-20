@@ -1,0 +1,39 @@
+QUESTION: Vilka betalningsmetoder kan en svensk köpare använda på Tradera?
+ANSWER: En svensk köpare kan använda betalningsmetoder som faktura, avbetalning, Paynova, Klarna, kort eller PayPal på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket företag överlåter säljaren rätten att få betalt från en köpare som betalar via Klarna?
+ANSWER: Säljaren överlåter rätten att få betalt från en köpare som betalar via Klarna till Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilka är de två betalningstjänsterna som en svensk köpare kan använda för faktura och avbetalning?
+ANSWER: De två betalningstjänsterna som en svensk köpare kan använda för faktura och avbetalning är Paynova och Klarna.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket företag erlägger betalning till säljaren för en transaktion om en svensk köpare betalar via Paynova?
+ANSWER: PayPal erlägger betalning till säljaren för en transaktion om en svensk köpare betalar via Paynova.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket ansvar vilar på Hyperwallet när det gäller utbetalning av betalning mot faktura eller avbetalning?
+ANSWER: Ansvaret för att utbetalning till säljaren genomförs åligger Hyperwallet när det gäller utbetalning av betalning mot faktura eller avbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilken proces behöver en svensk köpare gå igenom för att betala med faktura eller avbetalning?
+ANSWER: Efter att Paynova eller Klarna genomfört en sedvanlig kreditkontroll av Svensk Köpare kommer utbetalning ske till PayPal (Hyperwallet), och efter att Tradera vidtagit sin granskning av Transaktionen och denna godkänts sker utbetalning till Säljarens konto när en svensk köpare betalar faktura eller avbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vem har ansvaret för att granska och godkänna en transaktion innan säljaren får betalt från en svensk köpare?
+ANSWER: Tradera har ansvaret för att granska och godkänna en transaktion innan säljaren får betalt från en svensk köpare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vad händer om säljaren inte kan få betalt från en svensk köpare som betalar via Klarna?
+ANSWER: Om säljaren inte kan få betalt från en svensk köpare som betalar via Klarna, är det ansvaret för att utbetalning till säljaren genomförs på Hyperwallet.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket företag får betalt för en transaktion om en svensk köpare betalar med faktura eller avbetalning?
+ANSWER: Paynova eller Klarna får betalt för en transaktion om en svensk köpare betalar med faktura eller avbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/
+
+QUESTION: Vilket företag genomför en kreditkontroll av en svensk köpare som betalar via faktura eller avbetalning?
+ANSWER: Paynova eller Klarna genomför en sedvanlig kreditkontroll av en svensk köpare som betalar via faktura eller avbetalning.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor-hw-1-4/

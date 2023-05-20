@@ -1,0 +1,39 @@
+QUESTION: Vilka är de olika typerna av cookies som används på Tradera?
+ANSWER: På Tradera används fyra olika typer av cookies: nödvändiga, prestanda, funktionella och marknadsföring.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Vad är syftet med anonym mätning av Traderas användning?
+ANSWER: Syftet med anonym mätning är att förbättra användarupplevelsen genom att samla anonym data om hur Tradera används.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Kan nödvändiga cookies stängas av på Tradera?
+ANSWER: Nej, nödvändiga cookies kan inte stängas av på Tradera eftersom de behövs för att sidan ska fungera.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Vilka funktioner erbjuder funktionella cookies på Tradera?
+ANSWER: Funktionella cookies erbjuder utökad funktionalitet och användaranpassning på Tradera, till exempel vissa sparade inställningar eller möjligheten att logga in med Facebook-konto.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Vad är syftet med att använda cookies för annonsering?
+ANSWER: Syftet med att använda cookies för annonsering är att Visa riktade annonser som är relevanta för användarna på Tradera.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Vilka är Traderas annonseringspartners?
+ANSWER: Traderas annonseringspartners är de företag som ansvarar för att Visa riktade annonser som är relevanta för användarna på Tradera.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Kan användare anpassa inställningarna för cookies på Tradera?
+ANSWER: Ja, användare kan ändra inställningarna för cookies på Tradera och välja vilka typer av cookies de vill tillåta eller blockera.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Vilka partners delar information med Tradera?
+ANSWER: Tradera delar information om användningen av deras webbplats med sina partners för sociala medier, annonsering och analys.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Varför är cookies så viktiga för Tradera?
+ANSWER: Cookies är viktiga för Tradera eftersom de hjälper till att anpassa innehåll, annonser och funktioner för sociala medier samt analysera trafiken på sidan.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/
+
+QUESTION: Kan användare läsa mer om cookies på Tradera?
+ANSWER: Ja, användare kan läsa mer om cookies och dess användning på Tradera på sidan där de har inställningar för cookies.
+URL: https://info.tradera.com/en/traderabetalning/kopskydd/

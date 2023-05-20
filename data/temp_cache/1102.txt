@@ -1,0 +1,39 @@
+QUESTION: Vad är en Samlarbutik och vad är fördelarna med att öppna en sådan butik på Tradera?
+ANSWER: En Samlarbutik är en typ av butik som privatsäljare kan öppna på Tradera. Fördelarna med att öppna en Samlarbutik på Tradera är att det är ett bättre alternativ för de som tidigare har sålt mycket till fastpris vilket undviker osåltavgifter för osålda fastprisannonser. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är en Miniprisbutik och vad är fördelarna med att öppna en sådan butik på Tradera?
+ANSWER: En Miniprisbutik är en annan typ av butik som kan öppnas av privatsäljare på Tradera. Fördelarna med att öppna en Miniprisbutik är att det är ett bättre alternativ för de som tidigare har sålt mycket till fastpris vilket undviker osåltavgifter för osålda fastprisannonser. Dessutom finns det inga minimiprovisioner. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Kan man sälja nyproduktion i sin butik på Tradera?
+ANSWER: Nej, det är inte tillåtet att sälja nyproduktion i sin butik på Tradera. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Kan en privatsäljare öppna en butik på Tradera?
+ANSWER: Ja, en privatsäljare kan öppna en butik på Tradera. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vilka typer av specialbutiker finns på Tradera?
+ANSWER: Tradera har två typer av specialbutiker för privatsäljare: Samlarbutik och Miniprisbutik. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Hur många butiksannonser kan man ha i en Samlarbutik eller Miniprisbutik på Tradera?
+ANSWER: Man kan ha upp till 10 000 butiksannonser i både Samlarbutiken och Miniprisbutiken på Tradera. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är månadsavgiften för en Samlarbutik utan bindningstid på Tradera?
+ANSWER: Månadsavgiften för en Samlarbutik utan bindningstid på Tradera är 295 kr. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är minimiprovisionen för en Miniprisbutik på Tradera?
+ANSWER: Det finns ingen minimiprovision för en Miniprisbutik på Tradera. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är minimiprovisionen för en Samlarbutik på Tradera?
+ANSWER: Minimiprovisionen för en Samlarbutik på Tradera är 3 kr. 
+URL: https://info.tradera.com/butik-privat/
+
+QUESTION: Vad är månadsavgiften för en Miniprisbutik med 12 månaders avtal på Tradera?
+ANSWER: Månadsavgiften för en Miniprisbutik med 12 månaders avtal på Tradera är 195 kr. 
+URL: https://info.tradera.com/butik-privat/

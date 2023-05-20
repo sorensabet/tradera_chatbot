@@ -1,0 +1,39 @@
+QUESTION: What happens if a business user does not make the necessary corrections after being requested to by Tradera?
+ANSWER: If a business user does not make the necessary corrections within the time limit set out in the "Changes to agreements if you are a business user" section, Tradera is entitled to immediately limit or prohibit access to and use of the add-on service according to the terms set out in section "Suspending and restricting a business user's use of the Services" and may remove listings or other content that belong to the user's Butik.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Are there additional terms and conditions for the add-on service Butik?
+ANSWER: Yes, there are additional terms and conditions for the add-on service Butik, such as applicable price lists, which are available on the Butik pages on Tradera's website.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Is the add-on service Butik terminable?
+ANSWER: Yes, the add-on service Butik is terminable by either the user or Tradera on 30 days' notice.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Do consumers have specific rights under mandatory consumer legislation and rules and regulations?
+ANSWER: Yes, consumers have specific rights under mandatory consumer legislation and rules and regulations. Tradera does not intend to limit or amend these rights by the User Agreement, nor impose any obligations that are greater than those imposed on consumers under mandatory consumer legislation and rules and regulations.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: What are the different parameters used by Tradera to determine a business user's ranking in the Services?
+ANSWER: Tradera uses different parameters to determine a business user's ranking in the Services, as set out in the policy for "Bäst Träff", which is available on Tradera's website.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: How should a user handle a legal dispute with Tradera regarding the Services?
+ANSWER: If a dispute arises between a user and Tradera regarding the Services, the user should first contact Tradera's Customer Service to try to find a solution. If unable to resolve the dispute with Customer Service, the user may ask for the case to be escalated to Tradera's internal complaint-handling system, where a second line function will be responsible to provide guidance.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can Tradera limit or prohibit a business user's access to and use of the add-on service Butik?
+ANSWER: Yes, Tradera is entitled to immediately limit or prohibit a business user's access to and use of the add-on service Butik if they do not make necessary corrections within the time limit set out in the "Changes to agreements if you are a business user" section.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does Tradera have the right to remove listings or other content that belongs to a user's Butik?
+ANSWER: Yes, Tradera may remove listings or other content that belong to a user's Butik if they do not make necessary corrections within the time limit set out in the "Changes to agreements if you are a business user" section and Tradera is entitled to limit or prohibit their access to and use of the add-on service Butik.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Can a user terminate the add-on service Butik?
+ANSWER: Yes, a user can terminate the add-on service Butik on 30 days' notice.
+URL: https://info.tradera.com/en/anvandaravtal-eng/
+
+QUESTION: Does Tradera intend to limit or amend consumers' rights under mandatory consumer legislation and rules and regulations?
+ANSWER: No, Tradera does not intend to limit or amend consumers' rights under mandatory consumer legislation and rules and regulations, nor impose any obligations that are greater than those imposed on consumers under such legislation and regulations.
+URL: https://info.tradera.com/en/anvandaravtal-eng/

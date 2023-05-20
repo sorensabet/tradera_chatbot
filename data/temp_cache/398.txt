@@ -1,0 +1,39 @@
+QUERY: Hvilken lov regulerer den 14 dages fortrydelsesret?
+SVAR: Forpligtelsen til at tilbyde en 14 dages fortrydelsesret er i overensstemmelse med lov (2005:59) om afstand og aftaler udenfor virksomhedens lokaler.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Hvad er betingelserne for at udnytte fortrydelsesretten?
+SVAR: Køberen kan udnytte fortrydelsesretten, når både sælger og køber er inkluderet i købsaftalen, og så længe købet er omfattet af loven om fortrydelsesret. Køberen har 14 dage til at udnytte fortrydelsesretten fra den dag, varen blev modtaget. Efter returnering af varen, skal pengene returneres uden forsinkelse.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Gælder fortrydelsesretten for køb mellem private personer?
+SVAR: Nej, fortrydelsesretten gælder ikke for køb mellem private personer.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Er erhvervssælgerne forpligtet til at tilbyde fortrydelsesret?
+SVAR: Ja, som virksomhed på Tradera er erhvervssælgerne forpligtet til at tilbyde og informere deres kunder om 14 dages fortrydelsesret uanset ordreværdien.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Hvor lang tid har køberen til at udnytte sin fortrydelsesret?
+SVAR: Køberen har 14 dage til at udnytte sin fortrydelsesret fra den dag, varen blev modtaget.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Hvem er ansvarlig for returomkostningerne?
+SVAR: Før handlen skal erhvervssælgerne informere kunden om, hvem der er ansvarlig for returomkostningerne. Hvis dette ikke er klart angivet inden købet, er sælgeren ansvarlig for returomkostningerne.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Hvad skal sælger informere køberen om, før købet?
+SVAR: Før købet er sælgeren forpligtet til at informere køberen om fortrydelsesretten og hvordan man kan annullere købet, hvis det er omfattet af loven om fortrydelsesret.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Hvad skal sælgeren informere køberen om, efter købet?
+SVAR: Efter købet er gennemført, skal sælgeren igen informere køberen om fortrydelsesretten og dens anvendelsesmuligheder.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Kan køberen fortryde et køb og returnere varen?
+SVAR: Ja, køberen kan fortryde et køb og returnere varen inden for 14 dage fra den dag, varen blev modtaget ved at udnytte sin fortrydelsesret.
+URL: https://info.tradera.com/da/right-of-withdrawal/
+
+QUERY: Kan køberen få pengene tilbage efter returnering af varen?
+SVAR: Ja, efter returnering af varen skal pengene returneres uden forsinkelse.
+URL: https://info.tradera.com/da/right-of-withdrawal/

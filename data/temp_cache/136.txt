@@ -1,0 +1,39 @@
+QUESTION: What is Tradera's registration process?
+ANSWER: To complete your registration at Tradera, more information is required to verify your account. This includes submitting an extract of the population register, which can be found on the tax ministries homepage. 
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION: What is an extract from the population register?
+ANSWER: An extract from the population register is a verification that you are a citizen. 
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION: Where can I find an extract from the population register?
+ANSWER: You can find an extract from the population register on the tax ministries homepage by clicking on "Print a proof of citizenship" and logging in with your electronic ID. Save the file as a PDF. 
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION: Why do I have to submit an extract from the population register for verification on Tradera?
+ANSWER: The information provided is not always sufficient to verify one's identity. Verification through the extract of the population register helps ensure a safe and secure marketplace for all members. 
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION: Where do I send my proof of citizenship for verification on Tradera?
+ANSWER: You can send your proof of citizenship to Tradera by clicking on the link provided on the website. 
+URL: https://info.tradera.com/en/security-center/privatkonto-pa-tradera/
+
+QUESTION: How do I shop on Tradera?
+ANSWER: To shop on Tradera, simply browse the categories or use the search function to find products you are interested in, and place a bid on the item. 
+URL: https://info.tradera.com/en/shopping-on-tradera/shop-at-tradera/
+
+QUESTION: Can anyone sell on Tradera?
+ANSWER: Yes, anyone can sell on Tradera. 
+URL: https://info.tradera.com/en/selling-on-tradera/selling-at-tradera/
+
+QUESTION: Can businesses sell on Tradera?
+ANSWER: Yes, both private individuals and businesses can sell on Tradera. 
+URL: https://info.tradera.com/en/selling-on-tradera/selling-at-tradera/
+
+QUESTION: How does shipping work on Tradera?
+ANSWER: The seller is responsible for shipping the item to the buyer, and the cost of shipping is usually added to the final price of the item. 
+URL: https://info.tradera.com/en/shopping-on-tradera/after-auction/
+
+QUESTION: Are there any FAQ available for users on Tradera?
+ANSWER: Yes, there is a section for frequently asked questions on Tradera, which can be found on the website. 
+URL: https://info.tradera.com/en/help/faq/

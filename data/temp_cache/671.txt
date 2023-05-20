@@ -1,0 +1,39 @@
+QUESTION: Är budgivning på Tradera bindande?
+ANSWER: Ja, alla bud som läggs på Tradera är bindande för både köpare och säljare. Endast om reservationspriset inte har uppnåtts, räknas inte budet som godkänt.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Kan säljaren neka att acceptera högsta budet?
+ANSWER: Nej, som säljare är man bunden att acceptera det högsta budet så länge reservationspriset har uppnåtts.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Är säljaren bunden att sälja varan till högsta budgivaren?
+ANSWER: Ja, om högsta budet uppfyller reservationspriset är säljaren bunden att sälja varan till högsta budgivaren.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Kan man dra tillbaka ett bud på Tradera?
+ANSWER: Nej, det är inte möjligt att dra tillbaka ett lämnat bud på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Vad händer om högsta budgivaren inte betalar för varan?
+ANSWER: Om högsta budgivaren inte betalar för varan kan säljaren begära en ersättning för Traderas förluster samt äga rätten att lägga ut samma vara till försäljning igen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Vad är ett reservationspris på Tradera?
+ANSWER: Reservationspriset är det lägsta pris som säljaren är villig att sälja varan för. Bud som ligger under reservationspriset räknas inte som godkända.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Hur vet man om man blivit överbudad på Tradera?
+ANSWER: Tradera skickar ett meddelande till den överbudna personen när någon lägger ett högre bud.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Kan man ångra ett köp på Tradera?
+ANSWER: Som köpare har man ingen ångerrätt på Tradera. Det är därför viktigt att man läser beskrivningen noga innan man lägger ett bud.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Kan man göra en motbud på Tradera?
+ANSWER: Nej, det är inte möjligt att göra en motbud på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/
+
+QUESTION: Är det tillåtet att använda sig av falska profiler på Tradera?
+ANSWER: Nej, det är inte tillåtet att använda sig av falska profiler på Tradera. Det kan leda till att man blir avstängd från plattformen.
+URL: https://info.tradera.com/sakerhetscenter/regler-pa-tradera/regler-for-budgivning/

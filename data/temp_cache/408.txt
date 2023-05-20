@@ -1,0 +1,39 @@
+QUESTION: Hvordan kan jeg vælge en sikker adgangskode til min Tradera-konto? 
+ANSWER: For at vælge en sikker adgangskode til din Tradera-konto, bør du vælge en adgangskode, der består af mindst 8-12 tegn og indeholde både tal, store og små bogstaver, samt helst tegn såsom s%”, “&”, “#” og “?”. Husk at undgå personlige oplysninger, dit navn eller din fødselsdato. Brug ikke dit brugernavn som en adgangskode og undgå at bruge den samme adgangskode på flere konti. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hvorfor skal jeg undgå at bruge personlige oplysninger i min adgangskode?
+ANSWER: For at undgå, at uvedkommende får adgang til din konto, er det vigtigt at undgå personlige oplysninger som navn eller fødselsdato i din adgangskode. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan jeg bruge mit brugernavn som adgangskode på Tradera?
+ANSWER: Det anbefales ikke at bruge dit brugernavn som adgangskode på Tradera. Du bør vælge en anden adgangskode, der er unik og sikkert. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Kan jeg bruge samme adgangskode på flere konti?
+ANSWER: Det anbefales ikke at bruge den samme adgangskode på flere konti, da det øger risikoen for, at uvedkommende får adgang til flere konti, som er beskyttet med samme adgangskode. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hvad er Traderas anbefalinger til en sikker adgangskode?
+ANSWER: Tradera anbefaler, at en sikker adgangskode bør bestå af mindst 8-12 tegn og indeholde både tal, store og små bogstaver, samt helst tegn såsom s%”, “&”, “#” og “?”. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hvad sker der, hvis jeg bruger en svag adgangskode?
+ANSWER: Hvis du bruger en svag adgangskode, øger du risikoen for, at uvedkommende får adgang til din konto og misbruger den. Det er derfor vigtigt at vælge en sikker adgangskode til din Tradera-konto. 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hvad skal jeg gøre, hvis jeg tror, en uautoriseret person har fået adgang til min Tradera-konto?
+ANSWER: Hvis du tror, at en uautoriseret person har fået adgang til din Tradera-konto, bør du kontakte Tradera øjeblikkeligt på abuse@tradera.com 
+URL: https://info.tradera.com/da/secure-passwords/
+
+QUESTION: Hvordan kan jeg købe på Tradera?
+ANSWER: For at handle på Tradera, kan du søge efter varer i de forskellige kategorier, inde under poplære varemærker eller du kan tilføje en eller flere søgeagent som kigger efter varer indenfor en bestemt kategori eller en specifik vare. 
+URL: https://info.tradera.com/da/buying-on-tradera/
+
+QUESTION: Hvordan kan jeg blive en sælger på Tradera?
+ANSWER: Hvis du vil blive sælger og sælge som privatperson på Tradera, skal du først oprette en konto hos Tradera. Derefter skal du oprette en annonce, hvor du beskriver produktet, og tilføjer et billede. 
+URL: https://info.tradera.com/da/selling-on-tradera/
+
+QUESTION: Kan jeg sælge på Tradera som erhvervsvirksomhed?
+ANSWER: Ja, det er muligt at sælge som erhvervsvirksomhed på Tradera. Hvis man ønsker at sælge på Tradera som erhvervsdrivende, kræver det dog, at man opfylder en række krav. 
+URL: https://info.tradera.com/da/selling-on-tradera/

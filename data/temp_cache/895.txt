@@ -1,0 +1,39 @@
+QUESTION: Vad kan jag inte köpa på Tradera?
+ANSWER: Enligt texten på sidan får du inte köpa följande på Tradera: köp av droger, alkohol, tobak, psykopreparat, medicin eller läkemedel, köp av vapen, ammunition eller explosiva produkter, köp av förbjudna djur och delar av djur, cyberbankråttor och köp av varor och tjänster som är förbjudna enligt Traderas regler för säljare.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur kan jag lösa en meningsskiljaktighet med en säljare?
+ANSWER: Om en meningsskiljaktighet uppstår kan parterna lösa den genom det tvistlösningssystem som Tradera tillhandahåller på "Mitt Tradera". Ett sådant tvistlösningsförfarande måste inledas inom trettio (30) dagar från det att köpet genomfördes och all kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform. Köpare och säljare ska försöka hitta en lösning på problemet genom att kommunicera med varandra genom Traderas tvistlösningssystem. Köparen kan eskalera tvisten till Traderas kundtjänst om ingen lösning har nåtts inom tio (10) dagar.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan jag köpa biljetter på Tradera?
+ANSWER: Nej, enligt texten på sidan kan du inte köpa biljetter till evenemang, såsom sport- eller konsertbiljetter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan jag köpa presentkort på Tradera?
+ANSWER: Nej, enligt texten på sidan kan du inte köpa objekt som motsvarar kontanter (inklusive, utan begränsning, presentkort) på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur lång tid har jag på mig att inleda ett tvistlösningsförfarande på Tradera?
+ANSWER: Du måste inleda ett tvistlösningsförfarande inom trettio (30) dagar från det att köpet genomfördes på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Hur kommunikeras TVIST mellan köparen och säljaren på Tradera?
+ANSWER: All kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform på Mitt Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad är Traderas tvistlösningsförfarande?
+ANSWER: Traderas tvistlösningsförfarande är en mekanism som tillhandahålls på "Mitt Tradera" för att hjälpa köpare och säljare att lösa meningsskiljaktigheter om en betald vara inte har levererats eller om den levererade varan enligt köparen skiljer sig väsentligt från säljarens beskrivning. Köpare och säljare kan lösa problemet genom att kommunicera med varandra genom Traderas tvistlösningssystem på Traderas plattform inom 30 dagar från det att köpet genomfördes.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Vad kan jag göra om jag inte når en lösning med säljaren under tvistlösningsförfarandet på Tradera?
+ANSWER: Om köpare och säljare inte kommer fram till en lösning inom tio (10) dagar från att tvistlösningsförfarandet inleddes, kan köparen eskalera tvisten till Traderas kundtjänst.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan jag köpa droger på Tradera?
+ANSWER: Nej, enligt texten på sidan är det förbjudet att köpa droger på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/
+
+QUESTION: Kan jag köpa vapen på Tradera?
+ANSWER: Nej, enligt texten på sidan är det förbjudet att köpa vapen, ammunition eller explosiva produkter på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/betalningsvillkor/

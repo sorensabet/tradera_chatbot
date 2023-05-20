@@ -1,0 +1,39 @@
+QUESTION: Vad är nettoutbetalning på Tradera?
+ANSWER: Nettoutbetalning på Tradera är när både intäkter och avgifter hanteras tillsammans och specificeras på sidan Betalningar och Avgifter, vilket gör det lättare för användare att få en överblick över sina affärer på Tradera och göra det enklare att bokföra.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Var kan jag hitta specifik information om mina intäkter och avgifter på Tradera?
+ANSWER: Informationen om dina intäkter och avgifter finns på sidan Betalningar och Avgifter på Tradera. Där kan du se en summering av alla händelser på Tradera per månad och utbetalningstillfälle och du kan även expandera varje utbetalning för att se en fullständig specifikation av intäkter och avgifter för den gällande perioden.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur kan jag välja mellan veckovis eller månadsvis utbetalningar?
+ANSWER: För att välja mellan veckovis eller månadsvis utbetalningar på Tradera, behöver du logga in på ditt konto och gå till dina Inställningar. Där kan du välja utbetalningsdatum och den periodicitet som passar bäst för din bokföring.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är Traderabetalning?
+ANSWER: Traderabetalning är en funktion på Tradera som hanterar Swishbetalningar. Om du tar bort ditt eget Swishnummer från ditt konto och använder Traderabetalning istället, behöver du inte bokföra betalningarna separat.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vilken funktion har bokföringsunderlaget på sidan Betalningar och Avgifter på Tradera?
+ANSWER: Funktionen för bokföringsunderlag på sidan Betalningar och Avgifter på Tradera ger en summering av alla händelser på Tradera, per månad och utbetalningstillfälle. Genom att expandera varje utbetalning kan du se en fullständig specifikation av intäkter och avgifter för en gällande period.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Kan jag ladda ner en översikt av mina intäkter och avgifter från Tradera?
+ANSWER: Ja, du kan ladda ner en översikt över dina intäkter och avgifter på Tradera som en PDF-fil. Gå till sidan Betalningar och Avgifter på Tradera och klicka på "skriv ut". Välj sedan alternativet "skriv ut till PDF" för att ladda ner en översikt för månaden.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad är fördelen med att välja utbetalningar från Tradera veckovis?
+ANSWER: Att välja utbetalningar från Tradera veckovis istället för månadsvis kan minska antalet poster som du behöver bokföra, vilket gör bokföringen enklare och mer praktisk.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Vad kan jag göra för att undvika att behöva bokföra Swishbetalningar på Tradera?
+ANSWER: För att undvika att behöva bokföra Swishbetalningar på Tradera kan du ta bort ditt eget Swishnummer från ditt konto och låta Traderabetalning hantera betalningarna istället.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Kan jag se mina utbetalningar på Tradera i en fullständig specifikation?
+ANSWER: Ja, genom att expandera varje utbetalning kan du se en fullständig specifikation av dina intäkter och avgifter för den period som utbetalningen avser, vilket gör att du kan få en mer detaljerad överblick över din ekonomi på Tradera.
+URL: https://info.tradera.com/bokforingnettoutbetalning/
+
+QUESTION: Hur kan jag spara ner mitt bokföringsunderlag från Tradera?
+ANSWER: För att spara ner ditt bokföringsunderlag från Tradera behöver du gå till sidan Betalningar och Avgifter, klicka på "skriv ut" och välja "skriv ut till PDF". Då kan du spara ner översikten som en PDF-fil.
+URL: https://info.tradera.com/bokforingnettoutbetalning/

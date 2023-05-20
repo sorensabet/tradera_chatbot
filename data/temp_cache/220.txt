@@ -1,0 +1,39 @@
+QUESTION: Var hittar jag information om driftsstörningar på Tradera?
+ANSWER: Du hittar information om driftsstörningar på Tradera på deras startsida eller infosidor. Tradera uppdaterar vid generella störningar på dess infosidor.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vilka tips för felet identifiering finns på Traderas felsökningsguide?
+ANSWER: På Traderas felsökningsguide hittar du tips för enkla åtgärder som hjälper dig att identifiera och lösa problemet.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad kan jag göra om min betalning inte går igenom på Tradera?
+ANSWER: Om din betalning inte går igenom på Tradera kan du prova att logga ut och in igen, kontrollera dina inloggningsuppgifter eller kontakta din bank. Om problemet kvarstår kan du kontakta Traderas kundtjänst för hjälp.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Hur kontaktar jag Traderas kundtjänst när jag har problem med ett köp?
+ANSWER: Om du har problem med ditt köp på Tradera kan du kontakta deras kundtjänst genom att fylla i formuläret på deras kontaktsida eller genom att skicka ett meddelande till deras kundtjänst via deras app eller webbsida.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Kan jag få hjälp från Tradera om jag inte kan logga in på mitt konto?
+ANSWER: Ja, om du inte kan logga in på ditt konto kan du kontakta Traderas kundtjänst för hjälp. Du kan även prova att återställa ditt lösenord eller kontakta Traderas supportteam för mer hjälp.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vilken information behöver jag för att kontakta Traderas kundtjänst angående mitt köp?
+ANSWER: För att kontakta Traderas kundtjänst angående ditt köp behöver du information såsom ditt användarnamn, objektets ID-nummer och en beskrivning av problemet du stöter på.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad ska jag göra om min produkt inte levereras på Tradera?
+ANSWER: Om din produkt inte levereras på Tradera kan du kontrollera statusen för din försändelse eller kontakta säljaren för hjälp. Om problemet kvarstår kan du kontakta Traderas kundtjänst för hjälp.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Hur kan jag identifiera om det är en lokal störning eller generell störning på Tradera?
+ANSWER: Du kan identifiera om det är en lokal eller generell störning på Tradera genom att kontrollera Traderas infosidor eller startsida. Vid generella störningar uppdaterar Tradera på dessa sidor.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Vad kan jag göra om jag har problem med inloggning på min mobilapp för Tradera?
+ANSWER: Om du har problem med att logga in på din mobilapp för Tradera kan du prova att uppdatera appen, kontrollera att du har inloggningsuppgifterna rätt eller kontakta Traderas supportteam för mer hjälp.
+URL: https://info.tradera.com/felsokningsguide/
+
+QUESTION: Hur kan jag hitta de vanligaste felen när jag handlar på Tradera?
+ANSWER: Du kan hitta de vanligaste felen när du handlar på Tradera genom att besöka deras felsökningsguide, där du hittar en lista på vanliga problem och tips för att lösa dem.
+URL: https://info.tradera.com/felsokningsguide/

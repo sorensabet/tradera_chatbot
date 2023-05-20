@@ -1,0 +1,39 @@
+se hur du kan använda PayPals köparskydd.
+\ANSWER: If you have paid with PayPal and need to report a problem with your purchase, you should use PayPal's buyer protection instead of the process described on this page. PayPal will handle the dispute and any contact with the seller. The provided URL shows how to use PayPal's buyer protection.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: How do I report a problem with a purchase on Tradera?
+\ANSWER: To report a problem with a purchase on Tradera, go to either the transaction page or your account, and choose to report a problem with the transaction. You will be prompted to contact the seller and Klarna may be involved in resolving the dispute. If the seller is a company, you may also have the right to withdraw from the purchase.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: What happens if the seller does not respond to a buyer's report of a problem?
+\ANSWER: If the seller does not respond to a buyer's report of a problem, the buyer should indicate that they have attempted to contact the seller. Klarna will collect information about the dispute and escalate it to Tradera. Tradera and Klarna will work together to reach a resolution and the buyer will receive feedback from Klarna about the outcome.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: What is the time limit for returning an item in the event of a dispute?
+\ANSWER: If you have won a dispute, you must submit the item to a delivery point no later than five days after receiving the shipping label. The item does not need to have reached the recipient within five days, but it must have been submitted to the delivery point. The item must always be sent with a tracking number and you should only use the shipping label provided by Tradera.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Who handles disputes when paying with PayPal?
+\ANSWER: When paying with PayPal, disputes are handled by PayPal's buyer protection. All contact with the seller and dispute resolution is done through PayPal. 
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Can I return an item if the seller is a company?
+\ANSWER: If the seller is a company, you may have the right to withdraw from the purchase. 
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: How does Klarna help in resolving disputes?
+\ANSWER: Klarna collects information about a dispute and will escalate it to Tradera if necessary. Tradera and Klarna will work together to resolve the dispute and the buyer will receive feedback from Klarna about the outcome.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Do I need to contact Tradera if I receive a message from Klarna asking me to do so?
+\ANSWER: If you receive a message from Klarna asking you to contact Tradera, it is a standard message that is used for all pages where you can pay with Klarna. In Tradera's case, you only need to contact the seller when you receive this message.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: Is it necessary to submit a tracking number when returning an item in the event of a dispute?
+\ANSWER: It is necessary to submit a tracking number when returning an item in the event of a dispute. You should only use the shipping label that is provided by Tradera.
+URL: https://info.tradera.com/tvist-kopare/
+
+QUESTION: What happens if I do not submit the item in the event of a dispute?
+\ANSWER: If you do not submit the item in the event of a dispute, the decision may be revoked. Therefore, it is important to submit the item to a delivery point no later than five days after receiving the shipping label.
+URL: https://info.tradera.com/tvist-kopare/

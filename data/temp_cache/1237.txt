@@ -1,0 +1,39 @@
+QUESTION: What should buyers do if payment issues arise?
+ANSWER: If payment issues arise, according to the terms and conditions, the buyer and the payment solution provider must deal with it. It is not Tradera's responsibility to mediate between the parties in case of delayed payment or non-payment of items purchased. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is Tradera's payout solution?
+ANSWER: Tradera's payout solution is a payment method that enables the Seller to receive payment within one (1) to two (2) business days following the completion of a Transaction if they have provided accurate payment details to Tradera. Any amount that the Seller is obliged to pay to Tradera is deducted, and the remaining balance is paid to the Seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is deducted from the payout made to the Seller by Tradera's payout solution?
+ANSWER: Before payout is made through Tradera's payout solution, any amount that the Seller is obliged to pay to Tradera, such as selling expenses, refundable amounts, and fees, is deducted, and the remaining balance is paid to the Seller. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: How long does it take for the Seller to receive payment through Tradera's payout solution?
+ANSWER: As a general rule, the Seller should receive payment within one (1) to two (2) business days following the completion of a Transaction, provided that the Seller has provided accurate payment details to Tradera. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can Tradera modify or further develop the checkout solution?
+ANSWER: Yes, Tradera can modify or further develop Tradera's checkout solution, which may involve adding more parties to it. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Who is responsible for any payment-related issues on Tradera's platform?
+ANSWER: Buyers and the payment solution provider are responsible for dealing with any payment-related issues, and Tradera is not responsible for any delays, errors, damages or other matters relating to payment or non-payment of items purchased by the Buyer via Tradera's checkout solution. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What does the Seller have to pay to Tradera when using Tradera's payout solution?
+ANSWER: The Seller may have to pay to Tradera selling expenses, refundable amounts, and fees agreed upon between the Seller and Tradera under separate agreement. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: Can the payment rate for Tradera's payout solution be changed?
+ANSWER: Yes, Tradera can change the payment rate for its payout solution, and it is the Seller's responsibility to keep themselves informed of any information coming from Tradera in this respect. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What should the Seller do if Tradera suspects fraud or any violation of the terms and conditions?
+ANSWER: If Tradera suspects that there are irregularities with respect to a particular Transaction, such as fraud, or that the Seller has previously acted in violation of these Terms and Conditions, Tradera reserves the right to take appropriate action. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/
+
+QUESTION: What is the responsibility of the payment solution provider?
+ANSWER: The payment solution provider's responsibility is to provide a payment method that is accepted by Tradera's checkout solution, and to deal with any payment issues that may arise in accordance with the terms and conditions concluded between the Buyer and the payment solution provider. 
+URL: https://info.tradera.com/en/security-center/betalningsvillkor-eng-hw-1-4/

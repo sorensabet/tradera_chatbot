@@ -1,0 +1,39 @@
+QUESTION: Vad är ett godkänt kvitto för verifiering på Tradera?
+ANSWER: Ett godkänt kvitto för verifiering på Tradera är en bekräftelse på att betalning har genomförts av en vara som kan vara i pappersformat (kvitto från butik) eller finnas i digitalt format (PDF). Kvittot måste innehålla säljarens namn och adress, datum, varans namn gärna med tillhörande beskrivning och antal samt pris.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Vilken information behöver framgå på kvittot för att det ska vara godkänt för verifiering på Tradera?
+ANSWER: För att ett kvitto ska vara godkänt för verifiering på Tradera behöver följande information framgå: säljarens namn och adress, datum, varans namn gärna med tillhörande beskrivning och antal samt pris.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Vilka format kan kvitton finnas i för verifiering på Tradera?
+ANSWER: Kvitton kan både vara i pappersformat (kvitto från butik) eller finnas i digitalt format (PDF) för verifiering på Tradera.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Varför kräver Tradera ett kvitto för verifiering?
+ANSWER: Tradera kräver ett kvitto för verifiering för att säkerställa att betalningen har genomförts för en vara och för att skydda både köpare och säljare mot bedrägeri och oegentligheter.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Behöver jag skicka in ett kvitto för verifiering om jag betalat med kort eller Swish?
+ANSWER: Ja, du behöver skicka in ett kvitto för verifiering även om du har betalat med kort eller Swish. 
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Kan jag skicka in flera bilder på mitt kvitto för verifiering på Tradera? 
+ANSWER: Ja, det kan vara bra att skicka in två olika bilder på kvittot för verifiering på Tradera. Bifoga en bild på kvittot där all nödvändig information (säljarens namn och adress, datum, varans namn, beskrivning och antal samt pris) tydligt framgår och en bild på hela kvittot. 
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Hur skickar jag in mitt kvitto för verifiering på Tradera?
+ANSWER: För att skicka in kvittot för verifiering på Tradera, kan du använda dig av funktionen "Ladda upp kvitto” på din köpöversikt. Alternativt kan du maila kvittot till Traderas kundservice. 
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Vad händer om jag inte skickar in ett kvitto för verifiering på Tradera?
+ANSWER: Om du inte skickar in ett kvitto för verifiering på Tradera, kan detta leda till förseningar i ditt köp och eventuella problem med betalningen.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Vilka syften tjänar kravet på godkänt kvitto för verifiering på Tradera?
+ANSWER: Kravet på godkänt kvitto för verifiering på Tradera tjänar två syften: att säkerställa att betalningen har genomförts för en vara och att skydda både köpare och säljare mot bedrägeri och oegentligheter.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/
+
+QUESTION: Är det säkert att skicka in kvitto för verifiering på Tradera?
+ANSWER: Ja, det är säkert att skicka in kvitto för verifiering på Tradera. Tradera har säkerhetssystem för att skydda både köpare och säljare från bedrägeri och oegentligheter.
+URL: https://info.tradera.com/sakerhetscenter/godkant-kvitto-for-verifiering/

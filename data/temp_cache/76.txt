@@ -1,0 +1,39 @@
+QUESTION: Vad ska jag göra om jag får spam-relaterad e-post från Tradera?
+ANSWER: Om du får e-postmeddelanden från Tradera som innebär spam eller har en e-postadress eller avsändaridentitet som inte är Traderas, ska du vidarebefordra dessa meddelanden till abuse@tradera.com för att rapportera dem.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Kan jag lägga till andra Tradera-användare i mina utskickslistor utan deras samtycke?
+ANSWER: Nej, enligt Användaravtalet har du inte rätt att lägga till andra Tradera-användare i dina utskickslistor för e-post eller vanlig post utan deras uttryckliga samtycke.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad händer om jag skickar e-post till en e-postadress som inte finns registrerad hos Tradera?
+ANSWER: Om du skickar e-post till en e-postadress som inte är registrerad hos Tradera, som Tipsa en vän eller andra verktyg, kommer Tradera inte att sälja eller lämna ut sådana e-postadresser.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Får jag använda Traderas kommunikationsverktyg för att skicka skräppost?
+ANSWER: Nej, som Användaravtalet specificerar är det förbjudet att använda Traderas kommunikationsverktyg för att skicka skräppost. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Sparar Tradera permanent meddelanden som skickas genom deras kommunikationsverktyg?
+ANSWER: Nej, Tradera sparar inte permanent några meddelanden som skickas genom deras kommunikationsverktyg, även om de kan scanna och filtrera meddelanden för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilka preferenser kan jag ställa in för Tradera-meddelanden?
+ANSWER: Du kan ställa in dina preferenser för Tradera-meddelanden så att Tradera kan kommunicera med dig på det sätt du önskar.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad ska jag göra om jag har glömt mitt Tradera-lösenord?
+ANSWER: Om du har glömt ditt Tradera-lösenord kan du klicka på "Glömt lösenord?" på inloggningsidan för att återställa det.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vilken typ av lösenord rekommenderar Tradera för mitt konto?
+ANSWER: Tradera rekommenderar att du använder unika siffror, bokstäver och symboler för att skapa ditt lösenord och att du inte avslöjar ditt Tradera-lösenord.
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Sparar Tradera mina personuppgifter och hur kan jag granska och ändra dem?
+ANSWER: Ja, Tradera sparar dina personuppgifter och du har möjlighet att granska och ändra dem. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
+
+QUESTION: Vad är nyckeln till mitt Tradera-konto?
+ANSWER: Enligt texten är ditt lösenord nyckeln till ditt Tradera-konto. 
+URL: https://info.tradera.com/sakerhetscenter/integritetspolicy-2014-2015/
