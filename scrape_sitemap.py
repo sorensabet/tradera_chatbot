@@ -76,14 +76,16 @@
 
 import sys
 import requests
+import tiktoken
+import regex as re
 import pandas as pd 
 import xml.etree.ElementTree as ET
+
 from bs4 import BeautifulSoup
 
-
+unhelpful_pages = ['https://info.tradera.com/']
 
 sitemap_url = 'https://info.tradera.com/page-sitemap.xml'
-save_file_path = 'scraped_urls.txt'
 
 response = requests.get(sitemap_url)
 if response.status_code != 200:
@@ -92,8 +94,6 @@ if response.status_code != 200:
 tree = ET.fromstring(response.content)
 
 results = []
-
-# url_counter = 0
 for url_element in tree.iter('{http://www.sitemaps.org/schemas/sitemap/0.9}url'):
     loc_element = url_element.find('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
     
@@ -105,17 +105,37 @@ for url_element in tree.iter('{http://www.sitemaps.org/schemas/sitemap/0.9}url')
         
         results.append({'page_url': loc_url, 'page_text': page_text})
 
-    ## Limit number of requests for testing 
-    # url_counter += 1 
-    # if url_counter >3:
-    #     break
 
-# Save in pandas dataframe, replace multiple occurences of newlines/blank spaces with single space
-# based on ChatGPT's feedback that excessive/irregular blank spaces can cause problems. 
+# Save in pandas dataframe, replace multiple occurences of newlines/blank spaces
+df_smc = pd.DataFrame.from_dict(results)
+df_smc.to_csv('data/unprocessed_sitemap_content.csv')
+df_smc = df_smc.loc[~df_smc['page_url'].isin(unhelpful_pages)]
 
-df_urls = pd.DataFrame.from_dict(results)
-df_urls['page_text'] = df_urls['page_text'].str.replace('\n', ' ').str.replace('\s+', ' ', regex=True)
 
-# Save the text data locally. 
-df_urls.to_csv('data/info_page_content.csv')
+
+
+
+
+# Step 1. Split files into 3000 tokens or less (because of 4096 token constraint in asking questions in chat)
+# Step 2. Re-assemble the text using tokenized version 
+# Step 3. Split into sentences 
+# Step 4. Generate vector embeddings for each sentence, tracking which set of full 3k token context it came from 
+# Step 5. At question answer time, identify the sentence most similar to the question asked, retrieve the full context, and pass that into a gpt model. 
+
+
+# df_tokens = df_smc[['tokenized']].explode(column=['tokenized'])
+# df_tokens['orig_index'] = df_tokens.index
+# df_tokens['new_index'] = range(0, len(df_tokens), 1)
+# df_tokens['context_segment'] = df_tokens['new_index']//400
+# df_tokens = df_tokens[['tokenized', 'orig_index', 'context_segment']]
+
+    
+
+# # Save sitemap content to txt files for quick visual inspection 
+# for row in df_smc.iterrows(): 
+    
+#     if row[1]['num_tokens'] > 3000:        
+#         with open('data/sample_sitemap_content/' + str(row[0]) + '.txt', 'w') as f:
+#             f.write(row[1]['new_page_text'])
+
 
