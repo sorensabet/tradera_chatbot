@@ -11,8 +11,8 @@ Note that you will need to retrain the fine-tuned models and update the model re
 
 Each branch contains the code for the different approaches that I tried. 
  - The **main** branch contains code that was written **within the 5h constraint**. 
- - The **post_5h_attempt_1** branch contains code for the second method that I tried. 
- - The **post_5h_semantic_lookup** branch contains code for the third method that I tried. 
+ - The **post_5h_attempt_1** branch contains code for the second method described below.
+ - The **post_5h_semantic_lookup** branch contains code for the third method described below.
 
 ## Summary of methods: 
 1. Fine tuning a model using only the information provided in the FAQs, then directly sending user questions to the model 
