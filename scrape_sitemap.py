@@ -83,7 +83,7 @@ from bs4 import BeautifulSoup
 
 
 sitemap_url = 'https://info.tradera.com/page-sitemap.xml'
-save_file_path = 'scraped_urls.txt'
+# save_file_path = 'scraped_urls.txt'
 
 response = requests.get(sitemap_url)
 if response.status_code != 200:

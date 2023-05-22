@@ -6,7 +6,7 @@ import pandas as pd
 
 # Goal: split entries of multiple questions into separate entries programatically, append with knowledge base questions, and use these to train model. 
 
-df = pd.read_csv('info_page_qa_iter3.csv', index_col=[0])[['QA']]
+df = pd.read_csv('info_page_qa_final.csv', index_col=[0])[['QA']]
 df['questions'] = df['QA'].str.split('QUESTION: ')
 df2 = df.explode(column='questions')
 df2 = df2.loc[df2['questions'].str.len() > 0][['questions']]
