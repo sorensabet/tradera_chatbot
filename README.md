@@ -1,4 +1,4 @@
-### tradera_chatbot
+# tradera_chatbot
 This repo stores my code for the Tradera technical interview challenge to build a chatbot using OpenAI APIs. 
 
 To run the code locally on your machine, paste the following into the 'config.ini' file. 
@@ -19,9 +19,9 @@ The **post_5h_semantic_lookup** branch contains code for the third method that I
    model. 
 
 3. Semantic lookup tables: 
-  a) Generate embeddings for all sentences in the FAQs and sitemap content, then store embeddings in a lookup table 
-  b) Generate embeddings for the question asked by the user 
-  c) Evaluate cosine similarity between the user question and the sentences in the lookup tables. Identify the 10 closest sentences 
-  d) Recover the full context around the 10 most similar sentences to the user question. Concatenate the context together and keep the first 3000 tokens. 
-  e) Send the narrowed down context and the user question into a gpt-3.5-turbo model, and ask GPT to answer the question if it was found or say that the answer
-     is not present otherwise. 
+- Generate embeddings for all sentences in the FAQs and sitemap content, then store embeddings in a lookup table 
+- Generate embeddings for the question asked by the user 
+- Evaluate cosine similarity between the user question and the sentences in the lookup tables. Identify the 10 closest sentences 
+- Recover the full context around the 10 most similar sentences to the user question. Concatenate the context together and keep the first 3000 tokens. 
+- Send the narrowed down context and the user question into a gpt-3.5-turbo model, and ask GPT to answer the question if it was found or say that the answer
+  is not present otherwise. 
