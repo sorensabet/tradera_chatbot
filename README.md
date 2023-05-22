@@ -8,7 +8,9 @@ openai_api_key = YOUR_API_KEY
 Note that you will need to retrain the fine-tuned models and update the model references in code (see further instructions below). 
 
 ## Branches
- - The **main** branch contains code that was written within the 5h constraint. 
+
+Each branch contains the code for the different approaches that I tried. 
+ - The **main** branch contains code that was written **within the 5h constraint**. 
  - The **post_5h_attempt_1** branch contains code for the second method that I tried. 
  - The **post_5h_semantic_lookup** branch contains code for the third method that I tried. 
 
