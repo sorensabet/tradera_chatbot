@@ -56,4 +56,5 @@ for row in df_faq.iterrows():
             print("Error getting questions for %d" % row[0])
 
 df_results = pd.DataFrame.from_records(results)
-df_results.to_csv('data/unprocessed_extra_questions')
+df_results.to_csv('data/unprocessed_extra_questions.csv')
+

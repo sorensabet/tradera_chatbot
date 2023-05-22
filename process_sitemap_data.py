@@ -15,7 +15,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-batch_size = 256
+batch_size = 512
 config = configparser.ConfigParser()
 config.read('config.ini')
 openai.orgaization='Personal'
@@ -58,8 +58,20 @@ df_faq = pd.read_csv('data/knowledge_base.csv')
 df_faq['new_page_text'] = df_faq['title'] + '\n' + df_faq['content']
 df_faq['page_url'] = 'FAQs'
 
-# Combine and 
-df_content = pd.concat([df_faq[['page_url', 'new_page_text']], df_smc[['page_url', 'new_page_text']]])
+# Get Extra questions generated from FAQs to extend coverage of QAs 
+df_efaq = pd.read_csv('data/unprocessed_extra_questions.csv', index_col=0)
+df_efaq['title'] = df_efaq['result'].str.split('\d{1,2}\.', regex=True)
+df_efaq_split = df_efaq[['title']].explode(column='title')
+df_efaq_split = df_efaq_split.loc[df_efaq_split['title'].str.len() > 0]
+df_efaq_split = df_efaq_split.merge(df_faq[['page_url', 'content']], left_index=True, right_index=True, how='left')
+df_efaq_split.reset_index(drop=True, inplace=True)
+df_efaq_split['new_page_text'] = df_efaq_split['title'] + '\n' + df_efaq_split['content']
+df_efaq_split['page_url'] = 'FAQs'
+
+
+# Combine and process
+cols = ['page_url', 'new_page_text']
+df_content = pd.concat([df_faq[cols], df_efaq_split[cols], df_smc[cols]])
 df_content = df_content.loc[df_content['new_page_text'].str.len() > 10]
 df_content.reset_index(drop=True, inplace=True)
 df_content['tokenized'] = df_content['new_page_text'].apply(lambda x: enc.encode(x))

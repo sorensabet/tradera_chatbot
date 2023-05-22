@@ -35,7 +35,16 @@ def check_for_answer(context, question):
     
 enc = tiktoken.encoding_for_model('gpt-3.5-turbo')
 
-question = 'Vad kostar det att skicka ett paket på 1 kg med Schenker i Sverige?'
+
+# Sample questions: 
+question = 'Hur mycket kostar det att sälja på Tradera?'
+# question = 'Vad är provisionsavgiften i kategorin Kläder?'
+# question = 'Hur startar jag en dispyt?'
+# question = 'Kan jag sälja en pistol på Tradera?'
+# question = 'Kan jag sälja en vapen på Tradera?'
+# question = 'Vad är Samfrakt?'    
+# question = 'Vad kostar det att skicka ett paket på 1 kg med Schenker i Sverige?'
+
 question_enc = enc.encode(question)
 
 df_sll = pd.read_csv('data/sentence_level_lookup.csv', index_col=0)
@@ -98,8 +107,6 @@ print(question, '\n', answer)
 # Q6: Vad kostar det att skicka ett paket på 1 kg med Schenker i Sverige?
 # A6: No answer found. 
 
-# How to improve: 
-#   Add page level embeddings as a second check, if the first one doesn't work. 
 
 
 
