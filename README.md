@@ -25,5 +25,5 @@ Each branch contains the code for the different approaches that I tried.
 - Generate embeddings for the question asked by the user 
 - Evaluate cosine similarity between the user question and the sentences in the lookup tables. Identify the 10 closest sentences 
 - Recover the full context around the 10 most similar sentences to the user question. Concatenate the context together and keep the first 3000 tokens. 
-- Send the narrowed down context and the user question into a gpt-3.5-turbo model, and ask GPT to answer the question if it was found or say that the answer
-  is not present otherwise. 
+- Send the narrowed down context and the user question into a gpt-3.5-turbo model, and ask GPT to answer the question if the answer is present in the context, 
+  and to say that no answer was found otherwise. 
