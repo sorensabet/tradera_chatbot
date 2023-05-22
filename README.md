@@ -27,3 +27,5 @@ Each branch contains the code for the different approaches that I tried.
 - Recover the full context around the 10 most similar sentences to the user question. Concatenate the context together and keep the first 3000 tokens. 
 - Send the narrowed down context and the user question into a gpt-3.5-turbo model, and ask GPT to answer the question if the answer is present in the context, 
   and to say that no answer was found otherwise. 
+
+## How to run locally on your machine: 
