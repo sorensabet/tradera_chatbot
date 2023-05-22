@@ -28,4 +28,4 @@ Each branch contains the code for the different approaches that I tried.
 - Send the narrowed down context and the user question into a gpt-3.5-turbo model, and ask GPT to answer the question if the answer is present in the context, 
   and to say that no answer was found otherwise. 
 
-## How to run locally on your machine: 
+## Detailed Description of Methods and Files: 
