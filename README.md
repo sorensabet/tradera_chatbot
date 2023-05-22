@@ -27,7 +27,7 @@ Each branch contains the code for the different approaches that I tried.
 ## How to recreate locally/file descriptions (branch specific):
 
 1. Update the *config.ini* file in the directory with your own API key: 
-'''openai_api_key''' = YOUR_API_KEY'''
+```openai_api_key = YOUR_API_KEY```
 
 2. Run *scrape_sitemap.py* to webscrape the information from the sitemap. 
 
@@ -42,15 +42,13 @@ Each branch contains the code for the different approaches that I tried.
    into a single dataframe and format & save in the way expected by the OpenAPI command line tool 
    
 5. Run the openAPI command line tool, pointing to the output of the previous step: 
-
-'''openai tools fine_tunes.prepare_data -f <LOCAL_FILE>'''
+```openai tools fine_tunes.prepare_data -f <LOCAL_FILE>```
 
 6. Using the openAI command line tool, fine-tune your model using the output of the previous step :
+```openai api fine_tunes.create -t <TRAIN_FILE_ID_OR_PATH> -m <BASE_MODEL>```
 
-'''openai api fine_tunes.create -t <TRAIN_FILE_ID_OR_PATH> -m <BASE_MODEL>'''
 
-
-7. Edit *web_interface.py* and update the model argument in the '''prompt_gpt''' function definition to point to the model that was fine-tuned in the previous step. 
+7. Edit *web_interface.py* and update the model argument in the ```prompt_gpt``` function definition to point to the model that was fine-tuned in the previous step. 
 
 8. Run *web_interface.py* and navigate to the URL shown to access a basic UI to interact with ChatGPT. You can type your messages for the chatbot here. 
 
