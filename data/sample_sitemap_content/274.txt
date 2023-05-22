@@ -1,0 +1,119 @@
+
+
+Villkor för betalningar (företag och kunder bosatta utomlands) 1.4 - Tradera
+
+Villkor för betalningar (företag och kunder bosatta utomlands)
+Villkor för betalningar (företag och kunder bosatta utomlands) v 1.4 - senaste ändringen maj 2023
+For the English version of this statement, follow this link:  Terms and Conditions - payments  (companies and customers residing abroad)
+Klicka  här  för den tidigare versionen av dessa villkor.
+Dessa Villkor (” Villkor ” eller ” Villkoren ”) gäller i tillägg till övriga regler och villkor för  Traderas Plattform  när du i egenskap av köpare bosatt utomlands eller som juridisk person (” Köpare ”   eller ” Köparen ”)   köper och betalar för varor och/eller tjänster   eller   säljare bosatt utomlands eller som juridisk person (” Säljare ” eller ” Säljaren ”) säljer och får betalt för varor och/eller tjänster på Traderas Plattform. 
+För kunder bosatta i Sverige gäller istället Villkor betalningar (kunder bosatta i Sverige). Klicka  här  för dessa Villkor.
+Mot bakgrund av att Tradera inte tillhandahåller sin egen betaltjänst till juridiska personer eller Köpare och Säljare bosatta utomlands omfattas tjänsten inte av dessa villkor.
+Köparen måste acceptera att den enbart kan betala för köp av Säljaren med hjälp av Traderas kassalösning. Vad detta innebär och Köparens åtaganden framgår av dessa villkor.
+Säljaren måste acceptera att Köparen betalar med hjälp av Traderas kassalösning och att Säljaren ska ta betalt genom Traderas kassalösning när Säljaren säljer något på Traderas Plattform. Vad detta innebär och Säljarens åtaganden framgår av dessa Villkor.
+Allmänna villkor
+1. DEFINITIONER
+”Klarna”  avser Klarna Bank AB, org. nr 556737–0431. "Köpare(n)”  avser i dessa villkor en fysisk person bosatt i annan jurisdiktion än Sverige samt en juridisk person som har gjort ett köp av Säljaren på Traderas Plattform. ”Mitt Tradera”  avser den inloggade miljö som tillhandahålls av Tradera och där bland annat Säljaren kan sköta orderhantering och Köparen kan kontrollera sina köp. ”Regler för Säljare”  avser de regler som en Säljare alltid måste följa vid försäljning på Traderas Plattform och som i sina senaste versioner finns tillgängliga här:  https://info.tradera.com/sakerhetscenter/regler-pa-tradera/ ”Svensk Köpare”  avser i dessa villkor fysisk person bosatt i Sverige som har gjort ett köp av Säljare på Traderas Plattform. ”Säljare(n)”  avser i dessa villkoren en fysisk person bosatt i annan jurisdiktion än Sverige samt en juridisk person som säljer varor eller tjänster på Traderas Plattform. ”Tradera”  avser Tradera Marketplace AB, org. nr. 556569–4642. ” Traderas Plattform ” avser de webbplatser, marknadsplatstjänster och applikationer som Tradera tillhandahåller via t.ex.  www.tradera.com . ”Traderas Användaravtal”  avser Traderas vid var tid gällande villkor för användande av Traderas Plattform och övriga tjänster,  https://info.tradera.com/sakerhetscenter/anvandaravtal/ . ”Traderas kassalösning”  avser den webbplats med olika betallösningar som Köparen från tid till annan kan erbjudas på Traderas Plattform såsom kort, PayPal och andra betalmetoder som Tradera lägger till efter hand. Betaltjänsterna i Traderas kassalösning tillhandahålls av tredje parter som Tradera har avtal med. “Traderas utbetalningslösning”  avser den betaltjänst som Hyperwallet tillhandahåller Tradera och som innebär att utbetalning kan göras till Säljare för såld vara. “Transaktion”  är en betalning för varor eller tjänster på Traderas Plattform. ” Återbetalningsskyldigt belopp ” är det belopp som Säljaren ska återbetala till Tradera i samband med en återbetalning av belopp som redan betalats ut till Säljare på grund av att ett köp ska gå åter. Beloppet utgör en del av eller hela Transaktionen, plus eventuella avgifter som ålagts Tradera i samband med Transaktionen, inklusive fraktkostnader för retur av en vara och avgifter som Tradera ålagts för en transaktion i förhållande till sina samarbetspartners som PayPal, Paynova, Klarna, VISA eller MasterCard.
+2. ATT ANVÄNDA TRADERAS KASSA- OCH UTBETALNINGSLÖSNING
+a)  Tradera åtar sig att, på de villkor som följer av Villkoren, låta Säljaren få betalt genom Traderas utbetalningslösning vid försäljning på Traderas Plattform. Säljaren åtar sig å sin sida att följa dessa Villkor och att använda Traderas kassalösning vid försäljning på Traderas Plattform. Säljaren får inte kräva betalning på något annat sätt än genom de alternativ som finns tillgängliga genom Traderas kassalösning.
+b)  En Säljare har inte rätt att ta betalt för Köparens möjlighet att använda Traderas kassalösning.
+c)  Tradera åtar sig att, på de villkor som följer av Villkoren, låta Köparen betala genom de betalsätt som presenteras i Traderas kassalösning vid köp på Traderas plattform. Köparen åtar sig å sin sida att följa dessa villkor samt de villkor som gäller för det valda betalsättet och som har förmedlats av tredje part. 
+3. INBETALNING FRÅN KÖPARE
+Allmänt
+a)  När en Köpare köper ett föremål på Tradera finns genom Traderas kassalösning flera betalningssätt tillgängliga. Sådana betalsätt är kortbetalning, PayPal, ApplePay och Google Pay. Varje separat betalsätt tillhandahålls av tredje parter med vilka Tradera samarbetar för detta syfte och som står under tillsyn av Finansinspektionen i Sverige eller dess utländska motsvarigheter. Betalningssätten erbjuds av dessa betallösningsleverantörer och de avgör vilka betalningssätt de vill erbjuda Köpare. Beroende på vilket betalningssätt Köpare väljer kan Köpare behöva ingå ett separat avtal med den aktuella leverantören av betallösningen och Köpare måste godkänna de villkor som gäller för det betalningssätt som Köpare väljer att använda. Fler parter kan tillkomma om Tradera väljer att ändra eller vidareutveckla Traderas kassalösning.
+b)  Om det uppstår frågor som gäller inbetalning så ska de, om inte annat anges i dessa villkor, hanteras mellan Köpare och betallösningsleverantören enligt de villkor eller avtal som har ingåtts mellan Köpare och betallösningsleverantören. Tradera ansvarar inte för förseningar, fel, skador eller annat som avser betalning eller utebliven betalning av föremål som Köpare köper via Traderas kassalösning. 
+4. UTBETALNING TILL SÄLJARE
+a)  När en Transaktion har blivit godkänd av Tradera kommer en utbetalning genom Traderas utbetalningslösning att göras till Säljare, antingen för en separat Transaktion eller som ett sammanslaget belopp som omfattar flera Transaktioner. Innan utbetalning sker kommer eventuella belopp som Säljaren är skyldig att betala till Tradera att dras av och mellanskillnaden kommer att betalas ut till Säljaren. De belopp som Tradera kommer dra av kan avse försäljningskostnader, Återbetalningsskyldigt belopp och avgifter till Tradera som överenskommits mellan Säljaren och Tradera enligt separat avtal.
+b)  Säljaren erhåller som huvudregel betalt inom en (1) till två (2) bankdagar efter att en Transaktion har genomförts, förutsatt att Säljaren har uppgett korrekta inbetalningsuppgifter till Tradera. Utbetalningstakten kan komma att ändras av Tradera och det ankommer på Säljaren att hålla sig uppdaterad på information som kommer från Tradera i detta avseende. Tradera granskar dock Transaktionerna för att upptäcka oegentligheter. Om Tradera avseende en viss Transaktion misstänker att det förekommer oegentligheter såsom bedrägeri, eller att Säljaren vid tidigare tillfällen agerat i strid mot dessa Villkor, Traderas Användaravtal, eller andra Regler för Säljare, förbehåller sig Tradera rätten att tillse att betalningen inte kommer Säljaren tillhanda, utan istället återbetala denna till Köparen.
+c)  Om Säljaren inte har försett Tradera med korrekta betalningsuppgifter kan Tradera inte betala Säljaren. I sådant fall kommer Tradera att kontakta Säljaren för att begära den utestående informationen. När Tradera väl har fått den information som krävs för att genomföra betalning kommer Säljaren som huvudregel att få betalt inom två (2) bankdagar.
+d)  Säljaren är skyldig att omedelbart efter att Tradera bekräftat att Köparen har erlagt betalning skicka varan till Köparen. Tradera förbehåller sig rätten att innehålla betalning om och så länge som det föreligger misstanke om att Säljaren inte kommer att fullgöra sina åtaganden.
+e)  En Säljare kan i de flesta fall kontakta Tradera i olika frågor som kan uppstå i samband med en Transaktion, trots att betaltjänsterna i sig inte tillhandahålls av Tradera och oavsett vilket betalsätt en Köpare väljer.
+Svensk kunds köp med faktura eller avbetalning
+Om Svensk Köpare har valt att betala via Paynova, accepterar Säljaren att PayPal övertar Säljarens rätt att få betalt från Svensk Köpare i utbyte mot att PayPal erlägger betalning till Säljaren för Transaktionen.
+Om Svensk Köpare har valt att betala via Klarna, överlåter Säljaren rätten att få betalt från Köparen till Tradera som i sin tur överlåter sådan fordran till Klarna. Säljaren accepterar att utbetalning för Transaktionen kommer att ske via Hyperwallet. Säljaren accepterar att inga krav på betalning kan ställas gentemot Klarna utan ansvaret för att utbetalning till Säljaren genomförs åligger Hyperwallet.
+Om Svensk Köpare väljer att betala mot faktura eller avbetalning ingår Svensk Köpare ett avtal med Paynova eller Klarna. Det är alltså inte Säljaren som behöver gå med på betalning mot faktura eller avbetalning, utan Säljaren får betalt på samma sätt som om Köparen valt att betala med kort eller PayPal.
+Efter att Paynova eller Klarna genomfört en sedvanlig kreditkontroll av Svensk Köpare kommer utbetalning ske till PayPal (Hyperwallet), och efter att Tradera vidtagit sin granskning av Transaktionen och denna godkänts sker utbetalning till Säljarens konto.
+Även vid betalning mot faktura eller avbetalning meddelar Tradera Säljaren via email och i Mitt Tradera att betalning för köpet har genomförts. Säljaren ska då skicka varan till Köparen. Även i detta fall sker utbetalning till Säljarens bankkonto sedan i normalfallet inom 1–2 bankdagar, förutsatt att Tradera har erhållit korrekta uppgifter.
+5. TRADERAS RÄTT ATT INNEHÅLLA OCH ÅTERKRÄVA BETALNINGAR FRÅN SÄLJAREN
+Tradera har rätt att innehålla betalning till Säljaren eller, om Säljaren redan har fått betalt, kräva att Säljaren betalar Återbetalningsskyldigt belopp till Tradera i följande fall:
+
+Inom ramen för Traderas tvistlösningssystem där Tradera anser att Köparen har rätt.
+Transaktioner som resulterar i att en fordran uppstår mot en fysisk eller juridisk person som Tradera skäligen kan anta delar ett ekonomiskt intresse med Säljaren.
+Transaktioner som skäligen kan misstänkas utgöra penningtvätt, finansiering av terrorism eller på annat sätt vara i strid med tillämpliga lagar och regler.
+Transaktioner genom vilka Säljaren bryter mot gällande lag.
+Transaktioner genom vilka Köparen förvärvar kontanter (t.ex. valutaväxling, en check eller liknande).
+Transaktioner där Säljaren inte har följt Villkor för Traderas vid var tid gällande Säljarskydd, om och när ett sådant finns tillgängligt.
+Transaktioner som strider mot Villkoren, Traderas Användaravtal eller Regler för Säljare.
+Transaktioner där Köparen i egenskap av konsument har använt sin lagstadgade ångerrätt gentemot en Säljare som bedriver näringsverksamhet.
+
+6. FRIVILLIGA ÅTERBETALNINGAR
+a)  Om en Transaktion helt eller delvis ska återbetalas av Säljaren på grund av att Säljaren och Köparen har kommit överens om det (t.ex. om Köparen har beviljats returrätt av Säljaren eller Köparen utnyttjat sin lagstadgade ångerrätt om Köparen är konsument och Säljaren är näringsidkare) är det upp till Säljaren att betala tillbaka del av eller fullständigt belopp till Köparen. Om Säljaren och Köparen kommer överens om en retur eller prisreducering ska detta omgående regleras av Säljaren som ska återbetala överenskommet belopp upp till 1000 SEK till Köparen. Säljaren måste utföra återbetalningar enbart via Traderas kassalösning och inte genom andra betalningsmetoder.
+b)  På grund av risken för bedrägerier, är möjligheten till återbetalning begränsad och Säljaren får inte återbetala Transaktioner som överstiger 1000 SEK. För att återbetala Transaktioner som överstiger 1000 SEK, ska Säljaren först kontakta Traderas kundtjänst och få instruktioner.
+7. KÖPARSKYDD
+a)  En Köpare har under vissa förutsättningar ett köparskydd som innebär att Köpare kan få tvister hanterade och få återbetalat det belopp som de har betalat vid en Transaktion. Högsta återbetalningsbara belopp som medges inom ramen för Traderas köparskydd är 50 000 SEK.
+b)  Ett köparskydd ingår om Köparen väljer att betala genom Paynovas, PayPals eller Klarnas försorg. Vid betalning med kort, Google Pay, Apple Pay eller Swish kan Köpare välja till Traderas köparskydd mot en avgift. Om köparskydd ingår eller kan göras tillgängligt mot extra avgift framgår innan Köparen väljer betalsätt på Traderas plattform. Säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som Köparen har valt att betala genom.
+c)  Vissa typer av köp omfattas aldrig av Traderas köparskydd. Dessa är följande:
+
+Köp av fastigheter (inklusive, utan begränsning, bostadsfastigheter);
+Köp av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul;
+Köp av anpassade objekt (såvida inte mottagaren påstår att objekten inte kommit fram);
+Köp av objekt som motsvarar kontanter (inklusive, utan begränsning, presentkort);
+Köp av biljetter till evenemang så som sport- eller konsertbiljetter; och
+Köp av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare.
+
+d)  Så här fungerar Traderas tvistlösningsförfarande:
+
+Om en Säljare och en Köpare har en meningsskiljaktighet som exempelvis beror på att Köparen inte fått leverans av en betald vara eller att den levererade varan enligt Köparen skiljer sig väsentligt från Säljarens beskrivning, så kan parterna lösa sin meningsskiljaktighet genom det tvistlösningssystem som Tradera tillhandahåller på "Mitt Tradera". Ett sådant tvistlösningsförfarande måste inledas i Mitt Tradera inom 30 dagar från det att köpet genomfördes och all kommunikation om tvisten ska ske genom Traderas tvistlösningssystem på Traderas plattform.
+Efter att ett tvistlösningsförfarande har inletts ska Köpare och Säljare först kommunicera med varandra genom Traderas tvistlösningssystem för att försöka hitta en lösning på problemet. Om Köpare och Säljare inte kommer fram till en lösning inom tio (10) dagar från att tvistlösningsförfarandet inleddes, kan Köparen eskalera tvisten till Tradera. Om Köparen inte eskalerar tvisten till Tradera inom tio (10) dagar från att tvistlösningsförfarandet inleddes så kommer tvistlösningsförfarandet automatiskt avslutas till Säljarens fördel.
+När en tvist eskaleras till Tradera enligt ovan, kommer Tradera kontakta både Köpare och Säljare för att skaffa sig en uppfattning om vad som har inträffat. Tradera kan sedan komma be bägge parter om underlag, så som ytterligare dokumentation kring varan eller Transaktionen. Köparen är ansvarig för att påvisa att det föreligger fel i den tjänst Säljaren utfört eller den vara som Säljaren har sålt, t.ex. med underlag bevisa att varan skiljer sig från Säljarens beskrivning.
+
+e)  Tvistlösningsförfarandets avslutande:
+
+Om Köparen inleder ett tvistlösningsförfarande där köpet avser en produkt som inte omfattas av Traderas köparskydd enligt ovan, kommer Tradera att avsluta tvisten utan vidare undersökning och Köparen har inte rätt till någon återbetalning.
+Om ett tvistlösningsförfarande avslutas till Köparens fördel, så har Köparen rätt till återbetalning av, delar av eller hela, det belopp som Köparen har betalat för en vara.
+Om ett tvistlösningsförfarande avslutas till Säljarens fördel så har Köparen inte rätt till återbetalning inom ramen för Traderas tvistlösningsförfarande.
+Traderas beslut i ett ärende kan inte överklagas till Tradera, men det står Säljare och Köpare fritt att nå en annan lösning på en tvist i ett annat forum.
+
+8. SÄLJARENS ÅTAGANDEN I FÖRHÅLLANDE TILL KÖPARSKYDD
+a)  Genom att acceptera dessa Villkor accepterar Säljaren villkoren för Traderas köparskydd och tvistlösningsförfarande enligt vid var tid gällande villkor.
+b)  Säljaren åtar sig att utan dröjsmål besvara Köparens klagomål genom det tvistlösningsförfarande som Tradera tillhandahåller på Mitt Tradera. Om Säljaren inte utan dröjsmål delger Tradera de svar och underlag som Tradera efterfrågar kan Tradera komma fram till att Köparen ska ha rätt till återbetalning för en vara utan att Säljaren har yttrat sig. Om Säljaren redan har fått betalt kan Tradera sedan komma att skicka faktura till Säljaren på Återbetalningsskyldigt belopp, och Säljaren är då skyldig att betala detta belopp till Tradera.
+c)  Säljaren måste uppfylla sina åtaganden i förhållande till Traderas köparskydd oavsett vilket betalsätt som Köparen har valt att betala genom.
+d)  Vissa typer av köp omfattas aldrig av Traderas köparskydd, se Avsnitt 7 punkt c) ovan.
+9. SÄLJARSKYDD
+a)  En Säljare har under vissa förutsättningar rätt till Traderas säljarskydd. Genom att följa villkoren för Traderas säljarskydd kan Säljaren således få behålla erhållen betalning, även om Köparen påstår att Köparen aldrig mottagit en vara eller att varan inte är i enlighet med Säljarens beskrivning.
+b)  Följande produkter omfattas aldrig av Traderas säljarskydd:
+
+Försäljning av fastigheter (inklusive, utan begränsning, bostadsfastigheter);
+Försäljning av fordon (inklusive, utan begränsning, motorfordon, motorcyklar, husvagnar, flygplan och båtar), förutom privata bärbara, lätta fordon som används i rekreationssyfte, till exempel cyklar och hoverboard med hjul;
+Försäljning av anpassade objekt (såvida inte mottagaren påstår att objekten inte kommit fram);
+Försäljning av objekt som motsvarar kontanter (inklusive, utan begränsning, presentkort);
+Försäljning av biljetter till evenemang så som sport- eller konsertbiljetter; och
+Försäljning av varor och tjänster som är förbjudna enligt Traderas Regler för Säljare.
+
+c)  För att en Säljare ska kunna nyttja Traderas säljarskydd måste följande villkor vara uppfyllda.
+
+Säljaren ska skicka varorna till den av Tradera vid betalningstillfället godkända leveransadressen. Om Köparens leveransadress har ändrats efter att köpet är genomfört, kommer Tradera meddela Säljare om detta genom den e-postbekräftelse som skickas när Köparen har betalt för varan och informationen kommer också finnas tillgänglig i Mitt Tradera.
+Varor vars pris överstiger 200 kr måste ha överlämnats till Köpare av Säljare eller av en anlitad speditör för att Säljare ska omfattas av säljarskyddet. Om Köparen hävdar att denne inte har mottagit leveransen kommer Tradera be Säljaren om underlag som bevisar att Säljaren, eller den anlitade speditören, har avlämnat varorna till Köparen. Tradera rekommenderar därför att Säljare skickar varor med spårbarhet t.ex. spårningsnummer från speditören.
+Säljaren ska ha valt ett fraktsätt där de sålda varorna är försäkrade under frakten upp till varornas värde.
+Säljaren ska i text och genom fotografier beskriva samtliga varor på ett fullgott sätt i annonsen så att Köparen kan undersöka varan och dess skick innan Köparen ingår köpeavtalet med Säljaren. Säljaren måste också avlämna varorna till speditören i samma skick som Säljaren har beskrivit dem i annonsen.
+Säljaren ska ha skickat varorna till Köparen på ett lämpligt sätt, vilket innebär att leverans ska ske genom att samtliga beställda varor förpackas och skickas på ett sätt som gör att risken för att produkterna skadas minimeras.
+
+10. PRIS OCH KOSTNADER
+a)  Under förutsättning att Säljaren agerar i enlighet med dessa Villkor, kommer transaktionskostnaden för betalningar med Traderas kassalösning och Traderas utbetalningslösning att vara noll (0) kronor och inte heller någon start-, månads- eller årsavgift kommer att behöva erläggas till Tradera för användandet av Traderas kassalösning och Traderas utbetalningslösning.
+b)  Om Säljaren emellertid agerar på ett sätt som medför att Tradera kan återbetala Transaktioner till Köparen i enlighet med dessa Villkor kan Tradera fakturera Säljaren för Återbetalningsskyldigt belopp.
+11. IMMATERIELLA RÄTTIGHETER
+Tradera förbehåller sig äganderätten till alla immateriella rättigheter till allt som utvecklats av Tradera och som Säljaren har åtkomst till enligt Villkoren och på Traderas Plattform. Säljaren åtar sig särskilt att aldrig använda tecken, logotyper, symboler eller annat som skulle kunna förväxlas med Traderas varumärken.
+12. PERSONUPPGIFTER
+Traderas ordinarie Integritetspolicy tillämpas även för personuppgifter som Tradera hanterar i samband med dessa Villkor. Personuppgifter kommer också hanteras självständigt av PayPal inom ramen för tjänsten Hyperwallet.  
+13. ÖVRIGT
+a)  Säljaren ansvarar för alla åtgärder som vidtas genom användning av Säljarens unika inloggning till Tradera.
+b)  Dessa Villkor upphör att gälla, utan skyldighet för Tradera till återbetalning, för det fall Tradera säger upp Traderas Användaravtal eller förvägrar Säljaren att sälja ytterligare varor på Traderas Plattform enligt de villkor som framgår av Traderas Användaravtal. Vid upphörande av Villkoren har Tradera rätt att innehålla all utbetalning till Säljaren till dess att Tradera har verifierat antalet utestående Transaktioner och samtliga ångerfrister har passerat eller att eventuellt misstänkt missbruk av Traderas kassalösning eller Traderas utbetalningslösning har utretts.
+c)  Varken Köpare, Säljare eller Tradera ska hållas ansvarig för utebliven eller försenad prestation om orsaken är blixtnedslag, sabotage, myndighetsåtgärd, strömavbrott, nedgång av Internet eller telekommunikation, eller någon annan händelse utom partens rimliga kontroll. Vad som framgår ovan gäller så länge sådan force majeure-händelse pågår. Den part som åberopar force majeure är skyldig att vidta rimliga åtgärder för att begränsa skadan av händelsen. Om force majeure-händelsen pågår i mer än sextio (60) dagar har vardera part rätt att säga upp Villkoren.
+d)  Traderas rätt att ändra Villkoren framgår av Traderas Användaravtal.
+e)  Utöver vad som uttryckligen framgår av Villkoren, reglerar Villkoren fullständigt Köpare, Säljare eller Traderas överenskommelse såvitt avser Traderas kassalösning och Traderas utbetalningslösning och ersätter alla tidigare gjorda muntliga eller skriftliga utfästelser samt alla tidigare avtal mellan Köpare, Säljare eller Tradera gällande betallösningar på Traderas Plattform.
+f)  Villkoren lyder under och ska tolkas i enlighet med svensk rätt. Köpare, Säljare eller Tradera är överens om att tvist med anknytning till Villkoren ska avgöras av svensk allmän domstol, där Stockholms tingsrätt ska vara första instans.
+14. TRADERAS SAMARBETSPARTNERS
+Genom att använda Traderas kassalösning och Traderas utbetalningslösning godkänner Säljaren även villkoren för Traderas samarbetspartner PayPals Hyperwallet-lösning.
+Användaravtal:  https://www.hyperwallet.com/agreements-terms/ Integritetspolicy:  https://www.hyperwallet.com/privacy-policy/
+Villkor för betalningar (företag och kunder bosatta utomlands) v 1.4 – maj 2023
+

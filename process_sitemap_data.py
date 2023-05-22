@@ -12,7 +12,31 @@ import tiktoken
 import configparser
 import numpy as np
 import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
 
+
+batch_size = 256
+config = configparser.ConfigParser()
+config.read('config.ini')
+openai.orgaization='Personal'
+openai.api_key = config.get('secrets', 'openai_api_key')
+
+
+def get_embeddings(texts): 
+    embeddings = openai.Embedding.create(
+        input=texts, 
+        model='text-embedding-ada-002')['data']
+
+    
+    results = []
+    for i, e in enumerate(embeddings):
+        # print(i, e['embeddings'])
+        results.append(np.array(e['embedding']))
+
+    vector_array = np.stack(results, axis=1).transpose()
+
+    return vector_array 
+    
 enc = tiktoken.encoding_for_model('gpt-3.5-turbo')
 
 df_smc = pd.read_csv('data/unprocessed_sitemap_content.csv', index_col=0)
@@ -75,6 +99,30 @@ df_sll['context_segment_text'] = df_sll['context_segment_text'].str.replace('\s+
 df_sll = df_sll.loc[~df_sll['context_segment_text'].str.contains('^\s\d{1,4}\sSEK\s', regex=True)] # Remove any lines that are just numbers
 df_sll = df_sll.loc[~df_sll['context_segment_text'].str.contains('^\s+\d{1,}\skr\s', regex=True)] # Remove any lines that are just numbers
 df_sll.reset_index(drop=True, inplace=True)
+df_sll['batch'] = df_sll.index // batch_size 
 
-# Now, df_sll contains the sentence level lookup. 
+# Save the numpy array corresponding to the batch number, then stack them all vertically. 
+# The indices will correspond to the indices in df_sll. 
+
+batches = df_sll['batch'].unique()
+embeddings = []
+
+for b in batches: 
+    df_sll_batch = df_sll.loc[df_sll['batch'] == b]
+    
+    # Okay. So, I send in the batch, get the embeddings, save them to disk, then re-assemble them all together...
+    try:
+        batch_embeddings = get_embeddings(list(df_sll_batch['context_segment_text']))
+        embeddings.append(batch_embeddings)
+        np.save('data/cached_sentence_level_embeddings/' + 'batch_' + str(b) + '.npy', batch_embeddings)
+        print('Completed %d of %d batches' % (b, len(batches)))
+    except Exception as ex: 
+        print('Error for batch %d: %s' % (b, ex))
+
+
+# Now, assemble all the batches together, save them to disk, and save the sentene and page level embeddings to disk as well 
+df_sll.to_csv('data/sentence_level_lookup.csv')
+df_pll.to_csv('data/page_level_lookup.csv')
+sentence_embeddings = np.concatenate(embeddings, axis=0)
+np.save('data/all_sentence_level_embeddings.npy', sentence_embeddings)
 

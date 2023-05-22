@@ -1,0 +1,148 @@
+
+
+Terms and Conditions of Tradera's Payment Solution 1.3 - Tradera
+
+Categories
+My wish list
+My overview
+Create an ad
+Contact us
+
+Categories
+My wish list
+My overview
+Create an ad
+Contact us
+
+Terms and Conditions of Tradera's payment solution
+Terms and Conditions of Tradera's payment solution v 1.3 – last modified October 2022
+För den svenska versionen av denna policy, klicka här:  Betalningsvillkor
+Click  here  for the previous version of these Terms and Conditions
+These Terms and Conditions (" Terms and Conditions ", or " The Terms and Conditions ") apply in addition to the other terms and conditions of  Tradera's Platform  when you, as a Seller (" Seller ", or " The Seller "), sell and receive payment for goods and/or services on Tradera's Platform.
+The Seller and Tradera are hereinafter referred to as "Party", or together as "Parties."
+The Seller must accept that the Buyer pays with the help of Tradera's payment solution, and the Seller shall take payment through Tradera's payment solution when selling something on Tradera's Platform. What this means and the Seller's obligations are set out in these Terms and Conditions.
+General Terms and Conditions
+1. DEFINITIONS
+"(The) Buyer"  means any natural or legal person who has made a purchase from the Seller on Tradera's Platform. "Klarna"  means Klarna Bank AB , Org. No. 556569–4642. "My Tradera"  means the logged-on environment provided by Tradera in which, among other things, the Seller can manage order processing, and the Buyer can verify his/her purchases. "Rules for Sellers"  means the rules that a Seller must always follow when selling on Tradera's Platform, and which are available here in their latest versions:  https://info.tradera.com/en/rules-at-tradera/ "(The) Seller"  means any natural or legal person selling goods or services on Tradera's Platform. "Tradera"  means Tradera Marketplace AB, Org. No. 556569–4642. " Tradera's Platform " means the websites, services, and applications that Tradera provides through e.g.,  www.tradera.com . "Tradera's User Agreement"  means Tradera's prevailing terms and conditions for the use of Tradera's Platform and other services,  https://info.tradera.com/en/anvandaravtal-eng/ . "Tradera's payment solution"  means the website with various payment solutions that the Buyer may be offered from time to time on Tradera's Platform such as Swish, credit, card, PayPal, and other payment methods that Tradera adds in due course. The payment services on Tradera's payment solution are provided by third parties with whom Tradera has a contract. "Transaction"  is a payment for goods or services on Tradera's Platform. " Refundable amount " is the amount that the Seller will refund to Tradera in connection with a refund of an amount already paid to the Seller as a result of a purchase being canceled. The amount is part or all of the Transaction, plus any fees charged to Tradera in connection with the Transaction, including shipping charges for the return of a product, and charges imposed on Tradera for a transaction in relation to its partners such as PayPal, Klarna, Paynova, VISA, or MasterCard.
+2. USING TRADERA'S PAYMENT SOLUTION
+a)  Tradera undertakes, subject to the Terms and Conditions, to allow the Seller to be paid through Tradera's payment solution in the event of a sale on Tradera's Platform. For his/her part, the Seller undertakes to comply with these Terms and Conditions, and to use Tradera's payment solution when selling on Tradera's Platform. The Seller shall not claim payment in any way other than through the options available through Tradera's payment solution.
+b)  The payment solution means that the Buyer may use different means of payment for the goods. However, the method of payment chosen by the Buyer will not have any impact on when the Seller is paid, except for Swish, as the Seller is paid directly.
+c)  Except in the case of payments made by Swish, as a general rule, the Seller shall be paid within one (1) to two (2) business days following the completion of a Transaction, provided that the Seller has provided accurate payment details to Tradera. The payment rate may be changed by Tradera, and it is up to the Seller to keep up to date with information coming from Tradera in this respect. However, Tradera checks the Transactions to detect irregularities. If, with respect to a particular Transaction, Tradera suspects that there are irregularities such as fraud, or that the Seller has previously acted in violation of these Terms and Conditions, Tradera's User Agreement or other Rules for Sellers, Tradera reserves the right to ensure that the payment is not made to the Seller, but instead to refund it to the Buyer.
+d)  A Seller is not entitled to receive payment for the Buyer's option of using Tradera's payment solution.
+e)  The different methods of payment that the Buyer can initially choose between are Swish, card payment, PayPal, payment by invoice, and credit. Each separate payment method is provided by third parties with whom Tradera cooperates for this purpose, and which are under the supervision of the Swedish Financial Supervisory Authority, or its foreign counterparts. These parties are Swish, Klarna, PayPal with its services Hyperwallet, and Paynova. More parties may be added if Tradera chooses to modify or further develop Tradera's payment solution.
+f)  In particular, a Seller needs to contact Tradera only on various matters which may arise in connection with a Transaction, even though the payment services themselves are not provided by Tradera, and irrespective of the payment method a Buyer chooses.
+3. PAYMENT TO SELLERS
+a)  Once a Transaction has been approved by Tradera, Tradera will ensure payment to the Seller, either for a separate Transaction, or as a combined amount involving several Transactions. Before payment is made, any amount that the Seller is obliged to pay to Tradera will be deducted, and the difference will be paid to the Seller. The amounts that Tradera will deduct may relate to selling expenses, refundable amounts, and fees to Tradera agreed between the Seller and Tradera under separate agreement.
+b)  If the Seller has not provided Tradera with accurate payment information, Tradera will not be able to pay the Seller. In such case, Tradera will contact the Seller to request the outstanding information. Once Tradera has received the information required to make the payment, the Seller will, as a general rule, be paid within two (2) business days.
+c)  Upon Tradera's confirmation that the Buyer has made a payment, the Seller shall immediately send the goods to the Buyer, as described in more detail below under the description of each payment method. Tradera reserves the right to withhold payment if and for as long as there is a suspicion that the Seller will not fulfill his/her obligations.
+d)  How the various payment methods work on Tradera's Platform in more detail.
+Swish
+When a Buyer wishes to pay by Swish, the payment goes directly from the Buyer's account to the Seller's account. Tradera's payment solution facilitates the transaction by automatically filling in the Seller's telephone number in the Swish app, and the Buyer can then authorize the payment directly.
+Card payments and payment by PayPal
+If the Buyer chooses to pay by card or by PayPal, the money will first be deposited in PayPal's (Hyperwallet) bank account. Tradera will then verify the Transaction and, if it is approved by Tradera, PayPal will then pay the money to the Seller.
+Once the Buyer has paid, Tradera will notify the Seller via e-mail and in My Tradera that payment has been made. The goods should then be sent by the Seller to the Buyer.
+Payment by invoice or installments
+When selling on the Platform, whereby the Buyer has chosen to pay via Paynova, the Seller accepts that PayPal takes over the Seller's right to be paid by the Buyer in exchange for PayPal to pay the Seller for the Transaction.
+When selling on the Platform, whereby the Buyer has chosen to pay via Klarna, the Seller transfers the right to receive payment from the Buyer to Tradera, and Tradera transfers such claim to Klarna. The Seller accepts that payment to the Seller in respect of the Transaction will be made via Hyperwallet. The Seller accepts that no claim for payment can be made against Klarna, such a claim shall instead be made against Hyperwallet who is responsible for the payment to the Seller.
+If the Buyer chooses to pay by invoice or installment, the Buyer enters into an agreement with Paynova or Klarna. It is not the Seller who has to agree to payment by invoice or installment, but the Seller is paid in the same way as if the Buyer had chosen to pay by card or PayPal.
+After Paynova or Klarna has carried out a normal credit check of the Buyer, money will be paid to PayPal (Hyperwallet). Once Tradera has carried out its check of the Transaction and it has been approved, the money will be then paid to the Seller's account.
+Also in the case of payment by invoice or installment, Tradera notifies the Seller via e-mail and in My Tradera that payment for the purchase has been made. The Seller should then send the goods to the Buyer. Also in this case, payments to the Seller's bank account will normally be made within 1–2 business days, provided that Tradera has received accurate information.
+4. TRADERA'S RIGHT TO WITHHOLD AND RECOVER PAYMENTS FROM THE SELLER
+Tradera has the right to withhold payment to the Seller or, if the Seller has already been paid, to require the Seller to pay the refundable amount to Tradera in the following cases:
+a)  Within the framework of Tradera's dispute settlement system, where Tradera considers that the Buyer is right.
+b)  Transactions resulting in the creation of a claim against a natural or legal person who Tradera can reasonably assume shares a financial interest with the Seller.
+c)  Transactions that are reasonably suspected to constitute money laundering, or otherwise violate applicable laws and regulations.
+d)  Transactions through which the Seller violates applicable law.
+e)  Transactions through which the Buyer acquires cash (e.g., currency exchange, a check, or similar).
+f)  Transactions where the Seller has not complied with the Terms and Conditions of Tradera's prevailing Seller Protection, if and when available.
+g)  Transactions that are in violation of the Terms and Conditions, Tradera's User Agreement or Rules for Sellers.
+h)  Transactions in which the Buyer, as a consumer, has used his/her statutory right of withdrawal against a Seller who is conducting business activities.
+5. VOLUNTARY REPAYMENTS
+a)  If a Transaction is to be fully or partly repaid by the Seller on the basis of an agreement between the Seller and the Buyer (e.g., if the Buyer has been granted a right of return by the Seller, or the Buyer has exercised his/her statutory right of withdrawal if the Buyer is a consumer and the Seller is a trader), it is up to the Seller to pay back part or the full amount to the Buyer. If the Seller and Buyer agree to a return or price reduction, this shall be promptly settled by the Seller, who shall refund the agreed amount to the Buyer up to 1000 SEK. The Seller must make refunds only through Tradera's payment solution, and not through other payment methods.
+b)  Due to the risk of fraud, the extent of refunds is limited, and the Seller may not refund transactions exceeding 1000 SEK. In order to refund transactions in excess of 1000 SEK, the Seller must first contact Tradera's customer service to receive instructions.
+6. THE SELLER'S OBLIGATIONS IN RELATION TO BUYER PROTECTION
+a)  Under certain conditions, a Buyer has buyer protection which allows Buyers to have disputes handled, and to have the amount they have paid in a transaction refunded. By accepting these Terms and Conditions, the Seller agrees to the terms and conditions of Tradera's buyer protection and dispute settlement procedures in accordance with the prevailing terms and conditions.
+b)  The Seller undertakes to promptly respond to the Buyer's complaint through the dispute settlement procedure provided by Tradera on My Tradera. If the Seller does not promptly notify Tradera of the responses and supporting documents requested by Tradera, Tradera may find that the Buyer shall be entitled to a refund for a product without the Seller having given his/her opinion. If the Seller has already been paid, Tradera may then send an invoice to the Seller for the amount of refund owed to the Seller, and the Seller shall then be obliged to pay this amount to Tradera.
+c)  The Seller must fulfill his/her obligations in relation to Tradera's buyer's protection, regardless of the payment method by which the Buyer has chosen to pay.
+d)  Certain types of purchases are never covered by Tradera's buyer protection. These are as follows:
+
+Purchase of properties (including, without limitation, residential properties);
+Purchase of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircraft, and boats), except for private portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards;
+Purchase of customized objects (unless the recipient claims that the objects have not arrived);
+Purchase of items equivalent to cash (including, without limitation, gift cards);
+Purchase of tickets for events such as sports or concert tickets; and
+Purchase of goods and services prohibited by Tradera's Rules for Sellers.
+
+e)  This is how Tradera's dispute settlement procedure works:
+
+If a Seller and a Buyer have a difference of opinion that, for example, is due to the Buyer not having received delivery of a paid item, or to the delivery of the goods according to the Buyer being substantially different from the Seller's description, the Parties may resolve their differences by means of the dispute settlement system offered by Tradera on "My Tradera". Such a dispute settlement procedure must be initiated in My Tradera within thirty (30) days from the date of the purchase, and any communication about the dispute shall be made through Tradera's dispute settlement system on Tradera's Platform.
+Once a dispute settlement procedure has been initiated, Buyer and Seller must first communicate with each other through Tradera's dispute settlement system to try to find a solution to the problem. If Buyer and Seller fail to reach a resolution within ten (10) days of the initiation of the dispute settlement procedure, the Buyer may escalate the dispute to Tradera. If the Buyer does not escalate the dispute to Tradera within ten (10) days of the initiation of the dispute settlement procedure, the dispute settlement procedure will automatically be terminated in the Seller's favor.
+When a dispute is escalated to Tradera in accordance with point (ii) above, Tradera will contact both Buyer and Seller to obtain an understanding of what has happened. Tradera may then ask both Parties for supporting evidence, such as additional documentation concerning the goods or Transactions. The Buyer is responsible for proving that there are errors in the service provided by the Seller, or the item sold by the Seller, e.g., by providing evidence that the goods differ from the Seller's description.
+
+f)  Termination of the dispute settlement procedure:
+
+If the Buyer initiates a dispute settlement procedure in which the purchase relates to a product not covered by Tradera's buyer protection in accordance with clause 6(d) above, Tradera will terminate the dispute without further investigation, and the Buyer shall not be entitled to a refund.
+If a dispute settlement procedure is terminated in favor of the Buyer, the Buyer shall be entitled to a refund, in part or in whole, of the amount paid by the Buyer for an item. Tradera will then ensure that the amount is refunded to the Buyer, and reserves the right to invoice the Seller for the amount of refund owed. In this case, the invoice will be sent to the Seller in the same way as Tradera invoices for sales commission, and other costs that may arise in connection with a sale on Tradera's Platform.
+If a dispute settlement procedure is terminated in favor of the Seller, the Buyer shall not be entitled to a refund within the framework of Tradera's dispute settlement procedure.
+Tradera's decision in a case cannot be appealed to Tradera, but the Seller and Buyer are free to find another solution to a dispute in another forum.
+
+7. SELLER PROTECTION
+a)  A Seller is entitled under certain conditions to Tradera's seller protection. Thus, by complying with the terms and conditions of Tradera's seller protection, the Seller may retain the payment received, even if the Buyer claims that the Buyer has never received an item, or that the item is not in accordance with the Seller's description.
+b)  The following products are never covered by Tradera's seller protection:
+
+Sale of properties (including, without limitation, residential properties);
+Sale of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircraft, and boats), except for private portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards;
+Sale of customized objects (unless the recipient claims that the objects have not arrived);
+Sale of items equivalent to cash (including, without limitation, gift cards);
+Sale of tickets for events such as sports or concert tickets; and
+Sale of goods and services prohibited by Tradera's Rules for Sellers.
+
+c)  In order for a Seller to be able to use Tradera's seller protection, the following conditions must be met.
+
+The Seller shall send the goods to the delivery address approved by Tradera at the time of payment. If the Buyer's delivery address has changed after the purchase has been completed, Tradera will notify the Seller of this by means of the confirmation e-mail sent when the Buyer has paid for the goods, and the information will also be available in My Tradera. The Seller must send the goods to the address of which Tradera has last informed the Seller, in order for the Seller to be covered by the seller protection.
+For goods whose price exceeds 200 SEK, the Seller must be able to prove that the shipment was sent with traceability, e.g. a tracking number from the carrier, in order for the Seller to be covered by the seller protection. If the Buyer claims not to have received the delivery, Tradera will ask the Seller for evidence that the Seller has delivered the item or items to the carrier.
+The Seller shall describe in text form and with photographs all goods in a satisfactory manner in the advertisement so that the Buyer can examine the goods and their condition before the Buyer enters into the contract with the Seller. The Seller must also deliver the goods to the carrier in the same condition as the Seller has described them in the advertisement.
+The Seller shall have sent the goods to the Buyer in an appropriate manner; i.e., delivery should take place with all ordered goods being packaged and shipped in a manner that minimizes the risk of damage to the products.
+
+8. PRICE AND COSTS
+a)  Provided that the Seller acts in accordance with these Terms and Conditions, the transaction cost for payments with Tradera's payment solution shall be zero (0) SEK, and no start-up, monthly, or annual fee will be payable to Tradera for the use of the payment solution.
+b)  If, however, the Seller acts in a manner which entails Tradera refunding Transactions to the Buyer in accordance with these Terms and Conditions, then Tradera may invoice the Seller for a recoverable amount.
+9. INTELLECTUAL PROPERTY RIGHTS
+Tradera reserves the right of ownership of all intellectual property rights in everything developed by Tradera to which the Seller has access under the Terms and Conditions and on Tradera's Platform. The Seller undertakes in particular not to use any characters, logos, symbols, or anything else that could be confused with Tradera's trademark.
+10. PERSONAL DATA
+Tradera's ordinary Privacy Policy will also apply to personal information handled by Tradera in connection with these Terms and Conditions. Personal data will also be handled independently by PayPal within the framework of the Hyperwallet service.  
+11. MISCELLANEOUS
+a)  The Seller shall be responsible for all actions taken through the use of the Seller's unique login to Tradera.
+b)  These Terms and Conditions shall terminate, without obligation to Tradera for refund, in the event that Tradera terminates Tradera's User Agreement, or denies the Seller the right to sell additional goods on Tradera's Platform under the terms and conditions set forth in Tradera's User Agreement. Upon termination of these Terms and Conditions, Tradera has the right to withhold all payments to the Seller until Tradera has verified the number of outstanding Transactions and all withdrawal periods have passed, or any suspected abuse of Tradera's payment solution has been investigated.
+c)  Neither Party shall be liable for failure to perform a service, or delays, if the cause is: lightning, sabotage, government action, power outage, deterioration of the Internet, or telecommunications, or any other event outside a Party's reasonable control. The foregoing shall apply for the duration of such a force majeure event. The Party invoking force majeure shall be obliged to take reasonable measures to limit the damage caused by the event. If the force majeure event lasts for more than sixty (60) days, each Party shall be entitled to terminate the Terms and Conditions.
+d)  Tradera's right to amend the Terms and Conditions is set out in Tradera's User Agreement.
+e)  Over and above what is expressly provided in these Terms and Conditions, these Terms and Conditions fully govern the Parties' agreement with respect to Tradera's payment solution, and supersede any prior verbal or written representations and any prior agreements between the Parties regarding payment solutions on Tradera's Platform.
+f)  The Terms and Conditions shall be governed by and construed in accordance with Swedish law. The Parties agree that disputes relating to the Terms and Conditions shall be settled by the Swedish General Court, where the Stockholm District Court shall be the first instance.
+12. TRADERA'S PARTNERS
+By using Tradera's payment solution, the Seller also accepts the terms and conditions of Tradera's partner PayPal's Hyperwallet solution.
+User Agreement:  https://www.hyperwallet.com/agreements-terms/ Privacy Policy:  https://www.hyperwallet.com/privacy-policy/
+Terms and Conditions of Tradera's payment solution v. 1.3 – October 2022
+
+Buy
+How to shop at Tradera
+Categories
+Popular brands
+
+Sell
+Private seller
+Sell as business
+Shipping calculator
+Store
+Charity causes
+
+Contact & help
+Security
+Rules
+FAQ
+Contact us
+
+Information
+Terms of service
+Privacy statement
+Cookies
+

@@ -1,0 +1,139 @@
+
+
+Integritetspolicy 2016-2018 - Tradera
+
+Integritetspolicy (1 januari 2016 – 24 maj 2018)
+OBS! Fr.o.m 25 maj 2018 gäller Traderas  nya integritetspolicy
+Publicerad: 1 december 2015 Tidigare  version : 1 maj 2014
+Denna Integritetspolicy gäller omedelbart för nya användare och från och med 1 januari 2016 gäller den för befintliga användare. Denna Integritetspolicy ersätter alla tidigare versioner.
+Denna Integritetspolicy beskriver hur vi använder och skyddar dina personuppgifter.
+  Omfattning och samtycke
+
+Denna Integritetspolicy beskriver hur vi samlar in, använder, sparar, lämnar ut och skyddar dina personuppgifter. Den gäller för webbplatsen  www.tradera.com  och för alla webbplatser, applikationer, tjänster och verktyg där det finns en hänvisning till denna Integritetspolicy, oavsett på vilket sätt du får åtkomst till eller använder dem.
+I denna Integritetspolicy använder vi begreppet “personuppgifter” för att beskriva information som direkt eller indirekt kan hänföras till en specifik fysisk person. Vi anser inte att personuppgifter omfattar information som har anonymiserats eller aggregerats på så sätt att den varken med hjälp av annan information eller på annat sätt kan användas för att identifiera en specifik fysisk person.
+Genom att acceptera denna Integritetspolicy samtycker du till att vi får samla in, använda, lämna ut och spara dina personuppgifter på de sätt som beskrivs i denna Integritetspolicy och i vårt  Användaravtal . Vi kan komma att ändra denna Integritetspolicy med 30 dagars varsel för befintliga användare. Vi kommer att publicera eventuella ändringar på denna sida. Vi kan dessutom komma att informera dig via e-post om det sker större förändringar av denna Integritetspolicy.
+Webbplatser från tredje part : Vissa sidor på Traderas webbplats innehåller länkar till webbplatser från tredje part. Dessa webbplatser har egna integritetspolicyer och Tradera är inte ansvarig för deras verksamhet, inklusive men inte begränsat till deras informationsrutiner. Användare som skickar information till eller genom dessa tredjepartswebbplatser bör granska integritetspolicyerna för webbplatserna innan några personuppgifter skickas till dem.
+  Personuppgiftsansvarig
+
+Tradera Sweden AB, Sankt Eriksgatan 117,113 43 Stockholm, Sverige (nedan benämnt “Tradera”) är personuppgiftsansvarig. Tradera är ansvarigt för behandlingen av dina personuppgifter och för att tillhandahålla de tjänster som ska tillhandahållas enligt  Användaravtalet  samt inom ramen för och i enlighet med de principer som framgår av denna Integritetspolicy.
+  Integritetsskydd vid mobil användning
+
+Vi kan erbjuda dig möjlighet att ansluta till våra webbplatser eller att använda våra applikationer, tjänster och verktyg via en mobil enhet, antingen genom en mobilapplikation eller genom en mobilanpassad webbplats. Bestämmelserna i denna Integritetspolicy gäller för all sådan mobil åtkomst och användning av mobila enheter. Sådana mobilapplikationer och mobilanpassade webbplatser kommer att hänvisa till denna Integritetspolicy.
+  Insamling av personuppgifter
+
+Du kan använda webbplatsen www.tradera.com, eller därtill anknutna webbplatser, utan att berätta för oss vem du är eller lämna några personuppgifter om dig själv. Om du registrerar ett konto hos oss så lämnar du dina personuppgifter till oss och du är då inte anonym för oss.  Om du väljer att lämna dina personuppgifter till oss, så samtycker du till att vi får överföra och spara dina personuppgifter på våra servrar i Sverige och på annat håll i världen, såsom i USA. Tradera åtar sig att skydda dina personuppgifter på lämpligt sätt oavsett var dessa uppgifter finns och att skydda sådana uppgifter på lämpligt sätt om de överförs till en plats utanför EES.
+Vi samlar in följande typer av personuppgifter för att ge dig möjlighet att använda och få tillgång till våra webbplatser, applikationer, tjänster och verktyg, för att ge dig en personligt anpassad och bättre upplevelse och för marknadsföringsändamål.
+  Information som vi samlar in automatiskt
+
+När du besöker våra webbplatser, använder våra applikationer, tjänster och verktyg eller klickar på annonser eller innehåll, så samlar vi automatiskt in information som skickas till oss från din dator, mobila enhet eller annan enhet som används för åtkomst. Denna information kan endast knytas till dig personligen om du loggar in som en registrerad användare och omfattar:
+
+enhetens ID eller unika identifierare, vilken sorts enhet som används, data och anslutningsinformation, statistik om sidvisningar, trafik till och från webbplatserna, hänvisande URL, annonsdata, IP-adress och standardmässig information från webbloggar; och
+information som samlas in genom vår användning av cookies och webb-beacons.
+
+  Information som du lämnar till oss
+
+Vi samlar in och sparar sådan information som du uppger på våra webbplatser eller som du lämnar till oss i samband med användning av våra webbplatser, applikationer, tjänster eller verktyg. Detta kan omfatta:
+
+information som du lämnar till oss vid registrering av ett konto, inklusive e-postadress, telefonnummer, mobiltelefonnummer, personnummer, kontaktinformation, och (beroende på vilken tjänst som används) i förekommande fall ekonomisk information såsom bankkontonummer;
+ytterligare information som du lämnar till oss via sociala medier;
+transaktionsrelaterad information baserat på dina aktiviteter på webbplatserna (såsom budgivning, köp, försäljning, annonsinformation och innehåll som du skapar eller som kan hänföras till ditt konto);
+leveransinformation, faktureringsinformation, betalningsinformation och annan information som du lämnar för köp eller leverans av en produkt samt, om leveranstjänster tillhandahålls genom ett av våra integrerade system, annan relevant leveransinformation (leveransstatus) som sparas av den valda leveranspartnern;
+information som lämnas i samband med diskussioner i forum, chattar, tvistlösning, korrespondens genom våra webbplatser eller korrespondens som skickas till oss; och
+ytterligare information som vi efterfrågar för att verifiera din identitet eller om vi tror att du bryter mot våra regler (exempelvis kan vi begära att du skickar ett identitetsbevis eller annan handling för att bekräfta din identitet eller adress, eller besvara andra frågor för att bekräfta din identitet eller att du äger en produkt som du säljer).
+
+  Information som vi samlar in från mobila applikationer och enheter
+
+Om du laddar ner eller använder våra mobila applikationer eller besöker en av våra mobilanpassade webbplatser, så kan vi komma att samla in information om dig och din mobila enhet såsom beskrivits ovan i denna policy. Detta kan omfatta geolokaliseringsuppgifter som vi kan komma att använda för att tillhandahålla platsbaserade tjänster, såsom annonser, sökresultat, och annat personligt anpassat innehåll som tillåts av dig och din enhet.  De flesta mobila enheter ger dig möjlighet att kontrollera och stänga av platsbaserade tjänster i enhetens meny för inställningar. Om du har några frågor om hur du kan stänga av platsbaserade tjänster, så rekommenderar vi att du kontaktar din mobiloperatör eller tillverkaren av din enhet.
+Vi kommer att inhämta ditt uttryckliga samtycke innan vi samlar in några känsliga personuppgifter från dig som en följd av din användning av våra mobilapplikationer eller din användning av en mobil enhet för att få åtkomst till våra webbplatser.
+  Information som vi samlar in från andra källor
+
+Vi kan komma att erhålla eller samla in kompletterande information om dig från andra källor som tillägg till din kontoinformation. Detta kan omfatta demografisk information och navigationsinformation, kreditupplysningsinformation och annan information från kreditupplysningsföretag i den utsträckning det är tillåtet enligt lag.
+  Informationsinsamling genom delning och registrering i sociala medier
+
+Vi kan komma att erbjuda inloggningstjänster som innebär att du kan använda tredje mans loginuppgifter för att få åtkomst till www.tradera.com och därtill anknutna webbplatser. Vi kan även komma att erbjuda tjänster som gör det möjligt att dela information i sociala medier såsom Facebook, Google Plus och Twitter.
+Du kan välja att ge oss åtkomst till vissa personuppgifter som lagras av webbplatser som drivs av tredje man. Personuppgifterna som vi kan få åtkomst till varierar beroende på webbplats och styrs av dina inställningar på den webbplatsen och ditt samtycke. Genom att koppla ett konto som administreras av tredje man med ditt Tradera-konto och tillåta att Tradera får åtkomst till denna information, så samtycker du till att Tradera får samla in, använda och spara information från dessa webbplaster i enlighet med denna Integritetspolicy.
+  Användning av personuppgifter
+
+Vårt syfte med insamling av personuppgifter är att du ska få åtkomst till våra webbplatser, och/eller kunna använda våra tjänster, applikationer och verktyg, ge dig kundservice och relevant information om ditt konto och våra tjänster samt ge dig en säker, problemfri, effektiv och anpassad upplevelse. Genom att acceptera denna Integritetspolicy så samtycker du till att vi får använda dina personuppgifter för att:
+
+ge dig åtkomst till våra webbplatser och de tjänster och den kundservice som du begär;
+förhindra, upptäcka och utreda bedrägerier, säkerhetsincidenter, potentiellt förbjudna eller olagliga aktiviteter och för att upprätthålla vårt  Användaravtal ;
+anpassa, mäta och förbättra våra tjänster, innehåll och annonser;
+kontakta dig, antingen via e-post eller via telefon för att lösa tvister, driva in avgifter, lösa problem med ditt konto eller våra webbplatser, tjänster, applikationer eller verktyg, eller för andra ändamål som tillåts enligt lag;
+kontakta dig, antingen via e-post eller via telefon för att informera dig om våra och våra koncernbolags tjänster, skicka direktreklam, tjänsteuppdateringar och reklamerbjudanden baserat på dina meddelandespreferenser och i enlighet med tillämpliga regler;
+jämföra information för att kontrollera riktigheten och verifiera den med tredje man;
+kontakta dig på något telefonnummer med användning av automatisk uppringningsmetod eller förinspelade meddelanden eller textmeddelanden (SMS) (om tillämpligt) enligt vad som tillåts av dig och på ett sätt som överensstämmer med tillämpliga regler och för de ändamål som beskrivs i denna Integritetspolicy;
+skicka push-notifieringar med anledning av din budgiving eller annan användning av våra appar och
+tillhandahålla dig andra tjänster som du begär och som beskrivs när vi samlar in informationen.
+
+  Användning av personuppgifter för marknadsföring
+
+Baserat på det samtycke som du lämnar i enlighet med tillämpliga regler och i enlighet med denna Integritetspolicy, så kan vi använda dina personuppgifter för att;
+
+informera dig om våra och våra koncernbolags webbplatser, applikationer, tjänster och verktyg;
+skicka riktad marknadsföring och reklamerbjudanden baserat på dina meddelandepreferenser; och
+individanpassa vår service och mäta och förbättra våra annonser, baserat på dina annonspreferenser.
+
+Vi säljer inte och lämnar inte ut dina personuppgifter till tredje man för marknadsföringsändamål utan ditt uttryckliga samtycke. Vi kan komma att kombinera dina personuppgifter med information som vi samlar in från andra källor och använda informationen för att förbättra och individanpassa våra annonser och marknadsföring för dig.
+  Avsluta vår användning av personuppgifter för marknadsföring
+
+Om du inte önskar erhålla marknadsföring och reklamerbjudanden från oss, så kan du ställa in dina meddelandepreferenser på din  Mitt Tradera-sida  eller i kommunikationen från oss.
+Du kan läsa vår  Cookie-policy  för mer information om hur du kan avböja att tredje mans cookies används för annonsering.
+Om du återkallar ditt samtycke för användning eller utlämnande av dina personuppgifter för andra ändamål som anges i denna Integritetspolicy, så kan det innebära att vi inte kan fortsätta ge dig åtkomst till våra webbplatser, applikationer och verktyg eller tillhandahålla tjänster och kundservice som erbjuds våra användare och som tillåts enligt denna Integritetspolicy och vårt  Användaravtal .
+  Utlämnande av personuppgifter
+
+Vi lämnar ut personuppgifter för att uppfylla rättsliga skyldigheter, upprätthålla våra policys, svara på krav om att en annons eller annat innehåll kränker annans rättigheter och för att skydda tredje mans rättigheter, tillgångar eller säkerhet. Sådan information kommer enbart att lämnas ut i enlighet med tillämpliga lagar och regler. Som framgår ovan, så lämnar vi inte ut dina personuppgifter till tredje man för marknadsföringsändamål utan ditt uttryckliga samtycke.
+  Vi kan även komma att dela med oss av dina personuppgifter till:
+
+Koncernbolag inom  PayPal  för att kunna tillhandahålla gemensamt innehåll och gemensamma tjänster, för att upptäcka och förebygga potentiellt olagliga handlingar och överträdelser av våra policys, samt för att ge vägledning om deras produkter, webbplatser, applikationer, verktyg, tjänster och kommunikation i enlighet med tillämplig lag. Koncernbolag kan komma att använda denna information för att skicka marknadsföringsmeddelanden endast om du har samtyckt till detta och gett ditt samtycke på sådant sätt som uppfyller tillämpliga regler. Våra koncernbolag kommer att använda dina personuppgifter i enlighet med deras respektive integritetspolicys och tillämplig lag.
+Underleverantörer som hjälper oss att bedriva verksamheten (såsom men inte begränsat till kundservice, bedrägeriutredningar, fakturaindrivning, lojalitetsprogram och drift av webbplatser).
+Andra Tradera-användare som kan vara bosatta i ditt land eller i andra länder, i enlighet med vad som tillåts av dig eller genom din användning av våra webbplatser, tjänster, applikationer eller verktyg. Om du exempelvis är involverad i en transaktion med en annan användare, så kan den andra användaren se din e-postadress och begära ut dina kontaktuppgifter och postadress för att slutföra affären.
+Annan tredje man till vilken du uttryckligen vill att vi ska skicka dina uppgifter (eller till sådan annan tredje man som du informeras om och samtycker till vid användningen av en särskild tjänst).
+Tillsynsmyndighet, polismyndighet, eller annan behörig tredje man, för att besvara frågor i samband med en brottsutredning eller påstådd olaglig aktivitet eller annan aktivitet som kan medföra ansvar för oss, dig eller annan Tradera-användare. I sådant fall kommer vi, i den utsträckning det är tillåtet enligt tillämplig lag, att lämna ut sådan information som är relevant och nödvändig för utredningen, såsom namn, personnummer, stad, stat eller provins, postadress, telefonnummer, e-postadress, historik för användarnamn, IP-adress, klagomål om bedrägeri samt bud- och säljhistorik.
+Kreditupplysningsföretag till vilka vi kan rapportera information om ditt konto, uteblivna betalningar, eller andra överträdelser av ditt konto som kan framgå i din kreditupplysning i den utsträckning det tillåts enligt lag.
+Deltagande rättighetsinnehavare i Traderas VeRO Program som är bundna av sekretessavtal, i den utsträckning vi anser det är nödvändigt eller lämpligt i samband med en utredning om bedrägeri, intrång i immateriella rättigheter, piratkopiering eller annan olaglig aktivitet. I sådant fall kommer vi att, i den utsträckning det är tillåtet enligt tillämplig lag, lämna ut namn, personnummer, hemadress, stad, stat, postadress, land, telefonnummer, e-postadress och företagsnamn.
+Andra företag om vi skulle fusioneras eller bli uppköpa av sådant företag. Om detta skulle inträffa, så kommer vi att kräva att det nya företaget följer denna Integritetspolicy vad gäller behandling av dina personuppgifter. Om dina personuppgifter kommer att användas eller lämnas ut för andra ändamål än vad som anges i denna policy, så kommer vi att informera dig om det och om tillämpligt efterfråga ditt samtycke.
+
+  Personuppgifter om användare som visas på Tradera
+
+Ditt användarnamn visas genomgående på Tradera (och är därför tillgängligt för allmänheten) och kan kopplas till all din aktivitet på Tradera. Andra personer kan se dina bud, köp, annonserade föremål, butiksfasad, omdömen och meddelanden. Andra användare kan även se sådan information som du väljer att visa i din profil. Meddelanden som skickas till andra medlemmar om misstänkta aktiviteter och överträdelser av policys på våra webbplatser anger användarnamn och specifika produkter. Om du kopplar ditt namn till ditt användarnamn så kommer de som har fått reda på ditt namn att kunna identifiera dig och dina aktiviteter på Tradera.
+Om du besöker våra webbplatser genom en publik eller delad dator eller från en dator på ett Internet-café, så kan viss information om dig vara synlig för andra personer som använder datorn efter dig.
+ 
+  Personuppgifter som användare lämnar ut till andra användare
+
+Tradera ger dig möjlighet att lämna ut personliga och ekonomiska uppgifter för att slutföra en transaktion och erhålla betalning. Vi rekommenderar att du beskriver dina rutiner för behandling av personuppgifter och respekterar andra användares personliga integritet. Vi kan inte garantera din personliga integritet eller skydd av dina personuppgifter och vi rekommenderar därför att du utvärderar din motparts integritetspolicy innan du genomför en transaktion och väljer att lämna ut dina personuppgifter. För att försöka skydda din integritet så tillåter vi endast begränsad tillgång till andra användares kontaktuppgifter, leveransuppgifter och ekonomiska uppgifter för att underlätta genomförandet av transaktioner och erhållande av betalning. Under alla omständigheter så måste du ge andra användare möjlighet att begära att de raderas från din databas och att de ges möjlighet att få information om vilka uppgifter som du har samlat in om dem.
+  Du åtar dig att endast använda andra användares personuppgifter för:
+
+transaktionsrelaterade ändamål på Tradera och inte för oönskade marknadsföringsmeddelanden;
+att använda tjänster som erbjuds via Tradera (såsom betalning, frakt, leverans och klagomål om bedrägerier); eller
+särskilda ändamål som användaren uttryckligen väljer eller lämnar sitt samtycke till.
+
+  Cookies, webb-beacons och liknande teknik
+
+När du besöker eller använder våra webbplatser, tjänster, applikationer, kommunikationskanaler (såsom e-post) och verktyg, så kan vi eller våra tjänsteleverantörer använda cookies, webb-beacons och liknande teknik för att lagra information i syfte att ge dig en bättre, snabbare och säkrare upplevelse och för annonseringsändamål. För mer detaljerad information om dessa tekniker, se vår  Cookie-policy.
+  Skräppost, spionprogram och identitetsstöld är förbjudet
+
+Vi och våra användare tolererar inte spam. För att rapportera Tradera-relaterat spam eller e-post med förfalskad avsändaradress eller avsändaridentitet, vänligen vidarebefordra e-postmeddelandet till abuse@tradera.com.
+Vi kan komma att automatiskt scanna och manuellt filtrera meddelanden för att söka efter skräppost, virus, phishing och annan skadlig aktivitet eller olagligt eller förbjudet innehåll, men vi sparar inte permanent några meddelanden som skickas genom dessa verktyg.
+  Åtkomst, granskning och ändring av dina personuppgifter
+
+Ditt lösenord är nyckeln till ditt konto. Använd unika siffror, bokstäver och symboler och avslöja inte ditt Tradera-lösenord för någon annan. Om du skulle dela med dig av ditt lösenord eller dina personuppgifter till någon annan, så kom ihåg att du är ansvarig för all aktivitet som sker på ditt konto. Om du förlorar kontrollen över ditt lösenord, så förlorar du kontrollen över dina personuppgifter och kan ådra dig skyldigheter för åtgärder som vidtagits för din räkning. Du ska därför omedelbart informera Tradera, och ändra ditt lösenord, om ditt lösenord av någon anledning har kommit i orätta händer.
+Du kan se, granska och ändra de flesta av dina personuppgifter genom att logga in på Tradera. Eftersom det är väldigt svårt att verifiera din identitet på distans, så brukar vi normalt undvika att ändra dina personuppgifter manuellt av säkerhetsskäl. Du kan dock ändra dina personuppgifter i dina kontoinställningar. Du måste omedelbart uppdatera dina personuppgifter om de ändras eller är felaktiga. Om du publicerar något på webbplatsen, så kan du i vissa fall inte ha möjlighet att ändra eller ta bort det. Vi kommer dock att uppfylla de rättigheter som du kan ha enligt lag vad avser möjlighet att begära rättelse eller radering av dina personuppgifter.
+  Säkerhet och lagring av personuppgifter
+
+Vi sparar och behandlar dina personuppgifter på våra servrar i Sverige och på annat håll i världen, såsom i USA. Vi åtar oss att skydda dina personuppgifter på lämpligt sätt oavsett var dessa uppgifter finns och att skydda sådana uppgifter på lämpligt sätt om de överförs till en plats utanför EES.
+Vi använder fysiska, tekniska och organisatoriska säkerhetsåtgärder, i förhållande till mängd och känslighetet av personuppgifter, för att förhindra obehörig behandling, inklusive men inte begränsat till obehörig åtkomst, tillägnande och användning av, förlust, radering eller skada på användarens personuppgifter. Några av de säkerhetsåtgärder som vi använder är brandväggar, kryptering av data, inpasseringskontroll vid våra datacenters och behörighetskontroller.
+Vi vidtar åtgärder för att försöka säkerställa att de personuppgifter som vi samlar in är riktiga och aktuella och vi ger dig möjlighet att uppdatera dina uppgifter genom dina kontoinställningar.
+  Avslutande av ditt konto och bevarande av personuppgifter
+
+På din begäran och i enlighet med bestämmelserna i detta avsnitt, så kommer vi att avsluta ditt konto och så snart som möjligt ta bort dina personuppgifter så att de inte visas för andra användare. Radering av uppgifter kommer att ske baserat på din kontostatus och i enlighet med tillämplig lag. Vi kan även komma att stänga eller inaktivera konton som inte används eller konton som används i strid med vårt  Användaravtal.
+Vanligtvis kommer personuppgifter hänförliga till stängda eller inaktiva konton att raderas eller anonymiseras så snart som möjligt efter det att kontot har stängts eller inaktiverats. Under vissa omständigheter kan vi komma att bevara personuppgifter hänförliga till stängda konton eller konton som inte används under en längre period. Skälen till detta kan vara: att fullgöra rättsliga skyldigheter, förhindra bedrägerier, driva in förfallna avgifter, hantera tvistlösning, upprätthålla vårt  Användaravtal  eller vidta andra åtgärder som tillåts enligt lag. Under vissa omständigheter så kan sådana uppgifter sparas så länge det är nödvändigt och relevant för vår verksamhet och för att uppfylla tillämplig lag.
+  Tredje man
+
+Med undantag för vad som uttryckligen anges i denna Integritetspolicy, så omfattar denna policy enbart vår användning, behandling och utlämnande av personuppgifter som vi samlar in från dig. Om du lämnar ut uppgifter till andra, oavsett om de är budgivare, köpare eller säljare på våra webbplatser eller till andra webbplatser på Internet, så kan andra regler gälla för deras användning och utlämnande av de uppgifter som du lämnar till dem. Tradera kontrollerar inte tredje mans integritetspolicys och dessa policys kan gälla för dig. Vi rekommenderar att du ställer frågor innan du lämnar ut personuppgifter till andra.
+  Kontakta oss
+
+Du kan  kontakta oss  online när som helst. Om frågor inte besvaras online, så kan du skriva till oss: Tradera Sweden AB, Box 45026, 104 30 Stockholm, Sverige.
+
+ 
+
