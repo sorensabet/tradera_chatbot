@@ -5,7 +5,7 @@ To run the code locally on your machine, paste the following into the 'config.in
 [secrets]
 openai_api_key = YOUR_API_KEY
 
-Note that you will need to retrain the fine-tuned models and update the model references in code (see further instructions below). 
+Note that you may need to fine-tune models and update the references in code to recreate locally. 
 
 ## Branches
 
