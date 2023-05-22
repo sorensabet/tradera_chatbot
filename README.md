@@ -16,5 +16,6 @@
 
 This method works the best of the 3 that I tried, although it still struggles with some of the questions. 
 
-I tried a variation of this method as well where I used all the generated questions and answers as part of the reference library of sentences in the lookup table, but this resulted in worse performance so I didn't bother including the code. 
+Note that this method doesn't have a dedicated UI, and you need to interact with the chatbot through the console when running question_lookup_functionality.py 
+
 
